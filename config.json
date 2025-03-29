@@ -1,1 +1,210 @@
-{"cctv1":{"uid":"941f25b0d44af0db","play_url":"http://liveten-tpgq.cctv.cn/live/30a8228c89a864b186be13047a4b3b60.m3u8?wsSecret=83bf175c69178ed0a261ae40bb16a5e1&wsTime=1743223850","app_sign":"1aeb6fa9f25ec6659cbc8840134e86c2","app_random_str":"67e77ca231bc8"},"cctv2":{"uid":"cfd1a91207912aa9","play_url":"http://liveten-tpgq.cctv.cn/live/6b119e785733a4fc2ffbf44816187f25.m3u8?wsSecret=46ba9d95f553bc829e7ae4a77601f3b4&wsTime=1743223851","app_sign":"de68d4a1419f175e2c945c621e799c15","app_random_str":"67e77ca3259c8"},"cctv3":{"uid":"1af7ddaa737d6e19","play_url":"http://liveten-tpgq.cctv.cn/live/2e8e13f48095699fbd6a8cfccf32c3aa.m3u8?wsSecret=0872106a997528a7a3505af5d9c94fa8&wsTime=1743223856","app_sign":"1563537ece06db2800f42b89f474b7c7","app_random_str":"67e77ca8798e6"},"cctv4":{"uid":"941f25b0d44af0db","play_url":"http://liveten-tpgq.cctv.cn/live/33947a195f5a20e75ae06e19078e07c8.m3u8?wsSecret=9e20b5690b88242d7e3a99c39ab3fbf0&wsTime=1743223857","app_sign":"20fe16483fbf7ebfca692669fa5bbfc2","app_random_str":"67e77ca9898ba"},"cctv5":{"uid":"cfd1a91207912aa9","play_url":"http://liveten-tpgq.cctv.cn/live/3e1b6788736d5a9507c7f9f627ff04f8.m3u8?wsSecret=0ac4e3ea414a9773e4365c89a8b42eb1&wsTime=1743223863","app_sign":"bacc0d9f479dfa18a37668ea1027d35c","app_random_str":"67e77caa6cf59"},"cctv5p":{"uid":"1af7ddaa737d6e19","play_url":"http://liveten-tpgq.cctv.cn/live/3758a19e715b8d107bb54ff9168129cf.m3u8?wsSecret=299ca5f6e06857b1c9b55648f3e5cb7b&wsTime=1743223864","app_sign":"50a88df2864d1e628de4d251a13eda9a","app_random_str":"67e77cb01bcef"},"cctv7":{"uid":"941f25b0d44af0db","play_url":"http://liveten-tpgq.cctv.cn/live/226c22bb52f9478ea6d51c4d3bd8b897.m3u8?wsSecret=648c6db964202064fd8ea5e2312e6a04&wsTime=1743223865","app_sign":"3541a483c2407b0cb4bddfe748b038f7","app_random_str":"67e77cb174935"},"cctv8":{"uid":"cfd1a91207912aa9","play_url":"http://liveten-tpgq.cctv.cn/live/a440bc9fc17f1be284ea8cf14da81122.m3u8?wsSecret=ccc4edefd09379af7e6fd9255e24dab6&wsTime=1743223871","app_sign":"022b79f3a7c7fa8245c99051be4db3b3","app_random_str":"67e77cb29b078"},"cctv9":{"uid":"1af7ddaa737d6e19","play_url":"http://liveten-tpgq.cctv.cn/live/7697aea39cca172b3cbf3dd9bbdc7ea5.m3u8?wsSecret=70ce5ee780681c31fc9bdcbd4023d1cf&wsTime=1743223872","app_sign":"ed9c0f13f1953e5c8bad0d3a852bd0f7","app_random_str":"67e77cb8469c7"},"cctv10":{"uid":"941f25b0d44af0db","play_url":"http://liveten-tpgq.cctv.cn/live/6eddd73bd2594e0cb80a91866820d6d2.m3u8?wsSecret=8179b595164aa70e4d0d88c30609acaf&wsTime=1743223873","app_sign":"71e8a8a3a06cd9fc657c5889469d6b9f","app_random_str":"67e77cb93f0cb"},"cctv11":{"uid":"cfd1a91207912aa9","play_url":"http://liveten-tpgq.cctv.cn/live/1e68ad19b53373ed334577414189fd0d.m3u8?wsSecret=873b100cfeb7b25bef964f180a06c548&wsTime=1743223880","app_sign":"a50d0d57a25ca0822da1e33ee908af26","app_random_str":"67e77cbfbd174"},"cctv12":{"uid":"1af7ddaa737d6e19","play_url":"http://liveten-tpgq.cctv.cn/live/cd122318fc504d62dd68149d2f129af9.m3u8?wsSecret=ec6b73bab7c0826f233ad291f08cf0a0&wsTime=1743223881","app_sign":"6843b210d2cf1f35ba65fa192369262c","app_random_str":"67e77cc100b7d"},"cctv13":{"uid":"941f25b0d44af0db","play_url":"http://liveten-tpgq.cctv.cn/live/166560daebe7afc5dd887496e7b8d6b9.m3u8?wsSecret=74679ff0aa7c97999c4f0c6937bf2c29&wsTime=1743223886","app_sign":"8d205d5416bf4b84c785a57b2d6b519b","app_random_str":"67e77cc1e15cc"},"cctv14":{"uid":"cfd1a91207912aa9","play_url":"http://liveten-tpgq.cctv.cn/live/5189195c043059c73e31b994c23ad528.m3u8?wsSecret=731df3af81a6bef1f99acbb6020ae29d&wsTime=1743223887","app_sign":"54790319f51fec03a9618e0886c3ab85","app_random_str":"67e77cc73380b"},"cctv15":{"uid":"941f25b0d44af0db","play_url":"http://liveten-tpgq.cctv.cn/live/44b27397905bd32833285a9d8d37daa6.m3u8?wsSecret=b1e06f0000992f43fc9b26103457e797&wsTime=1743223893","app_sign":"84b3d8bad570a909a33ece69c5ff55cc","app_random_str":"67e77ccd99f4d"},"cctv16":{"uid":"941f25b0d44af0db","play_url":"http://liveten-tpgq.cctv.cn/live/5e371361c10b8d49611c3ad8b2eb363a.m3u8?wsSecret=b7c84444aa74a0ef52b5455434c1a80e&wsTime=1743223894","app_sign":"29f53d1881cd092cb5bf304d6b44c65a","app_random_str":"67e77cce8f0bf"},"cctv17":{"uid":"cfd1a91207912aa9","play_url":"http://liveten-tpgq.cctv.cn/live/8eae18e5610069468facb496c5b65404.m3u8?wsSecret=2f1f5b45473c182c32ac1945f040606d&wsTime=1743223899","app_sign":"ff6c296b2f281354fa968e2c28093e80","app_random_str":"67e77ccf77c40"},"cgtnen":{"uid":"1af7ddaa737d6e19","play_url":"http://liveten-tpgq.cctv.cn/live/5bc189b3c03549bfd96d1b1d4f60d1e2.m3u8?wsSecret=b9066a2a4870f78854705cb152607375&wsTime=1743223900","app_sign":"a5d1197826e6de0ede36ba5a5f3f7be3","app_random_str":"67e77cd478037"},"cgtnfr":{"uid":"941f25b0d44af0db","play_url":"http://liveten-tpgq.cctv.cn/live/d121aaf713cc972e3cc82024d31fb750.m3u8?wsSecret=f1166daec4aa512f6a94b0583939a2b9&wsTime=1743223901","app_sign":"600d67ea2dacaff9bf47328fe8f8b1c4","app_random_str":"67e77cd5b4154"},"cgtnru":{"uid":"cfd1a91207912aa9","play_url":"http://liveten-tpgq.cctv.cn/live/2f580634891e7f445a4c49151ee5c708.m3u8?wsSecret=120915697450b2459cd4a1e35975d074&wsTime=1743223907","app_sign":"77522cca681bb0ad44652ebbfff31a0b","app_random_str":"67e77cdab67d8"},"cgtnar":{"uid":"1af7ddaa737d6e19","play_url":"http://liveten-tpgq.cctv.cn/live/333b9cd47b1a26ae788c5c78f84c3426.m3u8?wsSecret=2acec32ddc1a84f0bc521ad2cb657a0d&wsTime=1743223908","app_sign":"9df85113c2d2cb7693bcc1fe756303b0","app_random_str":"67e77cdbc4f80"},"cgtnes":{"uid":"941f25b0d44af0db","play_url":"http://liveten-tpgq.cctv.cn/live/7b0ffa9d89738038f7821872a72214c2.m3u8?wsSecret=1cd9fe1e7386e82c18813964e69d7194&wsTime=1743223912","app_sign":"ca887da1ec41bf17dff9ce44a85d8ca7","app_random_str":"67e77ce07d859"},"cgtndoc":{"uid":"cfd1a91207912aa9","play_url":"http://liveten-tpgq.cctv.cn/live/c2124b6209b85efae51359602380821e.m3u8?wsSecret=e1ea0f956b71f029fa772f870f88791f&wsTime=1743223913","app_sign":"e7fe2a5ad99cb561df7bca9572109b96","app_random_str":"67e77ce16a222"},"cctv16_4k":{"uid":"941f25b0d44af0db","play_url":"http://liveten-tpgq.cctv.cn/live/9c4863bac7c60e3ee3fa774c6d14b312.m3u8?wsSecret=7c42d559c56dd29e426f1151930c400b&wsTime=1743223920","app_sign":"2e084a166b180c5f99d47fbecb2a136d","app_random_str":"67e77ce7d961f"},"cctv4k":{"uid":"cfd1a91207912aa9","play_url":"http://liveten-tpgq.cctv.cn/live/6134a64ba55c4ba1e8fec745a699066e.m3u8?wsSecret=27e1186d45a6c001ceed664251374fe1&wsTime=1743223921","app_sign":"d428a38fa061b15480d219cf9955708a","app_random_str":"67e77ce994e02"},"cctv8k_36m":{"uid":"1af7ddaa737d6e19","play_url":"http://liveten-tp4k.cctv.cn/live/fJx12C/playlist.m3u8?wsSecret=85ceb390e168cd064ee539b7d7f45b88&wsTime=1743223928","app_sign":"385dcd8f23ac5552556df22c65b59e98","app_random_str":"67e77cf0442d6"}}
+{
+    "cctv1": {
+        "uid": "1af7ddaa737d6e19",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/30a8228c89a864b186be13047a4b3b60.m3u8?wsSecret=96ead076e2bd89fd734850c90fa3420c&wsTime=1743227821",
+        "appRandomStr": "67e78c24b8bd9",
+        "appSign": "b993dbd8bcb6af588f2c9712024c76c3",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743229941
+    },
+    "cctv2": {
+        "uid": "cfd1a91207912aa9",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/6b119e785733a4fc2ffbf44816187f25.m3u8?wsSecret=c7864859bcfcb9017cf1f91f457f676d&wsTime=1743226170",
+        "appRandomStr": "67e785b1dfa8f",
+        "appSign": "0e1aed0e4cf4d96964b4dab65ce277a4",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743228290
+    },
+    "cctv3": {
+        "uid": "941f25b0d44af0db",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/2e8e13f48095699fbd6a8cfccf32c3aa.m3u8?wsSecret=7ca1d0fff4dd148e0ee112376979ea46&wsTime=1743226192",
+        "appRandomStr": "67e785c7c6b18",
+        "appSign": "26390dd396651e6b7cd4727df732ea32",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743228312
+    },
+    "cctv5": {
+        "uid": "941f25b0d44af0db",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/3e1b6788736d5a9507c7f9f627ff04f8.m3u8?wsSecret=adb1145ad9f634973d246aec04b1ae57&wsTime=1743226748",
+        "appRandomStr": "67e787f45bc85",
+        "appSign": "dd2064f24e0ef20337916c239717a8b7",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743228868
+    },
+    "cctv4": {
+        "uid": "1af7ddaa737d6e19",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/33947a195f5a20e75ae06e19078e07c8.m3u8?wsSecret=825e3499d65fbef19a73ae9774a04f0b&wsTime=1743226766",
+        "appRandomStr": "67e78806526b2",
+        "appSign": "7e7ed9120580f765bbb1468a9e26622e",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743228886
+    },
+    "cctv13": {
+        "uid": "1af7ddaa737d6e19",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/166560daebe7afc5dd887496e7b8d6b9.m3u8?wsSecret=6aad8be421fcf36e207bcf257b0eda0e&wsTime=1743226833",
+        "appRandomStr": "67e788494a0cd",
+        "appSign": "b87504cfead2eebad8e138c5708836fe",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743228953
+    },
+    "cctv5p": {
+        "uid": "1af7ddaa737d6e19",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/3758a19e715b8d107bb54ff9168129cf.m3u8?wsSecret=e6d3e2d53b3e00db16959bb5851c1515&wsTime=1743227844",
+        "appRandomStr": "67e78c3c4c2fa",
+        "appSign": "8596a7f5440a187eb284aad8e545c36f",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743229964
+    },
+    "cctv7": {
+        "uid": "cfd1a91207912aa9",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/226c22bb52f9478ea6d51c4d3bd8b897.m3u8?wsSecret=7599fd4cc540fc21177fe261a2db4244&wsTime=1743227854",
+        "appRandomStr": "67e78c46361aa",
+        "appSign": "a5e101004282c8f652239c8f5efadf53",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743229974
+    },
+    "cctv8": {
+        "uid": "1af7ddaa737d6e19",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/a440bc9fc17f1be284ea8cf14da81122.m3u8?wsSecret=4a7ca068757dd10a5bfc9b2b4d4336ac&wsTime=1743227864",
+        "appRandomStr": "67e78c505b838",
+        "appSign": "a4d81a7de2b38f29b1d0f5596f7ab90d",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743229984
+    },
+    "cctv9": {
+        "uid": "1af7ddaa737d6e19",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/7697aea39cca172b3cbf3dd9bbdc7ea5.m3u8?wsSecret=fbf0b94cd0e0a2122e1851d3eef1056c&wsTime=1743227877",
+        "appRandomStr": "67e78c5d8efc4",
+        "appSign": "9d3bcc118595be1c02c0a21c2f4cd9f4",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743229997
+    },
+    "cctv10": {
+        "uid": "1af7ddaa737d6e19",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/6eddd73bd2594e0cb80a91866820d6d2.m3u8?wsSecret=676e466a235ec618c846fb2f19af0d77&wsTime=1743227892",
+        "appRandomStr": "67e78c6c92182",
+        "appSign": "0060ac3e23ceb5dab5e3ca3cf270de33",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743230012
+    },
+    "cctv11": {
+        "uid": "941f25b0d44af0db",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/1e68ad19b53373ed334577414189fd0d.m3u8?wsSecret=5bb671bc5c21b79d4b64da58bea80d2e&wsTime=1743227900",
+        "appRandomStr": "67e78c7488c6a",
+        "appSign": "70bf07cc9bbdbecfaa5496685186e7fb",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743230020
+    },
+    "cctv12": {
+        "uid": "941f25b0d44af0db",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/cd122318fc504d62dd68149d2f129af9.m3u8?wsSecret=f048a59e721d5b60130b15448cb795cb&wsTime=1743227912",
+        "appRandomStr": "67e78c7fdf776",
+        "appSign": "dd7aa8d71887491a610a81ea1f143e9d",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743230032
+    },
+    "cctv14": {
+        "uid": "1af7ddaa737d6e19",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/5189195c043059c73e31b994c23ad528.m3u8?wsSecret=dac7ff5e18c00ec1e55ed75bdb5b6fb7&wsTime=1743227925",
+        "appRandomStr": "67e78c8d22914",
+        "appSign": "f4c0acead948f31615333ba95aa8c123",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743230045
+    },
+    "cctv15": {
+        "uid": "1af7ddaa737d6e19",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/44b27397905bd32833285a9d8d37daa6.m3u8?wsSecret=2517901cf1b27feb1332be730e632b34&wsTime=1743227938",
+        "appRandomStr": "67e78c9aa2f7b",
+        "appSign": "3635ef8c3c36c9cd2597f393ac752d97",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743230058
+    },
+    "cctv16": {
+        "uid": "cfd1a91207912aa9",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/5e371361c10b8d49611c3ad8b2eb363a.m3u8?wsSecret=ca132f922977443613c500a53a46d187&wsTime=1743227954",
+        "appRandomStr": "67e78ca9c54db",
+        "appSign": "caa795c1a36ce8fd7b80431798597b26",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743230074
+    },
+    "cctv16_4k": {
+        "uid": "941f25b0d44af0db",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/9c4863bac7c60e3ee3fa774c6d14b312.m3u8?wsSecret=e4bf39a23124f5ffa38a9cc45dda58b0&wsTime=1743227961",
+        "appRandomStr": "67e78cb13115e",
+        "appSign": "b53cccf49559d0d1bdb8965198695e6d",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743230081
+    },
+    "cctv17": {
+        "uid": "1af7ddaa737d6e19",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/8eae18e5610069468facb496c5b65404.m3u8?wsSecret=48bf03431fe95d7c8dc8907325d19a7c&wsTime=1743227970",
+        "appRandomStr": "67e78cba694b4",
+        "appSign": "bac566b341278e604c24b69bc94aaed0",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743230090
+    },
+    "cctv4k": {
+        "uid": "cfd1a91207912aa9",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/6134a64ba55c4ba1e8fec745a699066e.m3u8?wsSecret=dabd219009bd5ca578d9fd6804e35664&wsTime=1743227980",
+        "appRandomStr": "67e78cc46d461",
+        "appSign": "ca77b55d883ba0fa0a67734f00e67b6a",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743230100
+    },
+    "cctv8k_36m": {
+        "uid": "1af7ddaa737d6e19",
+        "playUrl": "http:\/\/liveten-tp4k.cctv.cn\/live\/fJx12C\/playlist.m3u8?wsSecret=fe065bc4d4c73dbf9d9938ef3246d4d0&wsTime=1743227997",
+        "appRandomStr": "67e78cd5025ce",
+        "appSign": "fe78bbd142e094e8e6ce90bbcde6347f",
+        "urlPath": "http:\/\/liveten-tp4k.cctv.cn\/live\/fJx12C\/",
+        "expiration": 1743230117
+    },
+    "cgtnen": {
+        "uid": "1af7ddaa737d6e19",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/5bc189b3c03549bfd96d1b1d4f60d1e2.m3u8?wsSecret=60098c365b772732e94099dc8c87055a&wsTime=1743228012",
+        "appRandomStr": "67e78ce454cff",
+        "appSign": "d3c6152781ebe1b0c5324d8c9a457aeb",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743230132
+    },
+    "cgtnar": {
+        "uid": "cfd1a91207912aa9",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/333b9cd47b1a26ae788c5c78f84c3426.m3u8?wsSecret=a2c8335d97413cd3e7f2fe23ee2a917c&wsTime=1743228020",
+        "appRandomStr": "67e78cec419f6",
+        "appSign": "4ecb96a9e57a4a7e2e9dd43a0c5210e2",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743230140
+    },
+    "cgtnru": {
+        "uid": "cfd1a91207912aa9",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/2f580634891e7f445a4c49151ee5c708.m3u8?wsSecret=e222af15c35e3708506b65abe2f3ec5d&wsTime=1743228037",
+        "appRandomStr": "67e78cfd7d057",
+        "appSign": "489295ad6a0688479d168a7f394c205b",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743230157
+    },
+    "cgtnfr": {
+        "uid": "cfd1a91207912aa9",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/d121aaf713cc972e3cc82024d31fb750.m3u8?wsSecret=23c197f82c0ebc2ee7860946db2c2a53&wsTime=1743228052",
+        "appRandomStr": "67e78d0be8833",
+        "appSign": "ad7361535fb320f7f7cbfff3dbd095bd",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743230172
+    },
+    "cgtndoc": {
+        "uid": "941f25b0d44af0db",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/c2124b6209b85efae51359602380821e.m3u8?wsSecret=f7062f0648bc98f08c722c20d467b667&wsTime=1743228064",
+        "appRandomStr": "67e78d18897f4",
+        "appSign": "fc62792da22432423739ac762960476a",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743230184
+    },
+    "cgtnes": {
+        "uid": "941f25b0d44af0db",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/7b0ffa9d89738038f7821872a72214c2.m3u8?wsSecret=c642c6cf9fcfd59350826710fa68ab0e&wsTime=1743228077",
+        "appRandomStr": "67e78d24e209e",
+        "appSign": "1eea7a0090f2372b5130e5a774be73a7",
+        "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
+        "expiration": 1743230197
+    }
+}
