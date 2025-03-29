@@ -1,210 +1,210 @@
 {
     "cctv1": {
-        "uid": "1af7ddaa737d6e19",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/30a8228c89a864b186be13047a4b3b60.m3u8?wsSecret=96ead076e2bd89fd734850c90fa3420c&wsTime=1743227821",
-        "appRandomStr": "67e78c24b8bd9",
-        "appSign": "b993dbd8bcb6af588f2c9712024c76c3",
+        "uid": "cfd1a91207912aa9",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/30a8228c89a864b186be13047a4b3b60.m3u8?wsSecret=b14c6276de8a9074a549209dd7ca7084&wsTime=1743248424",
+        "appRandomStr": "67e7dca07d01d",
+        "appSign": "423adb1832f8e2ef2111ac21b70d005a",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743229941
+        "expiration": 1743250544
     },
     "cctv2": {
-        "uid": "cfd1a91207912aa9",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/6b119e785733a4fc2ffbf44816187f25.m3u8?wsSecret=c7864859bcfcb9017cf1f91f457f676d&wsTime=1743226170",
-        "appRandomStr": "67e785b1dfa8f",
-        "appSign": "0e1aed0e4cf4d96964b4dab65ce277a4",
+        "uid": "941f25b0d44af0db",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/6b119e785733a4fc2ffbf44816187f25.m3u8?wsSecret=ba03395301c7b450aef67a9edbee3c05&wsTime=1743248439",
+        "appRandomStr": "67e7dcaf89b08",
+        "appSign": "c12c01b7270da8224aeba640ee6ee111",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743228290
+        "expiration": 1743250559
     },
     "cctv3": {
-        "uid": "941f25b0d44af0db",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/2e8e13f48095699fbd6a8cfccf32c3aa.m3u8?wsSecret=7ca1d0fff4dd148e0ee112376979ea46&wsTime=1743226192",
-        "appRandomStr": "67e785c7c6b18",
-        "appSign": "26390dd396651e6b7cd4727df732ea32",
+        "uid": "cfd1a91207912aa9",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/2e8e13f48095699fbd6a8cfccf32c3aa.m3u8?wsSecret=64858f6c83611d4a09bbcec807a470fa&wsTime=1743248452",
+        "appRandomStr": "67e7dcbc96e15",
+        "appSign": "a76ce34ff81427ceb55d8c1f53e8aa93",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743228312
+        "expiration": 1743250572
     },
     "cctv5": {
         "uid": "941f25b0d44af0db",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/3e1b6788736d5a9507c7f9f627ff04f8.m3u8?wsSecret=adb1145ad9f634973d246aec04b1ae57&wsTime=1743226748",
-        "appRandomStr": "67e787f45bc85",
-        "appSign": "dd2064f24e0ef20337916c239717a8b7",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/3e1b6788736d5a9507c7f9f627ff04f8.m3u8?wsSecret=a5257bd3816b5c73fc5ab8b6096af658&wsTime=1743248471",
+        "appRandomStr": "67e7dccec52a2",
+        "appSign": "92ebc705a0b48c72ad602fb363c2acb5",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743228868
+        "expiration": 1743250591
     },
     "cctv4": {
-        "uid": "1af7ddaa737d6e19",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/33947a195f5a20e75ae06e19078e07c8.m3u8?wsSecret=825e3499d65fbef19a73ae9774a04f0b&wsTime=1743226766",
-        "appRandomStr": "67e78806526b2",
-        "appSign": "7e7ed9120580f765bbb1468a9e26622e",
+        "uid": "941f25b0d44af0db",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/33947a195f5a20e75ae06e19078e07c8.m3u8?wsSecret=e566b049f1c52f636abb341b6d915450&wsTime=1743248463",
+        "appRandomStr": "67e7dcc74a8de",
+        "appSign": "99c6776f3a533b552f0c84e54ea4396a",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743228886
+        "expiration": 1743250583
     },
     "cctv13": {
-        "uid": "1af7ddaa737d6e19",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/166560daebe7afc5dd887496e7b8d6b9.m3u8?wsSecret=6aad8be421fcf36e207bcf257b0eda0e&wsTime=1743226833",
-        "appRandomStr": "67e788494a0cd",
-        "appSign": "b87504cfead2eebad8e138c5708836fe",
+        "uid": "941f25b0d44af0db",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/166560daebe7afc5dd887496e7b8d6b9.m3u8?wsSecret=302715034782dae6d389319ed6a4abb1&wsTime=1743248551",
+        "appRandomStr": "67e7dd1f940a6",
+        "appSign": "20147bc104b04989516a048b45c877f6",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743228953
+        "expiration": 1743250672
     },
     "cctv5p": {
-        "uid": "1af7ddaa737d6e19",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/3758a19e715b8d107bb54ff9168129cf.m3u8?wsSecret=e6d3e2d53b3e00db16959bb5851c1515&wsTime=1743227844",
-        "appRandomStr": "67e78c3c4c2fa",
-        "appSign": "8596a7f5440a187eb284aad8e545c36f",
+        "uid": "941f25b0d44af0db",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/3758a19e715b8d107bb54ff9168129cf.m3u8?wsSecret=44e1c3a83dac44cc9b383324893b6003&wsTime=1743248486",
+        "appRandomStr": "67e7dcddca3a4",
+        "appSign": "2f4cc8831ec2675635ef8928085c1e69",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743229964
+        "expiration": 1743250606
     },
     "cctv7": {
-        "uid": "cfd1a91207912aa9",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/226c22bb52f9478ea6d51c4d3bd8b897.m3u8?wsSecret=7599fd4cc540fc21177fe261a2db4244&wsTime=1743227854",
-        "appRandomStr": "67e78c46361aa",
-        "appSign": "a5e101004282c8f652239c8f5efadf53",
+        "uid": "941f25b0d44af0db",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/226c22bb52f9478ea6d51c4d3bd8b897.m3u8?wsSecret=a7a0e7e6a60af5b9f5d69dacd5a41ee5&wsTime=1743248499",
+        "appRandomStr": "67e7dceac90e3",
+        "appSign": "a505035c2148975c58acdb9fbb23ef1a",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743229974
+        "expiration": 1743250619
     },
     "cctv8": {
-        "uid": "1af7ddaa737d6e19",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/a440bc9fc17f1be284ea8cf14da81122.m3u8?wsSecret=4a7ca068757dd10a5bfc9b2b4d4336ac&wsTime=1743227864",
-        "appRandomStr": "67e78c505b838",
-        "appSign": "a4d81a7de2b38f29b1d0f5596f7ab90d",
+        "uid": "cfd1a91207912aa9",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/a440bc9fc17f1be284ea8cf14da81122.m3u8?wsSecret=6cb93f2dcc2171914219ff42d88626be&wsTime=1743248504",
+        "appRandomStr": "67e7dcf068f98",
+        "appSign": "d08f485f3e6a968eaac8e8e3affc13d9",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743229984
+        "expiration": 1743250624
     },
     "cctv9": {
-        "uid": "1af7ddaa737d6e19",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/7697aea39cca172b3cbf3dd9bbdc7ea5.m3u8?wsSecret=fbf0b94cd0e0a2122e1851d3eef1056c&wsTime=1743227877",
-        "appRandomStr": "67e78c5d8efc4",
-        "appSign": "9d3bcc118595be1c02c0a21c2f4cd9f4",
+        "uid": "cfd1a91207912aa9",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/7697aea39cca172b3cbf3dd9bbdc7ea5.m3u8?wsSecret=90e651ebcee0244f43da0e732b27cd33&wsTime=1743248516",
+        "appRandomStr": "67e7dcfc4ed16",
+        "appSign": "0701f6007c794a6eee46b25d269b57b4",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743229997
+        "expiration": 1743250636
     },
     "cctv10": {
-        "uid": "1af7ddaa737d6e19",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/6eddd73bd2594e0cb80a91866820d6d2.m3u8?wsSecret=676e466a235ec618c846fb2f19af0d77&wsTime=1743227892",
-        "appRandomStr": "67e78c6c92182",
-        "appSign": "0060ac3e23ceb5dab5e3ca3cf270de33",
+        "uid": "cfd1a91207912aa9",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/6eddd73bd2594e0cb80a91866820d6d2.m3u8?wsSecret=0fb1fc75df242fb99e20a812ddbf3e31&wsTime=1743248522",
+        "appRandomStr": "67e7dd01eb6f5",
+        "appSign": "9b9a73b4cf11f98e8c9844fa8180fb02",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743230012
+        "expiration": 1743250642
     },
     "cctv11": {
         "uid": "941f25b0d44af0db",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/1e68ad19b53373ed334577414189fd0d.m3u8?wsSecret=5bb671bc5c21b79d4b64da58bea80d2e&wsTime=1743227900",
-        "appRandomStr": "67e78c7488c6a",
-        "appSign": "70bf07cc9bbdbecfaa5496685186e7fb",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/1e68ad19b53373ed334577414189fd0d.m3u8?wsSecret=c1dc462b0eafaee9ba7658ce47124322&wsTime=1743248533",
+        "appRandomStr": "67e7dd0d407b6",
+        "appSign": "64626c20acbf9db51262af649581d5ef",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743230020
+        "expiration": 1743250653
     },
     "cctv12": {
-        "uid": "941f25b0d44af0db",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/cd122318fc504d62dd68149d2f129af9.m3u8?wsSecret=f048a59e721d5b60130b15448cb795cb&wsTime=1743227912",
-        "appRandomStr": "67e78c7fdf776",
-        "appSign": "dd7aa8d71887491a610a81ea1f143e9d",
+        "uid": "1af7ddaa737d6e19",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/cd122318fc504d62dd68149d2f129af9.m3u8?wsSecret=747ee2adc40cb0fabe6f501177ae4d94&wsTime=1743248539",
+        "appRandomStr": "67e7dd12ce059",
+        "appSign": "32a3e6db2aed00417bcf2cb85378745b",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743230032
+        "expiration": 1743250659
     },
     "cctv14": {
-        "uid": "1af7ddaa737d6e19",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/5189195c043059c73e31b994c23ad528.m3u8?wsSecret=dac7ff5e18c00ec1e55ed75bdb5b6fb7&wsTime=1743227925",
-        "appRandomStr": "67e78c8d22914",
-        "appSign": "f4c0acead948f31615333ba95aa8c123",
+        "uid": "941f25b0d44af0db",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/5189195c043059c73e31b994c23ad528.m3u8?wsSecret=e3f55adf95f7f28d22703ff6e4ffaa89&wsTime=1743248564",
+        "appRandomStr": "67e7dd2c7eb41",
+        "appSign": "9b07eaf31946bd03b833d4f20e257bfc",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743230045
+        "expiration": 1743250684
     },
     "cctv15": {
-        "uid": "1af7ddaa737d6e19",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/44b27397905bd32833285a9d8d37daa6.m3u8?wsSecret=2517901cf1b27feb1332be730e632b34&wsTime=1743227938",
-        "appRandomStr": "67e78c9aa2f7b",
-        "appSign": "3635ef8c3c36c9cd2597f393ac752d97",
+        "uid": "941f25b0d44af0db",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/44b27397905bd32833285a9d8d37daa6.m3u8?wsSecret=15b39a16b49323385e7a2ae545140405&wsTime=1743248572",
+        "appRandomStr": "67e7dd3447e28",
+        "appSign": "7b1f7241a1369b4007cb1e68b4ada45e",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743230058
+        "expiration": 1743250692
     },
     "cctv16": {
-        "uid": "cfd1a91207912aa9",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/5e371361c10b8d49611c3ad8b2eb363a.m3u8?wsSecret=ca132f922977443613c500a53a46d187&wsTime=1743227954",
-        "appRandomStr": "67e78ca9c54db",
-        "appSign": "caa795c1a36ce8fd7b80431798597b26",
+        "uid": "1af7ddaa737d6e19",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/5e371361c10b8d49611c3ad8b2eb363a.m3u8?wsSecret=62bd2f06fcd9c24c680073a0fb7a748c&wsTime=1743248585",
+        "appRandomStr": "67e7dd411a1de",
+        "appSign": "10314504968c0899ea2a6ddf4b1d3f4c",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743230074
+        "expiration": 1743250705
     },
     "cctv16_4k": {
-        "uid": "941f25b0d44af0db",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/9c4863bac7c60e3ee3fa774c6d14b312.m3u8?wsSecret=e4bf39a23124f5ffa38a9cc45dda58b0&wsTime=1743227961",
-        "appRandomStr": "67e78cb13115e",
-        "appSign": "b53cccf49559d0d1bdb8965198695e6d",
+        "uid": "cfd1a91207912aa9",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/9c4863bac7c60e3ee3fa774c6d14b312.m3u8?wsSecret=585c886c8419919661967fa117b4da28&wsTime=1743248594",
+        "appRandomStr": "67e7dd4a1e521",
+        "appSign": "df0fe9ce1e5ef61b8bd944069d5cd31d",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743230081
+        "expiration": 1743250714
     },
     "cctv17": {
-        "uid": "1af7ddaa737d6e19",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/8eae18e5610069468facb496c5b65404.m3u8?wsSecret=48bf03431fe95d7c8dc8907325d19a7c&wsTime=1743227970",
-        "appRandomStr": "67e78cba694b4",
-        "appSign": "bac566b341278e604c24b69bc94aaed0",
+        "uid": "cfd1a91207912aa9",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/8eae18e5610069468facb496c5b65404.m3u8?wsSecret=3b5d5895c85a30d1ca46018d1f16116b&wsTime=1743248604",
+        "appRandomStr": "67e7dd544a841",
+        "appSign": "0ccae71b4da00918cdfd8d2c27a229d1",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743230090
+        "expiration": 1743250724
     },
     "cctv4k": {
-        "uid": "cfd1a91207912aa9",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/6134a64ba55c4ba1e8fec745a699066e.m3u8?wsSecret=dabd219009bd5ca578d9fd6804e35664&wsTime=1743227980",
-        "appRandomStr": "67e78cc46d461",
-        "appSign": "ca77b55d883ba0fa0a67734f00e67b6a",
+        "uid": "941f25b0d44af0db",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/6134a64ba55c4ba1e8fec745a699066e.m3u8?wsSecret=07434027f2badc35a3ea68739e4a85eb&wsTime=1743248616",
+        "appRandomStr": "67e7dd5fe8091",
+        "appSign": "8b25040d65cd02e81b746257aec92283",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743230100
+        "expiration": 1743250736
     },
     "cctv8k_36m": {
-        "uid": "1af7ddaa737d6e19",
-        "playUrl": "http:\/\/liveten-tp4k.cctv.cn\/live\/fJx12C\/playlist.m3u8?wsSecret=fe065bc4d4c73dbf9d9938ef3246d4d0&wsTime=1743227997",
-        "appRandomStr": "67e78cd5025ce",
-        "appSign": "fe78bbd142e094e8e6ce90bbcde6347f",
+        "uid": "cfd1a91207912aa9",
+        "playUrl": "http:\/\/liveten-tp4k.cctv.cn\/live\/fJx12C\/playlist.m3u8?wsSecret=e59d0936373e0f5134c8a9894ecdfd84&wsTime=1743248633",
+        "appRandomStr": "67e7dd70c10b0",
+        "appSign": "6e18d9094fb414c7f29fbe8cf434d5df",
         "urlPath": "http:\/\/liveten-tp4k.cctv.cn\/live\/fJx12C\/",
-        "expiration": 1743230117
+        "expiration": 1743250753
     },
     "cgtnen": {
-        "uid": "1af7ddaa737d6e19",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/5bc189b3c03549bfd96d1b1d4f60d1e2.m3u8?wsSecret=60098c365b772732e94099dc8c87055a&wsTime=1743228012",
-        "appRandomStr": "67e78ce454cff",
-        "appSign": "d3c6152781ebe1b0c5324d8c9a457aeb",
+        "uid": "cfd1a91207912aa9",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/5bc189b3c03549bfd96d1b1d4f60d1e2.m3u8?wsSecret=7b635929a8b6a155b47b182b43dd586d&wsTime=1743248648",
+        "appRandomStr": "67e7dd7fa9b3f",
+        "appSign": "389786b0c6fe8919ce76ad7797ed59cf",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743230132
+        "expiration": 1743250768
     },
     "cgtnar": {
         "uid": "cfd1a91207912aa9",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/333b9cd47b1a26ae788c5c78f84c3426.m3u8?wsSecret=a2c8335d97413cd3e7f2fe23ee2a917c&wsTime=1743228020",
-        "appRandomStr": "67e78cec419f6",
-        "appSign": "4ecb96a9e57a4a7e2e9dd43a0c5210e2",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/333b9cd47b1a26ae788c5c78f84c3426.m3u8?wsSecret=04a75542a4654d96f00c34c5cc38c7c0&wsTime=1743248658",
+        "appRandomStr": "67e7dd8a49070",
+        "appSign": "ae67ff80e51db227785804513d236c2f",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743230140
+        "expiration": 1743250778
     },
     "cgtnru": {
         "uid": "cfd1a91207912aa9",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/2f580634891e7f445a4c49151ee5c708.m3u8?wsSecret=e222af15c35e3708506b65abe2f3ec5d&wsTime=1743228037",
-        "appRandomStr": "67e78cfd7d057",
-        "appSign": "489295ad6a0688479d168a7f394c205b",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/2f580634891e7f445a4c49151ee5c708.m3u8?wsSecret=2631f83baefe393e00814d4d2bc6575d&wsTime=1743248672",
+        "appRandomStr": "67e7dd97d6602",
+        "appSign": "2eec65eee91d59687b54d448ecdfbc3c",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743230157
+        "expiration": 1743250792
     },
     "cgtnfr": {
         "uid": "cfd1a91207912aa9",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/d121aaf713cc972e3cc82024d31fb750.m3u8?wsSecret=23c197f82c0ebc2ee7860946db2c2a53&wsTime=1743228052",
-        "appRandomStr": "67e78d0be8833",
-        "appSign": "ad7361535fb320f7f7cbfff3dbd095bd",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/d121aaf713cc972e3cc82024d31fb750.m3u8?wsSecret=7f1bc96984003d50ba36eaf9d3b6ebae&wsTime=1743248677",
+        "appRandomStr": "67e7dd9dae756",
+        "appSign": "23f9d0f8b8780c70d07d68512abaff38",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743230172
+        "expiration": 1743250798
     },
     "cgtndoc": {
         "uid": "941f25b0d44af0db",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/c2124b6209b85efae51359602380821e.m3u8?wsSecret=f7062f0648bc98f08c722c20d467b667&wsTime=1743228064",
-        "appRandomStr": "67e78d18897f4",
-        "appSign": "fc62792da22432423739ac762960476a",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/c2124b6209b85efae51359602380821e.m3u8?wsSecret=1760d99b7fb8bec5b1b3102fdf58eb11&wsTime=1743248686",
+        "appRandomStr": "67e7dda65d6eb",
+        "appSign": "8faccfd1b930ece89e3456861edf50c7",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743230184
+        "expiration": 1743250806
     },
     "cgtnes": {
-        "uid": "941f25b0d44af0db",
-        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/7b0ffa9d89738038f7821872a72214c2.m3u8?wsSecret=c642c6cf9fcfd59350826710fa68ab0e&wsTime=1743228077",
-        "appRandomStr": "67e78d24e209e",
-        "appSign": "1eea7a0090f2372b5130e5a774be73a7",
+        "uid": "1af7ddaa737d6e19",
+        "playUrl": "http:\/\/liveten-tpgq.cctv.cn\/live\/7b0ffa9d89738038f7821872a72214c2.m3u8?wsSecret=1f8aef5451d873ef3df24d4bae7498b3&wsTime=1743248694",
+        "appRandomStr": "67e7ddae2153f",
+        "appSign": "3b84d199452c179bd791508c32958227",
         "urlPath": "http:\/\/liveten-tpgq.cctv.cn\/live\/",
-        "expiration": 1743230197
+        "expiration": 1743250814
     }
 }
