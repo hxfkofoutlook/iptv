@@ -183,7 +183,7 @@
     {
       "epgid": "ANIMAX",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ANIMAX.png",
-      "name": "ANIMAX,082ANIMAX,ANIMAX高清,[TW]ANIMAXHD,索尼动画,索尼动画高清"
+      "name": "ANIMAX,Animax (HK),ANIMAX高清,[TW]ANIMAXHD,索尼动画,索尼动画高清"
     },
     {
       "epgid": "ANIMAXHD",
@@ -233,12 +233,12 @@
     {
       "epgid": "ASTROSUPERSPORT1",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ASTROSUPERSPORT1.png",
-      "name": "ASTROSUPERSPORT1,"
+      "name": "ASTROSUPERSPORT1,Astro Sport UHD,"
     },
     {
       "epgid": "ASTROSUPERSPORT2",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ASTROSUPERSPORT2.png",
-      "name": "ASTROSUPERSPORT2,"
+      "name": "ASTROSUPERSPORT2,Astro Football,"
     },
     {
       "epgid": "ASTROSUPERSPORT3",
@@ -2948,12 +2948,12 @@
     {
       "epgid": "J2",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/J2.png",
-      "name": "J2,TVB J2,TVBJ2,TVBPLUS,无线J2"
+      "name": "J2,TVB J2,TVBJ2,TVBPLUS,无线J2,"
     },
     {
       "epgid": "JAPANEWS24",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/JAPANEWS24.png",
-      "name": "JAPANEWS24,"
+      "name": "JAPANEWS24,Japan News 24H LIVE,"
     },
     {
       "epgid": "JETVARIETY",
@@ -3183,7 +3183,7 @@
     {
       "epgid": "LOVENATURE",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENATURE.png",
-      "name": "LOVENATURE,"
+      "name": "LOVENATURE,Love Nature HD,"
     },
     {
       "epgid": "LOVENATURE4K",
@@ -3908,7 +3908,7 @@
     {
       "epgid": "POPC",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/POPC.png",
-      "name": "POPC,"
+      "name": "POPC,PopC,"
     },
     {
       "epgid": "PREMIERSPORTS1",
@@ -3998,7 +3998,7 @@
     {
       "epgid": "ROCKACTION",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKACTION.png",
-      "name": "ROCKACTION,"
+      "name": "ROCKACTION,ROCK Action"
     },
     {
       "epgid": "ROCKENTERTAINMENT",
@@ -4788,7 +4788,7 @@
     {
       "epgid": "TVB+",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB+.png",
-      "name": "TVB+,"
+      "name": "TVB+,TVB Plus"
     },
     {
       "epgid": "TVBCLASSIC",
@@ -4843,7 +4843,7 @@
     {
       "epgid": "TVBS新闻",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBS新闻.png",
-      "name": "TVBS新闻,"
+      "name": "TVBS新闻,TVBS新聞,"
     },
     {
       "epgid": "TVBS欢乐",
@@ -4868,7 +4868,7 @@
     {
       "epgid": "TVB无线新闻",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB无线新闻.png",
-      "name": "TVB无线新闻,"
+      "name": "TVB无线新闻,無線新聞台,"
     },
     {
       "epgid": "TVB无线财经",
@@ -4878,7 +4878,7 @@
     {
       "epgid": "TVB明珠",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB明珠.png",
-      "name": "TVB明珠,"
+      "name": "TVB明珠,明珠台,明珠剧集台(北美),"
     },
     {
       "epgid": "TVB星河",
@@ -4903,7 +4903,7 @@
     {
       "epgid": "TVN",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVN.png",
-      "name": "TVN,144TVN,159TVN"
+      "name": "TVN,tvN,"
     },
     {
       "epgid": "TVONEHD",
@@ -5573,17 +5573,17 @@
     {
       "epgid": "东森新闻",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森新闻.png",
-      "name": "东森新闻,"
+      "name": "东森新闻,東森新聞,"
     },
     {
       "epgid": "东森洋片",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森洋片.png",
-      "name": "东森洋片,"
+      "name": "东森洋片,東森洋片,"
     },
     {
       "epgid": "东森电影",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森电影.png",
-      "name": "东森电影,"
+      "name": "东森电影,東森電影,"
     },
     {
       "epgid": "东森综合",
@@ -5723,7 +5723,7 @@
     {
       "epgid": "中天亚洲",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天亚洲.png",
-      "name": "中天亚洲,"
+      "name": "中天亚洲,中天亚洲台,"
     },
     {
       "epgid": "中天娱乐",
@@ -5733,7 +5733,7 @@
     {
       "epgid": "中天新闻",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天新闻.png",
-      "name": "中天新闻,"
+      "name": "中天新闻,中天新闻台,中天新聞"
     },
     {
       "epgid": "中天新闻2",
@@ -6388,7 +6388,7 @@
     {
       "epgid": "凤凰卫视中文",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视中文.png",
-      "name": "凤凰卫视中文,"
+      "name": "凤凰卫视中文,鳳凰衛視中文台,"
     },
     {
       "epgid": "凤凰卫视电影",
@@ -6398,12 +6398,12 @@
     {
       "epgid": "凤凰卫视资讯",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视资讯.png",
-      "name": "凤凰卫视资讯,"
+      "name": "凤凰卫视资讯,鳳凰衛視資訊台,"
     },
     {
       "epgid": "凤凰卫视香港",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰卫视香港.png",
-      "name": "凤凰卫视香港,"
+      "name": "凤凰卫视香港,鳳凰衛視香港台,"
     },
     {
       "epgid": "凤凰电影",
@@ -8313,7 +8313,7 @@
     {
       "epgid": "天映经典",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png",
-      "name": "天映经典,205天映經典,[TW]天映经典MOVIE"
+      "name": "天映经典,天映电影,天映經典,天映經典(1080),[TW]天映经典MOVIE"
     },
     {
       "epgid": "天津IPTV",
@@ -9683,7 +9683,7 @@
     {
       "epgid": "无线星河",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线星河.png",
-      "name": "无线星河,"
+      "name": "无线星河,TVB 星河,TVB星河"
     },
     {
       "epgid": "无线粤语片",
@@ -10223,7 +10223,7 @@
     {
       "epgid": "民视第一",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视第一.png",
-      "name": "民视第一,"
+      "name": "民视第一,民視第一台,民视第一台"
     },
     {
       "epgid": "民视综艺",
@@ -12053,7 +12053,7 @@
     {
       "epgid": "纬来体育",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来体育.png",
-      "name": "纬来体育,"
+      "name": "纬来体育,緯來體育台,"
     },
     {
       "epgid": "纬来戏剧",
@@ -12163,7 +12163,7 @@
     {
       "epgid": "美亚电影",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png",
-      "name": "美亚电影,美亚电影-1,美亚电影.(香港)"
+      "name": "美亚电影,美亞電影台(HK),美亚电影-1,美亚电影.(香港)"
     },
     {
       "epgid": "美亚高清电影",
@@ -12193,7 +12193,7 @@
     {
       "epgid": "翡翠",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png",
-      "name": "翡翠,"
+      "name": "翡翠,翡翠台,翡翠综合台(北美),翡翠剧集台(北美),"
     },
     {
       "epgid": "耀才财经",
@@ -13268,7 +13268,7 @@
     {
       "epgid": "靖天国际",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天国际.png",
-      "name": "靖天国际,087KLT-靖天國際,089KLT-靖天國際,KLT靖天国际"
+      "name": "靖天国际,KLT-靖天國際,KLT靖天国际,靖天國際台,"
     },
     {
       "epgid": "靖天娱乐",
@@ -13558,7 +13558,7 @@
     {
       "epgid": "黄金翡翠",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黄金翡翠.png",
-      "name": "黄金翡翠,"
+      "name": "黄金翡翠,黃金翡翠台"
     },
     {
       "epgid": "黄陵",
@@ -13638,7 +13638,7 @@
     {
       "epgid": "龙华影剧",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华影剧.png",
-      "name": "龙华影剧,227龍華影劇,237龍華影劇"
+      "name": "龙华影剧,龍華影劇,237龍華影劇"
     },
     {
       "epgid": "龙华戏剧",
@@ -13648,7 +13648,7 @@
     {
       "epgid": "龙华日韩",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华日韩.png",
-      "name": "龙华日韩,"
+      "name": "龙华日韩,龙华日韩台,龍華日韓台,龍華日韓,"
     },
     {
       "epgid": "龙华洋片",
