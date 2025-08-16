@@ -43,7 +43,7 @@
     {
       "epgid": "BesTv星光院线",
       "logo": "https://gitee.com/hxfkof/itv/raw/master/BesTV/BesTv%E6%98%9F%E5%85%89%E9%99%A2%E7%BA%BF.png",
-      "name": "BesTv星光院线,星光院线,"
+      "name": "BesTv星光院线,星光院线,星光影院"
     },       
     {
       "epgid": "BesTv宣传动画",
@@ -68,7 +68,7 @@
     {
       "epgid": "BesTv Live",
       "logo": "https://gitee.com/hxfkof/itv/raw/master/BesTV/BesTv%20Live.png",
-      "name": "BesTv Live,"
+      "name": "BesTv Live,热门综艺,热门剧场,戏曲精选,百变课堂,健康养生"
     },
     {
       "epgid": "1905极限反转",
@@ -503,42 +503,42 @@
     {
       "epgid": "CCTV10",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png",
-      "name": "CCTV10,CCTV-10科教-1080P,CCTV-10,CCTV10H,CCTV10HD,CCTV-10科学,CCTV-10科教,CCTV_10科教,CCTV10科教,CCTV-10高清,CCTV科教,中央10台,中央十台,中央十套,中央电视台10,中央科教,央视-10,科教10台"
+      "name": "CCTV10,CCTV-10科教-1080P,CCTV-10,CCTV10H,CCTV10HD,CCTV-10科学,CCTV-10科教,CCTV_10科教,CCTV10科教,CCTV-10高清,CCTV科教,中央10台,中央十台,中央十套,中央电视台10,中央科教,央视-10,科教10台,CCTV-10 科教"
     },
     {
       "epgid": "CCTV11",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png",
-      "name": "CCTV11,31.CCTV-11戏剧-1080P,CCTV-11,CCTV11H,CCTV-11戏曲,CCTV_11戏曲,CCTV11戏曲,CCTV-11戏曲HD,CCTV-11高清,CCTV戏曲,CCTV戏曲.备用,中央11台,中央十一台,中央戏曲,中央电视台11,央视-11,戏曲11台"
+      "name": "CCTV11,31.CCTV-11戏剧-1080P,CCTV-11,CCTV11H,CCTV-11戏曲,CCTV_11戏曲,CCTV11戏曲,CCTV-11戏曲HD,CCTV-11高清,CCTV戏曲,CCTV戏曲.备用,中央11台,中央十一台,中央戏曲,中央电视台11,央视-11,戏曲11台,CCTV-11 戏曲"
     },
     {
       "epgid": "CCTV12",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png",
-      "name": "CCTV12,32.CCTV-12社会与法-1080P,CCTV-12,CCTV12H,CCTV12HD,CCTV-12法治,CCTV-12社会,CCTV-12社会与法,CCTV_12社会与法,CCTV12社会与法,CCTV-12社会与法-1080P,CCTV-12社会与法HD,CCTV-12高清,CCTV法制,CCTV法制.备用,中央12台,中央十二套,中央十二高清,中央电视台12,中央社法,央视-12,社会与法12台"
+      "name": "CCTV12,32.CCTV-12社会与法-1080P,CCTV-12,CCTV12H,CCTV12HD,CCTV-12法治,CCTV-12社会,CCTV-12社会与法,CCTV_12社会与法,CCTV12社会与法,CCTV-12社会与法-1080P,CCTV-12社会与法HD,CCTV-12高清,CCTV法制,CCTV法制.备用,中央12台,中央十二套,中央十二高清,中央电视台12,中央社法,央视-12,社会与法12台,CCTV-12 社会与法"
     },
     {
       "epgid": "CCTV13",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png",
-      "name": "CCTV13,13新闻,20.CCTV-13新闻-1080P,CCTV-13,CCTV13.CN,CCTV13F,CCTV13H,CCTV13HD,CCTV-13新闻,CCTV_13新闻,CCTV13新闻,CCTV-13高清,🆕CCTV13,🆕CCTV新闻,中央13台,中央-13高清,中央新闻,中央新闻高清,中央电视台13,央視新聞,央视-13,央视新闻,新闻13台"
+      "name": "CCTV13,13新闻,20.CCTV-13新闻-1080P,CCTV-13,CCTV13.CN,CCTV13F,CCTV13H,CCTV13HD,CCTV-13新闻,CCTV_13新闻,CCTV13新闻,CCTV-13高清,🆕CCTV13,🆕CCTV新闻,中央13台,中央-13高清,中央新闻,中央新闻高清,中央电视台13,央視新聞,央视-13,央视新闻,新闻13台,CCTV-13 新闻"
     },
     {
       "epgid": "CCTV14",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png",
-      "name": "CCTV14,33.CCTV-14少儿-1080P,CCTV-14,CCTV14H,CCTV14HD,CCTV-14少儿,CCTV_14少儿,CCTV14少儿,CCTV-14少儿HD,CCTV-14高清,CCTV99,CCTV少儿,CCTV-少儿,CCTV少儿.备用,SNAKE_CCTV14,SNAKECCTV14,中央14台,中央少儿,中央电视台14,中央科教高清,央视-14,央视少儿,少儿14台"
+      "name": "CCTV14,33.CCTV-14少儿-1080P,CCTV-14,CCTV14H,CCTV14HD,CCTV-14少儿,CCTV_14少儿,CCTV14少儿,CCTV-14少儿HD,CCTV-14高清,CCTV99,CCTV少儿,CCTV-少儿,CCTV少儿.备用,SNAKE_CCTV14,SNAKECCTV14,中央14台,中央少儿,中央电视台14,中央科教高清,央视-14,央视少儿,少儿14台,CCTV-14 少儿"
     },
     {
       "epgid": "CCTV15",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png",
-      "name": "CCTV15,34.CCTV-15音乐-1080P,C15C15,CCTV-15,CCTV15.CN,CCTV15H,CCTV15HD,CCTV-15音乐,CCTV_15音乐,CCTV15音乐,CCTV-15音乐HD,CCTV-15高清,CCTV音乐,CCTV音乐HD,CCTV音乐.备用,中央15台,中央15套,中央电视台15,央视-15,音乐15台"
+      "name": "CCTV15,34.CCTV-15音乐-1080P,C15C15,CCTV-15,CCTV15.CN,CCTV15H,CCTV15HD,CCTV-15音乐,CCTV_15音乐,CCTV15音乐,CCTV-15音乐HD,CCTV-15高清,CCTV音乐,CCTV音乐HD,CCTV音乐.备用,中央15台,中央15套,中央电视台15,央视-15,音乐15台,CCTV-15 音乐"
     },
     {
       "epgid": "CCTV16",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png",
-      "name": "CCTV16,35.CCTV-16奥林匹克-1080P,CCTV-16,CCTV164K,CCTV-16 4K,CCTV16-4K,CCTV164K（SDR）,CCTV16.CN,CCTV16H,CCTV16HD,CCTV-16奥林匹克,CCTV_16奥林匹克,CCTV16奥林匹克,CCTV16-奥林匹克,CCTV-16奥林匹克4K,CCTV16-奥林匹克4K,CCTV-16奥运4K,CCTV16超高清,CCTV-16高清,CCTV-16 高清,CCTVOHD,CCTV奥林匹克4K,中央16台,中央奥运,中央奥运4K,中央电视台16,中央音乐,央视-16,奥林匹克16台,奥林匹克4K,奥运频道UHD"
+      "name": "CCTV16,35.CCTV-16奥林匹克-1080P,CCTV-16,CCTV164K,CCTV-16 4K,CCTV16-4K,CCTV164K（SDR）,CCTV16.CN,CCTV16H,CCTV16HD,CCTV-16奥林匹克,CCTV_16奥林匹克,CCTV16奥林匹克,CCTV16-奥林匹克,CCTV-16奥林匹克4K,CCTV16-奥林匹克4K,CCTV-16奥运4K,CCTV16超高清,CCTV-16高清,CCTV-16 高清,CCTVOHD,CCTV奥林匹克4K,中央16台,中央奥运,中央奥运4K,中央电视台16,中央音乐,央视-16,奥林匹克16台,奥林匹克4K,奥运频道UHD,CCTV-16 奥林匹克,CCTV-16 奥林匹克 4K"
     },
     {
       "epgid": "CCTV17",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png",
-      "name": "CCTV17,10.CCTV-17农业农村-1080P,CCTV17H,CCTV17HD,CCTV-17农业,CCTV17农业,CCTV-17农业农村,CCTV_17农业农村,CCTV17农业农村,CCTV17-农业农村,CCTV-17高清,中央17台,中央农业,中央十七套,农业农村17台,央视-17"
+      "name": "CCTV17,10.CCTV-17农业农村-1080P,CCTV17H,CCTV17HD,CCTV-17农业,CCTV17农业,CCTV-17农业农村,CCTV_17农业农村,CCTV17农业农村,CCTV17-农业农村,CCTV-17高清,中央17台,中央农业,中央十七套,农业农村17台,央视-17,CCTV-17 农业农村"
     },
     {
       "epgid": "CCTV2",
@@ -663,22 +663,22 @@
     {
       "epgid": "CETV1",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1.png",
-      "name": "CETV1,CETV-1教育,CETV-1教育综合"
+      "name": "CETV1,CETV-1教育,CETV-1教育综合,CETV-1,CETV-1 综合教育"
     },
     {
       "epgid": "CETV2",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV2.png",
-      "name": "CETV2,"
+      "name": "CETV2,CETV-2教育,CETV-2教育综合,CETV-2"
     },
     {
       "epgid": "CETV3",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV3.png",
-      "name": "CETV3,"
+      "name": "CETV3,CETV-3教育,CETV-3教育综合,CETV-3"
     },
     {
       "epgid": "CETV4",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV4.png",
-      "name": "CETV4,"
+      "name": "CETV4,CETV-4教育,CETV-4教育综合,CETV-4,CETV-4 职业教育"
     },
     {
       "epgid": "CETV早期教育",
@@ -5458,7 +5458,7 @@
     {
       "epgid": "上海新闻综合",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海新闻综合.png",
-      "name": "上海新闻综合,上海新闻综合,上海新闻综合频道,上视新闻频道,上视新闻频道HD,新闻综合"
+      "name": "上海新闻综合,上海新闻综合,上海新闻综合频道,上视新闻频道,上视新闻频道HD,新闻综合,上海新闻,上海新闻频道"
     },
     {
       "epgid": "上海第一财经",
@@ -6339,11 +6339,6 @@
       "epgid": "军事",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/军事.png",
       "name": "军事,"
-    },
-    {
-      "epgid": "军旅剧场",
-      "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/军旅剧场.png",
-      "name": "军旅剧场,IPTV军旅剧场"
     },
     {
       "epgid": "农林卫视",
