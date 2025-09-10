@@ -234,7 +234,7 @@ http://127.0.0.1/?id=Fox_Sports_2_Live_TV
 #EXTINF:-1 tvg-id="FOX-NEWS" tvg-name="FOX News" tvg-logo="https://epg.iill.top/logo/FOX-NEWS.png" http-referer="https://p.m82xg4z0cdbz7.com/" group-title="新聞資訊", FOX News
 http://127.0.0.1/?id=FOX_NEWS_Live_TV
 
-#EXTINF:-1 tvg-id="Nat_Geo_Wild_HD" tvg-name="Nat_Geo_Wild_HD" tvg-logo="https://epg-1.iill.top/logo/National-Geographic-Wild.png" http-referer="https://p.m82xg4z0cdbz7.com/" group-title="新聞資訊", Nat_Geo_Wild_HD
+#EXTINF:-1 tvg-id="Nat_Geo_Wild_HD" tvg-name="Nat_Geo_Wild_HD" tvg-logo="https://epg-1.iill.top/logo/National-Geographic-Wild.png" http-referer="https://p.m82xg4z0cdbz7.com/" group-title="探索自然", Nat_Geo_Wild_HD
 http://127.0.0.1/?id=Nat_Geo_Wild_HD
 
 #EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-logo="https://epg-1.iill.top/logo/ABC-News.png" http-referer="https://p.m82xg4z0cdbz7.com/" group-title="新聞資訊", ABC
