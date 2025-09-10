@@ -395,12 +395,12 @@ http://127.0.0.1/?id=Fox_Sports_2_Live_TV
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.m82xg4z0cdbz7.com/
 http://127.0.0.1/?id=FOX_NEWS_Live_TV
 
-#EXTINF:-1 tvg-id="Nat_Geo_Wild_HD" tvg-name="Nat_Geo_Wild_HD" tvg-logo="https://logo.doube.eu.org/beesport/Nat_Geo_Wild_HD.png" http-referer="https://p.m82xg4z0cdbz7.com/" group-title="新聞資訊", Nat_Geo_Wild_HD
+#EXTINF:-1 tvg-id="Nat_Geo_Wild_HD" tvg-name="Nat_Geo_Wild_HD" tvg-logo="https://logo.doube.eu.org/beesport/Nat_Geo_Wild_HD.png" http-referer="https://p.m82xg4z0cdbz7.com/" group-title="•新聞資訊", Nat_Geo_Wild_HD
 #EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.m82xg4z0cdbz7.com/
 http://127.0.0.1/?id=Nat_Geo_Wild_HD
 
-#EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-logo="https://logo.doube.eu.org/beesport/Nat_Geo_Wild_HD.png" http-referer="https://p.m82xg4z0cdbz7.com/" group-title="新聞資訊", ABC
+#EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-logo="https://logo.doube.eu.org/beesport/Nat_Geo_Wild_HD.png" http-referer="https://p.m82xg4z0cdbz7.com/" group-title="•新聞資訊", ABC
 #EXTVLCOPT:http-referrer=https://p.m82xg4z0cdbz7.com/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://p.m82xg4z0cdbz7.com/
 http://127.0.0.1/?id=ABC
