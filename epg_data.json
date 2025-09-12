@@ -2478,7 +2478,7 @@
     {
       "epgid": "HOYTV",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png",
-      "name": "HOYTV,"
+      "name": "HOYTV,HOY76,HOY77,HOY78"
     },
     {
       "epgid": "HOYTV资讯",
@@ -3973,7 +3973,7 @@
     {
       "epgid": "NOW跑马",
       "logo": "https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW跑马.png",
-      "name": "NOW跑马,"
+      "name": "NOW跑马,Now_sport"
     },
     {
       "epgid": "OUTDOOR",
