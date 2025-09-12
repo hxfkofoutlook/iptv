@@ -1,3 +1,9 @@
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="咪咕TV",CHC家庭影院
+http://127.0.0.1/live/61242e2bdd0c778d8582e283182f8f1a?token=token
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="咪咕TV",CHC动作电影
+http://127.0.0.1/live/1c6db777b9cf067879adf329bc9039cd?token=token
+#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="咪咕TV",CHC影迷电影
+http://127.0.0.1/live/5a676a75b887e65d91901bfda9d4ca3a?token=token
 #EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="咪咕TV",CCTV1
 http://127.0.0.1/live/b422290ad4129a91e092040bada100a4?token=token
 #EXTINF:-1,tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="咪咕TV",CCTV2
@@ -34,9 +40,4 @@ http://127.0.0.1/live/de9bc45287e9c28e304a8996c8071f41?token=token
 http://127.0.0.1/live/c81db1af8ef3817415bea55515eb6cf6?token=token
 #EXTINF:-1,tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="咪咕TV",CCTV17
 http://127.0.0.1/live/66f838844dbeaa25528721656926419f?token=token
-#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC家庭影院.png" group-title="咪咕TV",CHC家庭影院
-http://127.0.0.1/live/61242e2bdd0c778d8582e283182f8f1a?token=token
-#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC动作电影.png" group-title="咪咕TV",CHC动作电影
-http://127.0.0.1/live/1c6db777b9cf067879adf329bc9039cd?token=token
-#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CHC影迷电影.png" group-title="咪咕TV",CHC影迷电影
-http://127.0.0.1/live/5a676a75b887e65d91901bfda9d4ca3a?token=token
+
