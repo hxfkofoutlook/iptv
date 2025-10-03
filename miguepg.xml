@@ -2601,8 +2601,173 @@
     <channel id="中学生">
         <display-name lang="zh">中学生</display-name>
     </channel>
-    <programme channel="中学生" start="20251003000000 +0800" stop="20251004000000 +0800">
+    <programme channel="中学生" start="20251003000000 +0800" stop="20251003080000 +0800">
         <title lang="zh">欢迎收看中学生频道</title>
+    </programme>
+    <programme channel="中学生" start="20251003080000 +0800" stop="20251003080100 +0800">
+        <title lang="zh">中学生频道宣传片</title>
+    </programme>
+    <programme channel="中学生" start="20251003080100 +0800" stop="20251003082100 +0800">
+        <title lang="zh">《豆神大语文互动课堂》--左传（第一讲）</title>
+    </programme>
+    <programme channel="中学生" start="20251003082100 +0800" stop="20251003083600 +0800">
+        <title lang="zh">《豆神大语文互动课堂》--左传（第二讲）</title>
+    </programme>
+    <programme channel="中学生" start="20251003083600 +0800" stop="20251003083700 +0800">
+        <title lang="zh">中学生频道宣传片</title>
+    </programme>
+    <programme channel="中学生" start="20251003083700 +0800" stop="20251003085700 +0800">
+        <title lang="zh">《豆神大语文互动课堂》--左传（第三讲）</title>
+    </programme>
+    <programme channel="中学生" start="20251003085700 +0800" stop="20251003091700 +0800">
+        <title lang="zh">《豆神大语文互动课堂》--左传（第四讲）</title>
+    </programme>
+    <programme channel="中学生" start="20251003091700 +0800" stop="20251003100700 +0800">
+        <title lang="zh">《西南联大》第四集《火的洗礼》</title>
+    </programme>
+    <programme channel="中学生" start="20251003100700 +0800" stop="20251003101700 +0800">
+        <title lang="zh">《文创时代》乳护先峰 哺爱领航-圣子坤6</title>
+    </programme>
+    <programme channel="中学生" start="20251003101700 +0800" stop="20251003102700 +0800">
+        <title lang="zh">《教育兴国》中国好教师-孙琦伟</title>
+    </programme>
+    <programme channel="中学生" start="20251003102700 +0800" stop="20251003103700 +0800">
+        <title lang="zh">《谈艺录》燕窝大使-以羽翼匠心重构全球燕窝竞争格局</title>
+    </programme>
+    <programme channel="中学生" start="20251003103700 +0800" stop="20251003104500 +0800">
+        <title lang="zh">《追梦人》安冬</title>
+    </programme>
+    <programme channel="中学生" start="20251003104500 +0800" stop="20251003105100 +0800">
+        <title lang="zh">《教育之声》君诚学校</title>
+    </programme>
+    <programme channel="中学生" start="20251003105100 +0800" stop="20251003105800 +0800">
+        <title lang="zh">《对话榜样》202505期</title>
+    </programme>
+    <programme channel="中学生" start="20251003105800 +0800" stop="20251003110700 +0800">
+        <title lang="zh">《教育兴国》中国好教师-吕舒云</title>
+    </programme>
+    <programme channel="中学生" start="20251003110700 +0800" stop="20251003111700 +0800">
+        <title lang="zh">《文创时代》中华影响力人物-刘学洪</title>
+    </programme>
+    <programme channel="中学生" start="20251003111700 +0800" stop="20251003112100 +0800">
+        <title lang="zh">《童唱一首歌》江南幻想曲</title>
+    </programme>
+    <programme channel="中学生" start="20251003112100 +0800" stop="20251003114100 +0800">
+        <title lang="zh">《星火少年》武丁中兴</title>
+    </programme>
+    <programme channel="中学生" start="20251003114100 +0800" stop="20251003114900 +0800">
+        <title lang="zh">《人物故事》李敏</title>
+    </programme>
+    <programme channel="中学生" start="20251003114900 +0800" stop="20251003115700 +0800">
+        <title lang="zh">《人物故事》胡绛云</title>
+    </programme>
+    <programme channel="中学生" start="20251003115700 +0800" stop="20251003125700 +0800">
+        <title lang="zh">第五届中视美育杯青少年艺术盛典（第三期）</title>
+    </programme>
+    <programme channel="中学生" start="20251003125700 +0800" stop="20251003135900 +0800">
+        <title lang="zh">第五届中视美育杯青少年艺术盛典（第四期）</title>
+    </programme>
+    <programme channel="中学生" start="20251003135900 +0800" stop="20251003145800 +0800">
+        <title lang="zh">2025少年志第十三期</title>
+    </programme>
+    <programme channel="中学生" start="20251003145800 +0800" stop="20251003150300 +0800">
+        <title lang="zh">《茶香润世 国士无双》罗大友院长双节献礼</title>
+    </programme>
+    <programme channel="中学生" start="20251003150300 +0800" stop="20251003150500 +0800">
+        <title lang="zh">骄傲中国2025年国庆祝福语（二）</title>
+    </programme>
+    <programme channel="中学生" start="20251003150500 +0800" stop="20251003150800 +0800">
+        <title lang="zh">《大美中国》 龙潭湾</title>
+    </programme>
+    <programme channel="中学生" start="20251003150800 +0800" stop="20251003151100 +0800">
+        <title lang="zh">《大美中国》北镇大芦花</title>
+    </programme>
+    <programme channel="中学生" start="20251003151100 +0800" stop="20251003151600 +0800">
+        <title lang="zh">《大美中国》大连贝雕博物馆</title>
+    </programme>
+    <programme channel="中学生" start="20251003151600 +0800" stop="20251003152000 +0800">
+        <title lang="zh">《大美中国》丹东历史文化体验馆</title>
+    </programme>
+    <programme channel="中学生" start="20251003152000 +0800" stop="20251003153300 +0800">
+        <title lang="zh">《大美中国》丹东文旅</title>
+    </programme>
+    <programme channel="中学生" start="20251003153300 +0800" stop="20251003153600 +0800">
+        <title lang="zh">骄傲中国2025年国庆祝福语（一）</title>
+    </programme>
+    <programme channel="中学生" start="20251003153600 +0800" stop="20251003155100 +0800">
+        <title lang="zh">随心拍《巾帼须眉》月城小匠·童声扬遗</title>
+    </programme>
+    <programme channel="中学生" start="20251003155100 +0800" stop="20251003160500 +0800">
+        <title lang="zh">随心拍《扑朔迷离》月城小匠·童声扬遗</title>
+    </programme>
+    <programme channel="中学生" start="20251003160500 +0800" stop="20251003161900 +0800">
+        <title lang="zh">随心拍《清平调》月城小匠·童声扬遗</title>
+    </programme>
+    <programme channel="中学生" start="20251003161900 +0800" stop="20251003163600 +0800">
+        <title lang="zh">随心拍《争锋相对》月城小匠·童声扬遗</title>
+    </programme>
+    <programme channel="中学生" start="20251003163600 +0800" stop="20251003163900 +0800">
+        <title lang="zh">骄傲中国2025年国庆祝福语（三）</title>
+    </programme>
+    <programme channel="中学生" start="20251003163900 +0800" stop="20251003164200 +0800">
+        <title lang="zh">《大美中国》锦州中德古生物博物馆</title>
+    </programme>
+    <programme channel="中学生" start="20251003164200 +0800" stop="20251003165800 +0800">
+        <title lang="zh">《大美中国》花溪沐枫雪温泉旅游度假区</title>
+    </programme>
+    <programme channel="中学生" start="20251003165800 +0800" stop="20251003182700 +0800">
+        <title lang="zh">《山河铭记·薪火相传》国庆特别节目</title>
+    </programme>
+    <programme channel="中学生" start="20251003182700 +0800" stop="20251003183100 +0800">
+        <title lang="zh">《随心拍-城市非遗》上海越剧-顾韵玥</title>
+    </programme>
+    <programme channel="中学生" start="20251003183100 +0800" stop="20251003183400 +0800">
+        <title lang="zh">《随心拍-城市非遗》上海说唱-王馨妍</title>
+    </programme>
+    <programme channel="中学生" start="20251003183400 +0800" stop="20251003183700 +0800">
+        <title lang="zh">《随心拍-城市非遗》马桥手狮舞-刘艺轩</title>
+    </programme>
+    <programme channel="中学生" start="20251003183700 +0800" stop="20251003190000 +0800">
+        <title lang="zh">2025少年志第十四期</title>
+    </programme>
+    <programme channel="中学生" start="20251003190000 +0800" stop="20251003192500 +0800">
+        <title lang="zh">2025少年志第十五期</title>
+    </programme>
+    <programme channel="中学生" start="20251003192500 +0800" stop="20251003195800 +0800">
+        <title lang="zh">2025少年志第十六期</title>
+    </programme>
+    <programme channel="中学生" start="20251003195800 +0800" stop="20251003211600 +0800">
+        <title lang="zh">2025少年志第十七期</title>
+    </programme>
+    <programme channel="中学生" start="20251003211600 +0800" stop="20251003212100 +0800">
+        <title lang="zh">《大美中国》葫芦岛龙潭大峡谷</title>
+    </programme>
+    <programme channel="中学生" start="20251003212100 +0800" stop="20251003212500 +0800">
+        <title lang="zh">《大美中国》连山文旅</title>
+    </programme>
+    <programme channel="中学生" start="20251003212500 +0800" stop="20251003213100 +0800">
+        <title lang="zh">大国美育202516期</title>
+    </programme>
+    <programme channel="中学生" start="20251003213100 +0800" stop="20251003213200 +0800">
+        <title lang="zh">《美育视界》祝福祖国一</title>
+    </programme>
+    <programme channel="中学生" start="20251003213200 +0800" stop="20251003214900 +0800">
+        <title lang="zh">随心拍《众口铄金》月城小匠·童声扬遗</title>
+    </programme>
+    <programme channel="中学生" start="20251003214900 +0800" stop="20251003221700 +0800">
+        <title lang="zh">随心拍《城市非遗》城市非遗推荐官</title>
+    </programme>
+    <programme channel="中学生" start="20251003221700 +0800" stop="20251003223700 +0800">
+        <title lang="zh">《八仙过海》之误打误撞的误会</title>
+    </programme>
+    <programme channel="中学生" start="20251003223700 +0800" stop="20251003230700 +0800">
+        <title lang="zh">《音乐课堂》杨飞 第一讲</title>
+    </programme>
+    <programme channel="中学生" start="20251003230700 +0800" stop="20251003231000 +0800">
+        <title lang="zh">中央新影中学生频道2025年宣传片（第一版）</title>
+    </programme>
+    <programme channel="中学生" start="20251003231000 +0800" stop="20251004000000 +0800">
+        <title lang="zh">《家国》纪录片--孟子</title>
     </programme>
     <channel id="CGTN">
         <display-name lang="zh">CGTN</display-name>
