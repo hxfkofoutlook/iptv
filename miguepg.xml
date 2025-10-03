@@ -3762,8 +3762,8 @@
     <programme channel="24小时城市联赛轮播台" start="20251003213200 +0800" stop="20251003234000 +0800">
         <title lang="zh">四川省城市足球联赛第1轮全场回放：内江3:0资阳</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251003234000 +0800" stop="20251004014900 +0800">
-        <title lang="zh">贵阳城市足球邀请赛半决赛全场回放：太原市0:2北海市</title>
+    <programme channel="24小时城市联赛轮播台" start="20251003234000 +0800" stop="20251004004900 +0800">
+        <title lang="zh">河南省女子排球城市联赛豫南赛区第9轮回放：信阳0:3平顶山</title>
     </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
