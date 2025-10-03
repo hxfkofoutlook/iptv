@@ -1302,13 +1302,13 @@
     <programme channel="CCTV13新闻" start="20251003213000 +0800" stop="20251003221300 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251003221300 +0800" stop="20251003224300 +0800">
+    <programme channel="CCTV13新闻" start="20251003221300 +0800" stop="20251003223800 +0800">
         <title lang="zh">高端访谈</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251003224300 +0800" stop="20251003231800 +0800">
+    <programme channel="CCTV13新闻" start="20251003223800 +0800" stop="20251003231300 +0800">
         <title lang="zh">2025吾家吾国-13</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251003231800 +0800" stop="20251003235900 +0800">
+    <programme channel="CCTV13新闻" start="20251003231300 +0800" stop="20251003235900 +0800">
         <title lang="zh">24小时</title>
     </programme>
     <channel id="CCTV14少儿">
