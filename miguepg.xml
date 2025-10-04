@@ -3699,8 +3699,11 @@
     <programme channel="24小时城市联赛轮播台" start="20251004191000 +0800" stop="20251004215400 +0800">
         <title lang="zh">江苏省城市足球联赛第13轮全场回放：连云港队1:0镇江队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251004215400 +0800" stop="20251005003400 +0800">
-        <title lang="zh">2025四川省城市足球联赛全场回放：乐山味道非常队3:0攀枝花攀钢钢铁勇士队</title>
+    <programme channel="24小时城市联赛轮播台" start="20251004215400 +0800" stop="20251004230200 +0800">
+        <title lang="zh">河南省女子排球城市联赛豫南赛区第9轮回放：信阳0:3平顶山</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20251004230200 +0800" stop="20251005004900 +0800">
+        <title lang="zh">广东省足球超级联赛第4轮全场回放：深圳藝品高9:1珠海聚杰</title>
     </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
