@@ -1,0 +1,148 @@
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="CCTV",CCTV1
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600001859&id=2024078201
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="CCTV",CCTV2
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600001800&id=2024075401
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="CCTV",CCTV3
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600001801&id=2024068501
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="CCTV",CCTV4
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600001814&id=2024078301
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="CCTV",CCTV5
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600001818&id=2024078401
+#EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="CCTV",CCTV5+
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600001817&id=2024078001
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="CCTV",CCTV6
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600108442&id=2013693901
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="CCTV",CCTV7
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600004092&id=2024072001
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="CCTV",CCTV8
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600001803&id=2024078501
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="CCTV",CCTV9
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600004078&id=2024078601
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="CCTV",CCTV10
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600001805&id=2024078701
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="CCTV",CCTV11
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600001806&id=2027248701
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="CCTV",CCTV12
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600001807&id=2027248801
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="CCTV",CCTV13
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600001811&id=2024079001
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="CCTV",CCTV14
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600001809&id=2027248901
+#EXTINF:-1 tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="CCTV",CCTV15
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600001815&id=2027249001
+#EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="CCTV",CCTV16
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600098637&id=2027249101
+#EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="CCTV",CCTV16 4K
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600099502&id=2027249301
+#EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="CCTV",CCTV17
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600001810&id=2027249401
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="CCTV",CCTV4K
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600002264&id=2027249501
+#EXTINF:-1 tvg-name="CCTV8K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8K.png" group-title="CCTV",CCTV8K
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600156816&id=2026774101
+#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="CCTV",CGTN
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600014550&id=2024181701
+#EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN法语.png" group-title="CCTV",CGTN法语
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600084704&id=2024181801
+#EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN俄语.png" group-title="CCTV",CGTN俄语
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600084758&id=2024181901
+#EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN阿拉伯语.png" group-title="CCTV",CGTN阿拉伯语
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600084782&id=2024182001
+#EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN西班牙语.png" group-title="CCTV",CGTN西班牙语
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600084744&id=2024182101
+#EXTINF:-1 tvg-name="CGTN外语纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN纪录.png" group-title="CCTV",CGTN外语纪录
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600084781&id=2024182301
+#EXTINF:-1 tvg-name="CCTV第一剧场(限免)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一剧场.png" group-title="CCTV",CCTV第一剧场(限免)
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600099655&id=2026874203
+#EXTINF:-1 tvg-name="CCTV风云剧场(限免)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云剧场.png" group-title="CCTV",CCTV风云剧场(限免)
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600099658&id=2025637103
+#EXTINF:-1 tvg-name="CCTV怀旧剧场(限免)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/怀旧剧场.png" group-title="CCTV",CCTV怀旧剧场(限免)
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600099620&id=2026874303
+#EXTINF:-1 tvg-name="不支持-CCTV世界地理(VIP)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/世界地理.png" group-title="CCTV",不支持-CCTV世界地理(VIP)
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600099637&id=2026874403
+#EXTINF:-1 tvg-name="不支持-CCTV风云音乐(VIP)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云音乐.png" group-title="CCTV",不支持-CCTV风云音乐(VIP)
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600099660&id=2026874503
+#EXTINF:-1 tvg-name="不支持-CCTV兵器科技(VIP)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵器科技.png" group-title="CCTV",不支持-CCTV兵器科技(VIP)
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600099649&id=2026874603
+#EXTINF:-1 tvg-name="不支持-CCTV风云足球(VIP)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云足球.png" group-title="CCTV",不支持-CCTV风云足球(VIP)
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600099636&id=2026966203
+#EXTINF:-1 tvg-name="不支持-CCTV高尔夫·网球(VIP)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/高尔夫网球.png" group-title="CCTV",不支持-CCTV高尔夫·网球(VIP)
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600099659&id=2026874703
+#EXTINF:-1 tvg-name="不支持-CCTV女性时尚(VIP)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/女性时尚.png" group-title="CCTV",不支持-CCTV女性时尚(VIP)
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600099650&id=2026874803
+#EXTINF:-1 tvg-name="不支持-CCTV央视文化精品(VIP)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/文化精品.png" group-title="CCTV",不支持-CCTV央视文化精品(VIP)
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600099653&id=2026874903
+#EXTINF:-1 tvg-name="不支持-CCTV央视台球(VIP)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/央视台球.png" group-title="CCTV",不支持-CCTV央视台球(VIP)
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600099652&id=2026875003
+#EXTINF:-1 tvg-name="不支持-CCTV电视指南(VIP)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/电视指南.png" group-title="CCTV",不支持-CCTV电视指南(VIP)
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600099656&id=2026875103
+#EXTINF:-1 tvg-name="不支持-CCTV卫生健康(VIP)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卫生健康.png" group-title="CCTV",不支持-CCTV卫生健康(VIP)
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600099651&id=2025637003
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视",北京卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600002309&id=2024052703
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视",东方卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600002483&id=2024054503
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视",江苏卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600002521&id=2024171103
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视",浙江卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600002520&id=2024054703
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="卫视",湖南卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600002475&id=2024054803
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="卫视",湖北卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600002508&id=2024171203
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="卫视",广东卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600002485&id=2024060903
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="卫视",广西卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600002509&id=2024060703
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600002498&id=2024061003
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png" group-title="卫视",海南卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600002506&id=2024055603
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="卫视",重庆卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600002531&id=2024061103
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="卫视",深圳卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600002481&id=2024061303
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视",四川卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600002516&id=2024061403
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="卫视",河南卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600002525&id=2024059703
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="卫视",东南卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600002484&id=2024061503
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png" group-title="卫视",贵州卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600002490&id=2024061603
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="卫视",江西卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600002503&id=2024061703
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600002505&id=2024171303
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png" group-title="卫视",安徽卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600002532&id=2024171403
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png" group-title="卫视",河北卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600002493&id=2024171503
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="卫视",山东卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600002513&id=2024171603
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png" group-title="卫视",天津卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600152137&id=2019927003
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png" group-title="卫视",陕西卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600190400&id=2025561103
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600190401&id=2025561203
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="卫视",云南卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600190402&id=2025561303
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600190408&id=2025561703
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="卫视",吉林卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600190405&id=2025561503
+#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/青海卫视.png" group-title="卫视",青海卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600190406&id=2025559103
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600190737&id=2025608503
+#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山西卫视.png" group-title="卫视",山西卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600190407&id=2025560803
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png" group-title="卫视",新疆卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600152138&id=2019927403
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/西藏卫视.png" group-title="卫视",西藏卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600190403&id=2025558003
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵团卫视.png" group-title="卫视",兵团卫视
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600193252&id=2025990501
+#EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1.png" group-title="卫视",CETV1
+http://192.168.5.110/TVOD/yspapp/ysp.php?pid=600171827&id=2022823801
