@@ -516,14 +516,17 @@
     <programme channel="CCTV5体育" start="20251009190000 +0800" stop="20251009193000 +0800">
         <title lang="zh">体坛零距离(4K)</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251009193000 +0800" stop="20251009210000 +0800">
+    <programme channel="CCTV5体育" start="20251009193000 +0800" stop="20251009203500 +0800">
         <title lang="zh">2025/2026赛季斯诺克西安大奖赛-第3轮</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251009210000 +0800" stop="20251009213000 +0800">
+    <programme channel="CCTV5体育" start="20251009203500 +0800" stop="20251009210500 +0800">
         <title lang="zh">体育世界</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251009213000 +0800" stop="20251009223500 +0800">
+    <programme channel="CCTV5体育" start="20251009210500 +0800" stop="20251009212500 +0800">
         <title lang="zh">2025/2026赛季斯诺克西安大奖赛-第3轮</title>
+    </programme>
+    <programme channel="CCTV5体育" start="20251009212500 +0800" stop="20251009223500 +0800">
+        <title lang="zh">实况录像-WTT大满贯中国站</title>
     </programme>
     <programme channel="CCTV5体育" start="20251009223500 +0800" stop="20251009233500 +0800">
         <title lang="zh">足球之夜</title>
