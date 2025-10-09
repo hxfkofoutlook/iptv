@@ -4083,8 +4083,8 @@
     <channel id="江西卫视">
         <display-name lang="zh">江西卫视</display-name>
     </channel>
-    <programme channel="江西卫视" start="20251008234300 +0800" stop="20251009003000 +0800">
-        <title lang="zh">精品剧场</title>
+    <programme channel="江西卫视" start="20251008231700 +0800" stop="20251009003000 +0800">
+        <title lang="zh">薄冰(37)</title>
     </programme>
     <programme channel="江西卫视" start="20251009003000 +0800" stop="20251009011000 +0800">
         <title lang="zh">精品剧场</title>
