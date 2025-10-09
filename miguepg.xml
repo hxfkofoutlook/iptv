@@ -492,13 +492,13 @@
     <programme channel="CCTV5体育" start="20251009095500 +0800" stop="20251009103000 +0800">
         <title lang="zh">第十五届全国运动会-火种采集仪式</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251009103000 +0800" stop="20251009123000 +0800">
+    <programme channel="CCTV5体育" start="20251009103000 +0800" stop="20251009124300 +0800">
         <title lang="zh">2025年NBA季前赛-（开拓者-勇士）</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251009123000 +0800" stop="20251009133000 +0800">
+    <programme channel="CCTV5体育" start="20251009124300 +0800" stop="20251009134300 +0800">
         <title lang="zh">体坛快讯</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251009133000 +0800" stop="20251009143000 +0800">
+    <programme channel="CCTV5体育" start="20251009134300 +0800" stop="20251009143000 +0800">
         <title lang="zh">实况录像-2025年世界赛艇锦标赛 2</title>
     </programme>
     <programme channel="CCTV5体育" start="20251009143000 +0800" stop="20251009150000 +0800">
@@ -3669,8 +3669,11 @@
     <programme channel="24小时城市联赛轮播台" start="20251009185100 +0800" stop="20251009210600 +0800">
         <title lang="zh">2025江苏城市足球联赛1/4决赛全场回放：南通队5:0淮安队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251009210600 +0800" stop="20251010002000 +0800">
-        <title lang="zh">2025四川省城市足球联赛全场回放：内江重龍酒队1:1宜宾长江首城队</title>
+    <programme channel="24小时城市联赛轮播台" start="20251009210600 +0800" stop="20251009230800 +0800">
+        <title lang="zh">广东省足球超级联赛第4轮全场回放：梅州强民3:0顺德东方</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20251009230800 +0800" stop="20251010013800 +0800">
+        <title lang="zh">贵阳城市足球邀请赛决赛全场回放：贵阳市1:0北海市</title>
     </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
@@ -3966,22 +3969,22 @@
     <programme channel="江苏卫视" start="20251009183000 +0800" stop="20251009190000 +0800">
         <title lang="zh">江苏新时空</title>
     </programme>
-    <programme channel="江苏卫视" start="20251009190000 +0800" stop="20251009193000 +0800">
+    <programme channel="江苏卫视" start="20251009190000 +0800" stop="20251009193300 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="江苏卫视" start="20251009193000 +0800" stop="20251009214300 +0800">
-        <title lang="zh">江苏超会玩</title>
+    <programme channel="江苏卫视" start="20251009193300 +0800" stop="20251009211200 +0800">
+        <title lang="zh">围猎（16-17）</title>
     </programme>
-    <programme channel="江苏卫视" start="20251009214300 +0800" stop="20251009223600 +0800">
-        <title lang="zh">你所不知道的水韵江苏第三季</title>
+    <programme channel="江苏卫视" start="20251009211200 +0800" stop="20251009220800 +0800">
+        <title lang="zh">最强大脑精华版</title>
     </programme>
-    <programme channel="江苏卫视" start="20251009223600 +0800" stop="20251009230500 +0800">
-        <title lang="zh">和你的桃花源</title>
+    <programme channel="江苏卫视" start="20251009220800 +0800" stop="20251009230000 +0800">
+        <title lang="zh">打歌2025舞台纯享</title>
     </programme>
-    <programme channel="江苏卫视" start="20251009230500 +0800" stop="20251009232900 +0800">
+    <programme channel="江苏卫视" start="20251009230000 +0800" stop="20251009231500 +0800">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme channel="江苏卫视" start="20251009232900 +0800" stop="20251010000000 +0800">
+    <programme channel="江苏卫视" start="20251009231500 +0800" stop="20251010000000 +0800">
         <title lang="zh">鹤唳华亭</title>
     </programme>
     <channel id="广东卫视">
@@ -5672,111 +5675,6 @@
     </programme>
     <programme channel="上视东方影视" start="20251009235100 +0800" stop="20251010003400 +0800">
         <title lang="zh">30集连续剧：暗战风云（19）</title>
-    </programme>
-    <channel id="上海第一财经">
-        <display-name lang="zh">上海第一财经</display-name>
-    </channel>
-    <programme channel="上海第一财经" start="20251008234500 +0800" stop="20251009002000 +0800">
-        <title lang="zh">基金时间：新材料发展与投资机会</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009002000 +0800" stop="20251009004000 +0800">
-        <title lang="zh">《首席评论》专访陈海生：5年增长30倍 新型储能从规模化向市场化进阶</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009004000 +0800" stop="20251009010500 +0800">
-        <title lang="zh">【工行权益版】《中国经营者星河动力：大航天时代的逐梦者》</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009010500 +0800" stop="20251009015000 +0800">
-        <title lang="zh">价值三人行-价值投资的进化</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009015000 +0800" stop="20251009060300 +0800">
-        <title lang="zh">两说唐涯×郭凯 《谁是下一个世界货币“顶流”？》</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009060300 +0800" stop="20251009063000 +0800">
-        <title lang="zh">两说 全球变局下的中国青年科技创新</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009063000 +0800" stop="20251009070000 +0800">
-        <title lang="zh">《科创Z世代》Y50论坛电视版(秦楚汉、汪毅、薄智元、苏慧敏)</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009070000 +0800" stop="20251009072500 +0800">
-        <title lang="zh">《首席评论》专访陈海生：5年增长30倍 新型储能从规模化向市场化进阶</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009072500 +0800" stop="20251009080000 +0800">
-        <title lang="zh">WAIC夜话-当AI替我们思考时（第一期）</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009080000 +0800" stop="20251009090000 +0800">
-        <title lang="zh">直播：财经早班车</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009090000 +0800" stop="20251009092700 +0800">
-        <title lang="zh">直播：市场零距离</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009092700 +0800" stop="20251009110000 +0800">
-        <title lang="zh">直播：市场零距离</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009110000 +0800" stop="20251009114500 +0800">
-        <title lang="zh">直播：市场零距离</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009114500 +0800" stop="20251009120000 +0800">
-        <title lang="zh">直播：市场零距离</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009120000 +0800" stop="20251009123500 +0800">
-        <title lang="zh">直播：财经中间站</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009123500 +0800" stop="20251009130000 +0800">
-        <title lang="zh">《首席评论》专访陈海生：5年增长30倍 新型储能从规模化向市场化进阶</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009130000 +0800" stop="20251009143000 +0800">
-        <title lang="zh">直播：市场零距离</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009143000 +0800" stop="20251009153000 +0800">
-        <title lang="zh">直播：市场零距离</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009153000 +0800" stop="20251009160500 +0800">
-        <title lang="zh">直播：市场零距离</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009160500 +0800" stop="20251009163500 +0800">
-        <title lang="zh">直播：投资有看头</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009163500 +0800" stop="20251009170000 +0800">
-        <title lang="zh">两说 全球变局下的中国青年科技创新</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009170000 +0800" stop="20251009173500 +0800">
-        <title lang="zh">WAIC夜话-当AI替我们思考时（第二期）</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009173500 +0800" stop="20251009180000 +0800">
-        <title lang="zh">《首席评论》专访陈海生：5年增长30倍 新型储能从规模化向市场化进阶</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009180000 +0800" stop="20251009185500 +0800">
-        <title lang="zh">直播：今日股市</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009185500 +0800" stop="20251009190000 +0800">
-        <title lang="zh">天财报道</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009190000 +0800" stop="20251009200000 +0800">
-        <title lang="zh">直播：公司与行业</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009200000 +0800" stop="20251009205500 +0800">
-        <title lang="zh">直播：谈股论金</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009205500 +0800" stop="20251009210000 +0800">
-        <title lang="zh">天财报道</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009210000 +0800" stop="20251009214000 +0800">
-        <title lang="zh">直播：财经夜行线</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009214000 +0800" stop="20251009214100 +0800">
-        <title lang="zh">天财报道</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009214100 +0800" stop="20251009221000 +0800">
-        <title lang="zh">《引领区观察》人工智能+塑造城市新面貌系列4：AI+制造：“智造”新范式</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009221000 +0800" stop="20251009223000 +0800">
-        <title lang="zh">首席策略荟丨金牌行研：降息+低仓位 推升四季度地产板块</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009223000 +0800" stop="20251009233000 +0800">
-        <title lang="zh">《今日股市》</title>
-    </programme>
-    <programme channel="上海第一财经" start="20251009233000 +0800" stop="20251010000000 +0800">
-        <title lang="zh">投资有看头</title>
     </programme>
     <channel id="南京新闻综合频道">
         <display-name lang="zh">南京新闻综合频道</display-name>
