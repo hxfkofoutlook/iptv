@@ -912,6 +912,111 @@
     <programme channel="CCTV9纪录" start="20251011232730 +0800" stop="20251011235900 +0800">
         <title lang="zh">寰宇视野2025-284</title>
     </programme>
+    <channel id="CCTV10科教">
+        <display-name lang="zh">CCTV10科教</display-name>
+    </channel>
+    <programme channel="CCTV10科教" start="20251011000000 +0800" stop="20251011001530 +0800">
+        <title lang="zh">读书-2025-376</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011001530 +0800" stop="20251011004530 +0800">
+        <title lang="zh">透视新科技-2025-82</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011004530 +0800" stop="20251011011530 +0800">
+        <title lang="zh">味道-2025-204（精编）</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011011530 +0800" stop="20251011015530 +0800">
+        <title lang="zh">健康之路-2025-283</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011015530 +0800" stop="20251011022530 +0800">
+        <title lang="zh">地理·中国-2025-283</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011022530 +0800" stop="20251011030530 +0800">
+        <title lang="zh">百家讲坛-2025-283</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011030530 +0800" stop="20251011060000 +0800">
+        <title lang="zh">再见</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011060000 +0800" stop="20251011061000 +0800">
+        <title lang="zh">读书-2025-284</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011061000 +0800" stop="20251011062000 +0800">
+        <title lang="zh">百家说故事-2025-284</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011062000 +0800" stop="20251011063000 +0800">
+        <title lang="zh">时尚科技秀-2025-284</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011063000 +0800" stop="20251011071300 +0800">
+        <title lang="zh">健康之路-2025-283</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011071300 +0800" stop="20251011075700 +0800">
+        <title lang="zh">科幻地带-2025-42</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011075700 +0800" stop="20251011080000 +0800">
+        <title lang="zh">欣赏-2024年30秒-8</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011080000 +0800" stop="20251011084800 +0800">
+        <title lang="zh">探索·发现-2025-283</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011084800 +0800" stop="20251011094500 +0800">
+        <title lang="zh">探索.发现-奥秘（精编）-2</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011094500 +0800" stop="20251011102200 +0800">
+        <title lang="zh">地理·中国-2025-283</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011102200 +0800" stop="20251011112230 +0800">
+        <title lang="zh">自然传奇-2025-284</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011112230 +0800" stop="20251011120000 +0800">
+        <title lang="zh">味道-2025-204（精编）</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011120000 +0800" stop="20251011124930 +0800">
+        <title lang="zh">百家讲坛-2025-284</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011124930 +0800" stop="20251011135530 +0800">
+        <title lang="zh">剧说历史（第一季）-41</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011135530 +0800" stop="20251011140030 +0800">
+        <title lang="zh">欣赏-2024年30秒-8</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011140030 +0800" stop="20251011143430 +0800">
+        <title lang="zh">地理·中国-2025-283</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011143430 +0800" stop="20251011143930 +0800">
+        <title lang="zh">欣赏-2024年30秒-8</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011143930 +0800" stop="20251011152830 +0800">
+        <title lang="zh">探索·发现-2025-283</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011152830 +0800" stop="20251011162730 +0800">
+        <title lang="zh">探索.发现-奥秘（精编）-3</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011162730 +0800" stop="20251011172730 +0800">
+        <title lang="zh">自然传奇-2025-284</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011172730 +0800" stop="20251011180500 +0800">
+        <title lang="zh">地理·中国-2025-284</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011180500 +0800" stop="20251011185400 +0800">
+        <title lang="zh">健康之路-2025-284</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011185400 +0800" stop="20251011193130 +0800">
+        <title lang="zh">味道-2025-90</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011193130 +0800" stop="20251011203100 +0800">
+        <title lang="zh">自然传奇-2025-285</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011203100 +0800" stop="20251011212030 +0800">
+        <title lang="zh">探索·发现-2025-284</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011212030 +0800" stop="20251011223000 +0800">
+        <title lang="zh">考古公开课-2025-40</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011223000 +0800" stop="20251011232530 +0800">
+        <title lang="zh">2025大千世界-122</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251011232530 +0800" stop="20251011235900 +0800">
+        <title lang="zh">探索.发现-奥秘（精编）-3</title>
+    </programme>
     <channel id="CCTV11戏曲">
         <display-name lang="zh">CCTV11戏曲</display-name>
     </channel>
