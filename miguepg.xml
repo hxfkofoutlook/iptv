@@ -4167,7 +4167,7 @@
     <programme channel="广东卫视" start="20251010223000 +0800" stop="20251010231500 +0800">
         <title lang="zh">西北岁月(39)</title>
     </programme>
-    <programme channel="广东卫视" start="20251010231500 +0800" stop="20251011000000 +0800">
+    <programme channel="广东卫视" start="20251010231500 +0800" stop="20251011003500 +0800">
         <title lang="zh">重播节目、纪录片</title>
     </programme>
     <channel id="江西卫视">
@@ -9750,7 +9750,7 @@
     <programme channel="嘉佳卡通" start="20251010211600 +0800" stop="20251010212000 +0800">
         <title lang="zh">嗨!小喇叭-岭南弦音演出</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20251010212000 +0800" stop="20251011000000 +0800">
+    <programme channel="嘉佳卡通" start="20251010212000 +0800" stop="20251011060000 +0800">
         <title lang="zh">喜羊羊与灰太狼之羊村守护者之九</title>
     </programme>
     <channel id="经典动画大集合">
@@ -10764,10 +10764,3 @@
     <programme channel="环球旅游" start="20251010233000 +0800" stop="20251011000000 +0800">
         <title lang="zh">乡间物语 小导游大视界</title>
     </programme>
-    <channel id="钱塘江">
-        <display-name lang="zh">钱塘江</display-name>
-    </channel>
-    <programme channel="钱塘江" start="20251010000000 +0800" stop="20251011000000 +0800">
-        <title lang="zh">欢迎收看钱塘江风景</title>
-    </programme>
-</tv>
