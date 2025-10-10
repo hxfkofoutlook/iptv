@@ -513,13 +513,13 @@
     <programme channel="CCTV5体育" start="20251010183500 +0800" stop="20251010193000 +0800">
         <title lang="zh">篮球公园</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251010193000 +0800" stop="20251010210000 +0800">
+    <programme channel="CCTV5体育" start="20251010193000 +0800" stop="20251010204800 +0800">
         <title lang="zh">2025/2026赛季斯诺克西安大奖赛-1/8决赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251010210000 +0800" stop="20251010213000 +0800">
+    <programme channel="CCTV5体育" start="20251010204800 +0800" stop="20251010211800 +0800">
         <title lang="zh">体育世界</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251010213000 +0800" stop="20251010223500 +0800">
+    <programme channel="CCTV5体育" start="20251010211800 +0800" stop="20251010223500 +0800">
         <title lang="zh">2025/2026赛季斯诺克西安大奖赛-1/8决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20251010223500 +0800" stop="20251010235900 +0800">
@@ -10764,3 +10764,10 @@
     <programme channel="环球旅游" start="20251010233000 +0800" stop="20251011000000 +0800">
         <title lang="zh">乡间物语 小导游大视界</title>
     </programme>
+    <channel id="钱塘江">
+        <display-name lang="zh">钱塘江</display-name>
+    </channel>
+    <programme channel="钱塘江" start="20251010000000 +0800" stop="20251011000000 +0800">
+        <title lang="zh">欢迎收看钱塘江风景</title>
+    </programme>
+</tv>
