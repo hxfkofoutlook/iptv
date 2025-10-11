@@ -1377,11 +1377,14 @@
     <programme channel="CCTV15音乐" start="20251011191500 +0800" stop="20251011205530 +0800">
         <title lang="zh">国风超有戏·寻风季-8</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20251011205530 +0800" stop="20251011231200 +0800">
-        <title lang="zh">俄罗斯《“国际视界”国际音乐大赛》-1</title>
+    <programme channel="CCTV15音乐" start="20251011205530 +0800" stop="20251011223600 +0800">
+        <title lang="zh">中国音乐电视-缘起天河 情定郧西——2025年湖北·郧西主题音乐会（重播版）</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20251011231200 +0800" stop="20251011235900 +0800">
+    <programme channel="CCTV15音乐" start="20251011223600 +0800" stop="20251011233330 +0800">
         <title lang="zh">CCTV音乐厅-2025-138-《时代交响》系列音乐会（20）纯享版</title>
+    </programme>
+    <programme channel="CCTV15音乐" start="20251011233330 +0800" stop="20251011235900 +0800">
+        <title lang="zh">风华国乐-2025-296</title>
     </programme>
     <channel id="CCTV17农业农村">
         <display-name lang="zh">CCTV17农业农村</display-name>
