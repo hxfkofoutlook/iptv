@@ -5970,17 +5970,23 @@
     <programme channel="体育休闲频道" start="20251011163000 +0800" stop="20251011165000 +0800">
         <title lang="zh">休闲物语</title>
     </programme>
-    <programme channel="体育休闲频道" start="20251011165000 +0800" stop="20251011170000 +0800">
-        <title lang="zh">荔枝健身</title>
+    <programme channel="体育休闲频道" start="20251011165000 +0800" stop="20251011172000 +0800">
+        <title lang="zh">挑战不可能</title>
     </programme>
-    <programme channel="体育休闲频道" start="20251011170000 +0800" stop="20251011173000 +0800">
-        <title lang="zh">欢乐苏超</title>
+    <programme channel="体育休闲频道" start="20251011172000 +0800" stop="20251011174000 +0800">
+        <title lang="zh">休闲物语</title>
     </programme>
-    <programme channel="体育休闲频道" start="20251011173000 +0800" stop="20251011192000 +0800">
-        <title lang="zh">燃情苏超逐鹿八强</title>
+    <programme channel="体育休闲频道" start="20251011174000 +0800" stop="20251011191000 +0800">
+        <title lang="zh">耍大牌</title>
     </programme>
-    <programme channel="体育休闲频道" start="20251011192000 +0800" stop="20251011213000 +0800">
-        <title lang="zh">江苏省城市足球联赛</title>
+    <programme channel="体育休闲频道" start="20251011191000 +0800" stop="20251011193500 +0800">
+        <title lang="zh">休闲物语</title>
+    </programme>
+    <programme channel="体育休闲频道" start="20251011193500 +0800" stop="20251011195000 +0800">
+        <title lang="zh">健康新7点</title>
+    </programme>
+    <programme channel="体育休闲频道" start="20251011195000 +0800" stop="20251011213000 +0800">
+        <title lang="zh">巅峰赛事</title>
     </programme>
     <programme channel="体育休闲频道" start="20251011213000 +0800" stop="20251011214000 +0800">
         <title lang="zh">江苏体育</title>
