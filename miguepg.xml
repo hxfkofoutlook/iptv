@@ -276,13 +276,13 @@
     <programme channel="CCTV3综艺" start="20251011203120 +0800" stop="20251011214935 +0800">
         <title lang="zh">沧海运河谣-5</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20251011214935 +0800" stop="20251011225000 +0800">
-        <title lang="zh">中国乡村音乐大会-月满乡音篇</title>
+    <programme channel="CCTV3综艺" start="20251011214935 +0800" stop="20251011231000 +0800">
+        <title lang="zh">中国乡村音乐大会-一乐千年篇</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20251011225000 +0800" stop="20251011233600 +0800">
+    <programme channel="CCTV3综艺" start="20251011231000 +0800" stop="20251011235600 +0800">
         <title lang="zh">综艺喜乐汇-2025-1176 问心 11/38</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20251011233600 +0800" stop="20251011235900 +0800">
+    <programme channel="CCTV3综艺" start="20251011235600 +0800" stop="20251011235900 +0800">
         <title lang="zh">综艺喜乐汇-2025-1177 问心 12/38</title>
     </programme>
     <channel id="CCTV4中文国际">
