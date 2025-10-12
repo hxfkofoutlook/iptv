@@ -99,11 +99,14 @@
     <programme channel="CCTV1综合" start="20251012214650 +0800" stop="20251012220000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251012220000 +0800" stop="20251012223430 +0800">
+    <programme channel="CCTV1综合" start="20251012220000 +0800" stop="20251012223225 +0800">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251012223430 +0800" stop="20251012235900 +0800">
+    <programme channel="CCTV1综合" start="20251012223225 +0800" stop="20251012234225 +0800">
         <title lang="zh">中国乡村音乐大会-山水绿境篇</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20251012234225 +0800" stop="20251012235900 +0800">
+        <title lang="zh">开讲啦-2025-32</title>
     </programme>
     <channel id="CCTV2财经">
         <display-name lang="zh">CCTV2财经</display-name>
@@ -1018,7 +1021,7 @@
         <title lang="zh">探索·发现-2025-285</title>
     </programme>
     <programme channel="CCTV10科教" start="20251012212030 +0800" stop="20251012220700 +0800">
-        <title lang="zh">读书-2025-377</title>
+        <title lang="zh">读书-2025-375</title>
     </programme>
     <programme channel="CCTV10科教" start="20251012220700 +0800" stop="20251012230530 +0800">
         <title lang="zh">2025大千世界-123</title>
