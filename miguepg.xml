@@ -3969,11 +3969,8 @@
     <programme channel="江苏卫视" start="20251013190000 +0800" stop="20251013193300 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="江苏卫视" start="20251013193300 +0800" stop="20251013202600 +0800">
-        <title lang="zh">围猎（22）</title>
-    </programme>
-    <programme channel="江苏卫视" start="20251013202600 +0800" stop="20251013211400 +0800">
-        <title lang="zh">围猎（23）</title>
+    <programme channel="江苏卫视" start="20251013193300 +0800" stop="20251013211400 +0800">
+        <title lang="zh">围猎22-23</title>
     </programme>
     <programme channel="江苏卫视" start="20251013211400 +0800" stop="20251013223000 +0800">
         <title lang="zh">一站到底·少年季</title>
