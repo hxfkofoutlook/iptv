@@ -399,13 +399,13 @@
     <programme channel="CCTV4中文国际" start="20251015095400 +0800" stop="20251015100000 +0800">
         <title lang="zh">记住乡愁-片段展播-2024-4</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20251015100000 +0800" stop="20251015103200 +0800">
+    <programme channel="CCTV4中文国际" start="20251015100000 +0800" stop="20251015103500 +0800">
         <title lang="zh">2025年国台办发布会-17</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20251015103200 +0800" stop="20251015110000 +0800">
+    <programme channel="CCTV4中文国际" start="20251015103500 +0800" stop="20251015110300 +0800">
         <title lang="zh">走遍中国-2025-164</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20251015110000 +0800" stop="20251015113000 +0800">
+    <programme channel="CCTV4中文国际" start="20251015110300 +0800" stop="20251015113000 +0800">
         <title lang="zh">国家记忆-2025-144</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20251015113000 +0800" stop="20251015120000 +0800">
@@ -1674,26 +1674,20 @@
     <programme channel="CCTV4欧洲" start="20251015090000 +0800" stop="20251015100000 +0800">
         <title lang="zh">远方的家2025-生态中国7</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20251015100000 +0800" stop="20251015103500 +0800">
+    <programme channel="CCTV4欧洲" start="20251015100000 +0800" stop="20251015104000 +0800">
         <title lang="zh">2025年国台办发布会-17</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20251015103500 +0800" stop="20251015111630 +0800">
+    <programme channel="CCTV4欧洲" start="20251015104000 +0800" stop="20251015112130 +0800">
         <title lang="zh">什刹海-（四套）-24/37</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20251015111630 +0800" stop="20251015114630 +0800">
+    <programme channel="CCTV4欧洲" start="20251015112130 +0800" stop="20251015115130 +0800">
         <title lang="zh">国家记忆-2025-144</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20251015114630 +0800" stop="20251015115030 +0800">
+    <programme channel="CCTV4欧洲" start="20251015115130 +0800" stop="20251015115530 +0800">
         <title lang="zh">记住乡愁-片段展播-2024-6</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20251015115030 +0800" stop="20251015115330 +0800">
+    <programme channel="CCTV4欧洲" start="20251015115530 +0800" stop="20251015120000 +0800">
         <title lang="zh">记住乡愁-片段展播-2024-22</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20251015115330 +0800" stop="20251015115630 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-25</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20251015115630 +0800" stop="20251015120000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-42</title>
     </programme>
     <programme channel="CCTV4欧洲" start="20251015120000 +0800" stop="20251015130000 +0800">
         <title lang="zh">中国新闻</title>
@@ -1824,23 +1818,17 @@
     <programme channel="CCTV4美洲" start="20251015095200 +0800" stop="20251015100000 +0800">
         <title lang="zh">记住乡愁-片段展播-2024-10</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20251015100000 +0800" stop="20251015103500 +0800">
+    <programme channel="CCTV4美洲" start="20251015100000 +0800" stop="20251015104000 +0800">
         <title lang="zh">2025年国台办发布会-17</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20251015103500 +0800" stop="20251015103900 +0800">
+    <programme channel="CCTV4美洲" start="20251015104000 +0800" stop="20251015104400 +0800">
         <title lang="zh">记住乡愁-片段展播-2024-5</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20251015103900 +0800" stop="20251015112500 +0800">
+    <programme channel="CCTV4美洲" start="20251015104400 +0800" stop="20251015113000 +0800">
         <title lang="zh">凡人歌第6集</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20251015112500 +0800" stop="20251015115500 +0800">
+    <programme channel="CCTV4美洲" start="20251015113000 +0800" stop="20251015120000 +0800">
         <title lang="zh">国家记忆-2025-144</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20251015115500 +0800" stop="20251015115800 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-10</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20251015115800 +0800" stop="20251015120000 +0800">
-        <title lang="zh">记住乡愁-片段展播-2024-42</title>
     </programme>
     <programme channel="CCTV4美洲" start="20251015120000 +0800" stop="20251015130000 +0800">
         <title lang="zh">中国新闻</title>
@@ -9021,8 +9009,35 @@
     <channel id="CETV4">
         <display-name lang="zh">CETV4</display-name>
     </channel>
-    <programme channel="CETV4" start="20251014234000 +0800" stop="20251015060000 +0800">
+    <programme channel="CETV4" start="20251014234000 +0800" stop="20251015001500 +0800">
         <title lang="zh">疾风少年</title>
+    </programme>
+    <programme channel="CETV4" start="20251015001500 +0800" stop="20251015010500 +0800">
+        <title lang="zh">探索</title>
+    </programme>
+    <programme channel="CETV4" start="20251015010500 +0800" stop="20251015013000 +0800">
+        <title lang="zh">闪耀职教</title>
+    </programme>
+    <programme channel="CETV4" start="20251015013000 +0800" stop="20251015020000 +0800">
+        <title lang="zh">数字体育潮</title>
+    </programme>
+    <programme channel="CETV4" start="20251015020000 +0800" stop="20251015024500 +0800">
+        <title lang="zh">职教中国</title>
+    </programme>
+    <programme channel="CETV4" start="20251015024500 +0800" stop="20251015031500 +0800">
+        <title lang="zh">疾风少年</title>
+    </programme>
+    <programme channel="CETV4" start="20251015031500 +0800" stop="20251015034500 +0800">
+        <title lang="zh">体谈</title>
+    </programme>
+    <programme channel="CETV4" start="20251015034500 +0800" stop="20251015044000 +0800">
+        <title lang="zh">探索</title>
+    </programme>
+    <programme channel="CETV4" start="20251015044000 +0800" stop="20251015051000 +0800">
+        <title lang="zh">数字体育潮</title>
+    </programme>
+    <programme channel="CETV4" start="20251015051000 +0800" stop="20251015060000 +0800">
+        <title lang="zh">职教中国</title>
     </programme>
     <programme channel="CETV4" start="20251015060000 +0800" stop="20251015062000 +0800">
         <title lang="zh">金牌体育课</title>
@@ -9033,8 +9048,11 @@
     <programme channel="CETV4" start="20251015070000 +0800" stop="20251015073000 +0800">
         <title lang="zh">疾风少年</title>
     </programme>
-    <programme channel="CETV4" start="20251015073000 +0800" stop="20251015080000 +0800">
+    <programme channel="CETV4" start="20251015073000 +0800" stop="20251015075500 +0800">
         <title lang="zh">体谈</title>
+    </programme>
+    <programme channel="CETV4" start="20251015075500 +0800" stop="20251015080000 +0800">
+        <title lang="zh">劳模工程纪录</title>
     </programme>
     <programme channel="CETV4" start="20251015080000 +0800" stop="20251015083000 +0800">
         <title lang="zh">国医名师课</title>
@@ -9046,39 +9064,69 @@
         <title lang="zh">墨香</title>
     </programme>
     <programme channel="CETV4" start="20251015093000 +0800" stop="20251015100000 +0800">
-        <title lang="zh">冠军说</title>
+        <title lang="zh">乡村新事记</title>
     </programme>
-    <programme channel="CETV4" start="20251015100000 +0800" stop="20251015110000 +0800">
+    <programme channel="CETV4" start="20251015100000 +0800" stop="20251015103000 +0800">
         <title lang="zh">等着我</title>
     </programme>
-    <programme channel="CETV4" start="20251015110000 +0800" stop="20251015120000 +0800">
+    <programme channel="CETV4" start="20251015103000 +0800" stop="20251015110000 +0800">
+        <title lang="zh">美丽人生</title>
+    </programme>
+    <programme channel="CETV4" start="20251015110000 +0800" stop="20251015113000 +0800">
         <title lang="zh">等着我</title>
     </programme>
-    <programme channel="CETV4" start="20251015120000 +0800" stop="20251015130000 +0800">
+    <programme channel="CETV4" start="20251015113000 +0800" stop="20251015120000 +0800">
+        <title lang="zh">美丽人生</title>
+    </programme>
+    <programme channel="CETV4" start="20251015120000 +0800" stop="20251015123000 +0800">
         <title lang="zh">等着我</title>
+    </programme>
+    <programme channel="CETV4" start="20251015123000 +0800" stop="20251015130000 +0800">
+        <title lang="zh">美丽人生</title>
     </programme>
     <programme channel="CETV4" start="20251015130000 +0800" stop="20251015140000 +0800">
         <title lang="zh">乒乓青春</title>
     </programme>
-    <programme channel="CETV4" start="20251015140000 +0800" stop="20251015150000 +0800">
+    <programme channel="CETV4" start="20251015140000 +0800" stop="20251015143000 +0800">
         <title lang="zh">等着我</title>
     </programme>
-    <programme channel="CETV4" start="20251015150000 +0800" stop="20251015160000 +0800">
+    <programme channel="CETV4" start="20251015143000 +0800" stop="20251015150000 +0800">
+        <title lang="zh">美丽人生</title>
+    </programme>
+    <programme channel="CETV4" start="20251015150000 +0800" stop="20251015153000 +0800">
         <title lang="zh">等着我</title>
     </programme>
-    <programme channel="CETV4" start="20251015160000 +0800" stop="20251015170000 +0800">
+    <programme channel="CETV4" start="20251015153000 +0800" stop="20251015160000 +0800">
+        <title lang="zh">美丽人生</title>
+    </programme>
+    <programme channel="CETV4" start="20251015160000 +0800" stop="20251015163000 +0800">
         <title lang="zh">等着我</title>
     </programme>
-    <programme channel="CETV4" start="20251015170000 +0800" stop="20251015180000 +0800">
+    <programme channel="CETV4" start="20251015163000 +0800" stop="20251015170000 +0800">
+        <title lang="zh">美丽人生</title>
+    </programme>
+    <programme channel="CETV4" start="20251015170000 +0800" stop="20251015173000 +0800">
         <title lang="zh">等着我</title>
     </programme>
-    <programme channel="CETV4" start="20251015180000 +0800" stop="20251015190000 +0800">
+    <programme channel="CETV4" start="20251015173000 +0800" stop="20251015180000 +0800">
+        <title lang="zh">美丽人生</title>
+    </programme>
+    <programme channel="CETV4" start="20251015180000 +0800" stop="20251015183000 +0800">
         <title lang="zh">等着我</title>
+    </programme>
+    <programme channel="CETV4" start="20251015183000 +0800" stop="20251015190000 +0800">
+        <title lang="zh">美丽人生</title>
     </programme>
     <programme channel="CETV4" start="20251015190000 +0800" stop="20251015193000 +0800">
         <title lang="zh">e体资讯</title>
     </programme>
-    <programme channel="CETV4" start="20251015193000 +0800" stop="20251015220000 +0800">
+    <programme channel="CETV4" start="20251015193000 +0800" stop="20251015203000 +0800">
+        <title lang="zh">青春训练营</title>
+    </programme>
+    <programme channel="CETV4" start="20251015203000 +0800" stop="20251015213000 +0800">
+        <title lang="zh">青春训练营</title>
+    </programme>
+    <programme channel="CETV4" start="20251015213000 +0800" stop="20251015220000 +0800">
         <title lang="zh">青春训练营</title>
     </programme>
     <programme channel="CETV4" start="20251015220000 +0800" stop="20251015223000 +0800">
