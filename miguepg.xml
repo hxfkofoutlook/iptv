@@ -81,10 +81,10 @@
     <programme channel="CCTV1综合" start="20251015175715 +0800" stop="20251015181925 +0800">
         <title lang="zh">第一动画乐园-2025-341</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251015181925 +0800" stop="20251015185200 +0800">
+    <programme channel="CCTV1综合" start="20251015181925 +0800" stop="20251015184945 +0800">
         <title lang="zh">农耕探文明-2025-3</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251015185200 +0800" stop="20251015190000 +0800">
+    <programme channel="CCTV1综合" start="20251015184945 +0800" stop="20251015190000 +0800">
         <title lang="zh">秘境之眼-2025-285</title>
     </programme>
     <programme channel="CCTV1综合" start="20251015190000 +0800" stop="20251015194050 +0800">
@@ -103,7 +103,7 @@
         <title lang="zh">前情提要-阵地-第27集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251015210150 +0800" stop="20251015220000 +0800">
-        <title lang="zh">阵地27/32</title>
+        <title lang="zh">阵地第27集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251015220000 +0800" stop="20251015223400 +0800">
         <title lang="zh">晚间新闻</title>
@@ -4686,50 +4686,53 @@
     <programme channel="青海卫视" start="20251015055600 +0800" stop="20251015070000 +0800">
         <title lang="zh">午夜剧场</title>
     </programme>
-    <programme channel="青海卫视" start="20251015070000 +0800" stop="20251015073000 +0800">
+    <programme channel="青海卫视" start="20251015070000 +0800" stop="20251015070100 +0800">
+        <title lang="zh">中华人民共和国国歌</title>
+    </programme>
+    <programme channel="青海卫视" start="20251015070100 +0800" stop="20251015072600 +0800">
         <title lang="zh">青海新闻联播</title>
     </programme>
-    <programme channel="青海卫视" start="20251015073000 +0800" stop="20251015074900 +0800">
-        <title lang="zh">江源扫描</title>
+    <programme channel="青海卫视" start="20251015072600 +0800" stop="20251015081100 +0800">
+        <title lang="zh">今日青海</title>
     </programme>
-    <programme channel="青海卫视" start="20251015074900 +0800" stop="20251015081100 +0800">
-        <title lang="zh">纪录时间</title>
+    <programme channel="青海卫视" start="20251015081100 +0800" stop="20251015084600 +0800">
+        <title lang="zh">昆仑剧场:康熙微服私访记3</title>
     </programme>
-    <programme channel="青海卫视" start="20251015081100 +0800" stop="20251015090600 +0800">
-        <title lang="zh">昆仑剧场:薛丁山(33)</title>
+    <programme channel="青海卫视" start="20251015084600 +0800" stop="20251015093500 +0800">
+        <title lang="zh">昆仑剧场:康熙微服私访记4</title>
     </programme>
-    <programme channel="青海卫视" start="20251015090600 +0800" stop="20251015100500 +0800">
-        <title lang="zh">昆仑剧场:薛丁山(34)</title>
+    <programme channel="青海卫视" start="20251015093500 +0800" stop="20251015102300 +0800">
+        <title lang="zh">昆仑剧场:康熙微服私访记5</title>
     </programme>
-    <programme channel="青海卫视" start="20251015100500 +0800" stop="20251015105200 +0800">
-        <title lang="zh">昆仑剧场:薛丁山(35)</title>
+    <programme channel="青海卫视" start="20251015102300 +0800" stop="20251015112000 +0800">
+        <title lang="zh">昆仑剧场:康熙微服私访记6</title>
     </programme>
-    <programme channel="青海卫视" start="20251015105200 +0800" stop="20251015114200 +0800">
-        <title lang="zh">昆仑剧场:薛丁山(36)</title>
-    </programme>
-    <programme channel="青海卫视" start="20251015114200 +0800" stop="20251015123000 +0800">
-        <title lang="zh">昆仑剧场:薛丁山(37)</title>
+    <programme channel="青海卫视" start="20251015112000 +0800" stop="20251015123000 +0800">
+        <title lang="zh">昆仑剧场:康熙微服私访记7</title>
     </programme>
     <programme channel="青海卫视" start="20251015123000 +0800" stop="20251015125700 +0800">
-        <title lang="zh">午间360</title>
+        <title lang="zh">午间360度</title>
     </programme>
-    <programme channel="青海卫视" start="20251015125700 +0800" stop="20251015140100 +0800">
-        <title lang="zh">郁金香剧场:薛丁山(38)</title>
+    <programme channel="青海卫视" start="20251015125700 +0800" stop="20251015135500 +0800">
+        <title lang="zh">郁金香剧场:康熙微服私访记8</title>
     </programme>
-    <programme channel="青海卫视" start="20251015140100 +0800" stop="20251015145400 +0800">
-        <title lang="zh">郁金香剧场:薛丁山(39)</title>
+    <programme channel="青海卫视" start="20251015135500 +0800" stop="20251015145400 +0800">
+        <title lang="zh">郁金香剧场:康熙微服私访记9</title>
     </programme>
-    <programme channel="青海卫视" start="20251015145400 +0800" stop="20251015154800 +0800">
-        <title lang="zh">郁金香剧场:薛丁山(40)</title>
+    <programme channel="青海卫视" start="20251015145400 +0800" stop="20251015155500 +0800">
+        <title lang="zh">郁金香剧场:康熙微服私访记10</title>
     </programme>
-    <programme channel="青海卫视" start="20251015154800 +0800" stop="20251015164200 +0800">
-        <title lang="zh">郁金香剧场</title>
+    <programme channel="青海卫视" start="20251015155500 +0800" stop="20251015165300 +0800">
+        <title lang="zh">郁金香剧场:康熙微服私访记11</title>
     </programme>
-    <programme channel="青海卫视" start="20251015164200 +0800" stop="20251015174600 +0800">
-        <title lang="zh">郁金香剧场</title>
+    <programme channel="青海卫视" start="20251015165300 +0800" stop="20251015175000 +0800">
+        <title lang="zh">郁金香剧场:康熙微服私访记12</title>
     </programme>
-    <programme channel="青海卫视" start="20251015174600 +0800" stop="20251015183000 +0800">
+    <programme channel="青海卫视" start="20251015175000 +0800" stop="20251015182000 +0800">
         <title lang="zh">动画片剧场:乐比大冒险</title>
+    </programme>
+    <programme channel="青海卫视" start="20251015182000 +0800" stop="20251015183000 +0800">
+        <title lang="zh">青海省天气预报</title>
     </programme>
     <programme channel="青海卫视" start="20251015183000 +0800" stop="20251015190000 +0800">
         <title lang="zh">青海新闻联播</title>
@@ -4740,23 +4743,20 @@
     <programme channel="青海卫视" start="20251015193400 +0800" stop="20251015202400 +0800">
         <title lang="zh">第一挑战剧场:狂飙(10)</title>
     </programme>
-    <programme channel="青海卫视" start="20251015202400 +0800" stop="20251015213000 +0800">
+    <programme channel="青海卫视" start="20251015202400 +0800" stop="20251015212000 +0800">
         <title lang="zh">第一挑战剧场:狂飙(11)</title>
     </programme>
-    <programme channel="青海卫视" start="20251015213000 +0800" stop="20251015220400 +0800">
-        <title lang="zh">昆仑眼</title>
+    <programme channel="青海卫视" start="20251015212000 +0800" stop="20251015220000 +0800">
+        <title lang="zh">纪录片</title>
     </programme>
-    <programme channel="青海卫视" start="20251015220400 +0800" stop="20251015222000 +0800">
-        <title lang="zh">男生女生上高原</title>
-    </programme>
-    <programme channel="青海卫视" start="20251015222000 +0800" stop="20251015230000 +0800">
-        <title lang="zh">大美青海</title>
-    </programme>
-    <programme channel="青海卫视" start="20251015230000 +0800" stop="20251015232400 +0800">
+    <programme channel="青海卫视" start="20251015220000 +0800" stop="20251015222000 +0800">
         <title lang="zh">晚间播报</title>
     </programme>
-    <programme channel="青海卫视" start="20251015232400 +0800" stop="20251016010400 +0800">
-        <title lang="zh">午夜剧场</title>
+    <programme channel="青海卫视" start="20251015222000 +0800" stop="20251015223000 +0800">
+        <title lang="zh">今日青海</title>
+    </programme>
+    <programme channel="青海卫视" start="20251015223000 +0800" stop="20251016010400 +0800">
+        <title lang="zh">光荣与梦想</title>
     </programme>
     <channel id="东南卫视">
         <display-name lang="zh">东南卫视</display-name>
