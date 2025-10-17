@@ -1368,13 +1368,13 @@
     <programme channel="CCTV13新闻" start="20251017210000 +0800" stop="20251017213000 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251017213000 +0800" stop="20251017220000 +0800">
+    <programme channel="CCTV13新闻" start="20251017213000 +0800" stop="20251017215300 +0800">
         <title lang="zh">高端访谈</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251017220000 +0800" stop="20251017223000 +0800">
+    <programme channel="CCTV13新闻" start="20251017215300 +0800" stop="20251017222300 +0800">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251017223000 +0800" stop="20251017230000 +0800">
+    <programme channel="CCTV13新闻" start="20251017222300 +0800" stop="20251017230000 +0800">
         <title lang="zh">国际时讯</title>
     </programme>
     <programme channel="CCTV13新闻" start="20251017230000 +0800" stop="20251017235900 +0800">
