@@ -3708,8 +3708,8 @@
     <programme channel="24小时城市联赛轮播台" start="20251017204000 +0800" stop="20251017224000 +0800">
         <title lang="zh">河南豫排第二阶段第2轮回放：航空港区3:1新乡南太行</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251017224000 +0800" stop="20251018005700 +0800">
-        <title lang="zh">江西赣超第13轮全场回放：宜春1:0抚州</title>
+    <programme channel="24小时城市联赛轮播台" start="20251017224000 +0800" stop="20251018005600 +0800">
+        <title lang="zh">四川川超第3轮全场回放：攀枝花攀钢钢铁勇士队1:1雅安貊貊队</title>
     </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
@@ -5604,50 +5604,53 @@
     <programme channel="上视东方影视" start="20251017113200 +0800" stop="20251017122000 +0800">
         <title lang="zh">38集连续剧：追风者（12）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251017122000 +0800" stop="20251017123500 +0800">
+    <programme channel="上视东方影视" start="20251017122000 +0800" stop="20251017124100 +0800">
         <title lang="zh">超级装</title>
     </programme>
-    <programme channel="上视东方影视" start="20251017123500 +0800" stop="20251017132300 +0800">
+    <programme channel="上视东方影视" start="20251017124100 +0800" stop="20251017133200 +0800">
         <title lang="zh">42集连续剧：怒火英雄（33）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251017132300 +0800" stop="20251017133300 +0800">
+    <programme channel="上视东方影视" start="20251017133200 +0800" stop="20251017134400 +0800">
         <title lang="zh">都市焕新家</title>
     </programme>
-    <programme channel="上视东方影视" start="20251017133300 +0800" stop="20251017143000 +0800">
+    <programme channel="上视东方影视" start="20251017134400 +0800" stop="20251017143700 +0800">
         <title lang="zh">42集连续剧：怒火英雄（34）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251017143000 +0800" stop="20251017152700 +0800">
+    <programme channel="上视东方影视" start="20251017143700 +0800" stop="20251017153100 +0800">
         <title lang="zh">42集连续剧：怒火英雄（35）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251017152700 +0800" stop="20251017162100 +0800">
+    <programme channel="上视东方影视" start="20251017153100 +0800" stop="20251017162400 +0800">
         <title lang="zh">44集连续剧：潜伏在黎明之前（15）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251017162100 +0800" stop="20251017171600 +0800">
+    <programme channel="上视东方影视" start="20251017162400 +0800" stop="20251017171600 +0800">
         <title lang="zh">44集连续剧：潜伏在黎明之前（16）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251017171600 +0800" stop="20251017180500 +0800">
+    <programme channel="上视东方影视" start="20251017171600 +0800" stop="20251017180800 +0800">
         <title lang="zh">44集连续剧：潜伏在黎明之前（17）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251017180500 +0800" stop="20251017185000 +0800">
+    <programme channel="上视东方影视" start="20251017180800 +0800" stop="20251017185000 +0800">
         <title lang="zh">44集连续剧：潜伏在黎明之前（18）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251017185000 +0800" stop="20251017194100 +0800">
+    <programme channel="上视东方影视" start="20251017185000 +0800" stop="20251017193900 +0800">
         <title lang="zh">38集连续剧：追风者（13）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251017194100 +0800" stop="20251017203200 +0800">
+    <programme channel="上视东方影视" start="20251017193900 +0800" stop="20251017203400 +0800">
         <title lang="zh">38集连续剧：追风者（14）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251017203200 +0800" stop="20251017212100 +0800">
+    <programme channel="上视东方影视" start="20251017203400 +0800" stop="20251017212600 +0800">
         <title lang="zh">38集连续剧：追风者（15）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251017212100 +0800" stop="20251017221000 +0800">
+    <programme channel="上视东方影视" start="20251017212600 +0800" stop="20251017221900 +0800">
         <title lang="zh">38集连续剧：追风者（16）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251017221000 +0800" stop="20251017230000 +0800">
+    <programme channel="上视东方影视" start="20251017221900 +0800" stop="20251017231200 +0800">
         <title lang="zh">38集连续剧：追风者（17）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251017230000 +0800" stop="20251018000400 +0800">
+    <programme channel="上视东方影视" start="20251017231200 +0800" stop="20251017235700 +0800">
         <title lang="zh">36集连续剧：新猛龙过江（9）</title>
+    </programme>
+    <programme channel="上视东方影视" start="20251017235700 +0800" stop="20251018004000 +0800">
+        <title lang="zh">36集连续剧：新猛龙过江（10）</title>
     </programme>
     <channel id="南京新闻综合频道">
         <display-name lang="zh">南京新闻综合频道</display-name>
