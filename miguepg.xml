@@ -9441,8 +9441,8 @@
     <channel id="嘉佳卡通">
         <display-name lang="zh">嘉佳卡通</display-name>
     </channel>
-    <programme channel="嘉佳卡通" start="20251018000000 +0800" stop="20251018235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="嘉佳卡通" start="20251018000000 +0800" stop="20251019000000 +0800">
+        <title lang="zh">欢迎收看嘉佳卡通频道</title>
     </programme>
     <channel id="经典动画大集合">
         <display-name lang="zh">经典动画大集合</display-name>
