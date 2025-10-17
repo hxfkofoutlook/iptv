@@ -729,26 +729,32 @@
     <programme channel="CCTV7国防军事" start="20251017130830 +0800" stop="20251017134130 +0800">
         <title lang="zh">军迷行天下-2025-42</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20251017134130 +0800" stop="20251017140630 +0800">
+    <programme channel="CCTV7国防军事" start="20251017134130 +0800" stop="20251017140830 +0800">
         <title lang="zh">兵器面面观-2025-207</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20251017140630 +0800" stop="20251017143000 +0800">
+    <programme channel="CCTV7国防军事" start="20251017140830 +0800" stop="20251017143030 +0800">
         <title lang="zh">军事纪录-2025-199</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20251017143000 +0800" stop="20251017153000 +0800">
-        <title lang="zh">直击第七届中国天津国际直升机博览会-特别节目2</title>
+    <programme channel="CCTV7国防军事" start="20251017143030 +0800" stop="20251017143700 +0800">
+        <title lang="zh">国防军事频道时段导视-军迷之眼11-苏30</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20251017153000 +0800" stop="20251017161600 +0800">
+    <programme channel="CCTV7国防军事" start="20251017143700 +0800" stop="20251017152300 +0800">
         <title lang="zh">铁道风云5/34</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20251017161600 +0800" stop="20251017170300 +0800">
+    <programme channel="CCTV7国防军事" start="20251017152300 +0800" stop="20251017161000 +0800">
         <title lang="zh">铁道风云6/34</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20251017170300 +0800" stop="20251017173100 +0800">
+    <programme channel="CCTV7国防军事" start="20251017161000 +0800" stop="20251017165800 +0800">
+        <title lang="zh">铁道风云7/34</title>
+    </programme>
+    <programme channel="CCTV7国防军事" start="20251017165800 +0800" stop="20251017172600 +0800">
         <title lang="zh">世界战史-2025-191</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20251017173100 +0800" stop="20251017175600 +0800">
+    <programme channel="CCTV7国防军事" start="20251017172600 +0800" stop="20251017175100 +0800">
         <title lang="zh">军事纪录-2025-200</title>
+    </programme>
+    <programme channel="CCTV7国防军事" start="20251017175100 +0800" stop="20251017175600 +0800">
+        <title lang="zh">国防军事频道时段导视-军迷之眼10 -歼20</title>
     </programme>
     <programme channel="CCTV7国防军事" start="20251017175600 +0800" stop="20251017180230 +0800">
         <title lang="zh">国防微视频-军歌嘹亮-情深意长（长征歌曲展播）</title>
