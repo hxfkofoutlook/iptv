@@ -127,12 +127,31 @@ class Spider(Spider):
     def getlist(self,data):
         videos = []
         for vod in data:
-            r=f"更新至{vod.get('updateInfo')}" if vod.get('updateInfo') else ''
+            # 优先显示更新信息
+            if vod.get('updateInfo'):
+                remarks = f"更新至{vod.get('updateInfo')}"
+            # 如果评分为0.0，尝试显示其他字段
+            elif vod.get('score') in ['0.0', '0', ''] or not vod.get('score'):
+                # 按优先级显示其他字段
+                if vod.get('year'):
+                    remarks = vod.get('year')
+                elif vod.get('area'):
+                    remarks = vod.get('area')
+                elif vod.get('lang'):
+                    remarks = vod.get('lang')
+                elif vod.get('className'):
+                    remarks = vod.get('className')
+                else:
+                    remarks = ''
+            else:
+                # 正常显示评分
+                remarks = vod['score']
+            
             videos.append({
                 "vod_id": vod['id'],
                 "vod_name": vod['name'],
                 "vod_pic": vod['pic'],
-                "vod_remarks": r or vod['score']
+                "vod_remarks": remarks
             })
 
         return videos
