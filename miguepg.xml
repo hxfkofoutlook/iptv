@@ -841,19 +841,19 @@
         <title lang="zh">本集提要-沉默的荣耀-第37集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251018193000 +0800" stop="20251018202605 +0800">
-        <title lang="zh">沉默的荣耀37/39</title>
+        <title lang="zh">沉默的荣耀第37集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251018202605 +0800" stop="20251018203105 +0800">
         <title lang="zh">本集提要-沉默的荣耀-第38集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251018203105 +0800" stop="20251018212505 +0800">
-        <title lang="zh">沉默的荣耀38/39</title>
+        <title lang="zh">沉默的荣耀第38集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251018212505 +0800" stop="20251018213000 +0800">
         <title lang="zh">本集提要-沉默的荣耀-第39集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251018213000 +0800" stop="20251018222105 +0800">
-        <title lang="zh">沉默的荣耀39/39</title>
+        <title lang="zh">沉默的荣耀第39集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251018222105 +0800" stop="20251018231035 +0800">
         <title lang="zh">淬火年代第34集</title>
@@ -3624,8 +3624,11 @@
     <programme channel="24小时城市联赛轮播台" start="20251018191700 +0800" stop="20251018221100 +0800">
         <title lang="zh">江苏苏超1/4决赛全场回放：徐州队1:1泰州队（点球2:4）</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251018221100 +0800" stop="20251019000900 +0800">
-        <title lang="zh">新疆乌超A组第5轮全场回放：达坂城区代表队2:1水磨沟区代表队</title>
+    <programme channel="24小时城市联赛轮播台" start="20251018221100 +0800" stop="20251018232700 +0800">
+        <title lang="zh">河南豫排第二阶段第3轮回放：洛阳3:0商丘科迪花木兰</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20251018232700 +0800" stop="20251019024100 +0800">
+        <title lang="zh">四川川超第3轮全场回放：内江重龍酒队1:1宜宾长江首城队</title>
     </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
