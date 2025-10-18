@@ -9441,8 +9441,47 @@
     <channel id="嘉佳卡通">
         <display-name lang="zh">嘉佳卡通</display-name>
     </channel>
-    <programme channel="嘉佳卡通" start="20251018000000 +0800" stop="20251019000000 +0800">
-        <title lang="zh">欢迎收看嘉佳卡通频道</title>
+    <programme channel="嘉佳卡通" start="20251017211400 +0800" stop="20251018055900 +0800">
+        <title lang="zh">喜羊羊与灰太狼之羊村守护者十一</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251018055900 +0800" stop="20251018080000 +0800">
+        <title lang="zh">猪猪侠之竞速小英雄六</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251018080000 +0800" stop="20251018091600 +0800">
+        <title lang="zh">奶龙之奇妙冒险</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251018091600 +0800" stop="20251018093200 +0800">
+        <title lang="zh">嗨！小喇叭之少年大本营</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251018093200 +0800" stop="20251018111900 +0800">
+        <title lang="zh">奶龙之奇妙冒险</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251018111900 +0800" stop="20251018113000 +0800">
+        <title lang="zh">2025蕃尼蕃尼之嘉有好朋友</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251018113000 +0800" stop="20251018135900 +0800">
+        <title lang="zh">海底小纵队-中国之旅二</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251018135900 +0800" stop="20251018160000 +0800">
+        <title lang="zh">薇薇猫的日常</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251018160000 +0800" stop="20251018163300 +0800">
+        <title lang="zh">奶龙搞怪大作战</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251018163300 +0800" stop="20251018185800 +0800">
+        <title lang="zh">嗨！小喇叭-愿望喵喵</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251018185800 +0800" stop="20251018192900 +0800">
+        <title lang="zh">奶龙奇妙冒险</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251018192900 +0800" stop="20251018200500 +0800">
+        <title lang="zh">超级飞侠十八</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251018200500 +0800" stop="20251018215000 +0800">
+        <title lang="zh">喜羊羊与灰太狼之羊村守护者十一</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251018215000 +0800" stop="20251019055900 +0800">
+        <title lang="zh">喜羊羊与灰太狼之羊村守护者十</title>
     </programme>
     <channel id="经典动画大集合">
         <display-name lang="zh">经典动画大集合</display-name>
