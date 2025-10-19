@@ -9537,8 +9537,8 @@
     <channel id="最强综艺趴">
         <display-name lang="zh">最强综艺趴</display-name>
     </channel>
-    <programme channel="最强综艺趴" start="20251020000000 +0800" stop="20251020235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="最强综艺趴" start="20251020000000 +0800" stop="20251021000000 +0800">
+        <title lang="zh">欢迎收看最强综艺趴频道</title>
     </programme>
     <channel id="嘉佳卡通">
         <display-name lang="zh">嘉佳卡通</display-name>
