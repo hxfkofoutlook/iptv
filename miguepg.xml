@@ -1269,10 +1269,10 @@
     <programme channel="CCTV13新闻" start="20251020041500 +0800" stop="20251020050000 +0800">
         <title lang="zh">世界周刊</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251020050000 +0800" stop="20251020053500 +0800">
+    <programme channel="CCTV13新闻" start="20251020050000 +0800" stop="20251020053300 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251020053500 +0800" stop="20251020060000 +0800">
+    <programme channel="CCTV13新闻" start="20251020053300 +0800" stop="20251020060000 +0800">
         <title lang="zh">面对面</title>
     </programme>
     <programme channel="CCTV13新闻" start="20251020060000 +0800" stop="20251020090000 +0800">
@@ -1299,10 +1299,10 @@
     <programme channel="CCTV13新闻" start="20251020130000 +0800" stop="20251020140000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251020140000 +0800" stop="20251020141200 +0800">
+    <programme channel="CCTV13新闻" start="20251020140000 +0800" stop="20251020143300 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251020141200 +0800" stop="20251020150000 +0800">
+    <programme channel="CCTV13新闻" start="20251020143300 +0800" stop="20251020150000 +0800">
         <title lang="zh">面对面</title>
     </programme>
     <programme channel="CCTV13新闻" start="20251020150000 +0800" stop="20251020160000 +0800">
