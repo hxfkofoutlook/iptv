@@ -3720,11 +3720,11 @@
     <programme channel="24小时城市联赛轮播台" start="20251020184100 +0800" stop="20251020211400 +0800">
         <title lang="zh">江苏苏超半决赛全场回放：南京队1:1泰州队（点球7:8）</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251020211400 +0800" stop="20251020233400 +0800">
-        <title lang="zh">广东省超第5轮全场回放：梅州强民3:3清远恒足东鹏</title>
+    <programme channel="24小时城市联赛轮播台" start="20251020211400 +0800" stop="20251020233800 +0800">
+        <title lang="zh">江苏苏超半决赛全场回放：南通队0:0无锡队（点球4:2）</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251020233400 +0800" stop="20251021025100 +0800">
-        <title lang="zh">四川川超第5轮：泸州窖香队2:2内江重龍酒队</title>
+    <programme channel="24小时城市联赛轮播台" start="20251020233800 +0800" stop="20251021014800 +0800">
+        <title lang="zh">四川川超第5轮：资阳中国牙谷队0:5宜宾长江首城队</title>
     </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
@@ -9582,8 +9582,65 @@
     <channel id="最强综艺趴">
         <display-name lang="zh">最强综艺趴</display-name>
     </channel>
-    <programme channel="最强综艺趴" start="20251020000000 +0800" stop="20251021000000 +0800">
-        <title lang="zh">欢迎收看最强综艺趴频道</title>
+    <programme channel="最强综艺趴" start="20251020000000 +0800" stop="20251020013000 +0800">
+        <title lang="zh">乐在旅途20240921寻音乐队燃情重庆，音乐点亮山城夜空</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20251020013000 +0800" stop="20251020021500 +0800">
+        <title lang="zh">等着我20240918国家荣光——郭永怀</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20251020021500 +0800" stop="20251020040200 +0800">
+        <title lang="zh">2024《喜满中秋夜》</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20251020040200 +0800" stop="20251020053000 +0800">
+        <title lang="zh">山水间的家20240915走进福建莆田港南村和新疆伊犁四宫村</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20251020053000 +0800" stop="20251020062000 +0800">
+        <title lang="zh">绽放吧！妈妈20240909大山深处的梦想守护人</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20251020062000 +0800" stop="20251020074900 +0800">
+        <title lang="zh">乐在旅途20240914“寻音乐队”奏响新疆博州站风情乐章</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20251020074900 +0800" stop="20251020090200 +0800">
+        <title lang="zh">会唱歌的院子20240908天台音乐会火热开唱</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20251020090200 +0800" stop="20251020103400 +0800">
+        <title lang="zh">山水间的家20240908寻千年茶乡新生机，访云海梯田振兴路</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20251020103400 +0800" stop="20251020111800 +0800">
+        <title lang="zh">等着我20240918国家荣光——郭永怀</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20251020111800 +0800" stop="20251020124800 +0800">
+        <title lang="zh">山水间的家20241013走进四川成都龚家村和甘肃陇南油房坝村</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20251020124800 +0800" stop="20251020133300 +0800">
+        <title lang="zh">等着我20241020国家荣光——冰峰五姑娘</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20251020133300 +0800" stop="20251020150200 +0800">
+        <title lang="zh">山水间的家20241027走进山东莱阳董格庄村和江西萍乡茅店村</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20251020150200 +0800" stop="20251020162400 +0800">
+        <title lang="zh">《文脉传承·戏韵流芳——国风超有戏音乐会》</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20251020162400 +0800" stop="20251020170900 +0800">
+        <title lang="zh">等着我20241105国家光荣——江竹筠</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20251020170900 +0800" stop="20251020182500 +0800">
+        <title lang="zh">开门大吉20241104家乡的致富密码</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20251020182500 +0800" stop="20251020194000 +0800">
+        <title lang="zh">开门大吉20241111我为家乡带货</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20251020194000 +0800" stop="20251020202900 +0800">
+        <title lang="zh">绽放吧！妈妈20241111逐梦蓝天之际，事业与家庭交织的双线飞行</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20251020202900 +0800" stop="20251020220400 +0800">
+        <title lang="zh">宗师列传·大唐诗人传20241109王昌龄</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20251020220400 +0800" stop="20251020234100 +0800">
+        <title lang="zh">宗师列传·大唐诗人传20241116王维</title>
+    </programme>
+    <programme channel="最强综艺趴" start="20251020234100 +0800" stop="20251021000000 +0800">
+        <title lang="zh">开门大吉20241118美食与爱不可辜负</title>
     </programme>
     <channel id="嘉佳卡通">
         <display-name lang="zh">嘉佳卡通</display-name>
