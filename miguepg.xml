@@ -100,16 +100,16 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme channel="CCTV1综合" start="20251022200150 +0800" stop="20251022200600 +0800">
-        <title lang="zh">前情提要-电视剧（高清文件）</title>
+        <title lang="zh">前情提要-红石榴餐厅-第1集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251022200600 +0800" stop="20251022205730 +0800">
-        <title lang="zh">电视剧-（高清文件）</title>
+        <title lang="zh">红石榴餐厅第1集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251022205730 +0800" stop="20251022210230 +0800">
-        <title lang="zh">前情提要-电视剧（高清文件）</title>
+        <title lang="zh">前情提要-红石榴餐厅-第2集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251022210230 +0800" stop="20251022220000 +0800">
-        <title lang="zh">电视剧-（高清文件）</title>
+        <title lang="zh">红石榴餐厅第2集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251022220000 +0800" stop="20251022223330 +0800">
         <title lang="zh">晚间新闻</title>
@@ -507,14 +507,11 @@
     <programme channel="CCTV5体育" start="20251022090500 +0800" stop="20251022100000 +0800">
         <title lang="zh">实况录像-2025年世界职业拳王争霸赛 16</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251022100000 +0800" stop="20251022123000 +0800">
+    <programme channel="CCTV5体育" start="20251022100000 +0800" stop="20251022124500 +0800">
         <title lang="zh">2025/2026赛季美国职业篮球联赛-常规赛（勇士-湖人）</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251022123000 +0800" stop="20251022133500 +0800">
+    <programme channel="CCTV5体育" start="20251022124500 +0800" stop="20251022135500 +0800">
         <title lang="zh">体坛快讯</title>
-    </programme>
-    <programme channel="CCTV5体育" start="20251022133500 +0800" stop="20251022135500 +0800">
-        <title lang="zh">艺术里的奥林匹克(4K)</title>
     </programme>
     <programme channel="CCTV5体育" start="20251022135500 +0800" stop="20251022142800 +0800">
         <title lang="zh">实况录像-2025年射箭世界杯总决赛 1</title>
@@ -3636,8 +3633,35 @@
     <channel id="咪咕24小时体育台">
         <display-name lang="zh">咪咕24小时体育台</display-name>
     </channel>
-    <programme channel="咪咕24小时体育台" start="20251022000000 +0800" stop="20251022235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="咪咕24小时体育台" start="20251022000000 +0800" stop="20251022022700 +0800">
+        <title lang="zh">【回放】英超第1轮：托特纳姆热刺vs伯恩利</title>
+    </programme>
+    <programme channel="咪咕24小时体育台" start="20251022022700 +0800" stop="20251022050500 +0800">
+        <title lang="zh">【回放】英超第1轮：曼联vs阿森纳</title>
+    </programme>
+    <programme channel="咪咕24小时体育台" start="20251022050500 +0800" stop="20251022073700 +0800">
+        <title lang="zh">【回放】英超第1轮：狼队vs曼城</title>
+    </programme>
+    <programme channel="咪咕24小时体育台" start="20251022073700 +0800" stop="20251022104600 +0800">
+        <title lang="zh">【回放】英超第1轮：切尔西vs水晶宫</title>
+    </programme>
+    <programme channel="咪咕24小时体育台" start="20251022104600 +0800" stop="20251022132900 +0800">
+        <title lang="zh">【回放】英超第1轮：利物浦vs伯恩茅斯</title>
+    </programme>
+    <programme channel="咪咕24小时体育台" start="20251022132900 +0800" stop="20251022155700 +0800">
+        <title lang="zh">【回放】西甲第1轮：皇家马略卡vs巴塞罗那</title>
+    </programme>
+    <programme channel="咪咕24小时体育台" start="20251022155700 +0800" stop="20251022181900 +0800">
+        <title lang="zh">【回放】西甲第1轮：西班牙人vs马德里竞技</title>
+    </programme>
+    <programme channel="咪咕24小时体育台" start="20251022181900 +0800" stop="20251022204500 +0800">
+        <title lang="zh">【回放】西甲第1轮全场回放：皇家马德里vs奥萨苏纳</title>
+    </programme>
+    <programme channel="咪咕24小时体育台" start="20251022204500 +0800" stop="20251022224400 +0800">
+        <title lang="zh">【回放】意甲第1轮：萨索洛vs那不勒斯</title>
+    </programme>
+    <programme channel="咪咕24小时体育台" start="20251022224400 +0800" stop="20251023010300 +0800">
+        <title lang="zh">【回放】意甲第1轮：AC米兰vs克雷莫内塞</title>
     </programme>
     <channel id="陕西体育休闲频道">
         <display-name lang="zh">陕西体育休闲频道</display-name>
