@@ -297,19 +297,19 @@
     <programme channel="CCTV3综艺" start="20251024192350 +0800" stop="20251024193000 +0800">
         <title lang="zh">国家宝藏-周游季-33</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20251024193000 +0800" stop="20251024211100 +0800">
+    <programme channel="CCTV3综艺" start="20251024193000 +0800" stop="20251024204700 +0800">
         <title lang="zh">中国唱将-1（海选）</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20251024211100 +0800" stop="20251024220830 +0800">
+    <programme channel="CCTV3综艺" start="20251024204700 +0800" stop="20251024214430 +0800">
         <title lang="zh">综艺喜乐汇-2025-1032</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20251024220830 +0800" stop="20251024230930 +0800">
-        <title lang="zh">中国乡村音乐大会-月满乡音篇</title>
+    <programme channel="CCTV3综艺" start="20251024214430 +0800" stop="20251024230530 +0800">
+        <title lang="zh">中国乡村音乐大会-一乐千年篇</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20251024230930 +0800" stop="20251024235530 +0800">
+    <programme channel="CCTV3综艺" start="20251024230530 +0800" stop="20251024235130 +0800">
         <title lang="zh">综艺喜乐汇-2025-1215 山花烂漫时12/23</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20251024235530 +0800" stop="20251024235900 +0800">
+    <programme channel="CCTV3综艺" start="20251024235130 +0800" stop="20251024235900 +0800">
         <title lang="zh">综艺喜乐汇-2025-1216 山花烂漫时13/23</title>
     </programme>
     <channel id="CCTV4中文国际">
@@ -8091,14 +8091,14 @@
     <programme channel="陕西新闻资讯频道" start="20251024213000 +0800" stop="20251024221000 +0800">
         <title lang="zh">晚间新闻站</title>
     </programme>
-    <programme channel="陕西新闻资讯频道" start="20251024221000 +0800" stop="20251024224500 +0800">
+    <programme channel="陕西新闻资讯频道" start="20251024221000 +0800" stop="20251024222000 +0800">
+        <title lang="zh">专题 陕西跨行政区划检察机关履职进行时</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20251024222000 +0800" stop="20251024225500 +0800">
         <title lang="zh">百家碎戏：双面人生（A18-A19）</title>
     </programme>
-    <programme channel="陕西新闻资讯频道" start="20251024224500 +0800" stop="20251024225500 +0800">
-        <title lang="zh">大剧有一套 (A20)</title>
-    </programme>
     <programme channel="陕西新闻资讯频道" start="20251024225500 +0800" stop="20251024230000 +0800">
-        <title lang="zh">宣传</title>
+        <title lang="zh">宣传 (A20)</title>
     </programme>
     <programme channel="陕西新闻资讯频道" start="20251024230000 +0800" stop="20251024232900 +0800">
         <title lang="zh">陕西新闻联播</title>
