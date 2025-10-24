@@ -3777,17 +3777,17 @@
     <programme channel="24小时城市联赛轮播台" start="20251024125900 +0800" stop="20251024150000 +0800">
         <title lang="zh">江西赣超第三四名决赛全场回放：抚州1:3九江</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251024150000 +0800" stop="20251024172400 +0800">
-        <title lang="zh">江苏苏超半决赛全场回放：南通队0:0无锡队（点球4:2）</title>
-    </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251024172400 +0800" stop="20251024195700 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20251024150000 +0800" stop="20251024173300 +0800">
         <title lang="zh">江苏苏超半决赛全场回放：南京队1:1泰州队（点球7:8）</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251024195700 +0800" stop="20251024215700 +0800">
-        <title lang="zh">新疆乌超交叉赛全场回放：水磨沟区0:2高新区</title>
+    <programme channel="24小时城市联赛轮播台" start="20251024173300 +0800" stop="20251024195700 +0800">
+        <title lang="zh">江苏苏超半决赛全场回放：南通队0:0无锡队（点球4:2）</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251024215700 +0800" stop="20251025000500 +0800">
-        <title lang="zh">新疆乌超交叉赛全场回放：沙区代表队2:1达坂城代表队</title>
+    <programme channel="24小时城市联赛轮播台" start="20251024195700 +0800" stop="20251024220700 +0800">
+        <title lang="zh">四川川超第5轮：资阳中国牙谷队0:5宜宾长江首城队</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20251024220700 +0800" stop="20251025002300 +0800">
+        <title lang="zh">新疆乌超3/4名决赛全场回放：水磨沟区队2:3达坂城区队</title>
     </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
