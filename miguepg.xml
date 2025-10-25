@@ -393,11 +393,14 @@
     <programme channel="CCTV4中文国际" start="20251025172800 +0800" stop="20251025174300 +0800">
         <title lang="zh">平凡匠心-2025-85</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20251025174300 +0800" stop="20251025180000 +0800">
+    <programme channel="CCTV4中文国际" start="20251025174300 +0800" stop="20251025180530 +0800">
         <title lang="zh">平凡匠心-2025-86</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20251025180000 +0800" stop="20251025190000 +0800">
-        <title lang="zh">中国文艺-致敬经典2025-43</title>
+    <programme channel="CCTV4中文国际" start="20251025180530 +0800" stop="20251025183230 +0800">
+        <title lang="zh">国家记忆-2025-150</title>
+    </programme>
+    <programme channel="CCTV4中文国际" start="20251025183230 +0800" stop="20251025190000 +0800">
+        <title lang="zh">国家记忆-2025-151</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20251025190000 +0800" stop="20251025193400 +0800">
         <title lang="zh">中国新闻</title>
