@@ -1224,14 +1224,11 @@
     <programme channel="CCTV13新闻" start="20251025043300 +0800" stop="20251025050000 +0800">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251025050000 +0800" stop="20251025051800 +0800">
+    <programme channel="CCTV13新闻" start="20251025050000 +0800" stop="20251025054100 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251025051800 +0800" stop="20251025053400 +0800">
+    <programme channel="CCTV13新闻" start="20251025054100 +0800" stop="20251025060000 +0800">
         <title lang="zh">焦点访谈</title>
-    </programme>
-    <programme channel="CCTV13新闻" start="20251025053400 +0800" stop="20251025060000 +0800">
-        <title lang="zh">法治在线</title>
     </programme>
     <programme channel="CCTV13新闻" start="20251025060000 +0800" stop="20251025090000 +0800">
         <title lang="zh">朝闻天下</title>
