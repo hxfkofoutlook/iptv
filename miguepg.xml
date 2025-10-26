@@ -3564,17 +3564,20 @@
     <programme channel="24小时城市联赛轮播台" start="20251026124400 +0800" stop="20251026145000 +0800">
         <title lang="zh">广东省超第5轮全场回放：广州豹梯队4:1珠海聚杰</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251026145000 +0800" stop="20251026170300 +0800">
-        <title lang="zh">广东省超第5轮全场回放：广东蜀地红5:1顺德东方</title>
+    <programme channel="24小时城市联赛轮播台" start="20251026145000 +0800" stop="20251026170600 +0800">
+        <title lang="zh">新疆乌超3/4名决赛全场回放：水磨沟区队2:3达坂城区队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251026170300 +0800" stop="20251026193700 +0800">
-        <title lang="zh">广东省超第5轮全场回放：深圳艺品高2:2吴川青年</title>
+    <programme channel="24小时城市联赛轮播台" start="20251026170600 +0800" stop="20251026201600 +0800">
+        <title lang="zh">新疆乌超3/4名决赛全场回放：高新区队0:0沙依巴克区队（点球4:5）</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251026193700 +0800" stop="20251026221000 +0800">
-        <title lang="zh">江苏苏超半决赛全场回放：南京队1:1泰州队（点球7:8）</title>
+    <programme channel="24小时城市联赛轮播台" start="20251026201600 +0800" stop="20251026213200 +0800">
+        <title lang="zh">河南豫排第二阶段第3轮回放：洛阳3:0商丘科迪花木兰</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251026221000 +0800" stop="20251027003400 +0800">
-        <title lang="zh">江苏苏超半决赛全场回放：南通队0:0无锡队（点球4:2）</title>
+    <programme channel="24小时城市联赛轮播台" start="20251026213200 +0800" stop="20251026224500 +0800">
+        <title lang="zh">河南豫排第二阶段第3轮回放：平顶山0:3郑州</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20251026224500 +0800" stop="20251027010600 +0800">
+        <title lang="zh">河南豫排第二阶段第3轮回放：航空港区2:3开封龙亭</title>
     </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
