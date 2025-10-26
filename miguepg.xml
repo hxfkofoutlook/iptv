@@ -558,50 +558,59 @@
     <programme channel="CCTV6电影" start="20251026034321 +0800" stop="20251026041752 +0800">
         <title lang="zh">布兰卡和弹吉他的人（上）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251026041752 +0800" stop="20251026070329 +0800">
+    <programme channel="CCTV6电影" start="20251026041752 +0800" stop="20251026045241 +0800">
         <title lang="zh">布兰卡和弹吉他的人（下）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251026070329 +0800" stop="20251026083619 +0800">
+    <programme channel="CCTV6电影" start="20251026045241 +0800" stop="20251026062021 +0800">
+        <title lang="zh">超越</title>
+    </programme>
+    <programme channel="CCTV6电影" start="20251026062021 +0800" stop="20251026082056 +0800">
         <title lang="zh">陆小凤传奇之陆小凤前传</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251026083619 +0800" stop="20251026102642 +0800">
+    <programme channel="CCTV6电影" start="20251026082056 +0800" stop="20251026100834 +0800">
         <title lang="zh">陆小凤传奇之铁鞋传奇</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251026102642 +0800" stop="20251026122439 +0800">
+    <programme channel="CCTV6电影" start="20251026100834 +0800" stop="20251026121311 +0800">
         <title lang="zh">陆小凤传奇之大金鹏王</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251026122439 +0800" stop="20251026123119 +0800">
+    <programme channel="CCTV6电影" start="20251026121311 +0800" stop="20251026121926 +0800">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251026123119 +0800" stop="20251026141846 +0800">
+    <programme channel="CCTV6电影" start="20251026121926 +0800" stop="20251026140558 +0800">
         <title lang="zh">陆小凤传奇之绣花大盗</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251026141846 +0800" stop="20251026160626 +0800">
+    <programme channel="CCTV6电影" start="20251026140558 +0800" stop="20251026155303 +0800">
         <title lang="zh">陆小凤传奇之决战前后</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251026160626 +0800" stop="20251026162536 +0800">
+    <programme channel="CCTV6电影" start="20251026155303 +0800" stop="20251026161213 +0800">
         <title lang="zh">佳片有约周日版2025-043</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251026162536 +0800" stop="20251026182351 +0800">
-        <title lang="zh">看不见的客人</title>
+    <programme channel="CCTV6电影" start="20251026161213 +0800" stop="20251026163825 +0800">
+        <title lang="zh">看不见的客人（上）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251026182351 +0800" stop="20251026201311 +0800">
+    <programme channel="CCTV6电影" start="20251026163825 +0800" stop="20251026181627 +0800">
+        <title lang="zh">看不见的客人（下）</title>
+    </programme>
+    <programme channel="CCTV6电影" start="20251026181627 +0800" stop="20251026200902 +0800">
         <title lang="zh">特殊身份</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251026201311 +0800" stop="20251026220009 +0800">
+    <programme channel="CCTV6电影" start="20251026200902 +0800" stop="20251026220000 +0800">
         <title lang="zh">神秘的大佛</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251026220009 +0800" stop="20251026221809 +0800">
+    <programme channel="CCTV6电影" start="20251026220000 +0800" stop="20251026221800 +0800">
         <title lang="zh">中国电影报道 2025-299</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251026221809 +0800" stop="20251026222354 +0800">
+    <programme channel="CCTV6电影" start="20251026221800 +0800" stop="20251026222400 +0800">
         <title lang="zh">中国福利彩票阳光开奖2025-10-26</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251026222354 +0800" stop="20251026235534 +0800">
-        <title lang="zh">劝导</title>
+    <programme channel="CCTV6电影" start="20251026222400 +0800" stop="20251026230003 +0800">
+        <title lang="zh">原乡人（上）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251026235534 +0800" stop="20251026235900 +0800">
+    <programme channel="CCTV6电影" start="20251026230003 +0800" stop="20251026230103 +0800">
         <title lang="zh">中国体育彩票阳光开奖2025-10-26</title>
+    </programme>
+    <programme channel="CCTV6电影" start="20251026230103 +0800" stop="20251026235900 +0800">
+        <title lang="zh">原乡人（下）</title>
     </programme>
     <channel id="CCTV7国防军事">
         <display-name lang="zh">CCTV7国防军事</display-name>
