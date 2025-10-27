@@ -91,13 +91,13 @@
         <title lang="zh">前情提要-红石榴餐厅-第6集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251027200800 +0800" stop="20251027205740 +0800">
-        <title lang="zh">红石榴餐厅6/20</title>
+        <title lang="zh">红石榴餐厅第6集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251027205740 +0800" stop="20251027210230 +0800">
         <title lang="zh">前情提要-红石榴餐厅-第7集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251027210230 +0800" stop="20251027215030 +0800">
-        <title lang="zh">红石榴餐厅7/20</title>
+        <title lang="zh">红石榴餐厅第7集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251027215030 +0800" stop="20251027220000 +0800">
         <title lang="zh">山水间的家-主题曲</title>
@@ -3831,16 +3831,19 @@
     <programme channel="24小时城市联赛轮播台" start="20251027122300 +0800" stop="20251027142300 +0800">
         <title lang="zh">江西赣超第三四名决赛全场回放：抚州1:3九江</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251027142300 +0800" stop="20251027165700 +0800">
-        <title lang="zh">江苏苏超半决赛全场回放：南京队1:1泰州队（点球7:8）</title>
-    </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251027165700 +0800" stop="20251027192100 +0800">
-        <title lang="zh">江苏苏超半决赛全场回放：南通队0:0无锡队（点球4:2）</title>
-    </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251027192100 +0800" stop="20251027213700 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20251027142300 +0800" stop="20251027164000 +0800">
         <title lang="zh">新疆乌超3/4名决赛全场回放：水磨沟区队2:3达坂城区队</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251027213700 +0800" stop="20251028004700 +0800">
+    <programme channel="24小时城市联赛轮播台" start="20251027164000 +0800" stop="20251027191300 +0800">
+        <title lang="zh">江苏苏超半决赛全场回放：南京队1:1泰州队（点球7:8）</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20251027191300 +0800" stop="20251027213700 +0800">
+        <title lang="zh">江苏苏超半决赛全场回放：南通队0:0无锡队（点球4:2）</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20251027213700 +0800" stop="20251027235300 +0800">
+        <title lang="zh">新疆乌超3/4名决赛全场回放：水磨沟区队2:3达坂城区队</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20251027235300 +0800" stop="20251028030300 +0800">
         <title lang="zh">新疆乌超3/4名决赛全场回放：高新区队0:0沙依巴克区队（点球4:5）</title>
     </programme>
     <channel id="武术世界">
