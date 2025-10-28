@@ -1485,16 +1485,19 @@
     <programme channel="CCTV15音乐" start="20251028191500 +0800" stop="20251028202930 +0800">
         <title lang="zh">神采正飞扬-中国郎之夜-2（纯享版）</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20251028202930 +0800" stop="20251028220000 +0800">
-        <title lang="zh">中国乡村音乐大会-一乐千年篇（无商务版）</title>
+    <programme channel="CCTV15音乐" start="20251028202930 +0800" stop="20251028213600 +0800">
+        <title lang="zh">“国际视界”国际音乐大赛-精编版</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20251028220000 +0800" stop="20251028225930 +0800">
+    <programme channel="CCTV15音乐" start="20251028213600 +0800" stop="20251028221530 +0800">
+        <title lang="zh">音乐人生-2025-6音乐旅行家（7）</title>
+    </programme>
+    <programme channel="CCTV15音乐" start="20251028221530 +0800" stop="20251028231500 +0800">
         <title lang="zh">CCTV音乐厅-2025-158-《时代交响》系列音乐会（29）</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20251028225930 +0800" stop="20251028233715 +0800">
+    <programme channel="CCTV15音乐" start="20251028231500 +0800" stop="20251028235245 +0800">
         <title lang="zh">风华国乐-2025-314</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20251028233715 +0800" stop="20251028235900 +0800">
+    <programme channel="CCTV15音乐" start="20251028235245 +0800" stop="20251028235900 +0800">
         <title lang="zh">精彩音乐汇-我的爱对你说-2025-246</title>
     </programme>
     <channel id="CCTV17农业农村">
@@ -5802,86 +5805,86 @@
     <programme channel="上海新闻综合" start="20251028230000 +0800" stop="20251028232500 +0800">
         <title lang="zh">东方110</title>
     </programme>
-    <programme channel="上海新闻综合" start="20251028232500 +0800" stop="20251029000000 +0800">
+    <programme channel="上海新闻综合" start="20251028232500 +0800" stop="20251029000500 +0800">
         <title lang="zh">30集连续剧：恩情无限（19）</title>
     </programme>
     <channel id="上视东方影视">
         <display-name lang="zh">上视东方影视</display-name>
     </channel>
-    <programme channel="上视东方影视" start="20251027230000 +0800" stop="20251028000400 +0800">
-        <title lang="zh">36集连续剧：新猛龙过江（33）</title>
-    </programme>
-    <programme channel="上视东方影视" start="20251028000400 +0800" stop="20251028004500 +0800">
+    <programme channel="上视东方影视" start="20251027235300 +0800" stop="20251028003600 +0800">
         <title lang="zh">36集连续剧：新猛龙过江（34）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028004500 +0800" stop="20251028060100 +0800">
+    <programme channel="上视东方影视" start="20251028003600 +0800" stop="20251028060900 +0800">
         <title lang="zh">36集连续剧：新猛龙过江（35）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028060100 +0800" stop="20251028065400 +0800">
+    <programme channel="上视东方影视" start="20251028060900 +0800" stop="20251028070100 +0800">
         <title lang="zh">42集连续剧：烈火战马（8）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028065400 +0800" stop="20251028075400 +0800">
+    <programme channel="上视东方影视" start="20251028070100 +0800" stop="20251028075900 +0800">
         <title lang="zh">42集连续剧：烈火战马（9）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028075400 +0800" stop="20251028084700 +0800">
+    <programme channel="上视东方影视" start="20251028075900 +0800" stop="20251028085200 +0800">
         <title lang="zh">36集连续剧：黄河英雄（25）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028084700 +0800" stop="20251028094000 +0800">
+    <programme channel="上视东方影视" start="20251028085200 +0800" stop="20251028094500 +0800">
         <title lang="zh">36集连续剧：黄河英雄（26）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028094000 +0800" stop="20251028103700 +0800">
+    <programme channel="上视东方影视" start="20251028094500 +0800" stop="20251028103700 +0800">
         <title lang="zh">36集连续剧：黄河英雄（27）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028103700 +0800" stop="20251028113400 +0800">
+    <programme channel="上视东方影视" start="20251028103700 +0800" stop="20251028113000 +0800">
         <title lang="zh">36集连续剧：黄河英雄（28）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028113400 +0800" stop="20251028122000 +0800">
+    <programme channel="上视东方影视" start="20251028113000 +0800" stop="20251028122000 +0800">
         <title lang="zh">36集连续剧：黄河英雄（29）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028122000 +0800" stop="20251028123500 +0800">
-        <title lang="zh">超级装</title>
+    <programme channel="上视东方影视" start="20251028122000 +0800" stop="20251028124300 +0800">
+        <title lang="zh">《超级装》</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028123500 +0800" stop="20251028132300 +0800">
+    <programme channel="上视东方影视" start="20251028124300 +0800" stop="20251028133300 +0800">
         <title lang="zh">47集连续剧：旗袍（24）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028132300 +0800" stop="20251028133300 +0800">
-        <title lang="zh">都市焕新家</title>
+    <programme channel="上视东方影视" start="20251028133300 +0800" stop="20251028134500 +0800">
+        <title lang="zh">都市焕新家（10分钟版）(57)</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028133300 +0800" stop="20251028143100 +0800">
+    <programme channel="上视东方影视" start="20251028134500 +0800" stop="20251028143800 +0800">
         <title lang="zh">47集连续剧：旗袍（25）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028143100 +0800" stop="20251028152800 +0800">
+    <programme channel="上视东方影视" start="20251028143800 +0800" stop="20251028153000 +0800">
         <title lang="zh">47集连续剧：旗袍（26）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028152800 +0800" stop="20251028162200 +0800">
+    <programme channel="上视东方影视" start="20251028153000 +0800" stop="20251028162300 +0800">
         <title lang="zh">30集连续剧：秘杀名单（15）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028162200 +0800" stop="20251028171600 +0800">
+    <programme channel="上视东方影视" start="20251028162300 +0800" stop="20251028171600 +0800">
         <title lang="zh">30集连续剧：秘杀名单（16）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028171600 +0800" stop="20251028180500 +0800">
+    <programme channel="上视东方影视" start="20251028171600 +0800" stop="20251028180900 +0800">
         <title lang="zh">30集连续剧：秘杀名单（17）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028180500 +0800" stop="20251028185000 +0800">
+    <programme channel="上视东方影视" start="20251028180900 +0800" stop="20251028185000 +0800">
         <title lang="zh">30集连续剧：秘杀名单（18）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028185000 +0800" stop="20251028194200 +0800">
+    <programme channel="上视东方影视" start="20251028185000 +0800" stop="20251028193600 +0800">
         <title lang="zh">36集连续剧：黄河英雄（30）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028194200 +0800" stop="20251028203400 +0800">
+    <programme channel="上视东方影视" start="20251028193600 +0800" stop="20251028203100 +0800">
         <title lang="zh">36集连续剧：黄河英雄（31）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028203400 +0800" stop="20251028212300 +0800">
+    <programme channel="上视东方影视" start="20251028203100 +0800" stop="20251028212500 +0800">
         <title lang="zh">36集连续剧：黄河英雄（32）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028212300 +0800" stop="20251028221000 +0800">
+    <programme channel="上视东方影视" start="20251028212500 +0800" stop="20251028221900 +0800">
         <title lang="zh">36集连续剧：黄河英雄（33）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028221000 +0800" stop="20251028230000 +0800">
+    <programme channel="上视东方影视" start="20251028221900 +0800" stop="20251028230800 +0800">
         <title lang="zh">36集连续剧：黄河英雄（34）</title>
     </programme>
-    <programme channel="上视东方影视" start="20251028230000 +0800" stop="20251029000000 +0800">
+    <programme channel="上视东方影视" start="20251028230800 +0800" stop="20251028235400 +0800">
         <title lang="zh">36集连续剧：新猛龙过江（36）</title>
+    </programme>
+    <programme channel="上视东方影视" start="20251028235400 +0800" stop="20251029002900 +0800">
+        <title lang="zh">36集连续剧：虎胆巍城（1）</title>
     </programme>
     <channel id="南京新闻综合频道">
         <display-name lang="zh">南京新闻综合频道</display-name>
