@@ -100,7 +100,7 @@
         <title lang="zh">前情提要-红石榴餐厅-第11集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251029210215 +0800" stop="20251029215015 +0800">
-        <title lang="zh">红石榴餐厅11/20</title>
+        <title lang="zh">红石榴餐厅第11集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251029215015 +0800" stop="20251029220000 +0800">
         <title lang="zh">山水间的家-主题曲</title>
@@ -1470,13 +1470,16 @@
     <programme channel="CCTV15音乐" start="20251029181430 +0800" stop="20251029193000 +0800">
         <title lang="zh">精彩音乐汇-我的爱对你说-2025-296</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20251029193000 +0800" stop="20251029213430 +0800">
+    <programme channel="CCTV15音乐" start="20251029193000 +0800" stop="20251029213010 +0800">
         <title lang="zh">2025重阳特别节目-霞光满天山河颂-1</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20251029213430 +0800" stop="20251029230840 +0800">
+    <programme channel="CCTV15音乐" start="20251029213010 +0800" stop="20251029220800 +0800">
+        <title lang="zh">中国音乐电视-万物声动2025-4</title>
+    </programme>
+    <programme channel="CCTV15音乐" start="20251029220800 +0800" stop="20251029234210 +0800">
         <title lang="zh">乐享汇-“叫我怎能不歌唱”庆祝西藏自治区成立60周年音乐会</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20251029230840 +0800" stop="20251029235900 +0800">
+    <programme channel="CCTV15音乐" start="20251029234210 +0800" stop="20251029235900 +0800">
         <title lang="zh">CCTV音乐厅-2025-159-《时代交响》系列音乐会（30）</title>
     </programme>
     <channel id="CCTV17农业农村">
@@ -8912,147 +8915,6 @@
     </programme>
     <programme channel="南方影视" start="20251029222500 +0800" stop="20251030003000 +0800">
         <title lang="zh">剧无霸经典剧场:喋血孤岛(18-20)</title>
-    </programme>
-    <channel id="血色山河·抗日战争影像志">
-        <display-name lang="zh">血色山河·抗日战争影像志</display-name>
-    </channel>
-    <programme channel="血色山河·抗日战争影像志" start="20251028235900 +0800" stop="20251029002400 +0800">
-        <title lang="zh">《热血河山》第02集：决战黑土地</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029002400 +0800" stop="20251029004900 +0800">
-        <title lang="zh">《热血河山》第03集：高歌进行曲</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029004900 +0800" stop="20251029011400 +0800">
-        <title lang="zh">《热血河山》第04集：跨过鸭绿江</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029011400 +0800" stop="20251029013900 +0800">
-        <title lang="zh">《热血河山》第05集：锻造大基地</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029013900 +0800" stop="20251029020400 +0800">
-        <title lang="zh">《热血河山》第06集：情暖雷锋城</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029020400 +0800" stop="20251029025300 +0800">
-        <title lang="zh">《他们与天地永存（第二季）》第1集：爹娘</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029025300 +0800" stop="20251029034300 +0800">
-        <title lang="zh">《他们与天地永存（第二季）》第2集：新闻战士</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029034300 +0800" stop="20251029043200 +0800">
-        <title lang="zh">《他们与天地永存（第二季）》第3集：科学家</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029043200 +0800" stop="20251029052100 +0800">
-        <title lang="zh">《他们与天地永存（第二季）》第4集：先生</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029052100 +0800" stop="20251029061100 +0800">
-        <title lang="zh">《他们与天地永存（第二季）》第5集：朋友</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029061100 +0800" stop="20251029063600 +0800">
-        <title lang="zh">《铭记九一八》第一集：蓄谋已久</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029063600 +0800" stop="20251029070200 +0800">
-        <title lang="zh">《铭记九一八》第二集：滔天罪行</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029070200 +0800" stop="20251029072800 +0800">
-        <title lang="zh">《铭记九一八》第三集：中流砥柱</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029072800 +0800" stop="20251029075300 +0800">
-        <title lang="zh">《铭记九一八》第四集：众志成城</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029075300 +0800" stop="20251029081900 +0800">
-        <title lang="zh">《铭记九一八》第五集：并肩战斗</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029081900 +0800" stop="20251029090400 +0800">
-        <title lang="zh">三十二</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029090400 +0800" stop="20251029092400 +0800">
-        <title lang="zh">《大抗战》001九一八事变</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029092400 +0800" stop="20251029094500 +0800">
-        <title lang="zh">《大抗战》002东北沦陷</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029094500 +0800" stop="20251029100700 +0800">
-        <title lang="zh">《大抗战》003东北抗日联军（一）</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029100700 +0800" stop="20251029102700 +0800">
-        <title lang="zh">《大抗战》004东北抗日联军（二）</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029102700 +0800" stop="20251029105000 +0800">
-        <title lang="zh">《大抗战》005东北抗日联军英雄谱</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029105000 +0800" stop="20251029111200 +0800">
-        <title lang="zh">《大抗战》006一二·九运动</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029111200 +0800" stop="20251029113500 +0800">
-        <title lang="zh">《大抗战》007长城抗战</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029113500 +0800" stop="20251029115800 +0800">
-        <title lang="zh">《大抗战》008察哈尔抗战</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029115800 +0800" stop="20251029122000 +0800">
-        <title lang="zh">《大抗战》009西安事变</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029122000 +0800" stop="20251029124200 +0800">
-        <title lang="zh">《大抗战》010绥远抗战</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029124200 +0800" stop="20251029130500 +0800">
-        <title lang="zh">《大抗战》011华北事变</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029130500 +0800" stop="20251029132800 +0800">
-        <title lang="zh">《大抗战》012东北义勇军抗战</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029132800 +0800" stop="20251029135100 +0800">
-        <title lang="zh">《大抗战》013一·二八事变</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029135100 +0800" stop="20251029152700 +0800">
-        <title lang="zh">地道战</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029152700 +0800" stop="20251029154200 +0800">
-        <title lang="zh">《七三一真相》第01集：迟来的审判</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029154200 +0800" stop="20251029155700 +0800">
-        <title lang="zh">《七三一真相》第02集：七三一留守名簿</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029155700 +0800" stop="20251029161200 +0800">
-        <title lang="zh">《七三一真相》第03集：特别移送</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029161200 +0800" stop="20251029162700 +0800">
-        <title lang="zh">《七三一真相》第4集：被实验的“马路大”</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029162700 +0800" stop="20251029164200 +0800">
-        <title lang="zh">《七三一真相》第05集：安达野外实验场</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029164200 +0800" stop="20251029165600 +0800">
-        <title lang="zh">《七三一真相》第06集：细菌战初战</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029165600 +0800" stop="20251029171000 +0800">
-        <title lang="zh">《七三一真相》第07集：华中细菌攻击</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029171000 +0800" stop="20251029172400 +0800">
-        <title lang="zh">《七三一真相》第08集：浙赣线上的“保号”作战</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029172400 +0800" stop="20251029173800 +0800">
-        <title lang="zh">《七三一真相》第09集：销毁证据</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029173800 +0800" stop="20251029175200 +0800">
-        <title lang="zh">《七三一真相》第10集：历史不能忘记</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029175200 +0800" stop="20251029193400 +0800">
-        <title lang="zh">小兵张嘎</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029193400 +0800" stop="20251029202800 +0800">
-        <title lang="zh">《二战全史》01新德国</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029202800 +0800" stop="20251029212200 +0800">
-        <title lang="zh">《二战全史》02遥远的战争</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029212200 +0800" stop="20251029221700 +0800">
-        <title lang="zh">《二战全史》03法国沦陷</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029221700 +0800" stop="20251029231100 +0800">
-        <title lang="zh">《二战全史》04单独作战</title>
-    </programme>
-    <programme channel="血色山河·抗日战争影像志" start="20251029231100 +0800" stop="20251030000600 +0800">
-        <title lang="zh">《二战全史》05巴尔巴罗萨</title>
     </programme>
     <channel id="CETV1">
         <display-name lang="zh">CETV1</display-name>
