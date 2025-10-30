@@ -450,14 +450,11 @@
     <programme channel="CCTV4中文国际" start="20251030223000 +0800" stop="20251030230000 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20251030230000 +0800" stop="20251030231700 +0800">
+    <programme channel="CCTV4中文国际" start="20251030230000 +0800" stop="20251030231500 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20251030231700 +0800" stop="20251030233030 +0800">
-        <title lang="zh">平凡匠心-2025-53</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20251030233030 +0800" stop="20251030235900 +0800">
-        <title lang="zh">记住乡愁2025-22</title>
+    <programme channel="CCTV4中文国际" start="20251030231500 +0800" stop="20251030235900 +0800">
+        <title lang="zh">远方的家2025-生态中国12</title>
     </programme>
     <channel id="CCTV5体育">
         <display-name lang="zh">CCTV5体育</display-name>
@@ -4122,7 +4119,7 @@
     <programme channel="广东卫视" start="20251030212000 +0800" stop="20251030214500 +0800">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme channel="广东卫视" start="20251030214500 +0800" stop="20251031000000 +0800">
+    <programme channel="广东卫视" start="20251030214500 +0800" stop="20251031000500 +0800">
         <title lang="zh">声鸣远扬</title>
     </programme>
     <channel id="江西卫视">
@@ -9447,7 +9444,7 @@
     <programme channel="嘉佳卡通" start="20251030215500 +0800" stop="20251030230000 +0800">
         <title lang="zh">贝肯熊五</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20251030230000 +0800" stop="20251031000000 +0800">
+    <programme channel="嘉佳卡通" start="20251030230000 +0800" stop="20251031060000 +0800">
         <title lang="zh">贝肯熊四</title>
     </programme>
     <channel id="经典动画大集合">
