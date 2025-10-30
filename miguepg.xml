@@ -408,11 +408,11 @@
     <programme channel="CCTV4中文国际" start="20251030151700 +0800" stop="20251030160000 +0800">
         <title lang="zh">远方的家2025-83</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20251030160000 +0800" stop="20251030161500 +0800">
+    <programme channel="CCTV4中文国际" start="20251030160000 +0800" stop="20251030163200 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20251030161500 +0800" stop="20251030170000 +0800">
-        <title lang="zh">远方的家2025-生态中国12</title>
+    <programme channel="CCTV4中文国际" start="20251030163200 +0800" stop="20251030170000 +0800">
+        <title lang="zh">记住乡愁2025-22</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20251030170000 +0800" stop="20251030171700 +0800">
         <title lang="zh">中国新闻</title>
@@ -1674,11 +1674,11 @@
     <programme channel="CCTV4欧洲" start="20251030151700 +0800" stop="20251030160000 +0800">
         <title lang="zh">远方的家2025-83</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20251030160000 +0800" stop="20251030161500 +0800">
+    <programme channel="CCTV4欧洲" start="20251030160000 +0800" stop="20251030163200 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20251030161500 +0800" stop="20251030170000 +0800">
-        <title lang="zh">远方的家2025-生态中国12</title>
+    <programme channel="CCTV4欧洲" start="20251030163200 +0800" stop="20251030170000 +0800">
+        <title lang="zh">记住乡愁2025-22</title>
     </programme>
     <programme channel="CCTV4欧洲" start="20251030170000 +0800" stop="20251030171700 +0800">
         <title lang="zh">中国新闻</title>
@@ -1815,11 +1815,11 @@
     <programme channel="CCTV4美洲" start="20251030151700 +0800" stop="20251030160000 +0800">
         <title lang="zh">远方的家2025-83</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20251030160000 +0800" stop="20251030161500 +0800">
+    <programme channel="CCTV4美洲" start="20251030160000 +0800" stop="20251030163200 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20251030161500 +0800" stop="20251030170000 +0800">
-        <title lang="zh">远方的家2025-生态中国12</title>
+    <programme channel="CCTV4美洲" start="20251030163200 +0800" stop="20251030170000 +0800">
+        <title lang="zh">记住乡愁2025-22</title>
     </programme>
     <programme channel="CCTV4美洲" start="20251030170000 +0800" stop="20251030171700 +0800">
         <title lang="zh">中国新闻</title>
@@ -3093,7 +3093,7 @@
     <programme channel="中学生" start="20251030225800 +0800" stop="20251030231000 +0800">
         <title lang="zh">《教育视线》魅力校园-烟台益文小学</title>
     </programme>
-    <programme channel="中学生" start="20251030231000 +0800" stop="20251031000000 +0800">
+    <programme channel="中学生" start="20251030231000 +0800" stop="20251031080000 +0800">
         <title lang="zh">《家国》纪录片--孙叔敖</title>
     </programme>
     <channel id="CGTN">
@@ -3279,7 +3279,7 @@
     <programme channel="赛事最经典" start="20251030204300 +0800" stop="20251030222400 +0800">
         <title lang="zh">2022-23赛季英超联赛第2轮：曼城VS伯恩茅斯</title>
     </programme>
-    <programme channel="赛事最经典" start="20251030222400 +0800" stop="20251031000000 +0800">
+    <programme channel="赛事最经典" start="20251030222400 +0800" stop="20251031002400 +0800">
         <title lang="zh">2022斯诺克世锦赛第1轮：威尔逊VS丁俊晖 1-8局</title>
     </programme>
     <channel id="体坛名栏汇">
@@ -3381,7 +3381,7 @@
     <programme channel="体坛名栏汇" start="20251030233900 +0800" stop="20251030235900 +0800">
         <title lang="zh">健身动起来20200602Bounce律动基本形式讲解</title>
     </programme>
-    <programme channel="体坛名栏汇" start="20251030235900 +0800" stop="20251031000000 +0800">
+    <programme channel="体坛名栏汇" start="20251030235900 +0800" stop="20251031001900 +0800">
         <title lang="zh">风云会20200408圣火传奇02</title>
     </programme>
     <channel id="四海钓鱼">
