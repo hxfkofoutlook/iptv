@@ -6,38 +6,32 @@
     <programme channel="CCTV1综合" start="20251101000000 +0800" stop="20251101000920 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251101000920 +0800" stop="20251101001200 +0800">
+    <programme channel="CCTV1综合" start="20251101000920 +0800" stop="20251101001600 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251101001200 +0800" stop="20251101004730 +0800">
+    <programme channel="CCTV1综合" start="20251101001600 +0800" stop="20251101005130 +0800">
         <title lang="zh">文脉春秋-2024-5</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251101004730 +0800" stop="20251101004750 +0800">
+    <programme channel="CCTV1综合" start="20251101005130 +0800" stop="20251101013330 +0800">
         <title lang="zh">生活早参考-特别节目（生活圈）2025-227</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251101004750 +0800" stop="20251101004800 +0800">
+    <programme channel="CCTV1综合" start="20251101013330 +0800" stop="20251101013730 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251101004800 +0800" stop="20251101004810 +0800">
+    <programme channel="CCTV1综合" start="20251101013730 +0800" stop="20251101014800 +0800">
         <title lang="zh">非遗里的中国（第二季）-精编1</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251101004810 +0800" stop="20251101004820 +0800">
+    <programme channel="CCTV1综合" start="20251101014800 +0800" stop="20251101015730 +0800">
         <title lang="zh">非遗里的中国（第二季）-精编5</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251101004820 +0800" stop="20251101004850 +0800">
+    <programme channel="CCTV1综合" start="20251101015730 +0800" stop="20251101020120 +0800">
         <title lang="zh">非遗里的中国（第二季）-川剧蜀韵</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251101004850 +0800" stop="20251101012050 +0800">
+    <programme channel="CCTV1综合" start="20251101020120 +0800" stop="20251101023320 +0800">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251101012050 +0800" stop="20251101013110 +0800">
+    <programme channel="CCTV1综合" start="20251101023320 +0800" stop="20251101024325 +0800">
         <title lang="zh">2024秘境之眼-秘境高黎贡(4K)</title>
-    </programme>
-    <programme channel="CCTV1综合" start="20251101013110 +0800" stop="20251101015925 +0800">
-        <title lang="zh">今日说法-2025-208</title>
-    </programme>
-    <programme channel="CCTV1综合" start="20251101015925 +0800" stop="20251101024325 +0800">
-        <title lang="zh">开讲啦-2025-34</title>
     </programme>
     <programme channel="CCTV1综合" start="20251101024325 +0800" stop="20251101025000 +0800">
         <title lang="zh">三餐四季（第二季）-宣传片</title>
@@ -8631,8 +8625,47 @@
     <channel id="嘉佳卡通">
         <display-name lang="zh">嘉佳卡通</display-name>
     </channel>
-    <programme channel="嘉佳卡通" start="20251101000000 +0800" stop="20251101235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="嘉佳卡通" start="20251031215700 +0800" stop="20251101060000 +0800">
+        <title lang="zh">贝肯熊八</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251101060000 +0800" stop="20251101080000 +0800">
+        <title lang="zh">猪猪侠之竞速小英雄三</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251101080000 +0800" stop="20251101091300 +0800">
+        <title lang="zh">猪猪侠竞速小英雄十</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251101091300 +0800" stop="20251101092800 +0800">
+        <title lang="zh">嗨!小喇叭之少年大本营</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251101092800 +0800" stop="20251101111300 +0800">
+        <title lang="zh">猪猪侠竞速小英雄十</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251101111300 +0800" stop="20251101112500 +0800">
+        <title lang="zh">2025蕃尼蕃尼之嘉有好朋友</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251101112500 +0800" stop="20251101140500 +0800">
+        <title lang="zh">喜羊羊与灰太狼之羊村守护者之十一</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251101140500 +0800" stop="20251101143800 +0800">
+        <title lang="zh">嘉佳全能星《朗朗读书声》2025电视展播</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251101143800 +0800" stop="20251101160000 +0800">
+        <title lang="zh">喜羊羊与灰太狼之羊村守护者之十一</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251101160000 +0800" stop="20251101183500 +0800">
+        <title lang="zh">猪猪侠竞速小英雄十</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251101183500 +0800" stop="20251101200500 +0800">
+        <title lang="zh">奶龙之奇妙冒险</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251101200500 +0800" stop="20251101211800 +0800">
+        <title lang="zh">喜羊羊与灰太狼之羊村守护者之八</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251101211800 +0800" stop="20251101211900 +0800">
+        <title lang="zh">2025遇见中华诗词之美</title>
+    </programme>
+    <programme channel="嘉佳卡通" start="20251101211900 +0800" stop="20251102060000 +0800">
+        <title lang="zh">喜羊羊与灰太狼之羊村守护者之八</title>
     </programme>
     <channel id="经典动画大集合">
         <display-name lang="zh">经典动画大集合</display-name>
