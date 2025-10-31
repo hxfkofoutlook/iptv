@@ -102,13 +102,13 @@
     <programme channel="CCTV1综合" start="20251031201240 +0800" stop="20251031220400 +0800">
         <title lang="zh">2025CMG科创晚会-1</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251031220400 +0800" stop="20251031223630 +0800">
+    <programme channel="CCTV1综合" start="20251031220400 +0800" stop="20251031223600 +0800">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251031223630 +0800" stop="20251031224630 +0800">
+    <programme channel="CCTV1综合" start="20251031223600 +0800" stop="20251031224820 +0800">
         <title lang="zh">中华古树-绿色国宝（4K）</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251031224630 +0800" stop="20251031230000 +0800">
+    <programme channel="CCTV1综合" start="20251031224820 +0800" stop="20251031230000 +0800">
         <title lang="zh">中华古树-黄帝手植柏（4K）</title>
     </programme>
     <programme channel="CCTV1综合" start="20251031230000 +0800" stop="20251031235900 +0800">
@@ -483,14 +483,14 @@
     <programme channel="CCTV4中文国际" start="20251031220000 +0800" stop="20251031223000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20251031223000 +0800" stop="20251031230400 +0800">
+    <programme channel="CCTV4中文国际" start="20251031223000 +0800" stop="20251031230500 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20251031230400 +0800" stop="20251031235000 +0800">
-        <title lang="zh">大牧歌第6集</title>
+    <programme channel="CCTV4中文国际" start="20251031230500 +0800" stop="20251031233200 +0800">
+        <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20251031235000 +0800" stop="20251031235900 +0800">
-        <title lang="zh">大牧歌第7集</title>
+    <programme channel="CCTV4中文国际" start="20251031233200 +0800" stop="20251031235900 +0800">
+        <title lang="zh">走遍中国-2025-99</title>
     </programme>
     <channel id="CCTV5体育">
         <display-name lang="zh">CCTV5体育</display-name>
@@ -1374,25 +1374,25 @@
     <programme channel="CCTV13新闻" start="20251031180000 +0800" stop="20251031190000 +0800">
         <title lang="zh">共同关注</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251031190000 +0800" stop="20251031193255 +0800">
+    <programme channel="CCTV13新闻" start="20251031190000 +0800" stop="20251031193700 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251031193255 +0800" stop="20251031194050 +0800">
+    <programme channel="CCTV13新闻" start="20251031193700 +0800" stop="20251031194550 +0800">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251031194050 +0800" stop="20251031200000 +0800">
+    <programme channel="CCTV13新闻" start="20251031194550 +0800" stop="20251031200500 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251031200000 +0800" stop="20251031210000 +0800">
+    <programme channel="CCTV13新闻" start="20251031200500 +0800" stop="20251031210000 +0800">
         <title lang="zh">东方时空</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251031210000 +0800" stop="20251031213000 +0800">
+    <programme channel="CCTV13新闻" start="20251031210000 +0800" stop="20251031213500 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251031213000 +0800" stop="20251031220000 +0800">
+    <programme channel="CCTV13新闻" start="20251031213500 +0800" stop="20251031220200 +0800">
         <title lang="zh">高端访谈</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251031220000 +0800" stop="20251031230000 +0800">
+    <programme channel="CCTV13新闻" start="20251031220200 +0800" stop="20251031230000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme channel="CCTV13新闻" start="20251031230000 +0800" stop="20251031235900 +0800">
