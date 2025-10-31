@@ -1752,11 +1752,8 @@
     <programme channel="CCTV4欧洲" start="20251031171500 +0800" stop="20251031180000 +0800">
         <title lang="zh">沸腾的群山第19集</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20251031180000 +0800" stop="20251031183000 +0800">
+    <programme channel="CCTV4欧洲" start="20251031180000 +0800" stop="20251031190000 +0800">
         <title lang="zh">中国新闻</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20251031183000 +0800" stop="20251031190000 +0800">
-        <title lang="zh">海峡两岸-2025-303</title>
     </programme>
     <programme channel="CCTV4欧洲" start="20251031190000 +0800" stop="20251031193000 +0800">
         <title lang="zh">中国新闻</title>
@@ -1897,7 +1894,7 @@
         <title lang="zh">曾少年-（四套）-32/35</title>
     </programme>
     <programme channel="CCTV4美洲" start="20251031174300 +0800" stop="20251031174800 +0800">
-        <title lang="zh">荟萃节目-美餐一顿（特排）5</title>
+        <title lang="zh">记住乡愁-片段展播-2025-27</title>
     </programme>
     <programme channel="CCTV4美洲" start="20251031174800 +0800" stop="20251031175300 +0800">
         <title lang="zh">记住乡愁-片段展播-2025-12</title>
@@ -1905,11 +1902,8 @@
     <programme channel="CCTV4美洲" start="20251031175300 +0800" stop="20251031180000 +0800">
         <title lang="zh">记住乡愁-片段展播-2025-25</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20251031180000 +0800" stop="20251031183000 +0800">
+    <programme channel="CCTV4美洲" start="20251031180000 +0800" stop="20251031190000 +0800">
         <title lang="zh">中国新闻</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20251031183000 +0800" stop="20251031190000 +0800">
-        <title lang="zh">国家记忆-2025-156</title>
     </programme>
     <programme channel="CCTV4美洲" start="20251031190000 +0800" stop="20251031193000 +0800">
         <title lang="zh">中国新闻</title>
