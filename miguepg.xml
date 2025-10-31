@@ -303,16 +303,16 @@
     <programme channel="CCTV3综艺" start="20251031193000 +0800" stop="20251031211535 +0800">
         <title lang="zh">中国唱将-2（海选）</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20251031211535 +0800" stop="20251031215750 +0800">
-        <title lang="zh">我们的村节-3</title>
+    <programme channel="CCTV3综艺" start="20251031211535 +0800" stop="20251031221250 +0800">
+        <title lang="zh">综艺喜乐汇-2025-987</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20251031215750 +0800" stop="20251031225730 +0800">
+    <programme channel="CCTV3综艺" start="20251031221250 +0800" stop="20251031231230 +0800">
         <title lang="zh">综艺盛典-2025-21选对健康21</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20251031225730 +0800" stop="20251031234330 +0800">
+    <programme channel="CCTV3综艺" start="20251031231230 +0800" stop="20251031235830 +0800">
         <title lang="zh">综艺喜乐汇-2025-1236 老闺蜜10/48</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20251031234330 +0800" stop="20251031235900 +0800">
+    <programme channel="CCTV3综艺" start="20251031235830 +0800" stop="20251031235900 +0800">
         <title lang="zh">综艺喜乐汇-2025-1237 老闺蜜11/48</title>
     </programme>
     <channel id="CCTV4中文国际">
@@ -9723,7 +9723,7 @@
     <programme channel="经典动画大集合" start="20251031233600 +0800" stop="20251031235500 +0800">
         <title lang="zh">《小鲤鱼历险记》第31集：浴火重生</title>
     </programme>
-    <programme channel="经典动画大集合" start="20251031235500 +0800" stop="20251101000000 +0800">
+    <programme channel="经典动画大集合" start="20251031235500 +0800" stop="20251101000500 +0800">
         <title lang="zh">《小鲤鱼历险记》第32集：卑鄙“双雄”</title>
     </programme>
     <channel id="新动力量创一流">
