@@ -93,26 +93,23 @@
     <programme channel="CCTV1综合" start="20251031185015 +0800" stop="20251031190000 +0800">
         <title lang="zh">秘境之眼-2025-301</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251031190000 +0800" stop="20251031194050 +0800">
+    <programme channel="CCTV1综合" start="20251031190000 +0800" stop="20251031194550 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251031194050 +0800" stop="20251031200800 +0800">
+    <programme channel="CCTV1综合" start="20251031194550 +0800" stop="20251031201240 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251031200800 +0800" stop="20251031220000 +0800">
+    <programme channel="CCTV1综合" start="20251031201240 +0800" stop="20251031220400 +0800">
         <title lang="zh">2025CMG科创晚会-1</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251031220000 +0800" stop="20251031223230 +0800">
+    <programme channel="CCTV1综合" start="20251031220400 +0800" stop="20251031223630 +0800">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251031223230 +0800" stop="20251031224300 +0800">
-        <title lang="zh">非遗里的中国（第二季）-精编1</title>
+    <programme channel="CCTV1综合" start="20251031223630 +0800" stop="20251031224630 +0800">
+        <title lang="zh">中华古树-绿色国宝（4K）</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251031224300 +0800" stop="20251031225230 +0800">
-        <title lang="zh">非遗里的中国（第二季）-精编5</title>
-    </programme>
-    <programme channel="CCTV1综合" start="20251031225230 +0800" stop="20251031230000 +0800">
-        <title lang="zh">非遗里的中国（第二季）-川剧蜀韵</title>
+    <programme channel="CCTV1综合" start="20251031224630 +0800" stop="20251031230000 +0800">
+        <title lang="zh">中华古树-黄帝手植柏（4K）</title>
     </programme>
     <programme channel="CCTV1综合" start="20251031230000 +0800" stop="20251031235900 +0800">
         <title lang="zh">新闻直播间</title>
@@ -783,31 +780,31 @@
     <programme channel="CCTV7国防军事" start="20251031182830 +0800" stop="20251031190000 +0800">
         <title lang="zh">国防故事-2025-179</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20251031190000 +0800" stop="20251031193300 +0800">
+    <programme channel="CCTV7国防军事" start="20251031190000 +0800" stop="20251031193800 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20251031193300 +0800" stop="20251031200300 +0800">
+    <programme channel="CCTV7国防军事" start="20251031193800 +0800" stop="20251031200800 +0800">
         <title lang="zh">军事报道</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20251031200300 +0800" stop="20251031200930 +0800">
+    <programme channel="CCTV7国防军事" start="20251031200800 +0800" stop="20251031201430 +0800">
         <title lang="zh">国防微视频-军歌嘹亮-英雄出塞</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20251031200930 +0800" stop="20251031204330 +0800">
+    <programme channel="CCTV7国防军事" start="20251031201430 +0800" stop="20251031204830 +0800">
         <title lang="zh">防务新观察-2025-304</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20251031204330 +0800" stop="20251031211715 +0800">
+    <programme channel="CCTV7国防军事" start="20251031204830 +0800" stop="20251031212215 +0800">
         <title lang="zh">军事纪实-2025-218</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20251031211715 +0800" stop="20251031215315 +0800">
+    <programme channel="CCTV7国防军事" start="20251031212215 +0800" stop="20251031215815 +0800">
         <title lang="zh">第二战场-2025-44</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20251031215315 +0800" stop="20251031224045 +0800">
+    <programme channel="CCTV7国防军事" start="20251031215815 +0800" stop="20251031224545 +0800">
         <title lang="zh">五星剧场-激情的岁月24/36</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20251031224045 +0800" stop="20251031232945 +0800">
+    <programme channel="CCTV7国防军事" start="20251031224545 +0800" stop="20251031233445 +0800">
         <title lang="zh">五星剧场-激情的岁月25/36</title>
     </programme>
-    <programme channel="CCTV7国防军事" start="20251031232945 +0800" stop="20251031235900 +0800">
+    <programme channel="CCTV7国防军事" start="20251031233445 +0800" stop="20251031235900 +0800">
         <title lang="zh">军事纪实-2025-218</title>
     </programme>
     <channel id="CCTV8电视剧">
