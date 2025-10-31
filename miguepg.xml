@@ -3528,8 +3528,143 @@
     <channel id="陕西体育休闲频道">
         <display-name lang="zh">陕西体育休闲频道</display-name>
     </channel>
-    <programme channel="陕西体育休闲频道" start="20251031000000 +0800" stop="20251101000000 +0800">
-        <title lang="zh">欢迎收看陕西体育休闲频道</title>
+    <programme channel="陕西体育休闲频道" start="20251031000000 +0800" stop="20251031011100 +0800">
+        <title lang="zh">天下赛场</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031011100 +0800" stop="20251031064600 +0800">
+        <title lang="zh">导视+结束曲</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031064600 +0800" stop="20251031064700 +0800">
+        <title lang="zh">台标晨曲</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031064700 +0800" stop="20251031071700 +0800">
+        <title lang="zh">搏击王</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031071700 +0800" stop="20251031072000 +0800">
+        <title lang="zh">频道+导视</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031072000 +0800" stop="20251031075000 +0800">
+        <title lang="zh">体育时间</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031075000 +0800" stop="20251031081000 +0800">
+        <title lang="zh">天下赛场</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031081000 +0800" stop="20251031084000 +0800">
+        <title lang="zh">剧场：热血勇士-53</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031084000 +0800" stop="20251031090000 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031090000 +0800" stop="20251031101100 +0800">
+        <title lang="zh">夺宝秦兵</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031101100 +0800" stop="20251031103200 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031103200 +0800" stop="20251031104800 +0800">
+        <title lang="zh">体育会客厅</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031104800 +0800" stop="20251031110900 +0800">
+        <title lang="zh">陕西体育</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031110900 +0800" stop="20251031113900 +0800">
+        <title lang="zh">剧场：热血勇士-54</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031113900 +0800" stop="20251031120000 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031120000 +0800" stop="20251031131900 +0800">
+        <title lang="zh">夺宝秦兵</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031131900 +0800" stop="20251031133900 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031133900 +0800" stop="20251031134000 +0800">
+        <title lang="zh">频宣+导视</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031134000 +0800" stop="20251031135500 +0800">
+        <title lang="zh">赛事集锦</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031135500 +0800" stop="20251031141000 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031141000 +0800" stop="20251031144000 +0800">
+        <title lang="zh">剧场：热血勇士-55</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031144000 +0800" stop="20251031150100 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031150100 +0800" stop="20251031153100 +0800">
+        <title lang="zh">剧场：热血勇士-56</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031153100 +0800" stop="20251031155100 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031155100 +0800" stop="20251031155500 +0800">
+        <title lang="zh">导视+广告</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031155500 +0800" stop="20251031162500 +0800">
+        <title lang="zh">剧场：热血勇士-57</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031162500 +0800" stop="20251031164500 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031164500 +0800" stop="20251031165000 +0800">
+        <title lang="zh">导视+广告</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031165000 +0800" stop="20251031172000 +0800">
+        <title lang="zh">剧场：热血勇士-58</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031172000 +0800" stop="20251031174000 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031174000 +0800" stop="20251031175500 +0800">
+        <title lang="zh">畅游天下</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031175500 +0800" stop="20251031175600 +0800">
+        <title lang="zh">导视</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031175600 +0800" stop="20251031182600 +0800">
+        <title lang="zh">锻刀之绝地重生-01</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031182600 +0800" stop="20251031184600 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031184600 +0800" stop="20251031190600 +0800">
+        <title lang="zh">天下赛场</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031190600 +0800" stop="20251031191000 +0800">
+        <title lang="zh">广告+导视</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031191000 +0800" stop="20251031201500 +0800">
+        <title lang="zh">开心智斗</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031201500 +0800" stop="20251031203500 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031203500 +0800" stop="20251031204500 +0800">
+        <title lang="zh">赛事集锦</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031204500 +0800" stop="20251031210000 +0800">
+        <title lang="zh">体育会客厅</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031210000 +0800" stop="20251031212000 +0800">
+        <title lang="zh">陕西体育</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031212000 +0800" stop="20251031212500 +0800">
+        <title lang="zh">广告+导视</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031212500 +0800" stop="20251031223800 +0800">
+        <title lang="zh">夺宝秦兵</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031223800 +0800" stop="20251031225900 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031225900 +0800" stop="20251031233000 +0800">
+        <title lang="zh">搏击王</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251031233000 +0800" stop="20251101000000 +0800">
+        <title lang="zh">天下赛场</title>
     </programme>
     <channel id="24小时城市联赛轮播台">
         <display-name lang="zh">24小时城市联赛轮播台</display-name>
