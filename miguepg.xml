@@ -448,7 +448,7 @@
         <title lang="zh">远方的家2025-生态中国15</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20251101180000 +0800" stop="20251101190000 +0800">
-        <title lang="zh">中国文艺-致敬经典2025-44</title>
+        <title lang="zh">中国新闻</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20251101190000 +0800" stop="20251101193000 +0800">
         <title lang="zh">中国新闻</title>
@@ -1650,14 +1650,11 @@
     <programme channel="CCTV4欧洲" start="20251101163000 +0800" stop="20251101171500 +0800">
         <title lang="zh">沸腾的群山第20集</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20251101171500 +0800" stop="20251101180200 +0800">
+    <programme channel="CCTV4欧洲" start="20251101171500 +0800" stop="20251101180000 +0800">
         <title lang="zh">沸腾的群山第21集</title>
     </programme>
-    <programme channel="CCTV4欧洲" start="20251101180200 +0800" stop="20251101183000 +0800">
-        <title lang="zh">鲁健访谈-2025-43</title>
-    </programme>
-    <programme channel="CCTV4欧洲" start="20251101183000 +0800" stop="20251101190000 +0800">
-        <title lang="zh">海峡两岸-2025-304</title>
+    <programme channel="CCTV4欧洲" start="20251101180000 +0800" stop="20251101190000 +0800">
+        <title lang="zh">中国新闻</title>
     </programme>
     <programme channel="CCTV4欧洲" start="20251101190000 +0800" stop="20251101193000 +0800">
         <title lang="zh">中国新闻</title>
@@ -1794,14 +1791,11 @@
     <programme channel="CCTV4美洲" start="20251101175000 +0800" stop="20251101175500 +0800">
         <title lang="zh">记住乡愁-片段展播-2025-28</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20251101175500 +0800" stop="20251101180040 +0800">
+    <programme channel="CCTV4美洲" start="20251101175500 +0800" stop="20251101180000 +0800">
         <title lang="zh">记住乡愁-片段展播-2025-8</title>
     </programme>
-    <programme channel="CCTV4美洲" start="20251101180040 +0800" stop="20251101183000 +0800">
-        <title lang="zh">海峡两岸-2025-304</title>
-    </programme>
-    <programme channel="CCTV4美洲" start="20251101183000 +0800" stop="20251101190000 +0800">
-        <title lang="zh">国家记忆-2025-157</title>
+    <programme channel="CCTV4美洲" start="20251101180000 +0800" stop="20251101190000 +0800">
+        <title lang="zh">中国新闻</title>
     </programme>
     <programme channel="CCTV4美洲" start="20251101190000 +0800" stop="20251101193000 +0800">
         <title lang="zh">中国新闻</title>
