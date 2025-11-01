@@ -5016,8 +5016,155 @@
     <channel id="中国农林卫视">
         <display-name lang="zh">中国农林卫视</display-name>
     </channel>
-    <programme channel="中国农林卫视" start="20251101000000 +0800" stop="20251101235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="中国农林卫视" start="20251101000000 +0800" stop="20251101002600 +0800">
+        <title lang="zh">拉家常</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101002600 +0800" stop="20251101003800 +0800">
+        <title lang="zh">为老乡支一招</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101003800 +0800" stop="20251101012000 +0800">
+        <title lang="zh">秦之声大剧院</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101012000 +0800" stop="20251101014000 +0800">
+        <title lang="zh">第一农经</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101014000 +0800" stop="20251101021100 +0800">
+        <title lang="zh">拉家常</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101021100 +0800" stop="20251101025300 +0800">
+        <title lang="zh">秦之声大剧院</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101025300 +0800" stop="20251101030600 +0800">
+        <title lang="zh">为老乡支一招</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101030600 +0800" stop="20251101032300 +0800">
+        <title lang="zh">第一农经</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101032300 +0800" stop="20251101032600 +0800">
+        <title lang="zh">音画三秦</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101032600 +0800" stop="20251101041000 +0800">
+        <title lang="zh">秦之声大剧院</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101041000 +0800" stop="20251101044300 +0800">
+        <title lang="zh">拉家常</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101044300 +0800" stop="20251101045800 +0800">
+        <title lang="zh">第一农经</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101045800 +0800" stop="20251101053800 +0800">
+        <title lang="zh">秦之声大剧院</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101053800 +0800" stop="20251101055000 +0800">
+        <title lang="zh">为老乡支一招</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101055000 +0800" stop="20251101060000 +0800">
+        <title lang="zh">中国农资秀</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101060000 +0800" stop="20251101061000 +0800">
+        <title lang="zh">中国农资秀</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101061000 +0800" stop="20251101062000 +0800">
+        <title lang="zh">为老乡支一招</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101062000 +0800" stop="20251101063600 +0800">
+        <title lang="zh">农村大市场</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101063600 +0800" stop="20251101070600 +0800">
+        <title lang="zh">拉家常</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101070600 +0800" stop="20251101071600 +0800">
+        <title lang="zh">为老乡支一招</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101071600 +0800" stop="20251101080600 +0800">
+        <title lang="zh">秦之声大剧院</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101080600 +0800" stop="20251101084700 +0800">
+        <title lang="zh">剧场</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101084700 +0800" stop="20251101092900 +0800">
+        <title lang="zh">剧场</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101092900 +0800" stop="20251101101000 +0800">
+        <title lang="zh">剧场</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101101000 +0800" stop="20251101105100 +0800">
+        <title lang="zh">剧场</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101105100 +0800" stop="20251101113200 +0800">
+        <title lang="zh">剧场</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101113200 +0800" stop="20251101120200 +0800">
+        <title lang="zh">拉家常</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101120200 +0800" stop="20251101121300 +0800">
+        <title lang="zh">中国农资秀</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101121300 +0800" stop="20251101122900 +0800">
+        <title lang="zh">为老乡支一招</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101122900 +0800" stop="20251101124600 +0800">
+        <title lang="zh">农村大市场</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101124600 +0800" stop="20251101133500 +0800">
+        <title lang="zh">秦之声大剧院</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101133500 +0800" stop="20251101141600 +0800">
+        <title lang="zh">剧场</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101141600 +0800" stop="20251101145700 +0800">
+        <title lang="zh">剧场</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101145700 +0800" stop="20251101153800 +0800">
+        <title lang="zh">剧场</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101153800 +0800" stop="20251101161900 +0800">
+        <title lang="zh">剧场</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101161900 +0800" stop="20251101165900 +0800">
+        <title lang="zh">剧场</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101165900 +0800" stop="20251101175300 +0800">
+        <title lang="zh">剧场</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101175300 +0800" stop="20251101184400 +0800">
+        <title lang="zh">剧场</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101184400 +0800" stop="20251101192400 +0800">
+        <title lang="zh">剧场</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101192400 +0800" stop="20251101200500 +0800">
+        <title lang="zh">剧场</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101200500 +0800" stop="20251101202900 +0800">
+        <title lang="zh">专题节目五</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101202900 +0800" stop="20251101204000 +0800">
+        <title lang="zh">为老乡支一招</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101204000 +0800" stop="20251101213000 +0800">
+        <title lang="zh">拉家常</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101213000 +0800" stop="20251101215100 +0800">
+        <title lang="zh">第一农经</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101215100 +0800" stop="20251101220200 +0800">
+        <title lang="zh">中国农资秀</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101220200 +0800" stop="20251101221800 +0800">
+        <title lang="zh">农村大市场</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101221800 +0800" stop="20251101225000 +0800">
+        <title lang="zh">拉家常</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101225000 +0800" stop="20251101232400 +0800">
+        <title lang="zh">剧场</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101232400 +0800" stop="20251101235600 +0800">
+        <title lang="zh">剧场</title>
+    </programme>
+    <programme channel="中国农林卫视" start="20251101235600 +0800" stop="20251102000000 +0800">
+        <title lang="zh">拉家常</title>
     </programme>
     <channel id="兵团卫视">
         <display-name lang="zh">兵团卫视</display-name>
@@ -5133,8 +5280,8 @@
     <channel id="辽宁卫视">
         <display-name lang="zh">辽宁卫视</display-name>
     </channel>
-    <programme channel="辽宁卫视" start="20251101000000 +0800" stop="20251101235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="辽宁卫视" start="20251031235200 +0800" stop="20251102000000 +0800">
+        <title lang="zh">紫禁城</title>
     </programme>
     <channel id="上海新闻综合">
         <display-name lang="zh">上海新闻综合</display-name>
