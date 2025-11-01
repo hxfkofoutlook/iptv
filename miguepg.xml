@@ -1311,10 +1311,10 @@
     <programme channel="CCTV13新闻" start="20251101194020 +0800" stop="20251101195250 +0800">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251101195250 +0800" stop="20251101200000 +0800">
+    <programme channel="CCTV13新闻" start="20251101195250 +0800" stop="20251101201000 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251101200000 +0800" stop="20251101210000 +0800">
+    <programme channel="CCTV13新闻" start="20251101201000 +0800" stop="20251101210000 +0800">
         <title lang="zh">东方时空</title>
     </programme>
     <programme channel="CCTV13新闻" start="20251101210000 +0800" stop="20251101214000 +0800">
