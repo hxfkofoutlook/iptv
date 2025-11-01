@@ -402,14 +402,11 @@
     <programme channel="CCTV4中文国际" start="20251101120000 +0800" stop="20251101130000 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20251101130000 +0800" stop="20251101131700 +0800">
+    <programme channel="CCTV4中文国际" start="20251101130000 +0800" stop="20251101133200 +0800">
         <title lang="zh">中国新闻</title>
     </programme>
-    <programme channel="CCTV4中文国际" start="20251101131700 +0800" stop="20251101134500 +0800">
+    <programme channel="CCTV4中文国际" start="20251101133200 +0800" stop="20251101140000 +0800">
         <title lang="zh">记住乡愁2025-18</title>
-    </programme>
-    <programme channel="CCTV4中文国际" start="20251101134500 +0800" stop="20251101140000 +0800">
-        <title lang="zh">平凡匠心-2025-55</title>
     </programme>
     <programme channel="CCTV4中文国际" start="20251101140000 +0800" stop="20251101141700 +0800">
         <title lang="zh">中国新闻</title>
