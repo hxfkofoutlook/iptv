@@ -3507,6 +3507,18 @@
     <programme channel="24小时城市联赛轮播台" start="20251102123600 +0800" stop="20251102143600 +0800">
         <title lang="zh">江西赣超第三四名决赛全场回放：抚州1:3九江</title>
     </programme>
+    <programme channel="24小时城市联赛轮播台" start="20251102143600 +0800" stop="20251102175500 +0800">
+        <title lang="zh">江苏苏超决赛全场回放：南通队0:0泰州队（点球3:4）</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20251102175500 +0800" stop="20251102202800 +0800">
+        <title lang="zh">江苏苏超半决赛全场回放：南京队1:1泰州队（点球7:8）</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20251102202800 +0800" stop="20251102225200 +0800">
+        <title lang="zh">江苏苏超半决赛全场回放：南通队0:0无锡队（点球4:2）</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20251102225200 +0800" stop="20251103022700 +0800">
+        <title lang="zh">四川川超第7轮：绵阳九洲长虹队3:1甘孜州有机牦牛队</title>
+    </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
     </channel>
