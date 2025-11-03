@@ -3405,32 +3405,29 @@
     <programme channel="24小时全运会轮播台" start="20251103093300 +0800" stop="20251103095000 +0800">
         <title lang="zh">跟着全运会打卡大湾区美食：金新粿汁</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251103095000 +0800" stop="20251103143700 +0800">
+    <programme channel="24小时全运会轮播台" start="20251103095000 +0800" stop="20251103141500 +0800">
         <title lang="zh">【直播】跳水第2比赛日 早场</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251103143700 +0800" stop="20251103153600 +0800">
+    <programme channel="24小时全运会轮播台" start="20251103141500 +0800" stop="20251103143600 +0800">
+        <title lang="zh">跟着全运会打卡大湾区人文：情醇浓、乡愁味</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251103143600 +0800" stop="20251103153600 +0800">
         <title lang="zh">跟着全运会打卡大湾区人文：觅世遗、典藏味</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251103153600 +0800" stop="20251103163600 +0800">
-        <title lang="zh">跟着全运会打卡大湾区人文：赏葡韵、浓情味</title>
+    <programme channel="24小时全运会轮播台" start="20251103153600 +0800" stop="20251103163500 +0800">
+        <title lang="zh">跟着全运会打卡大湾区艺术：广彩</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251103163600 +0800" stop="20251103173600 +0800">
-        <title lang="zh">跟着全运会打卡大湾区人文：渔村情、海之味</title>
+    <programme channel="24小时全运会轮播台" start="20251103163500 +0800" stop="20251103173500 +0800">
+        <title lang="zh">跟着全运会打卡大湾区艺术：陶瓷</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251103173600 +0800" stop="20251103175000 +0800">
-        <title lang="zh">跟着全运会打卡大湾区人文：奇趣游、新鲜味</title>
+    <programme channel="24小时全运会轮播台" start="20251103173500 +0800" stop="20251103175000 +0800">
+        <title lang="zh">2025全运会全场回放：男子水球金牌赛（CCTV5）</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251103175000 +0800" stop="20251103222200 +0800">
-        <title lang="zh">跳水第2比赛日 晚场</title>
+        <title lang="zh">【直播】跳水第2比赛日 晚场</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251103222200 +0800" stop="20251103223500 +0800">
-        <title lang="zh">跟着全运会打卡大湾区人文：加速度、燃情味</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251103223500 +0800" stop="20251103233500 +0800">
-        <title lang="zh">跟着全运会打卡大湾区人文：博众物、慢品味</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251103233500 +0800" stop="20251104003500 +0800">
-        <title lang="zh">跟着全运会打卡大湾区人文：山与海、深情味</title>
+    <programme channel="24小时全运会轮播台" start="20251103222200 +0800" stop="20251104004300 +0800">
+        <title lang="zh">2025全运会全场回放：跳水第1比赛日早场（苏东、林跃）</title>
     </programme>
     <channel id="陕西体育休闲频道">
         <display-name lang="zh">陕西体育休闲频道</display-name>
