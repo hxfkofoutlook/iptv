@@ -3603,11 +3603,14 @@
     <programme channel="24小时城市联赛轮播台" start="20251103171100 +0800" stop="20251103182600 +0800">
         <title lang="zh">河南豫排第二阶段第7轮回放：周口0-3洛阳</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251103182600 +0800" stop="20251103220400 +0800">
-        <title lang="zh">四川川超第7轮：自贡灯城燊龙队4:2宜宾长江首城队</title>
+    <programme channel="24小时城市联赛轮播台" start="20251103182600 +0800" stop="20251103214500 +0800">
+        <title lang="zh">江苏苏超决赛全场回放：南通队0:0泰州队（点球3:4）</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251103220400 +0800" stop="20251104012000 +0800">
-        <title lang="zh">四川川超第7轮：泸州窖香队2:0资阳中国牙谷队</title>
+    <programme channel="24小时城市联赛轮播台" start="20251103214500 +0800" stop="20251103225800 +0800">
+        <title lang="zh">河南豫排第二阶段第7轮回放：航空港区3-0商丘科迪花木兰</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20251103225800 +0800" stop="20251104001200 +0800">
+        <title lang="zh">河南豫排第二阶段第7轮回放：开封龙亭0-3郑州</title>
     </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
