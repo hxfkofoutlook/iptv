@@ -99,10 +99,10 @@
     <programme channel="CCTV1综合" start="20251103205620 +0800" stop="20251103210050 +0800">
         <title lang="zh">前情提要-红石榴餐厅-第15集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251103210050 +0800" stop="20251103214945 +0800">
+    <programme channel="CCTV1综合" start="20251103210050 +0800" stop="20251103215245 +0800">
         <title lang="zh">红石榴餐厅第15集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251103214945 +0800" stop="20251103220000 +0800">
+    <programme channel="CCTV1综合" start="20251103215245 +0800" stop="20251103220000 +0800">
         <title lang="zh">山水间的家-主题曲</title>
     </programme>
     <programme channel="CCTV1综合" start="20251103220000 +0800" stop="20251103223400 +0800">
@@ -1320,11 +1320,11 @@
     <programme channel="CCTV13新闻" start="20251103190000 +0800" stop="20251103193255 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251103193255 +0800" stop="20251103194050 +0800">
+    <programme channel="CCTV13新闻" start="20251103193255 +0800" stop="20251103193810 +0800">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251103194050 +0800" stop="20251103200000 +0800">
-        <title lang="zh">焦点访谈</title>
+    <programme channel="CCTV13新闻" start="20251103193810 +0800" stop="20251103200000 +0800">
+        <title lang="zh">共谱亚太发展新篇章</title>
     </programme>
     <programme channel="CCTV13新闻" start="20251103200000 +0800" stop="20251103210000 +0800">
         <title lang="zh">东方时空</title>
