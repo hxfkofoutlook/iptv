@@ -3312,10 +3312,13 @@
     <programme channel="24小时全运会轮播台" start="20251104155000 +0800" stop="20251104180000 +0800">
         <title lang="zh">【直播】篮球 男子成年组小组赛 河南vs上海</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251104180000 +0800" stop="20251104205500 +0800">
+    <programme channel="24小时全运会轮播台" start="20251104180000 +0800" stop="20251104193800 +0800">
         <title lang="zh">【直播】跳水 第3比赛日 晚场</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251104205500 +0800" stop="20251104205800 +0800">
+    <programme channel="24小时全运会轮播台" start="20251104193800 +0800" stop="20251104205400 +0800">
+        <title lang="zh">2025全运会全场回放：跳水第1比赛日早场（苏东、林跃）</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251104205400 +0800" stop="20251104205800 +0800">
         <title lang="zh">跟着全运会打卡大湾区人文：文化之门</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251104205800 +0800" stop="20251104210300 +0800">
