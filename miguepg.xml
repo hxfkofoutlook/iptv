@@ -3303,22 +3303,13 @@
     <programme channel="24小时全运会轮播台" start="20251105075700 +0800" stop="20251105085700 +0800">
         <title lang="zh">跟着全运会打卡大湾区艺术：广彩</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251105085700 +0800" stop="20251105095700 +0800">
+    <programme channel="24小时全运会轮播台" start="20251105085700 +0800" stop="20251105095000 +0800">
         <title lang="zh">跟着全运会打卡大湾区艺术：陶瓷</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251105095700 +0800" stop="20251105111100 +0800">
-        <title lang="zh">2025全运会全场回放：男子水球金牌赛（CCTV5）</title>
+    <programme channel="24小时全运会轮播台" start="20251105095000 +0800" stop="20251105151000 +0800">
+        <title lang="zh">【直播】跳水 第4比赛日 早场</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251105111100 +0800" stop="20251105121100 +0800">
-        <title lang="zh">跟着全运会打卡大湾区人文：人世间、至美味</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251105121100 +0800" stop="20251105131100 +0800">
-        <title lang="zh">跟着全运会打卡大湾区人文：情醇浓、乡愁味</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251105131100 +0800" stop="20251105141100 +0800">
-        <title lang="zh">跟着全运会打卡大湾区人文：觅世遗、典藏味</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251105141100 +0800" stop="20251105170400 +0800">
+    <programme channel="24小时全运会轮播台" start="20251105151000 +0800" stop="20251105170400 +0800">
         <title lang="zh">2025全运会全场回放：跳水第1比赛日早场（苏东、林跃）</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251105170400 +0800" stop="20251105170900 +0800">
@@ -3327,7 +3318,13 @@
     <programme channel="24小时全运会轮播台" start="20251105170900 +0800" stop="20251105171400 +0800">
         <title lang="zh">跟着全运会打卡大湾区人文：活化之门</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251105171400 +0800" stop="20251105204800 +0800">
+    <programme channel="24小时全运会轮播台" start="20251105171400 +0800" stop="20251105175000 +0800">
+        <title lang="zh">2025全运会全场回放：跳水第1比赛日晚场（苏东、林跃）</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251105175000 +0800" stop="20251105203900 +0800">
+        <title lang="zh">【直播】跳水 第4比赛日 晚场</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251105203900 +0800" stop="20251105204800 +0800">
         <title lang="zh">2025全运会全场回放：跳水第1比赛日晚场（苏东、林跃）</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251105204800 +0800" stop="20251105214900 +0800">
@@ -7641,10 +7638,10 @@
     <programme channel="陕西新闻资讯频道" start="20251105000000 +0800" stop="20251105005900 +0800">
         <title lang="zh">星光剧场：天行健 25-26</title>
     </programme>
-    <programme channel="陕西新闻资讯频道" start="20251105005900 +0800" stop="20251105013900 +0800">
-        <title lang="zh">晚曲台标 彩图</title>
+    <programme channel="陕西新闻资讯频道" start="20251105005900 +0800" stop="20251105012400 +0800">
+        <title lang="zh">帮忙有一套</title>
     </programme>
-    <programme channel="陕西新闻资讯频道" start="20251105013900 +0800" stop="20251105054400 +0800">
+    <programme channel="陕西新闻资讯频道" start="20251105012400 +0800" stop="20251105054400 +0800">
         <title lang="zh">晚曲台标 彩图</title>
     </programme>
     <programme channel="陕西新闻资讯频道" start="20251105054400 +0800" stop="20251105061400 +0800">
@@ -7689,38 +7686,41 @@
     <programme channel="陕西新闻资讯频道" start="20251105093300 +0800" stop="20251105100800 +0800">
         <title lang="zh">晨光剧场：战金岭 33</title>
     </programme>
-    <programme channel="陕西新闻资讯频道" start="20251105100800 +0800" stop="20251105104300 +0800">
-        <title lang="zh">晨光剧场：战金岭 34</title>
+    <programme channel="陕西新闻资讯频道" start="20251105100800 +0800" stop="20251105102800 +0800">
+        <title lang="zh">专题 3</title>
     </programme>
-    <programme channel="陕西新闻资讯频道" start="20251105104300 +0800" stop="20251105105300 +0800">
-        <title lang="zh">大剧有一套</title>
-    </programme>
-    <programme channel="陕西新闻资讯频道" start="20251105105300 +0800" stop="20251105105900 +0800">
+    <programme channel="陕西新闻资讯频道" start="20251105102800 +0800" stop="20251105103400 +0800">
         <title lang="zh">B6-B7 宣传</title>
     </programme>
-    <programme channel="陕西新闻资讯频道" start="20251105105900 +0800" stop="20251105113500 +0800">
+    <programme channel="陕西新闻资讯频道" start="20251105103400 +0800" stop="20251105111000 +0800">
         <title lang="zh">百家碎戏：骗取的亲情 插B8-B10</title>
     </programme>
-    <programme channel="陕西新闻资讯频道" start="20251105113500 +0800" stop="20251105113800 +0800">
+    <programme channel="陕西新闻资讯频道" start="20251105111000 +0800" stop="20251105113000 +0800">
+        <title lang="zh">专题 9</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20251105113000 +0800" stop="20251105113300 +0800">
         <title lang="zh">B11-B12 频宣</title>
     </programme>
-    <programme channel="陕西新闻资讯频道" start="20251105113800 +0800" stop="20251105121300 +0800">
+    <programme channel="陕西新闻资讯频道" start="20251105113300 +0800" stop="20251105120800 +0800">
         <title lang="zh">百家碎戏：送错礼 插B13-15</title>
     </programme>
-    <programme channel="陕西新闻资讯频道" start="20251105121300 +0800" stop="20251105121500 +0800">
+    <programme channel="陕西新闻资讯频道" start="20251105120800 +0800" stop="20251105122800 +0800">
+        <title lang="zh">专题 10</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20251105122800 +0800" stop="20251105123000 +0800">
         <title lang="zh">B16</title>
     </programme>
-    <programme channel="陕西新闻资讯频道" start="20251105121500 +0800" stop="20251105122500 +0800">
+    <programme channel="陕西新闻资讯频道" start="20251105123000 +0800" stop="20251105124000 +0800">
         <title lang="zh">今日点击（重播）</title>
     </programme>
-    <programme channel="陕西新闻资讯频道" start="20251105122500 +0800" stop="20251105122700 +0800">
+    <programme channel="陕西新闻资讯频道" start="20251105124000 +0800" stop="20251105124200 +0800">
         <title lang="zh">B17</title>
     </programme>
-    <programme channel="陕西新闻资讯频道" start="20251105122700 +0800" stop="20251105130200 +0800">
+    <programme channel="陕西新闻资讯频道" start="20251105124200 +0800" stop="20251105131700 +0800">
         <title lang="zh">百家剧场：锻刀之绝地重生 11</title>
     </programme>
-    <programme channel="陕西新闻资讯频道" start="20251105130200 +0800" stop="20251105133700 +0800">
-        <title lang="zh">百家剧场：锻刀之绝地重生 12</title>
+    <programme channel="陕西新闻资讯频道" start="20251105131700 +0800" stop="20251105133700 +0800">
+        <title lang="zh">专题 4</title>
     </programme>
     <programme channel="陕西新闻资讯频道" start="20251105133700 +0800" stop="20251105133900 +0800">
         <title lang="zh">B18宣传</title>
@@ -7729,34 +7729,37 @@
         <title lang="zh">B19</title>
     </programme>
     <programme channel="陕西新闻资讯频道" start="20251105134100 +0800" stop="20251105141600 +0800">
+        <title lang="zh">百家剧场：锻刀之绝地重生 12</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20251105141600 +0800" stop="20251105143600 +0800">
+        <title lang="zh">专题 5</title>
+    </programme>
+    <programme channel="陕西新闻资讯频道" start="20251105143600 +0800" stop="20251105151100 +0800">
         <title lang="zh">百家剧场：锻刀之绝地重生 13</title>
     </programme>
-    <programme channel="陕西新闻资讯频道" start="20251105141600 +0800" stop="20251105145100 +0800">
-        <title lang="zh">百家剧场：锻刀之绝地重生 14</title>
+    <programme channel="陕西新闻资讯频道" start="20251105151100 +0800" stop="20251105153100 +0800">
+        <title lang="zh">专题 6</title>
     </programme>
-    <programme channel="陕西新闻资讯频道" start="20251105145100 +0800" stop="20251105152100 +0800">
-        <title lang="zh">百家碎戏：老街故事 7</title>
-    </programme>
-    <programme channel="陕西新闻资讯频道" start="20251105152100 +0800" stop="20251105154300 +0800">
+    <programme channel="陕西新闻资讯频道" start="20251105153100 +0800" stop="20251105155300 +0800">
         <title lang="zh">国风秦韵</title>
     </programme>
-    <programme channel="陕西新闻资讯频道" start="20251105154300 +0800" stop="20251105154900 +0800">
+    <programme channel="陕西新闻资讯频道" start="20251105155300 +0800" stop="20251105155900 +0800">
         <title lang="zh">B20-B21  宣传</title>
     </programme>
-    <programme channel="陕西新闻资讯频道" start="20251105154900 +0800" stop="20251105161100 +0800">
+    <programme channel="陕西新闻资讯频道" start="20251105155900 +0800" stop="20251105162100 +0800">
         <title lang="zh">国风秦韵</title>
     </programme>
-    <programme channel="陕西新闻资讯频道" start="20251105161100 +0800" stop="20251105164600 +0800">
-        <title lang="zh">百家剧场：锻刀之绝地重生 15</title>
+    <programme channel="陕西新闻资讯频道" start="20251105162100 +0800" stop="20251105164100 +0800">
+        <title lang="zh">专题 7</title>
     </programme>
-    <programme channel="陕西新闻资讯频道" start="20251105164600 +0800" stop="20251105165100 +0800">
+    <programme channel="陕西新闻资讯频道" start="20251105164100 +0800" stop="20251105164600 +0800">
         <title lang="zh">B22-B23 宣传</title>
     </programme>
-    <programme channel="陕西新闻资讯频道" start="20251105165100 +0800" stop="20251105170100 +0800">
-        <title lang="zh">大剧有一套</title>
+    <programme channel="陕西新闻资讯频道" start="20251105164600 +0800" stop="20251105170100 +0800">
+        <title lang="zh">专题 2025丝绸之路 品牌出海活动</title>
     </programme>
     <programme channel="陕西新闻资讯频道" start="20251105170100 +0800" stop="20251105173600 +0800">
-        <title lang="zh">百家剧场：锻刀之绝地重生 16</title>
+        <title lang="zh">百家剧场：锻刀之绝地重生 14</title>
     </programme>
     <programme channel="陕西新闻资讯频道" start="20251105173600 +0800" stop="20251105182500 +0800">
         <title lang="zh">专题 8 宣传</title>
