@@ -3633,8 +3633,104 @@
     <channel id="江苏卫视">
         <display-name lang="zh">江苏卫视</display-name>
     </channel>
-    <programme channel="江苏卫视" start="20251106000000 +0800" stop="20251106235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="江苏卫视" start="20251106000000 +0800" stop="20251106010700 +0800">
+        <title lang="zh">声鸣远扬2025辽宁卫视赛区预选赛</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106010700 +0800" stop="20251106015500 +0800">
+        <title lang="zh">北上</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106015500 +0800" stop="20251106023900 +0800">
+        <title lang="zh">北上</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106023900 +0800" stop="20251106033300 +0800">
+        <title lang="zh">我在岛屿读书</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106033300 +0800" stop="20251106042500 +0800">
+        <title lang="zh">我在岛屿读书</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106042500 +0800" stop="20251106045500 +0800">
+        <title lang="zh">紫金文化名家</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106045500 +0800" stop="20251106053200 +0800">
+        <title lang="zh">宵夜江湖</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106053200 +0800" stop="20251106060000 +0800">
+        <title lang="zh">宵夜江湖</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106060000 +0800" stop="20251106062300 +0800">
+        <title lang="zh">约见名医</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106062300 +0800" stop="20251106065300 +0800">
+        <title lang="zh">味解乡愁</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106065300 +0800" stop="20251106070000 +0800">
+        <title lang="zh">国宝时刻</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106070000 +0800" stop="20251106070100 +0800">
+        <title lang="zh">中华人民共和国国歌</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106070100 +0800" stop="20251106072300 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106072300 +0800" stop="20251106080600 +0800">
+        <title lang="zh">冰雨火</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106080600 +0800" stop="20251106085800 +0800">
+        <title lang="zh">我爱古诗词</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106085800 +0800" stop="20251106094200 +0800">
+        <title lang="zh">面具</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106094200 +0800" stop="20251106102600 +0800">
+        <title lang="zh">面具</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106102600 +0800" stop="20251106111100 +0800">
+        <title lang="zh">面具</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106111100 +0800" stop="20251106120000 +0800">
+        <title lang="zh">面具</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106120000 +0800" stop="20251106123100 +0800">
+        <title lang="zh">正午江苏</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106123100 +0800" stop="20251106142300 +0800">
+        <title lang="zh">非诚勿扰</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106142300 +0800" stop="20251106162400 +0800">
+        <title lang="zh">新相亲大会</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106162400 +0800" stop="20251106171300 +0800">
+        <title lang="zh">假日暖洋洋</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106171300 +0800" stop="20251106180000 +0800">
+        <title lang="zh">假日暖洋洋</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106180000 +0800" stop="20251106183000 +0800">
+        <title lang="zh">新闻眼</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106183000 +0800" stop="20251106190000 +0800">
+        <title lang="zh">江苏新时空</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106190000 +0800" stop="20251106193200 +0800">
+        <title lang="zh">新闻联播</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106193200 +0800" stop="20251106202100 +0800">
+        <title lang="zh">灼灼韶华 第27集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106202100 +0800" stop="20251106210600 +0800">
+        <title lang="zh">灼灼韶华 第28集</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106210600 +0800" stop="20251106211300 +0800">
+        <title lang="zh">国宝时刻</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106211300 +0800" stop="20251106214900 +0800">
+        <title lang="zh">“苏超”：踢出一片新天地</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106214900 +0800" stop="20251106222400 +0800">
+        <title lang="zh">音乐缘计划2歌手集结</title>
+    </programme>
+    <programme channel="江苏卫视" start="20251106222400 +0800" stop="20251107000000 +0800">
+        <title lang="zh">声鸣远扬2025广东卫视赛区预选赛</title>
     </programme>
     <channel id="广东卫视">
         <display-name lang="zh">广东卫视</display-name>
