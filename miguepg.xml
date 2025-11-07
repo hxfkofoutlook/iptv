@@ -3444,10 +3444,10 @@
     <programme channel="24小时全运会轮播台" start="20251107131200 +0800" stop="20251107142000 +0800">
         <title lang="zh">2025全运会全场回放：篮球男子成年组小组赛I组 吉林vs辽宁</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251107142000 +0800" stop="20251107172000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251107142000 +0800" stop="20251107163700 +0800">
         <title lang="zh">【直播】跳水 第6比赛日午场</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251107172000 +0800" stop="20251107175000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251107163700 +0800" stop="20251107175000 +0800">
         <title lang="zh">2025全运会全场回放：跳水第2比赛日晚场</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251107175000 +0800" stop="20251107230100 +0800">
@@ -8676,6 +8676,228 @@
     <programme channel="南方影视" start="20251107222000 +0800" stop="20251108003000 +0800">
         <title lang="zh">剧无霸经典剧场</title>
     </programme>
+    <channel id="中国天气">
+        <display-name lang="zh">中国天气</display-name>
+    </channel>
+    <programme channel="中国天气" start="20251107000000 +0800" stop="20251107020000 +0800">
+        <title lang="zh">伴眠时段</title>
+    </programme>
+    <programme channel="中国天气" start="20251107020000 +0800" stop="20251107062500 +0800">
+        <title lang="zh">专题时段</title>
+    </programme>
+    <programme channel="中国天气" start="20251107062500 +0800" stop="20251107065500 +0800">
+        <title lang="zh">气象之美,节气茶,三农新气象</title>
+    </programme>
+    <programme channel="中国天气" start="20251107065500 +0800" stop="20251107070600 +0800">
+        <title lang="zh">四季小厨,预报服务</title>
+    </programme>
+    <programme channel="中国天气" start="20251107070600 +0800" stop="20251107072600 +0800">
+        <title lang="zh">碳中和访谈,戴云伟说节气等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107072600 +0800" stop="20251107073300 +0800">
+        <title lang="zh">国内三天城市预报等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107073300 +0800" stop="20251107075500 +0800">
+        <title lang="zh">碳中和动画片,古代减灾工程</title>
+    </programme>
+    <programme channel="中国天气" start="20251107075500 +0800" stop="20251107080000 +0800">
+        <title lang="zh">节气手绘,国内三天城市预报</title>
+    </programme>
+    <programme channel="中国天气" start="20251107080000 +0800" stop="20251107081000 +0800">
+        <title lang="zh">气象科普短片,晨味时节等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107081000 +0800" stop="20251107083000 +0800">
+        <title lang="zh">气象服务时段,节气茶</title>
+    </programme>
+    <programme channel="中国天气" start="20251107083000 +0800" stop="20251107085600 +0800">
+        <title lang="zh">七天城市预报,古代减灾工程等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107085600 +0800" stop="20251107092000 +0800">
+        <title lang="zh">预报服务,中国地理探奇</title>
+    </programme>
+    <programme channel="中国天气" start="20251107092000 +0800" stop="20251107093000 +0800">
+        <title lang="zh">农业气象,大美中国等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107093000 +0800" stop="20251107095500 +0800">
+        <title lang="zh">谈风说水</title>
+    </programme>
+    <programme channel="中国天气" start="20251107095500 +0800" stop="20251107100000 +0800">
+        <title lang="zh">节气手绘,国内三天城市预报</title>
+    </programme>
+    <programme channel="中国天气" start="20251107100000 +0800" stop="20251107102600 +0800">
+        <title lang="zh">正在播出节气故事,一分钟说健康等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107102600 +0800" stop="20251107105500 +0800">
+        <title lang="zh">小牛顿气象台,最天气等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107105500 +0800" stop="20251107110000 +0800">
+        <title lang="zh">节气手绘,国内三天城市预报</title>
+    </programme>
+    <programme channel="中国天气" start="20251107110000 +0800" stop="20251107113000 +0800">
+        <title lang="zh">预报服务,黄河启示录等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107113000 +0800" stop="20251107115300 +0800">
+        <title lang="zh">戴云伟说节气,晨味时节等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107115300 +0800" stop="20251107120000 +0800">
+        <title lang="zh">四季小厨,国内三天城市预报</title>
+    </programme>
+    <programme channel="中国天气" start="20251107120000 +0800" stop="20251107122000 +0800">
+        <title lang="zh">碳中和动画片,我的天呐等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107122000 +0800" stop="20251107123000 +0800">
+        <title lang="zh">减灾科普短片,节气手绘等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107123000 +0800" stop="20251107124000 +0800">
+        <title lang="zh">最天气,节气茶,城市天气预报</title>
+    </programme>
+    <programme channel="中国天气" start="20251107124000 +0800" stop="20251107125600 +0800">
+        <title lang="zh">中国地理探奇,大美中国等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107125600 +0800" stop="20251107130500 +0800">
+        <title lang="zh">国际三天城市预报,城市天气预报</title>
+    </programme>
+    <programme channel="中国天气" start="20251107130500 +0800" stop="20251107132500 +0800">
+        <title lang="zh">海之南</title>
+    </programme>
+    <programme channel="中国天气" start="20251107132500 +0800" stop="20251107133000 +0800">
+        <title lang="zh">一分钟说健康,生活气象指数</title>
+    </programme>
+    <programme channel="中国天气" start="20251107133000 +0800" stop="20251107135500 +0800">
+        <title lang="zh">气象科普短片,晨味时节等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107135500 +0800" stop="20251107140500 +0800">
+        <title lang="zh">节气手绘,优秀旅游城市等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107140500 +0800" stop="20251107142600 +0800">
+        <title lang="zh">中国地理探奇,节气陪你过日子等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107142600 +0800" stop="20251107143500 +0800">
+        <title lang="zh">农业气象,节气故事等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107143500 +0800" stop="20251107145500 +0800">
+        <title lang="zh">城市天气预报,黄河启示录</title>
+    </programme>
+    <programme channel="中国天气" start="20251107145500 +0800" stop="20251107150000 +0800">
+        <title lang="zh">节气手绘,国内三天城市预报</title>
+    </programme>
+    <programme channel="中国天气" start="20251107150000 +0800" stop="20251107152000 +0800">
+        <title lang="zh">碳中和访谈,优秀旅游城市</title>
+    </programme>
+    <programme channel="中国天气" start="20251107152000 +0800" stop="20251107152200 +0800">
+        <title lang="zh">节气故事</title>
+    </programme>
+    <programme channel="中国天气" start="20251107152200 +0800" stop="20251107153000 +0800">
+        <title lang="zh">国际三天城市预报,气象之美等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107153000 +0800" stop="20251107154000 +0800">
+        <title lang="zh">农业气象,戴云伟说节气等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107154000 +0800" stop="20251107155600 +0800">
+        <title lang="zh">黄河启示录,小牛顿气象台</title>
+    </programme>
+    <programme channel="中国天气" start="20251107155600 +0800" stop="20251107160000 +0800">
+        <title lang="zh">国内三天城市预报</title>
+    </programme>
+    <programme channel="中国天气" start="20251107160000 +0800" stop="20251107162500 +0800">
+        <title lang="zh">优秀旅游城市,古代减灾工程</title>
+    </programme>
+    <programme channel="中国天气" start="20251107162500 +0800" stop="20251107163000 +0800">
+        <title lang="zh">节气手绘,生活气象指数</title>
+    </programme>
+    <programme channel="中国天气" start="20251107163000 +0800" stop="20251107165300 +0800">
+        <title lang="zh">最天气,节气之美,古代减灾工程</title>
+    </programme>
+    <programme channel="中国天气" start="20251107165300 +0800" stop="20251107170000 +0800">
+        <title lang="zh">节气茶,国内三天城市预报</title>
+    </programme>
+    <programme channel="中国天气" start="20251107170000 +0800" stop="20251107172000 +0800">
+        <title lang="zh">晨味时节,一分钟说健康等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107172000 +0800" stop="20251107172600 +0800">
+        <title lang="zh">城市天气预报,小牛顿气象台</title>
+    </programme>
+    <programme channel="中国天气" start="20251107172600 +0800" stop="20251107175500 +0800">
+        <title lang="zh">生活气象指数,中国减灾</title>
+    </programme>
+    <programme channel="中国天气" start="20251107175500 +0800" stop="20251107180000 +0800">
+        <title lang="zh">一分钟说健康,国内三天城市预报</title>
+    </programme>
+    <programme channel="中国天气" start="20251107180000 +0800" stop="20251107181000 +0800">
+        <title lang="zh">减灾科普短片,城市天气预报</title>
+    </programme>
+    <programme channel="中国天气" start="20251107181000 +0800" stop="20251107182000 +0800">
+        <title lang="zh">节气陪你过日子</title>
+    </programme>
+    <programme channel="中国天气" start="20251107182000 +0800" stop="20251107183000 +0800">
+        <title lang="zh">优秀旅游城市,节气手绘等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107183000 +0800" stop="20251107185500 +0800">
+        <title lang="zh">三农新气象</title>
+    </programme>
+    <programme channel="中国天气" start="20251107185500 +0800" stop="20251107190000 +0800">
+        <title lang="zh">气象之美,国内三天城市预报</title>
+    </programme>
+    <programme channel="中国天气" start="20251107190000 +0800" stop="20251107192000 +0800">
+        <title lang="zh">海之南</title>
+    </programme>
+    <programme channel="中国天气" start="20251107192000 +0800" stop="20251107193000 +0800">
+        <title lang="zh">优秀旅游城市,节气手绘等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107193000 +0800" stop="20251107200000 +0800">
+        <title lang="zh">农业气象,气象科普短片等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107200000 +0800" stop="20251107203000 +0800">
+        <title lang="zh">谈风说水,节气手绘,农业气象等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107203000 +0800" stop="20251107205600 +0800">
+        <title lang="zh">联播天气预报,二十四节气</title>
+    </programme>
+    <programme channel="中国天气" start="20251107205600 +0800" stop="20251107210000 +0800">
+        <title lang="zh">国内三天城市预报</title>
+    </programme>
+    <programme channel="中国天气" start="20251107210000 +0800" stop="20251107210500 +0800">
+        <title lang="zh">城市天气预报</title>
+    </programme>
+    <programme channel="中国天气" start="20251107210500 +0800" stop="20251107211000 +0800">
+        <title lang="zh">晨味时节,国际三天城市预报</title>
+    </programme>
+    <programme channel="中国天气" start="20251107211000 +0800" stop="20251107213000 +0800">
+        <title lang="zh">大美中国,节气手绘等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107213000 +0800" stop="20251107213500 +0800">
+        <title lang="zh">农业气象,戴云伟说节气</title>
+    </programme>
+    <programme channel="中国天气" start="20251107213500 +0800" stop="20251107214100 +0800">
+        <title lang="zh">联播天气预报</title>
+    </programme>
+    <programme channel="中国天气" start="20251107214100 +0800" stop="20251107215600 +0800">
+        <title lang="zh">古气候探秘</title>
+    </programme>
+    <programme channel="中国天气" start="20251107215600 +0800" stop="20251107220000 +0800">
+        <title lang="zh">国内三天城市预报</title>
+    </programme>
+    <programme channel="中国天气" start="20251107220000 +0800" stop="20251107222500 +0800">
+        <title lang="zh">预报服务时段,古气候探秘</title>
+    </programme>
+    <programme channel="中国天气" start="20251107222500 +0800" stop="20251107223000 +0800">
+        <title lang="zh">一分钟说健康,生活气象指数</title>
+    </programme>
+    <programme channel="中国天气" start="20251107223000 +0800" stop="20251107225600 +0800">
+        <title lang="zh">中国减灾,小牛顿气象台</title>
+    </programme>
+    <programme channel="中国天气" start="20251107225600 +0800" stop="20251107230000 +0800">
+        <title lang="zh">国际三天城市预报</title>
+    </programme>
+    <programme channel="中国天气" start="20251107230000 +0800" stop="20251107233000 +0800">
+        <title lang="zh">三农新气象,节气手绘等</title>
+    </programme>
+    <programme channel="中国天气" start="20251107233000 +0800" stop="20251107235600 +0800">
+        <title lang="zh">谈风说水,小牛顿气象台</title>
+    </programme>
+    <programme channel="中国天气" start="20251107235600 +0800" stop="20251108000000 +0800">
+        <title lang="zh">国内三天城市预报</title>
+    </programme>
     <channel id="CETV1">
         <display-name lang="zh">CETV1</display-name>
     </channel>
@@ -10268,6 +10490,141 @@
     </programme>
     <programme channel="新动力量创一流" start="20251107235900 +0800" stop="20251108000700 +0800">
         <title lang="zh">浙江公司《之江溯源》</title>
+    </programme>
+    <channel id="中国特产">
+        <display-name lang="zh">中国特产</display-name>
+    </channel>
+    <programme channel="中国特产" start="20251107000000 +0800" stop="20251107004500 +0800">
+        <title lang="zh">乡约</title>
+    </programme>
+    <programme channel="中国特产" start="20251107004500 +0800" stop="20251107011500 +0800">
+        <title lang="zh">造物志</title>
+    </programme>
+    <programme channel="中国特产" start="20251107011500 +0800" stop="20251107014500 +0800">
+        <title lang="zh">走进原产地</title>
+    </programme>
+    <programme channel="中国特产" start="20251107014500 +0800" stop="20251107020000 +0800">
+        <title lang="zh">风物东方</title>
+    </programme>
+    <programme channel="中国特产" start="20251107020000 +0800" stop="20251107022000 +0800">
+        <title lang="zh">造物志</title>
+    </programme>
+    <programme channel="中国特产" start="20251107022000 +0800" stop="20251107024000 +0800">
+        <title lang="zh">番茄生活王</title>
+    </programme>
+    <programme channel="中国特产" start="20251107024000 +0800" stop="20251107032500 +0800">
+        <title lang="zh">乡约</title>
+    </programme>
+    <programme channel="中国特产" start="20251107032500 +0800" stop="20251107034000 +0800">
+        <title lang="zh">风物东方</title>
+    </programme>
+    <programme channel="中国特产" start="20251107034000 +0800" stop="20251107041000 +0800">
+        <title lang="zh">造物志</title>
+    </programme>
+    <programme channel="中国特产" start="20251107041000 +0800" stop="20251107044000 +0800">
+        <title lang="zh">走进原产地</title>
+    </programme>
+    <programme channel="中国特产" start="20251107044000 +0800" stop="20251107052500 +0800">
+        <title lang="zh">乡约</title>
+    </programme>
+    <programme channel="中国特产" start="20251107052500 +0800" stop="20251107054500 +0800">
+        <title lang="zh">造物志</title>
+    </programme>
+    <programme channel="中国特产" start="20251107054500 +0800" stop="20251107060500 +0800">
+        <title lang="zh">特产档案</title>
+    </programme>
+    <programme channel="中国特产" start="20251107060500 +0800" stop="20251107064500 +0800">
+        <title lang="zh">特产档案</title>
+    </programme>
+    <programme channel="中国特产" start="20251107064500 +0800" stop="20251107071500 +0800">
+        <title lang="zh">我的健康我做主</title>
+    </programme>
+    <programme channel="中国特产" start="20251107071500 +0800" stop="20251107073500 +0800">
+        <title lang="zh">特产档案</title>
+    </programme>
+    <programme channel="中国特产" start="20251107073500 +0800" stop="20251107080500 +0800">
+        <title lang="zh">我的健康我做主</title>
+    </programme>
+    <programme channel="中国特产" start="20251107080500 +0800" stop="20251107082500 +0800">
+        <title lang="zh">特产档案</title>
+    </programme>
+    <programme channel="中国特产" start="20251107082500 +0800" stop="20251107085500 +0800">
+        <title lang="zh">我的健康我做主</title>
+    </programme>
+    <programme channel="中国特产" start="20251107085500 +0800" stop="20251107092000 +0800">
+        <title lang="zh">特产档案</title>
+    </programme>
+    <programme channel="中国特产" start="20251107092000 +0800" stop="20251107094500 +0800">
+        <title lang="zh">特产档案</title>
+    </programme>
+    <programme channel="中国特产" start="20251107094500 +0800" stop="20251107101000 +0800">
+        <title lang="zh">特产档案</title>
+    </programme>
+    <programme channel="中国特产" start="20251107101000 +0800" stop="20251107103500 +0800">
+        <title lang="zh">特产档案</title>
+    </programme>
+    <programme channel="中国特产" start="20251107103500 +0800" stop="20251107105500 +0800">
+        <title lang="zh">特产档案</title>
+    </programme>
+    <programme channel="中国特产" start="20251107105500 +0800" stop="20251107112500 +0800">
+        <title lang="zh">我的健康我做主</title>
+    </programme>
+    <programme channel="中国特产" start="20251107112500 +0800" stop="20251107120500 +0800">
+        <title lang="zh">特产档案</title>
+    </programme>
+    <programme channel="中国特产" start="20251107120500 +0800" stop="20251107130500 +0800">
+        <title lang="zh">特产档案</title>
+    </programme>
+    <programme channel="中国特产" start="20251107130500 +0800" stop="20251107133500 +0800">
+        <title lang="zh">我的健康我做主</title>
+    </programme>
+    <programme channel="中国特产" start="20251107133500 +0800" stop="20251107135500 +0800">
+        <title lang="zh">特产档案</title>
+    </programme>
+    <programme channel="中国特产" start="20251107135500 +0800" stop="20251107142500 +0800">
+        <title lang="zh">我的健康我做主</title>
+    </programme>
+    <programme channel="中国特产" start="20251107142500 +0800" stop="20251107144000 +0800">
+        <title lang="zh">风物东方</title>
+    </programme>
+    <programme channel="中国特产" start="20251107144000 +0800" stop="20251107151000 +0800">
+        <title lang="zh">我的健康我做主</title>
+    </programme>
+    <programme channel="中国特产" start="20251107151000 +0800" stop="20251107153000 +0800">
+        <title lang="zh">特产档案</title>
+    </programme>
+    <programme channel="中国特产" start="20251107153000 +0800" stop="20251107160000 +0800">
+        <title lang="zh">我的健康我做主</title>
+    </programme>
+    <programme channel="中国特产" start="20251107160000 +0800" stop="20251107170000 +0800">
+        <title lang="zh">特产档案</title>
+    </programme>
+    <programme channel="中国特产" start="20251107170000 +0800" stop="20251107174000 +0800">
+        <title lang="zh">特产档案</title>
+    </programme>
+    <programme channel="中国特产" start="20251107174000 +0800" stop="20251107181000 +0800">
+        <title lang="zh">我的健康我做主</title>
+    </programme>
+    <programme channel="中国特产" start="20251107181000 +0800" stop="20251107183000 +0800">
+        <title lang="zh">特产档案</title>
+    </programme>
+    <programme channel="中国特产" start="20251107183000 +0800" stop="20251107190000 +0800">
+        <title lang="zh">我的健康我做主</title>
+    </programme>
+    <programme channel="中国特产" start="20251107190000 +0800" stop="20251107200000 +0800">
+        <title lang="zh">特产档案</title>
+    </programme>
+    <programme channel="中国特产" start="20251107200000 +0800" stop="20251107210000 +0800">
+        <title lang="zh">特产档案</title>
+    </programme>
+    <programme channel="中国特产" start="20251107210000 +0800" stop="20251107220000 +0800">
+        <title lang="zh">特产档案</title>
+    </programme>
+    <programme channel="中国特产" start="20251107220000 +0800" stop="20251107230000 +0800">
+        <title lang="zh">特产档案</title>
+    </programme>
+    <programme channel="中国特产" start="20251107230000 +0800" stop="20251108000000 +0800">
+        <title lang="zh">特产档案</title>
     </programme>
     <channel id="环球旅游">
         <display-name lang="zh">环球旅游</display-name>
