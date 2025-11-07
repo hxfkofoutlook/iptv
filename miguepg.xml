@@ -859,16 +859,16 @@
         <title lang="zh">星推荐-2025年11月-7</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251107192725 +0800" stop="20251107193000 +0800">
-        <title lang="zh">本集提要-四喜-1/36</title>
+        <title lang="zh">本集提要-四喜-第1集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251107193000 +0800" stop="20251107202515 +0800">
-        <title lang="zh">四喜1/36</title>
+        <title lang="zh">四喜第1集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251107202515 +0800" stop="20251107203015 +0800">
-        <title lang="zh">本集提要-四喜-2/36</title>
+        <title lang="zh">本集提要-四喜-第2集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251107203015 +0800" stop="20251107212125 +0800">
-        <title lang="zh">四喜2/36</title>
+        <title lang="zh">四喜第2集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251107212125 +0800" stop="20251107212620 +0800">
         <title lang="zh">本集提要-六姊妹-第34集</title>
@@ -3435,10 +3435,13 @@
     <programme channel="24小时全运会轮播台" start="20251107082100 +0800" stop="20251107092000 +0800">
         <title lang="zh">2025全运会全场回放：跳水第2比赛日早场</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251107092000 +0800" stop="20251107135000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251107092000 +0800" stop="20251107124200 +0800">
         <title lang="zh">【直播】公路自行车 男女子个人计时赛决赛</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251107135000 +0800" stop="20251107142000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251107124200 +0800" stop="20251107131200 +0800">
+        <title lang="zh">2025全运会全场回放：男子水球金牌赛</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251107131200 +0800" stop="20251107142000 +0800">
         <title lang="zh">2025全运会全场回放：篮球男子成年组小组赛I组 吉林vs辽宁</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251107142000 +0800" stop="20251107172000 +0800">
