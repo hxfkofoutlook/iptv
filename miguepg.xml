@@ -3426,10 +3426,16 @@
     <programme channel="24小时全运会轮播台" start="20251108144200 +0800" stop="20251108162000 +0800">
         <title lang="zh">2025全运会全场回放：公路自行车男女子个人计时赛决赛</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251108162000 +0800" stop="20251108220300 +0800">
+    <programme channel="24小时全运会轮播台" start="20251108162000 +0800" stop="20251108203300 +0800">
         <title lang="zh">跳水 第7比赛日 下午场</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251108220300 +0800" stop="20251108223300 +0800">
+    <programme channel="24小时全运会轮播台" start="20251108203300 +0800" stop="20251108211500 +0800">
+        <title lang="zh">2025全运会回放：公路自行车女子个人计时赛决赛</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251108211500 +0800" stop="20251108211900 +0800">
+        <title lang="zh">2025全运会全场集锦：篮球男子成年组小组赛I组 澳门VS吉林</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251108211900 +0800" stop="20251108223300 +0800">
         <title lang="zh">2025全运会全场回放：男子水球金牌赛</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251108223300 +0800" stop="20251109001800 +0800">
