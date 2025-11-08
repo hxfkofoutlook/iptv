@@ -108,11 +108,8 @@
     <programme channel="CCTV1综合" start="20251108223445 +0800" stop="20251108232245 +0800">
         <title lang="zh">开讲啦-2025-35</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251108232245 +0800" stop="20251108235700 +0800">
-        <title lang="zh">文脉春秋-2024-11</title>
-    </programme>
-    <programme channel="CCTV1综合" start="20251108235700 +0800" stop="20251108235900 +0800">
-        <title lang="zh">国家荣光-2025-11</title>
+    <programme channel="CCTV1综合" start="20251108232245 +0800" stop="20251108235900 +0800">
+        <title lang="zh">星光大道-2025-46（这一站星光39）</title>
     </programme>
     <channel id="CCTV2财经">
         <display-name lang="zh">CCTV2财经</display-name>
