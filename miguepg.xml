@@ -456,17 +456,14 @@
     <programme channel="CCTV5体育" start="20251108070000 +0800" stop="20251108085500 +0800">
         <title lang="zh">体坛晨报</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251108085500 +0800" stop="20251108100000 +0800">
-        <title lang="zh">第十五届全国运动会公路自行车男子个人赛出发阶段</title>
-    </programme>
-    <programme channel="CCTV5体育" start="20251108100000 +0800" stop="20251108120000 +0800">
-        <title lang="zh">第十五届全国运动会乒乓球混双1/8决赛</title>
+    <programme channel="CCTV5体育" start="20251108085500 +0800" stop="20251108120000 +0800">
+        <title lang="zh">第十五届全国运动会公路自行车男子个人赛出发阶段等</title>
     </programme>
     <programme channel="CCTV5体育" start="20251108120000 +0800" stop="20251108130000 +0800">
         <title lang="zh">体坛快讯</title>
     </programme>
     <programme channel="CCTV5体育" start="20251108130000 +0800" stop="20251108143000 +0800">
-        <title lang="zh">第十五届全国运动会公路自行车男子个人赛冲刺阶段</title>
+        <title lang="zh">第十五届全国运动会公路自行车男子个人赛冲刺阶段等</title>
     </programme>
     <programme channel="CCTV5体育" start="20251108143000 +0800" stop="20251108160000 +0800">
         <title lang="zh">第十五届全国运动会武术-女子剑术、女子南刀等</title>
@@ -3363,58 +3360,22 @@
     <programme channel="24小时全运会轮播台" start="20251108055800 +0800" stop="20251108081100 +0800">
         <title lang="zh">第十五届全国运动会火炬传递仪式</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251108081100 +0800" stop="20251108101100 +0800">
+    <programme channel="24小时全运会轮播台" start="20251108081100 +0800" stop="20251108094500 +0800">
         <title lang="zh">2025全运会全场回放：篮球男子成年组小组赛II组 江苏vs浙江</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251108101100 +0800" stop="20251108110400 +0800">
-        <title lang="zh">2025全运会回放：沙滩排球女子1/4决赛 江苏VS新疆</title>
+    <programme channel="24小时全运会轮播台" start="20251108094500 +0800" stop="20251108142800 +0800">
+        <title lang="zh">跳水 第7比赛日 上午场</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251108110400 +0800" stop="20251108111000 +0800">
-        <title lang="zh">港珠澳大桥-走进大国重器，感悟中国力量</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251108111000 +0800" stop="20251108111500 +0800">
-        <title lang="zh">2025全运会全场集锦：篮球成年组小组赛II组 江苏VS广东</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251108111500 +0800" stop="20251108123800 +0800">
-        <title lang="zh">2025全运会全场回放：篮球男子成年组小组赛I组 澳门vs天津</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251108123800 +0800" stop="20251108124200 +0800">
-        <title lang="zh">2025全运会全场集锦：篮球成年组小组赛II组 江苏VS广东</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251108124200 +0800" stop="20251108124800 +0800">
-        <title lang="zh">《同根同梦 港澳新声》 郑斯方：香江北上 逐梦北京</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251108124800 +0800" stop="20251108132400 +0800">
-        <title lang="zh">2025全运会全场回放：沙滩排球男子小组赛</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251108132400 +0800" stop="20251108135800 +0800">
-        <title lang="zh">2025全运会全场回放：女子沙滩排球小组赛</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251108135800 +0800" stop="20251108140400 +0800">
-        <title lang="zh">《同根同梦 港澳新声》 江阳：音乐寻根 紫荆花开</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251108140400 +0800" stop="20251108141100 +0800">
-        <title lang="zh">港珠澳大桥-走进大国重器，感悟中国力量</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251108141100 +0800" stop="20251108144200 +0800">
+    <programme channel="24小时全运会轮播台" start="20251108142800 +0800" stop="20251108144200 +0800">
         <title lang="zh">2025全运会回放：乒乓球成年组混双1/16决赛 黄友政/孙晨VS郝帅/刘炜珊</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251108144200 +0800" stop="20251108174000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251108144200 +0800" stop="20251108162000 +0800">
         <title lang="zh">2025全运会全场回放：公路自行车男女子个人计时赛决赛</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251108174000 +0800" stop="20251108195300 +0800">
-        <title lang="zh">第十五届全国运动会火炬传递仪式</title>
+    <programme channel="24小时全运会轮播台" start="20251108162000 +0800" stop="20251108220300 +0800">
+        <title lang="zh">跳水 第7比赛日 下午场</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251108195300 +0800" stop="20251108195800 +0800">
-        <title lang="zh">《同根同梦 港澳新声》 郑斯方：香江北上 逐梦北京</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251108195800 +0800" stop="20251108211500 +0800">
-        <title lang="zh">2025全运会回放：公路自行车女子个人计时赛决赛</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251108211500 +0800" stop="20251108211900 +0800">
-        <title lang="zh">2025全运会全场集锦：篮球男子成年组小组赛I组 澳门VS吉林</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251108211900 +0800" stop="20251108223300 +0800">
+    <programme channel="24小时全运会轮播台" start="20251108220300 +0800" stop="20251108223300 +0800">
         <title lang="zh">2025全运会全场回放：男子水球金牌赛</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251108223300 +0800" stop="20251109001800 +0800">
