@@ -79,7 +79,7 @@
         <title lang="zh">依依向北风第12集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251108171825 +0800" stop="20251108173125 +0800">
-        <title lang="zh">中华古树-黄帝手植柏（4K）</title>
+        <title lang="zh">中华古树-绿色国宝（4K）</title>
     </programme>
     <programme channel="CCTV1综合" start="20251108173125 +0800" stop="20251108184950 +0800">
         <title lang="zh">星光大道-2025-46（这一站星光39）</title>
@@ -93,11 +93,14 @@
     <programme channel="CCTV1综合" start="20251108193850 +0800" stop="20251108200200 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251108200200 +0800" stop="20251108214115 +0800">
+    <programme channel="CCTV1综合" start="20251108200200 +0800" stop="20251108213545 +0800">
         <title lang="zh">好记者讲好故事——2025年中国记者节特别节目-完整版</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251108214115 +0800" stop="20251108220000 +0800">
-        <title lang="zh">中华古树-霞浦黄连木（4K）</title>
+    <programme channel="CCTV1综合" start="20251108213545 +0800" stop="20251108215205 +0800">
+        <title lang="zh">中华古树-阳朔古榕树（4K）</title>
+    </programme>
+    <programme channel="CCTV1综合" start="20251108215205 +0800" stop="20251108220000 +0800">
+        <title lang="zh">非遗里的中国-MV</title>
     </programme>
     <programme channel="CCTV1综合" start="20251108220000 +0800" stop="20251108223445 +0800">
         <title lang="zh">晚间新闻</title>
@@ -3369,10 +3372,22 @@
     <programme channel="24小时全运会轮播台" start="20251108081100 +0800" stop="20251108094500 +0800">
         <title lang="zh">2025全运会全场回放：篮球男子成年组小组赛II组 江苏vs浙江</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251108094500 +0800" stop="20251108142800 +0800">
+    <programme channel="24小时全运会轮播台" start="20251108094500 +0800" stop="20251108131300 +0800">
         <title lang="zh">跳水 第7比赛日 上午场</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251108142800 +0800" stop="20251108144200 +0800">
+    <programme channel="24小时全运会轮播台" start="20251108131300 +0800" stop="20251108132400 +0800">
+        <title lang="zh">2025全运会全场回放：沙滩排球男子小组赛</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251108132400 +0800" stop="20251108135800 +0800">
+        <title lang="zh">2025全运会全场回放：女子沙滩排球小组赛</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251108135800 +0800" stop="20251108140400 +0800">
+        <title lang="zh">《同根同梦 港澳新声》 江阳：音乐寻根 紫荆花开</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251108140400 +0800" stop="20251108141100 +0800">
+        <title lang="zh">港珠澳大桥-走进大国重器，感悟中国力量</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251108141100 +0800" stop="20251108144200 +0800">
         <title lang="zh">2025全运会回放：乒乓球成年组混双1/16决赛 黄友政/孙晨VS郝帅/刘炜珊</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251108144200 +0800" stop="20251108162000 +0800">
@@ -3390,20 +3405,26 @@
     <channel id="陕西体育休闲频道">
         <display-name lang="zh">陕西体育休闲频道</display-name>
     </channel>
-    <programme channel="陕西体育休闲频道" start="20251108000000 +0800" stop="20251108010600 +0800">
-        <title lang="zh">天下赛场</title>
+    <programme channel="陕西体育休闲频道" start="20251108000000 +0800" stop="20251108000100 +0800">
+        <title lang="zh">体育时间</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20251108010600 +0800" stop="20251108064600 +0800">
+    <programme channel="陕西体育休闲频道" start="20251108000100 +0800" stop="20251108002200 +0800">
+        <title lang="zh">陕西体育</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251108002200 +0800" stop="20251108064600 +0800">
         <title lang="zh">导视+结束曲</title>
     </programme>
     <programme channel="陕西体育休闲频道" start="20251108064600 +0800" stop="20251108064700 +0800">
         <title lang="zh">台标晨曲</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20251108064700 +0800" stop="20251108073700 +0800">
-        <title lang="zh">天下赛场</title>
+    <programme channel="陕西体育休闲频道" start="20251108064700 +0800" stop="20251108071700 +0800">
+        <title lang="zh">搏击王</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20251108073700 +0800" stop="20251108075000 +0800">
-        <title lang="zh">赛事集锦</title>
+    <programme channel="陕西体育休闲频道" start="20251108071700 +0800" stop="20251108072000 +0800">
+        <title lang="zh">频宣+导视</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251108072000 +0800" stop="20251108075000 +0800">
+        <title lang="zh">体育时间</title>
     </programme>
     <programme channel="陕西体育休闲频道" start="20251108075000 +0800" stop="20251108081000 +0800">
         <title lang="zh">天下赛场</title>
@@ -3469,21 +3490,30 @@
         <title lang="zh">陕西体育</title>
     </programme>
     <programme channel="陕西体育休闲频道" start="20251108175500 +0800" stop="20251108180000 +0800">
-        <title lang="zh">导视</title>
+        <title lang="zh">频宣+导视</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20251108180000 +0800" stop="20251108213000 +0800">
-        <title lang="zh">直播：十五运会</title>
+    <programme channel="陕西体育休闲频道" start="20251108180000 +0800" stop="20251108194000 +0800">
+        <title lang="zh">天下赛场</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20251108213000 +0800" stop="20251108224300 +0800">
+    <programme channel="陕西体育休闲频道" start="20251108194000 +0800" stop="20251108200000 +0800">
+        <title lang="zh">天下赛场</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251108200000 +0800" stop="20251108210500 +0800">
         <title lang="zh">夺宝秦兵</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20251108224300 +0800" stop="20251108230500 +0800">
-        <title lang="zh">专题节目</title>
-    </programme>
-    <programme channel="陕西体育休闲频道" start="20251108230500 +0800" stop="20251108232500 +0800">
+    <programme channel="陕西体育休闲频道" start="20251108210500 +0800" stop="20251108212500 +0800">
         <title lang="zh">陕西体育</title>
     </programme>
-    <programme channel="陕西体育休闲频道" start="20251108232500 +0800" stop="20251109000000 +0800">
+    <programme channel="陕西体育休闲频道" start="20251108212500 +0800" stop="20251108223800 +0800">
+        <title lang="zh">夺宝秦兵</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251108223800 +0800" stop="20251108230000 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251108230000 +0800" stop="20251108232000 +0800">
+        <title lang="zh">陕西体育</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251108232000 +0800" stop="20251109000000 +0800">
         <title lang="zh">天下赛场</title>
     </programme>
     <channel id="24小时城市联赛轮播台">
