@@ -1416,11 +1416,14 @@
     <programme channel="CCTV15音乐" start="20251110101800 +0800" stop="20251110102700 +0800">
         <title lang="zh">中国节拍-品味古典22</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20251110102700 +0800" stop="20251110114230 +0800">
+    <programme channel="CCTV15音乐" start="20251110102700 +0800" stop="20251110114030 +0800">
         <title lang="zh">民歌·中国-2025-134故乡恋曲15</title>
     </programme>
-    <programme channel="CCTV15音乐" start="20251110114230 +0800" stop="20251110134700 +0800">
-        <title lang="zh">金声玉振——中国器乐大会-第六期</title>
+    <programme channel="CCTV15音乐" start="20251110114030 +0800" stop="20251110114730 +0800">
+        <title lang="zh">舞从这里来-恩施篇-1</title>
+    </programme>
+    <programme channel="CCTV15音乐" start="20251110114730 +0800" stop="20251110134700 +0800">
+        <title lang="zh">音乐周刊-和美之夜（重播1）</title>
     </programme>
     <programme channel="CCTV15音乐" start="20251110134700 +0800" stop="20251110155430 +0800">
         <title lang="zh">影视留声机-2025-3-经典音乐电影欣赏《刘三姐》</title>
