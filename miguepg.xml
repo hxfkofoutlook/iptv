@@ -81,20 +81,17 @@
     <programme channel="CCTV1综合" start="20251109193725 +0800" stop="20251109211100 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251109211100 +0800" stop="20251109212000 +0800">
+    <programme channel="CCTV1综合" start="20251109211100 +0800" stop="20251109213500 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251109212000 +0800" stop="20251109212800 +0800">
+    <programme channel="CCTV1综合" start="20251109213500 +0800" stop="20251109214100 +0800">
         <title lang="zh">非遗里的中国-MV</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251109212800 +0800" stop="20251109213900 +0800">
+    <programme channel="CCTV1综合" start="20251109214100 +0800" stop="20251109215400 +0800">
         <title lang="zh">中华古树-霞浦黄连木（4K）</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251109213900 +0800" stop="20251109214900 +0800">
+    <programme channel="CCTV1综合" start="20251109215400 +0800" stop="20251109220000 +0800">
         <title lang="zh">中华古树-茅镬古树群（4K）</title>
-    </programme>
-    <programme channel="CCTV1综合" start="20251109214900 +0800" stop="20251109220000 +0800">
-        <title lang="zh">山水间的家-主题曲</title>
     </programme>
     <programme channel="CCTV1综合" start="20251109220000 +0800" stop="20251109223445 +0800">
         <title lang="zh">晚间新闻</title>
@@ -435,26 +432,23 @@
     <programme channel="CCTV5体育" start="20251109070000 +0800" stop="20251109085500 +0800">
         <title lang="zh">体坛晨报</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251109085500 +0800" stop="20251109100000 +0800">
-        <title lang="zh">第十五届全国运动会公路自行车-女子个人赛等</title>
+    <programme channel="CCTV5体育" start="20251109085500 +0800" stop="20251109113000 +0800">
+        <title lang="zh">直播：第十五届全国运动会赛艇（男子四人双桨、女子四人双桨、男子轻量级双人双桨、女子轻量级双人双桨、男子轻量级单人双桨、女子轻量级单人双桨、男子单人双桨、女子单人双桨）</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251109100000 +0800" stop="20251109120000 +0800">
-        <title lang="zh">直播：第十五届全国运动会乒乓球比赛</title>
+    <programme channel="CCTV5体育" start="20251109113000 +0800" stop="20251109123000 +0800">
+        <title lang="zh">全运最前沿</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251109120000 +0800" stop="20251109122500 +0800">
-        <title lang="zh">体坛快讯</title>
+    <programme channel="CCTV5体育" start="20251109123000 +0800" stop="20251109143000 +0800">
+        <title lang="zh">直播：第十五届全国运动会乒乓球成年组男女单1/16决赛、混双1/8决赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251109122500 +0800" stop="20251109130000 +0800">
-        <title lang="zh">第十五届全国运动-公路自行车女子个人赛冲刺阶段</title>
+    <programme channel="CCTV5体育" start="20251109143000 +0800" stop="20251109160000 +0800">
+        <title lang="zh">直播：第十五届全国运动会武术套路 团体男子枪术、女子棍术</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251109130000 +0800" stop="20251109140500 +0800">
-        <title lang="zh">第十五届全国运动-女篮小组赛 上海-四川</title>
-    </programme>
-    <programme channel="CCTV5体育" start="20251109140500 +0800" stop="20251109173000 +0800">
-        <title lang="zh">2024/2025赛季斯诺克国际锦标赛-决赛 第一阶段</title>
+    <programme channel="CCTV5体育" start="20251109160000 +0800" stop="20251109173000 +0800">
+        <title lang="zh">直播：第十五届全国运动会跳水男子3米板决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20251109173000 +0800" stop="20251109180000 +0800">
-        <title lang="zh">实况录像-2025年世界体操锦标赛 中国队金牌记录</title>
+        <title lang="zh">延播：第十五届全国运动会武术 团体（女子二人对练）</title>
     </programme>
     <programme channel="CCTV5体育" start="20251109180000 +0800" stop="20251109195600 +0800">
         <title lang="zh">体育新闻-第十五届全国运动会开幕式特别节目</title>
@@ -1263,10 +1257,10 @@
     <programme channel="CCTV13新闻" start="20251109193210 +0800" stop="20251109193725 +0800">
         <title lang="zh">天气预报</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251109193725 +0800" stop="20251109212000 +0800">
+    <programme channel="CCTV13新闻" start="20251109193725 +0800" stop="20251109213500 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251109212000 +0800" stop="20251109215000 +0800">
+    <programme channel="CCTV13新闻" start="20251109213500 +0800" stop="20251109215000 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
     <programme channel="CCTV13新闻" start="20251109215000 +0800" stop="20251109223500 +0800">
@@ -3345,10 +3339,13 @@
     <programme channel="24小时全运会轮播台" start="20251109182000 +0800" stop="20251109195000 +0800">
         <title lang="zh">开幕式特别节目</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251109195000 +0800" stop="20251109223500 +0800">
+    <programme channel="24小时全运会轮播台" start="20251109195000 +0800" stop="20251109213000 +0800">
         <title lang="zh">第十五届全国运动会开幕式特别节目&amp;开幕式（CCTV5）</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251109223500 +0800" stop="20251109235700 +0800">
+    <programme channel="24小时全运会轮播台" start="20251109213000 +0800" stop="20251109221200 +0800">
+        <title lang="zh">2025全运会全场回放：男子水球金牌赛</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251109221200 +0800" stop="20251109235700 +0800">
         <title lang="zh">2025全运会全场回放：篮球男子成年组小组赛I组 吉林vs辽宁</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251109235700 +0800" stop="20251110003100 +0800">
