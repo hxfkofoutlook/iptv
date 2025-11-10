@@ -841,19 +841,19 @@
         <title lang="zh">本集提要-四喜-第8集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251110203005 +0800" stop="20251110212150 +0800">
-        <title lang="zh">四喜8/36</title>
+        <title lang="zh">四喜第8集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251110212150 +0800" stop="20251110212645 +0800">
         <title lang="zh">本集提要-隐锋-第1集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251110212645 +0800" stop="20251110221600 +0800">
-        <title lang="zh">隐锋1/37</title>
+        <title lang="zh">隐锋第1集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251110221600 +0800" stop="20251110221805 +0800">
         <title lang="zh">本集提要-隐锋-第2集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251110221805 +0800" stop="20251110230720 +0800">
-        <title lang="zh">隐锋2/37</title>
+        <title lang="zh">隐锋第2集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251110230720 +0800" stop="20251110235320 +0800">
         <title lang="zh">蛮好的人生第29集</title>
@@ -3417,8 +3417,20 @@
     <programme channel="24小时全运会轮播台" start="20251110134500 +0800" stop="20251110135000 +0800">
         <title lang="zh">2025全运会回放：跳水女子双人3米跳板决赛</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251110135000 +0800" stop="20251110163000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251110135000 +0800" stop="20251110154400 +0800">
         <title lang="zh">篮球 男子U22小组赛I组 福建vs辽宁</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251110154400 +0800" stop="20251110161400 +0800">
+        <title lang="zh">2025全运会全场回放：女子沙滩排球小组赛</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251110161400 +0800" stop="20251110161900 +0800">
+        <title lang="zh">全运会开幕式主题歌《天海一心》</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251110161900 +0800" stop="20251110162500 +0800">
+        <title lang="zh">港珠澳大桥-走进大国重器，感悟中国力量</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251110162500 +0800" stop="20251110163000 +0800">
+        <title lang="zh">2025全运会全场回放：男子水球金牌赛</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251110163000 +0800" stop="20251110193000 +0800">
         <title lang="zh">篮球 男子U18小组赛II组 上海vs辽宁</title>
