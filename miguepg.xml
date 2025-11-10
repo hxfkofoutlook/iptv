@@ -3432,10 +3432,16 @@
     <programme channel="24小时全运会轮播台" start="20251110162500 +0800" stop="20251110163000 +0800">
         <title lang="zh">2025全运会全场回放：男子水球金牌赛</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251110163000 +0800" stop="20251110193000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251110163000 +0800" stop="20251110181300 +0800">
         <title lang="zh">篮球 男子U18小组赛II组 上海vs辽宁</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251110193000 +0800" stop="20251110194700 +0800">
+    <programme channel="24小时全运会轮播台" start="20251110181300 +0800" stop="20251110185600 +0800">
+        <title lang="zh">2025全运会开幕式特别节目</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251110185600 +0800" stop="20251110191400 +0800">
+        <title lang="zh">全运粤章：对话刘平云 十五运会吉祥物诞生记</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251110191400 +0800" stop="20251110194700 +0800">
         <title lang="zh">2025全运会回放：乒乓球成年组女单1/16决赛 王艺迪VS张翔宇</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251110194700 +0800" stop="20251110195200 +0800">
