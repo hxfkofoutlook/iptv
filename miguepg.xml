@@ -844,13 +844,13 @@
         <title lang="zh">四喜8/36</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251110212150 +0800" stop="20251110212645 +0800">
-        <title lang="zh">本集提要-隐锋-1/37</title>
+        <title lang="zh">本集提要-隐锋-第1集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251110212645 +0800" stop="20251110221600 +0800">
         <title lang="zh">隐锋1/37</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251110221600 +0800" stop="20251110221805 +0800">
-        <title lang="zh">本集提要-隐锋-2/37</title>
+        <title lang="zh">本集提要-隐锋-第2集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251110221805 +0800" stop="20251110230720 +0800">
         <title lang="zh">隐锋2/37</title>
@@ -3390,10 +3390,19 @@
     <programme channel="24小时全运会轮播台" start="20251110072800 +0800" stop="20251110085000 +0800">
         <title lang="zh">2025全运会全场回放：篮球男子成年组小组赛II组 江苏vs浙江</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251110085000 +0800" stop="20251110125200 +0800">
+    <programme channel="24小时全运会轮播台" start="20251110085000 +0800" stop="20251110115500 +0800">
         <title lang="zh">游泳 第1比赛日 上午场</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251110125200 +0800" stop="20251110131500 +0800">
+    <programme channel="24小时全运会轮播台" start="20251110115500 +0800" stop="20251110120000 +0800">
+        <title lang="zh">2025全运会全场集锦：篮球成年组小组赛II组 江苏VS广东</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251110120000 +0800" stop="20251110120500 +0800">
+        <title lang="zh">《同根同梦 港澳新声》 郑斯方：香江北上 逐梦北京</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251110120500 +0800" stop="20251110124100 +0800">
+        <title lang="zh">2025全运会全场回放：沙滩排球男子小组赛</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251110124100 +0800" stop="20251110131500 +0800">
         <title lang="zh">2025全运会全场回放：女子沙滩排球小组赛</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251110131500 +0800" stop="20251110132100 +0800">
