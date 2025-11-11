@@ -3522,10 +3522,13 @@
     <programme channel="24小时全运会轮播台" start="20251111123000 +0800" stop="20251111140000 +0800">
         <title lang="zh">【直播】乒乓球 第5比赛日 上午场</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251111140000 +0800" stop="20251111153000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251111140000 +0800" stop="20251111151500 +0800">
         <title lang="zh">【直播】篮球 男子成年组5-8名排位赛 北京vs上海</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251111153000 +0800" stop="20251111153900 +0800">
+    <programme channel="24小时全运会轮播台" start="20251111151500 +0800" stop="20251111151900 +0800">
+        <title lang="zh">《同根同梦 港澳新声》 郑斯方：香江北上 逐梦北京</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251111151900 +0800" stop="20251111153900 +0800">
         <title lang="zh">《咪咕体育日报》孙颖莎樊振东零封晋级 潘展乐率队夺金</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251111153900 +0800" stop="20251111154500 +0800">
@@ -5760,7 +5763,7 @@
     <programme channel="上海新闻综合" start="20251111230000 +0800" stop="20251111232500 +0800">
         <title lang="zh">东方110</title>
     </programme>
-    <programme channel="上海新闻综合" start="20251111232500 +0800" stop="20251112001500 +0800">
+    <programme channel="上海新闻综合" start="20251111232500 +0800" stop="20251112000500 +0800">
         <title lang="zh">54集连续剧：远方的山楂树（44）</title>
     </programme>
     <channel id="上视东方影视">
