@@ -3537,10 +3537,28 @@
     <programme channel="24小时全运会轮播台" start="20251111154500 +0800" stop="20251111180000 +0800">
         <title lang="zh">【直播】跳水 第9比赛日 下午场</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251111180000 +0800" stop="20251111234000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251111180000 +0800" stop="20251111204800 +0800">
         <title lang="zh">【直播】乒乓球 第5比赛日 晚间场</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251111234000 +0800" stop="20251112002000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251111204800 +0800" stop="20251111210400 +0800">
+        <title lang="zh">2025全运会开幕式特别节目</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251111210400 +0800" stop="20251111212400 +0800">
+        <title lang="zh">《咪咕体育日报》孙颖莎樊振东零封晋级 潘展乐率队夺金</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251111212400 +0800" stop="20251111221600 +0800">
+        <title lang="zh">2025全运会回放：乒乓球成年组男单1/16决赛 王楚钦4-1魏世皓</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251111221600 +0800" stop="20251111225200 +0800">
+        <title lang="zh">2025全运会回放：乒乓球成年组男单1/16决赛 周雨0-4樊振东</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251111225200 +0800" stop="20251111225700 +0800">
+        <title lang="zh">《同根同梦 港澳新声》 郑斯方：香江北上 逐梦北京</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251111225700 +0800" stop="20251111230400 +0800">
+        <title lang="zh">《同根同梦 港澳新声》 江阳：音乐寻根 紫荆花开</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251111230400 +0800" stop="20251112002000 +0800">
         <title lang="zh">2025全运会开幕式特别节目</title>
     </programme>
     <channel id="陕西体育休闲频道">
@@ -3912,7 +3930,7 @@
     <programme channel="东方卫视" start="20251111220000 +0800" stop="20251111230000 +0800">
         <title lang="zh">籍籍无名(1):苏尼尔的牛油果</title>
     </programme>
-    <programme channel="东方卫视" start="20251111230000 +0800" stop="20251112000000 +0800">
+    <programme channel="东方卫视" start="20251111230000 +0800" stop="20251112001900 +0800">
         <title lang="zh">梦想改造家第十二季(2)</title>
     </programme>
     <channel id="江苏卫视">
@@ -5406,7 +5424,7 @@
     <programme channel="兵团卫视" start="20251111232400 +0800" stop="20251111235500 +0800">
         <title lang="zh">纪录片</title>
     </programme>
-    <programme channel="兵团卫视" start="20251111235500 +0800" stop="20251112000000 +0800">
+    <programme channel="兵团卫视" start="20251111235500 +0800" stop="20251112010900 +0800">
         <title lang="zh">剧场</title>
     </programme>
     <channel id="辽宁卫视">
@@ -5655,7 +5673,7 @@
     <programme channel="宁夏卫视" start="20251111222500 +0800" stop="20251111232000 +0800">
         <title lang="zh">亮剑(12)</title>
     </programme>
-    <programme channel="宁夏卫视" start="20251111232000 +0800" stop="20251112000000 +0800">
+    <programme channel="宁夏卫视" start="20251111232000 +0800" stop="20251112001500 +0800">
         <title lang="zh">亮剑(13)</title>
     </programme>
     <channel id="上海新闻综合">
@@ -9417,7 +9435,7 @@
     <programme channel="山东教育" start="20251111223500 +0800" stop="20251111230600 +0800">
         <title lang="zh">孔子大学堂</title>
     </programme>
-    <programme channel="山东教育" start="20251111230600 +0800" stop="20251112000000 +0800">
+    <programme channel="山东教育" start="20251111230600 +0800" stop="20251112004900 +0800">
         <title lang="zh">电影</title>
     </programme>
     <channel id="熊猫频道01高清">
