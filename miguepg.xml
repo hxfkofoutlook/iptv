@@ -486,10 +486,10 @@
     <programme channel="CCTV5体育" start="20251111125500 +0800" stop="20251111150000 +0800">
         <title lang="zh">第十五届全国运动会-女排小组赛 上海-浙江</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251111150000 +0800" stop="20251111160000 +0800">
+    <programme channel="CCTV5体育" start="20251111150000 +0800" stop="20251111162000 +0800">
         <title lang="zh">第十五届全国运动会-滑板男子街式决赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251111160000 +0800" stop="20251111170000 +0800">
+    <programme channel="CCTV5体育" start="20251111162000 +0800" stop="20251111170000 +0800">
         <title lang="zh">第十五届全国运动会-跳水女子3米板决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20251111170000 +0800" stop="20251111180000 +0800">
@@ -3699,14 +3699,11 @@
     <programme channel="24小时城市联赛轮播台" start="20251111181300 +0800" stop="20251111213200 +0800">
         <title lang="zh">江苏苏超决赛全场回放：南通队0:0泰州队（点球3:4）</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251111213200 +0800" stop="20251111224500 +0800">
-        <title lang="zh">河南豫排第二阶段第7轮回放：航空港区3-0商丘科迪花木兰</title>
+    <programme channel="24小时城市联赛轮播台" start="20251111213200 +0800" stop="20251111231300 +0800">
+        <title lang="zh">河南豫排第二阶段第10轮回放：洛阳3-0新乡南太行</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251111224500 +0800" stop="20251111235900 +0800">
-        <title lang="zh">河南豫排第二阶段第7轮回放：开封龙亭0-3郑州</title>
-    </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251111235900 +0800" stop="20251112034600 +0800">
-        <title lang="zh">四川川超第7轮：成都锦城队1:0达州川汉子队</title>
+    <programme channel="24小时城市联赛轮播台" start="20251111231300 +0800" stop="20251112002700 +0800">
+        <title lang="zh">河南豫排第二阶段第10轮回放：开封龙亭3-0商丘科迪花木兰</title>
     </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
