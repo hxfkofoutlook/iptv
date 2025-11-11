@@ -585,46 +585,46 @@
     <programme channel="CCTV6电影" start="20251111032350 +0800" stop="20251111045215 +0800">
         <title lang="zh">小镇发明家</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251111045215 +0800" stop="20251111063653 +0800">
+    <programme channel="CCTV6电影" start="20251111045215 +0800" stop="20251111063353 +0800">
         <title lang="zh">澳门风云Ⅱ</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251111063653 +0800" stop="20251111081618 +0800">
+    <programme channel="CCTV6电影" start="20251111063353 +0800" stop="20251111081328 +0800">
         <title lang="zh">战火归途</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251111081618 +0800" stop="20251111100421 +0800">
+    <programme channel="CCTV6电影" start="20251111081328 +0800" stop="20251111100141 +0800">
         <title lang="zh">带你去见我妈</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251111100421 +0800" stop="20251111122029 +0800">
+    <programme channel="CCTV6电影" start="20251111100141 +0800" stop="20251111121759 +0800">
         <title lang="zh">长空之王</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251111122029 +0800" stop="20251111122829 +0800">
+    <programme channel="CCTV6电影" start="20251111121759 +0800" stop="20251111122559 +0800">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251111122829 +0800" stop="20251111141523 +0800">
+    <programme channel="CCTV6电影" start="20251111122559 +0800" stop="20251111141303 +0800">
         <title lang="zh">飞驰人生</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251111141523 +0800" stop="20251111145043 +0800">
+    <programme channel="CCTV6电影" start="20251111141303 +0800" stop="20251111144823 +0800">
         <title lang="zh">鳄鱼莱莱（上）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251111145043 +0800" stop="20251111160523 +0800">
+    <programme channel="CCTV6电影" start="20251111144823 +0800" stop="20251111160313 +0800">
         <title lang="zh">鳄鱼莱莱（下）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251111160523 +0800" stop="20251111174706 +0800">
+    <programme channel="CCTV6电影" start="20251111160313 +0800" stop="20251111174506 +0800">
         <title lang="zh">玄天诀</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251111174706 +0800" stop="20251111175706 +0800">
+    <programme channel="CCTV6电影" start="20251111174506 +0800" stop="20251111175506 +0800">
         <title lang="zh">今日影评2025-225</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251111175706 +0800" stop="20251111200000 +0800">
+    <programme channel="CCTV6电影" start="20251111175506 +0800" stop="20251111200000 +0800">
         <title lang="zh">奇门遁甲</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251111200000 +0800" stop="20251111200210 +0800">
+    <programme channel="CCTV6电影" start="20251111200000 +0800" stop="20251111200215 +0800">
         <title lang="zh">2025年中国金鸡百花电影节开幕式1</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251111200210 +0800" stop="20251111210425 +0800">
+    <programme channel="CCTV6电影" start="20251111200215 +0800" stop="20251111210605 +0800">
         <title lang="zh">2025年中国金鸡百花电影节开幕式2</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251111210425 +0800" stop="20251111220000 +0800">
+    <programme channel="CCTV6电影" start="20251111210605 +0800" stop="20251111220000 +0800">
         <title lang="zh">2025年中国金鸡百花电影节开幕式3</title>
     </programme>
     <programme channel="CCTV6电影" start="20251111220000 +0800" stop="20251111221800 +0800">
@@ -639,10 +639,10 @@
     <programme channel="CCTV6电影" start="20251111230000 +0800" stop="20251111230100 +0800">
         <title lang="zh">中国体育彩票阳光开奖2025-11-11</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251111230100 +0800" stop="20251111235125 +0800">
+    <programme channel="CCTV6电影" start="20251111230100 +0800" stop="20251111235255 +0800">
         <title lang="zh">双龙会（下）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251111235125 +0800" stop="20251111235900 +0800">
+    <programme channel="CCTV6电影" start="20251111235255 +0800" stop="20251111235900 +0800">
         <title lang="zh">今日影评2025-225</title>
     </programme>
     <channel id="CCTV7国防军事">
