@@ -874,13 +874,13 @@
         <title lang="zh">本集提要-隐锋-第3集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251111212645 +0800" stop="20251111221600 +0800">
-        <title lang="zh">隐锋3/37</title>
+        <title lang="zh">隐锋第3集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251111221600 +0800" stop="20251111221805 +0800">
         <title lang="zh">本集提要-隐锋-第4集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251111221805 +0800" stop="20251111230720 +0800">
-        <title lang="zh">隐锋4/37</title>
+        <title lang="zh">隐锋第4集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251111230720 +0800" stop="20251111235320 +0800">
         <title lang="zh">蛮好的人生第36集</title>
@@ -3513,8 +3513,11 @@
     <programme channel="24小时全运会轮播台" start="20251111082000 +0800" stop="20251111085000 +0800">
         <title lang="zh">2025全运会开幕式特别节目</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251111085000 +0800" stop="20251111123000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251111085000 +0800" stop="20251111115700 +0800">
         <title lang="zh">【直播】游泳 第2比赛日 上午场</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251111115700 +0800" stop="20251111123000 +0800">
+        <title lang="zh">2025全运会全场回放：公路自行车男女子个人计时赛决赛</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251111123000 +0800" stop="20251111140000 +0800">
         <title lang="zh">【直播】乒乓球 第5比赛日 上午场</title>
