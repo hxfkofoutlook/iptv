@@ -103,16 +103,16 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme channel="CCTV1综合" start="20251112200105 +0800" stop="20251112200600 +0800">
-        <title lang="zh">前情提要-电视剧（高清文件）</title>
+        <title lang="zh">前情提要-乌蒙深处-1/28</title>
     </programme>
     <programme channel="CCTV1综合" start="20251112200600 +0800" stop="20251112205655 +0800">
-        <title lang="zh">电视剧-（高清文件）</title>
+        <title lang="zh">乌蒙深处1/28</title>
     </programme>
     <programme channel="CCTV1综合" start="20251112205655 +0800" stop="20251112210135 +0800">
-        <title lang="zh">前情提要-电视剧（高清文件）</title>
+        <title lang="zh">前情提要-乌蒙深处-2/28</title>
     </programme>
     <programme channel="CCTV1综合" start="20251112210135 +0800" stop="20251112214950 +0800">
-        <title lang="zh">电视剧-（高清文件）</title>
+        <title lang="zh">乌蒙深处2/28</title>
     </programme>
     <programme channel="CCTV1综合" start="20251112214950 +0800" stop="20251112220000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
@@ -493,7 +493,7 @@
         <title lang="zh">第十五届全国运动会：竞走男子20公里</title>
     </programme>
     <programme channel="CCTV5体育" start="20251112090000 +0800" stop="20251112092000 +0800">
-        <title lang="zh">第十五届全国运动会：：11日柔道决赛</title>
+        <title lang="zh">第十五届全国运动会：11日柔道决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20251112092000 +0800" stop="20251112105000 +0800">
         <title lang="zh">直播：竞走女子20公里</title>
@@ -505,7 +505,7 @@
         <title lang="zh">体坛快讯-全运最前沿</title>
     </programme>
     <programme channel="CCTV5体育" start="20251112125500 +0800" stop="20251112150000 +0800">
-        <title lang="zh">直播：女排小组赛（威尼斯人）河南-北京</title>
+        <title lang="zh">直播：女排小组赛 河南-北京</title>
     </programme>
     <programme channel="CCTV5体育" start="20251112150000 +0800" stop="20251112170000 +0800">
         <title lang="zh">直播：举重女子64公斤级决赛</title>
@@ -520,7 +520,7 @@
         <title lang="zh">直播：游泳（男子200米自由泳决赛、女子1500米自由泳决赛）</title>
     </programme>
     <programme channel="CCTV5体育" start="20251112193000 +0800" stop="20251112213000 +0800">
-        <title lang="zh">直播：男篮决赛(中场休息女子100米仰泳、男子100米仰泳、女子100米蛙泳决赛）</title>
+        <title lang="zh">直播：男篮决赛 浙江VS广东 (中场休息女子100米仰泳、男子100米仰泳、女子100米蛙泳决赛）</title>
     </programme>
     <programme channel="CCTV5体育" start="20251112213000 +0800" stop="20251112223500 +0800">
         <title lang="zh">体育世界-全景全运会</title>
@@ -3561,10 +3561,22 @@
     <programme channel="24小时全运会轮播台" start="20251112081200 +0800" stop="20251112085000 +0800">
         <title lang="zh">2025全运会回放：乒乓球成年组男单1/16决赛 王楚钦4-1魏世皓</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251112085000 +0800" stop="20251112114500 +0800">
+    <programme channel="24小时全运会轮播台" start="20251112085000 +0800" stop="20251112105000 +0800">
         <title lang="zh">游泳 第3比赛日上午场</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251112114500 +0800" stop="20251112115300 +0800">
+    <programme channel="24小时全运会轮播台" start="20251112105000 +0800" stop="20251112110800 +0800">
+        <title lang="zh">2025全运会开幕式特别节目</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251112110800 +0800" stop="20251112112300 +0800">
+        <title lang="zh">睛彩圈圈点：岭南非遗融合前沿科技全运会开幕式亮点解析</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251112112300 +0800" stop="20251112112900 +0800">
+        <title lang="zh">《同根同梦 港澳新声》 郑斯方：香江北上 逐梦北京</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251112112900 +0800" stop="20251112113500 +0800">
+        <title lang="zh">《同根同梦 港澳新声》 江阳：音乐寻根 紫荆花开</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251112113500 +0800" stop="20251112115300 +0800">
         <title lang="zh">全运粤章：对话刘平云 十五运会吉祥物诞生记</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251112115300 +0800" stop="20251112122000 +0800">
