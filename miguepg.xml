@@ -892,7 +892,7 @@
         <title lang="zh">本集提要-隐锋-第6集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251112221805 +0800" stop="20251112230720 +0800">
-        <title lang="zh">隐锋6/37</title>
+        <title lang="zh">隐锋第6集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251112230720 +0800" stop="20251112235320 +0800">
         <title lang="zh">完美伴侣第7集</title>
@@ -1155,16 +1155,16 @@
     <programme channel="CCTV11戏曲" start="20251112190000 +0800" stop="20251112193000 +0800">
         <title lang="zh">典藏-2025-143</title>
     </programme>
-    <programme channel="CCTV11戏曲" start="20251112193000 +0800" stop="20251112215050 +0800">
-        <title lang="zh">CCTV空中剧院-2025-74地方戏版 豫剧《穆桂英大破天门阵》</title>
+    <programme channel="CCTV11戏曲" start="20251112193000 +0800" stop="20251112220200 +0800">
+        <title lang="zh">CCTV空中剧院-2024-134地方戏版 黄梅戏《天仙配》</title>
     </programme>
-    <programme channel="CCTV11戏曲" start="20251112215050 +0800" stop="20251112224120 +0800">
+    <programme channel="CCTV11戏曲" start="20251112220200 +0800" stop="20251112225230 +0800">
         <title lang="zh">流金岁月第34集</title>
     </programme>
-    <programme channel="CCTV11戏曲" start="20251112224120 +0800" stop="20251112233150 +0800">
+    <programme channel="CCTV11戏曲" start="20251112225230 +0800" stop="20251112234300 +0800">
         <title lang="zh">流金岁月第35集</title>
     </programme>
-    <programme channel="CCTV11戏曲" start="20251112233150 +0800" stop="20251112235900 +0800">
+    <programme channel="CCTV11戏曲" start="20251112234300 +0800" stop="20251112235900 +0800">
         <title lang="zh">流金岁月第36集</title>
     </programme>
     <channel id="CCTV12社会与法">
@@ -3582,8 +3582,20 @@
     <programme channel="24小时全运会轮播台" start="20251112115300 +0800" stop="20251112122000 +0800">
         <title lang="zh">2025全运会回放：跳水女子双人3米跳板决赛</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251112122000 +0800" stop="20251112160000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251112122000 +0800" stop="20251112145000 +0800">
         <title lang="zh">乒乓球 第6比赛日上午场 1号桌</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251112145000 +0800" stop="20251112145800 +0800">
+        <title lang="zh">2025全运会全场回放：女子沙滩排球小组赛</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251112145800 +0800" stop="20251112151300 +0800">
+        <title lang="zh">睛彩圈圈点：岭南非遗融合前沿科技全运会开幕式亮点解析</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251112151300 +0800" stop="20251112153200 +0800">
+        <title lang="zh">《咪咕体育日报》孙颖莎樊振东零封晋级 潘展乐率队夺金</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251112153200 +0800" stop="20251112160000 +0800">
+        <title lang="zh">《中国榜样》对话龙道一纯享版：你想要成功 没有人可以阻止你</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251112160000 +0800" stop="20251112190000 +0800">
         <title lang="zh">篮球 男子成年组铜牌赛 四川vs辽宁</title>
@@ -3591,11 +3603,11 @@
     <programme channel="24小时全运会轮播台" start="20251112190000 +0800" stop="20251112231500 +0800">
         <title lang="zh">篮球 男子成年组金牌赛 浙江vs广东（呼叫我的球搭子）</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251112231500 +0800" stop="20251112232700 +0800">
-        <title lang="zh">2025全运会开幕式特别节目</title>
+    <programme channel="24小时全运会轮播台" start="20251112231500 +0800" stop="20251112235100 +0800">
+        <title lang="zh">2025全运会回放：乒乓球成年组男单1/8决赛 薛飞1-4樊振东</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251112232700 +0800" stop="20251113000600 +0800">
-        <title lang="zh">2025全运会回放：成年组女单1/16决赛 孙颖莎4-0刘炜珊</title>
+    <programme channel="24小时全运会轮播台" start="20251112235100 +0800" stop="20251113014300 +0800">
+        <title lang="zh">2025全运会全场回放：篮球男子成年组半决赛 四川77-80浙江</title>
     </programme>
     <channel id="陕西体育休闲频道">
         <display-name lang="zh">陕西体育休闲频道</display-name>
