@@ -489,11 +489,11 @@
     <programme channel="CCTV5体育" start="20251113070000 +0800" stop="20251113090000 +0800">
         <title lang="zh">全运晨报</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251113090000 +0800" stop="20251113110000 +0800">
+    <programme channel="CCTV5体育" start="20251113090000 +0800" stop="20251113100000 +0800">
         <title lang="zh">实况录像-第十五届全国运动会 足球男子20岁以下组金牌赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251113110000 +0800" stop="20251113120000 +0800">
-        <title lang="zh">第十五届全国运动会-赛事转播报道</title>
+    <programme channel="CCTV5体育" start="20251113100000 +0800" stop="20251113120000 +0800">
+        <title lang="zh">第十五届全国运动会-乒乓球多项比赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20251113120000 +0800" stop="20251113123000 +0800">
         <title lang="zh">体坛快讯-全运最前沿</title>
@@ -3534,14 +3534,11 @@
     <programme channel="24小时全运会轮播台" start="20251113085000 +0800" stop="20251113103500 +0800">
         <title lang="zh">游泳 第4比赛日上午场</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251113103500 +0800" stop="20251113104500 +0800">
-        <title lang="zh">第十五届全国运动会火炬传递仪式</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251113104500 +0800" stop="20251113123000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251113103500 +0800" stop="20251113113000 +0800">
         <title lang="zh">乒乓球 第7比赛日 上午场 
 3号桌 男单1/4决赛 孙正vs樊振东</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251113123000 +0800" stop="20251113150000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251113113000 +0800" stop="20251113150000 +0800">
         <title lang="zh">乒乓球 第7比赛日 上午场  1号桌 混双半决赛 林高远/刘诗雯vs王艺迪/袁励岑 1号桌 女单1/4决赛 朱雨玲vs陈幸同 4号桌 男单1/4决赛 赵子豪vs林诗栋</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251113150000 +0800" stop="20251113173000 +0800">
@@ -10579,139 +10576,139 @@
     <programme channel="新动力量创一流" start="20251113235200 +0800" stop="20251114000300 +0800">
         <title lang="zh">移动党校《AI赋能，闪耀初心》</title>
     </programme>
-    <channel id="中国特产">
-        <display-name lang="zh">中国特产</display-name>
+    <channel id="中华特产">
+        <display-name lang="zh">中华特产</display-name>
     </channel>
-    <programme channel="中国特产" start="20251113000000 +0800" stop="20251113004500 +0800">
+    <programme channel="中华特产" start="20251113000000 +0800" stop="20251113004500 +0800">
         <title lang="zh">乡约</title>
     </programme>
-    <programme channel="中国特产" start="20251113004500 +0800" stop="20251113011500 +0800">
+    <programme channel="中华特产" start="20251113004500 +0800" stop="20251113011500 +0800">
         <title lang="zh">造物志</title>
     </programme>
-    <programme channel="中国特产" start="20251113011500 +0800" stop="20251113014500 +0800">
+    <programme channel="中华特产" start="20251113011500 +0800" stop="20251113014500 +0800">
         <title lang="zh">走进原产地</title>
     </programme>
-    <programme channel="中国特产" start="20251113014500 +0800" stop="20251113020000 +0800">
+    <programme channel="中华特产" start="20251113014500 +0800" stop="20251113020000 +0800">
         <title lang="zh">风物东方</title>
     </programme>
-    <programme channel="中国特产" start="20251113020000 +0800" stop="20251113022000 +0800">
+    <programme channel="中华特产" start="20251113020000 +0800" stop="20251113022000 +0800">
         <title lang="zh">造物志</title>
     </programme>
-    <programme channel="中国特产" start="20251113022000 +0800" stop="20251113024000 +0800">
+    <programme channel="中华特产" start="20251113022000 +0800" stop="20251113024000 +0800">
         <title lang="zh">番茄生活王</title>
     </programme>
-    <programme channel="中国特产" start="20251113024000 +0800" stop="20251113032500 +0800">
+    <programme channel="中华特产" start="20251113024000 +0800" stop="20251113032500 +0800">
         <title lang="zh">乡约</title>
     </programme>
-    <programme channel="中国特产" start="20251113032500 +0800" stop="20251113034000 +0800">
+    <programme channel="中华特产" start="20251113032500 +0800" stop="20251113034000 +0800">
         <title lang="zh">风物东方</title>
     </programme>
-    <programme channel="中国特产" start="20251113034000 +0800" stop="20251113041000 +0800">
+    <programme channel="中华特产" start="20251113034000 +0800" stop="20251113041000 +0800">
         <title lang="zh">造物志</title>
     </programme>
-    <programme channel="中国特产" start="20251113041000 +0800" stop="20251113044000 +0800">
+    <programme channel="中华特产" start="20251113041000 +0800" stop="20251113044000 +0800">
         <title lang="zh">走进原产地</title>
     </programme>
-    <programme channel="中国特产" start="20251113044000 +0800" stop="20251113052500 +0800">
+    <programme channel="中华特产" start="20251113044000 +0800" stop="20251113052500 +0800">
         <title lang="zh">乡约</title>
     </programme>
-    <programme channel="中国特产" start="20251113052500 +0800" stop="20251113054500 +0800">
+    <programme channel="中华特产" start="20251113052500 +0800" stop="20251113054500 +0800">
         <title lang="zh">造物志</title>
     </programme>
-    <programme channel="中国特产" start="20251113054500 +0800" stop="20251113060500 +0800">
+    <programme channel="中华特产" start="20251113054500 +0800" stop="20251113060500 +0800">
         <title lang="zh">特产档案</title>
     </programme>
-    <programme channel="中国特产" start="20251113060500 +0800" stop="20251113064500 +0800">
+    <programme channel="中华特产" start="20251113060500 +0800" stop="20251113064500 +0800">
         <title lang="zh">特产档案</title>
     </programme>
-    <programme channel="中国特产" start="20251113064500 +0800" stop="20251113071500 +0800">
+    <programme channel="中华特产" start="20251113064500 +0800" stop="20251113071500 +0800">
         <title lang="zh">我的健康我做主</title>
     </programme>
-    <programme channel="中国特产" start="20251113071500 +0800" stop="20251113073500 +0800">
+    <programme channel="中华特产" start="20251113071500 +0800" stop="20251113073500 +0800">
         <title lang="zh">特产档案</title>
     </programme>
-    <programme channel="中国特产" start="20251113073500 +0800" stop="20251113080500 +0800">
+    <programme channel="中华特产" start="20251113073500 +0800" stop="20251113080500 +0800">
         <title lang="zh">我的健康我做主</title>
     </programme>
-    <programme channel="中国特产" start="20251113080500 +0800" stop="20251113082500 +0800">
+    <programme channel="中华特产" start="20251113080500 +0800" stop="20251113082500 +0800">
         <title lang="zh">特产档案</title>
     </programme>
-    <programme channel="中国特产" start="20251113082500 +0800" stop="20251113085500 +0800">
+    <programme channel="中华特产" start="20251113082500 +0800" stop="20251113085500 +0800">
         <title lang="zh">我的健康我做主</title>
     </programme>
-    <programme channel="中国特产" start="20251113085500 +0800" stop="20251113092000 +0800">
+    <programme channel="中华特产" start="20251113085500 +0800" stop="20251113092000 +0800">
         <title lang="zh">特产档案</title>
     </programme>
-    <programme channel="中国特产" start="20251113092000 +0800" stop="20251113094500 +0800">
+    <programme channel="中华特产" start="20251113092000 +0800" stop="20251113094500 +0800">
         <title lang="zh">特产档案</title>
     </programme>
-    <programme channel="中国特产" start="20251113094500 +0800" stop="20251113101000 +0800">
+    <programme channel="中华特产" start="20251113094500 +0800" stop="20251113101000 +0800">
         <title lang="zh">特产档案</title>
     </programme>
-    <programme channel="中国特产" start="20251113101000 +0800" stop="20251113103500 +0800">
+    <programme channel="中华特产" start="20251113101000 +0800" stop="20251113103500 +0800">
         <title lang="zh">特产档案</title>
     </programme>
-    <programme channel="中国特产" start="20251113103500 +0800" stop="20251113105500 +0800">
+    <programme channel="中华特产" start="20251113103500 +0800" stop="20251113105500 +0800">
         <title lang="zh">特产档案</title>
     </programme>
-    <programme channel="中国特产" start="20251113105500 +0800" stop="20251113112500 +0800">
+    <programme channel="中华特产" start="20251113105500 +0800" stop="20251113112500 +0800">
         <title lang="zh">我的健康我做主</title>
     </programme>
-    <programme channel="中国特产" start="20251113112500 +0800" stop="20251113120500 +0800">
+    <programme channel="中华特产" start="20251113112500 +0800" stop="20251113120500 +0800">
         <title lang="zh">特产档案</title>
     </programme>
-    <programme channel="中国特产" start="20251113120500 +0800" stop="20251113130500 +0800">
+    <programme channel="中华特产" start="20251113120500 +0800" stop="20251113130500 +0800">
         <title lang="zh">特产档案</title>
     </programme>
-    <programme channel="中国特产" start="20251113130500 +0800" stop="20251113133500 +0800">
+    <programme channel="中华特产" start="20251113130500 +0800" stop="20251113133500 +0800">
         <title lang="zh">我的健康我做主</title>
     </programme>
-    <programme channel="中国特产" start="20251113133500 +0800" stop="20251113135500 +0800">
+    <programme channel="中华特产" start="20251113133500 +0800" stop="20251113135500 +0800">
         <title lang="zh">特产档案</title>
     </programme>
-    <programme channel="中国特产" start="20251113135500 +0800" stop="20251113142500 +0800">
+    <programme channel="中华特产" start="20251113135500 +0800" stop="20251113142500 +0800">
         <title lang="zh">我的健康我做主</title>
     </programme>
-    <programme channel="中国特产" start="20251113142500 +0800" stop="20251113144000 +0800">
+    <programme channel="中华特产" start="20251113142500 +0800" stop="20251113144000 +0800">
         <title lang="zh">风物东方</title>
     </programme>
-    <programme channel="中国特产" start="20251113144000 +0800" stop="20251113151000 +0800">
+    <programme channel="中华特产" start="20251113144000 +0800" stop="20251113151000 +0800">
         <title lang="zh">我的健康我做主</title>
     </programme>
-    <programme channel="中国特产" start="20251113151000 +0800" stop="20251113153000 +0800">
+    <programme channel="中华特产" start="20251113151000 +0800" stop="20251113153000 +0800">
         <title lang="zh">特产档案</title>
     </programme>
-    <programme channel="中国特产" start="20251113153000 +0800" stop="20251113160000 +0800">
+    <programme channel="中华特产" start="20251113153000 +0800" stop="20251113160000 +0800">
         <title lang="zh">我的健康我做主</title>
     </programme>
-    <programme channel="中国特产" start="20251113160000 +0800" stop="20251113170000 +0800">
+    <programme channel="中华特产" start="20251113160000 +0800" stop="20251113170000 +0800">
         <title lang="zh">特产档案</title>
     </programme>
-    <programme channel="中国特产" start="20251113170000 +0800" stop="20251113174000 +0800">
+    <programme channel="中华特产" start="20251113170000 +0800" stop="20251113174000 +0800">
         <title lang="zh">特产档案</title>
     </programme>
-    <programme channel="中国特产" start="20251113174000 +0800" stop="20251113181000 +0800">
+    <programme channel="中华特产" start="20251113174000 +0800" stop="20251113181000 +0800">
         <title lang="zh">我的健康我做主</title>
     </programme>
-    <programme channel="中国特产" start="20251113181000 +0800" stop="20251113183000 +0800">
+    <programme channel="中华特产" start="20251113181000 +0800" stop="20251113183000 +0800">
         <title lang="zh">特产档案</title>
     </programme>
-    <programme channel="中国特产" start="20251113183000 +0800" stop="20251113190000 +0800">
+    <programme channel="中华特产" start="20251113183000 +0800" stop="20251113190000 +0800">
         <title lang="zh">我的健康我做主</title>
     </programme>
-    <programme channel="中国特产" start="20251113190000 +0800" stop="20251113200000 +0800">
+    <programme channel="中华特产" start="20251113190000 +0800" stop="20251113200000 +0800">
         <title lang="zh">特产档案</title>
     </programme>
-    <programme channel="中国特产" start="20251113200000 +0800" stop="20251113210000 +0800">
+    <programme channel="中华特产" start="20251113200000 +0800" stop="20251113210000 +0800">
         <title lang="zh">特产档案</title>
     </programme>
-    <programme channel="中国特产" start="20251113210000 +0800" stop="20251113220000 +0800">
+    <programme channel="中华特产" start="20251113210000 +0800" stop="20251113220000 +0800">
         <title lang="zh">特产档案</title>
     </programme>
-    <programme channel="中国特产" start="20251113220000 +0800" stop="20251113230000 +0800">
+    <programme channel="中华特产" start="20251113220000 +0800" stop="20251113230000 +0800">
         <title lang="zh">特产档案</title>
     </programme>
-    <programme channel="中国特产" start="20251113230000 +0800" stop="20251114000000 +0800">
+    <programme channel="中华特产" start="20251113230000 +0800" stop="20251114000000 +0800">
         <title lang="zh">特产档案</title>
     </programme>
     <channel id="环球旅游">
