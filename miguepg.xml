@@ -93,23 +93,20 @@
     <programme channel="CCTV1综合" start="20251113190000 +0800" stop="20251113193920 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251113193920 +0800" stop="20251113200100 +0800">
+    <programme channel="CCTV1综合" start="20251113193920 +0800" stop="20251113200500 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251113200100 +0800" stop="20251113200600 +0800">
+    <programme channel="CCTV1综合" start="20251113200500 +0800" stop="20251113201000 +0800">
         <title lang="zh">前情提要-乌蒙深处-第3集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251113200600 +0800" stop="20251113205640 +0800">
+    <programme channel="CCTV1综合" start="20251113201000 +0800" stop="20251113210040 +0800">
         <title lang="zh">乌蒙深处第3集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251113205640 +0800" stop="20251113210050 +0800">
+    <programme channel="CCTV1综合" start="20251113210040 +0800" stop="20251113210450 +0800">
         <title lang="zh">前情提要-乌蒙深处-第4集</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251113210050 +0800" stop="20251113214945 +0800">
+    <programme channel="CCTV1综合" start="20251113210450 +0800" stop="20251113220000 +0800">
         <title lang="zh">乌蒙深处4/28</title>
-    </programme>
-    <programme channel="CCTV1综合" start="20251113214945 +0800" stop="20251113220000 +0800">
-        <title lang="zh">山水间的家-主题曲</title>
     </programme>
     <programme channel="CCTV1综合" start="20251113220000 +0800" stop="20251113223500 +0800">
         <title lang="zh">晚间新闻</title>
@@ -3544,11 +3541,8 @@
     <programme channel="24小时全运会轮播台" start="20251113150000 +0800" stop="20251113173000 +0800">
         <title lang="zh">拳击 男女子金牌赛</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251113173000 +0800" stop="20251113174000 +0800">
-        <title lang="zh">睛彩圈圈点：岭南非遗融合前沿科技全运会开幕式亮点解析</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251113174000 +0800" stop="20251113174500 +0800">
-        <title lang="zh">《同根同梦 港澳新声》 郑斯方：香江北上 逐梦北京</title>
+    <programme channel="24小时全运会轮播台" start="20251113173000 +0800" stop="20251113174500 +0800">
+        <title lang="zh">《中国榜样》对话龙道一纯享版：你想要成功 没有人可以阻止你</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251113174500 +0800" stop="20251114003000 +0800">
         <title lang="zh">乒乓球 第7比赛日 晚间场  4号桌 女单1/4决赛 孙颖莎vs刘斐</title>
