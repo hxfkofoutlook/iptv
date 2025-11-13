@@ -564,13 +564,13 @@
     <programme channel="CCTV5+体育赛事" start="20251113155000 +0800" stop="20251113170000 +0800">
         <title lang="zh">第十五届全国运动会-皮划艇激流回旋男子、女子皮艇决赛</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20251113170000 +0800" stop="20251113183000 +0800">
+    <programme channel="CCTV5+体育赛事" start="20251113170000 +0800" stop="20251113180000 +0800">
         <title lang="zh">实况录像-第十五届全国运动会 12日男足U20决赛</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20251113183000 +0800" stop="20251113202000 +0800">
-        <title lang="zh">第十五届全国运动会-体操女子团体决赛</title>
+    <programme channel="CCTV5+体育赛事" start="20251113180000 +0800" stop="20251113200000 +0800">
+        <title lang="zh">第十五届全国运动会-乒乓球混双半决赛、男单1/4决赛</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20251113202000 +0800" stop="20251113213000 +0800">
+    <programme channel="CCTV5+体育赛事" start="20251113200000 +0800" stop="20251113213000 +0800">
         <title lang="zh">第十五届全国运动会-举重女子81公斤级</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20251113213000 +0800" stop="20251113230500 +0800">
@@ -3544,8 +3544,26 @@
     <programme channel="24小时全运会轮播台" start="20251113171600 +0800" stop="20251113174500 +0800">
         <title lang="zh">《中国榜样》对话龙道一纯享版：你想要成功 没有人可以阻止你</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251113174500 +0800" stop="20251114003000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251113174500 +0800" stop="20251113202400 +0800">
         <title lang="zh">乒乓球 第7比赛日 晚间场  4号桌 女单1/4决赛 孙颖莎vs刘斐</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251113202400 +0800" stop="20251113213000 +0800">
+        <title lang="zh">2025全运会全场回放：游泳第4比赛日上午场</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251113213000 +0800" stop="20251113222200 +0800">
+        <title lang="zh">2025全运会回放：乒乓球成年组女单1/8决赛 孙颖莎4-1王晓彤</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251113222200 +0800" stop="20251113231400 +0800">
+        <title lang="zh">2025全运会回放：乒乓球成年组男单1/16决赛 王楚钦4-1魏世皓</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251113231400 +0800" stop="20251113231900 +0800">
+        <title lang="zh">《同根同梦 港澳新声》 郑斯方：香江北上 逐梦北京</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251113231900 +0800" stop="20251113232500 +0800">
+        <title lang="zh">《同根同梦 港澳新声》 江阳：音乐寻根 紫荆花开</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251113232500 +0800" stop="20251114000200 +0800">
+        <title lang="zh">2025全运会回放：乒乓球成年组男单1/8决赛 薛飞1-4樊振东</title>
     </programme>
     <channel id="陕西体育休闲频道">
         <display-name lang="zh">陕西体育休闲频道</display-name>
