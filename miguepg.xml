@@ -106,7 +106,7 @@
         <title lang="zh">前情提要-乌蒙深处-第4集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251113210450 +0800" stop="20251113220000 +0800">
-        <title lang="zh">乌蒙深处4/28</title>
+        <title lang="zh">乌蒙深处第4集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251113220000 +0800" stop="20251113223500 +0800">
         <title lang="zh">晚间新闻</title>
@@ -3538,10 +3538,10 @@
     <programme channel="24小时全运会轮播台" start="20251113113000 +0800" stop="20251113150000 +0800">
         <title lang="zh">乒乓球 第7比赛日 上午场  1号桌 混双半决赛 林高远/刘诗雯vs王艺迪/袁励岑 1号桌 女单1/4决赛 朱雨玲vs陈幸同 4号桌 男单1/4决赛 赵子豪vs林诗栋</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251113150000 +0800" stop="20251113173000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251113150000 +0800" stop="20251113171600 +0800">
         <title lang="zh">拳击 男女子金牌赛</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251113173000 +0800" stop="20251113174500 +0800">
+    <programme channel="24小时全运会轮播台" start="20251113171600 +0800" stop="20251113174500 +0800">
         <title lang="zh">《中国榜样》对话龙道一纯享版：你想要成功 没有人可以阻止你</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251113174500 +0800" stop="20251114003000 +0800">
@@ -4144,7 +4144,7 @@
     <programme channel="广东卫视" start="20251113230500 +0800" stop="20251113235000 +0800">
         <title lang="zh">神雕侠侣(19)</title>
     </programme>
-    <programme channel="广东卫视" start="20251113235000 +0800" stop="20251114000000 +0800">
+    <programme channel="广东卫视" start="20251113235000 +0800" stop="20251114001200 +0800">
         <title lang="zh">重播节目、纪录片</title>
     </programme>
     <channel id="江西卫视">
@@ -9700,7 +9700,7 @@
     <programme channel="嘉佳卡通" start="20251113211600 +0800" stop="20251113220000 +0800">
         <title lang="zh">猪猪侠之竞速小英雄七</title>
     </programme>
-    <programme channel="嘉佳卡通" start="20251113220000 +0800" stop="20251114000000 +0800">
+    <programme channel="嘉佳卡通" start="20251113220000 +0800" stop="20251114060000 +0800">
         <title lang="zh">乌龙院之活宝传奇</title>
     </programme>
     <channel id="经典动画大集合">
