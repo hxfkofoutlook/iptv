@@ -97,13 +97,13 @@
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme channel="CCTV1综合" start="20251113200100 +0800" stop="20251113200600 +0800">
-        <title lang="zh">前情提要-乌蒙深处-3/28</title>
+        <title lang="zh">前情提要-乌蒙深处-第3集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251113200600 +0800" stop="20251113205640 +0800">
-        <title lang="zh">乌蒙深处3/28</title>
+        <title lang="zh">乌蒙深处第3集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251113205640 +0800" stop="20251113210050 +0800">
-        <title lang="zh">前情提要-乌蒙深处-4/28</title>
+        <title lang="zh">前情提要-乌蒙深处-第4集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251113210050 +0800" stop="20251113214945 +0800">
         <title lang="zh">乌蒙深处4/28</title>
@@ -492,14 +492,14 @@
     <programme channel="CCTV5体育" start="20251113090000 +0800" stop="20251113100000 +0800">
         <title lang="zh">实况录像-第十五届全国运动会 足球男子20岁以下组金牌赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251113100000 +0800" stop="20251113120000 +0800">
+    <programme channel="CCTV5体育" start="20251113100000 +0800" stop="20251113121700 +0800">
         <title lang="zh">第十五届全国运动会-乒乓球多项比赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251113120000 +0800" stop="20251113123000 +0800">
+    <programme channel="CCTV5体育" start="20251113121700 +0800" stop="20251113131800 +0800">
         <title lang="zh">体坛快讯-全运最前沿</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251113123000 +0800" stop="20251113150000 +0800">
-        <title lang="zh">第十五届全国运动会-乒乓球单打1/4、混双半决赛</title>
+    <programme channel="CCTV5体育" start="20251113131800 +0800" stop="20251113150000 +0800">
+        <title lang="zh">实况录像-第十五届全国运动会-体操男团决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20251113150000 +0800" stop="20251113170000 +0800">
         <title lang="zh">第十五届全国运动会-举重女子76公斤级</title>
@@ -865,25 +865,25 @@
         <title lang="zh">本集提要-四喜-第13集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251113193000 +0800" stop="20251113202505 +0800">
-        <title lang="zh">四喜13/36</title>
+        <title lang="zh">四喜第13集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251113202505 +0800" stop="20251113203005 +0800">
         <title lang="zh">本集提要-四喜-第14集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251113203005 +0800" stop="20251113212150 +0800">
-        <title lang="zh">四喜14/36</title>
+        <title lang="zh">四喜第14集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251113212150 +0800" stop="20251113212645 +0800">
         <title lang="zh">本集提要-隐锋-第7集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251113212645 +0800" stop="20251113221600 +0800">
-        <title lang="zh">隐锋7/37</title>
+        <title lang="zh">隐锋第7集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251113221600 +0800" stop="20251113221805 +0800">
         <title lang="zh">本集提要-隐锋-第8集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251113221805 +0800" stop="20251113230720 +0800">
-        <title lang="zh">隐锋8/37</title>
+        <title lang="zh">隐锋第8集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251113230720 +0800" stop="20251113235320 +0800">
         <title lang="zh">完美伴侣第14集</title>
