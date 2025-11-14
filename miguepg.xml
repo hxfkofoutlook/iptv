@@ -3339,7 +3339,10 @@
     <channel id="24小时全运会轮播台">
         <display-name lang="zh">24小时全运会轮播台</display-name>
     </channel>
-    <programme channel="24小时全运会轮播台" start="20251114233000 +0800" stop="20251115011500 +0800">
+    <programme channel="24小时全运会轮播台" start="20251114204500 +0800" stop="20251115010000 +0800">
+        <title lang="zh">乒乓球 混合双打铜牌赛、金牌赛 1号桌</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251115010000 +0800" stop="20251115011500 +0800">
         <title lang="zh">2025全运会回放：乒乓球青年组女团金牌赛 北京3-2山东</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251115011500 +0800" stop="20251115021400 +0800">
