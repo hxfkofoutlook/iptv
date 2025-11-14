@@ -501,10 +501,10 @@
     <programme channel="CCTV5体育" start="20251114185500 +0800" stop="20251114205000 +0800">
         <title lang="zh">第十五届全国运动会-游泳（女子200米蝶泳决赛、女子100米自由泳半决赛、男子200米个人混合泳决赛、男子100米自由泳决赛、女子200米蛙泳半决赛、女子50米仰泳决赛、男子200米蛙泳半决赛、男子200米仰泳半决赛、女子4*200米自由泳接力决赛）</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251114205000 +0800" stop="20251114213000 +0800">
+    <programme channel="CCTV5体育" start="20251114205000 +0800" stop="20251114220000 +0800">
         <title lang="zh">第十五届全国运动会-乒乓球混合双打决赛</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251114213000 +0800" stop="20251114223500 +0800">
+    <programme channel="CCTV5体育" start="20251114220000 +0800" stop="20251114223500 +0800">
         <title lang="zh">体育世界-全景全运会</title>
     </programme>
     <programme channel="CCTV5体育" start="20251114223500 +0800" stop="20251114225500 +0800">
@@ -1284,10 +1284,10 @@
     <programme channel="CCTV13新闻" start="20251114043300 +0800" stop="20251114050000 +0800">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251114050000 +0800" stop="20251114051800 +0800">
+    <programme channel="CCTV13新闻" start="20251114050000 +0800" stop="20251114051400 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251114051800 +0800" stop="20251114053400 +0800">
+    <programme channel="CCTV13新闻" start="20251114051400 +0800" stop="20251114053400 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
     <programme channel="CCTV13新闻" start="20251114053400 +0800" stop="20251114060000 +0800">
@@ -1317,13 +1317,13 @@
     <programme channel="CCTV13新闻" start="20251114140000 +0800" stop="20251114150000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251114150000 +0800" stop="20251114160000 +0800">
+    <programme channel="CCTV13新闻" start="20251114150000 +0800" stop="20251114153000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251114160000 +0800" stop="20251114170000 +0800">
+    <programme channel="CCTV13新闻" start="20251114153000 +0800" stop="20251114173000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251114170000 +0800" stop="20251114180000 +0800">
+    <programme channel="CCTV13新闻" start="20251114173000 +0800" stop="20251114180000 +0800">
         <title lang="zh">新闻直播间</title>
     </programme>
     <programme channel="CCTV13新闻" start="20251114180000 +0800" stop="20251114190000 +0800">
@@ -1344,13 +1344,13 @@
     <programme channel="CCTV13新闻" start="20251114210000 +0800" stop="20251114213000 +0800">
         <title lang="zh">新闻联播</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251114213000 +0800" stop="20251114220000 +0800">
+    <programme channel="CCTV13新闻" start="20251114213000 +0800" stop="20251114220200 +0800">
         <title lang="zh">高端访谈</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251114220000 +0800" stop="20251114223000 +0800">
+    <programme channel="CCTV13新闻" start="20251114220200 +0800" stop="20251114223200 +0800">
         <title lang="zh">新闻1+1</title>
     </programme>
-    <programme channel="CCTV13新闻" start="20251114223000 +0800" stop="20251114230000 +0800">
+    <programme channel="CCTV13新闻" start="20251114223200 +0800" stop="20251114230000 +0800">
         <title lang="zh">国际时讯</title>
     </programme>
     <programme channel="CCTV13新闻" start="20251114230000 +0800" stop="20251114235900 +0800">
@@ -3393,8 +3393,11 @@
     <programme channel="24小时全运会轮播台" start="20251114172300 +0800" stop="20251114174500 +0800">
         <title lang="zh">2025全运会回放：乒乓球男子团体小组赛 樊振东3-1孙闻</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251114174500 +0800" stop="20251114204500 +0800">
+    <programme channel="24小时全运会轮播台" start="20251114174500 +0800" stop="20251114200700 +0800">
         <title lang="zh">乒乓球 第8比赛日晚间场 4号桌 男子团体小组赛A 河南vs北京</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251114200700 +0800" stop="20251114204500 +0800">
+        <title lang="zh">2025全运会全场回放：体操第4比赛日女子团体决赛</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251114204500 +0800" stop="20251114233000 +0800">
         <title lang="zh">乒乓球 混合双打铜牌赛、金牌赛 1号桌</title>
