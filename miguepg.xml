@@ -3390,14 +3390,20 @@
     <programme channel="24小时全运会轮播台" start="20251115145000 +0800" stop="20251115173000 +0800">
         <title lang="zh">射击 飞碟双向混合团体铜牌、金牌赛</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251115173000 +0800" stop="20251115174500 +0800">
-        <title lang="zh">2025全运会全场回放：游泳第5比赛日上午场</title>
+    <programme channel="24小时全运会轮播台" start="20251115173000 +0800" stop="20251115173100 +0800">
+        <title lang="zh">《咪咕体育日报》杨健前方独家对话孙杨</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251115173100 +0800" stop="20251115174100 +0800">
+        <title lang="zh">《中国榜样》对话李倩纯享版：从篮球后卫到奥运拳王</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251115174100 +0800" stop="20251115174500 +0800">
+        <title lang="zh">2025全运会回放：乒乓球成年组男单半决赛 王楚钦2-4樊振东</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251115174500 +0800" stop="20251115233000 +0800">
         <title lang="zh">乒乓球 第9比赛日 晚间场 5号桌、1号桌</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251115233000 +0800" stop="20251116000100 +0800">
-        <title lang="zh">郭艾伦惊喜做客男篮金牌赛特别节目《呼叫我的球搭子》</title>
+    <programme channel="24小时全运会轮播台" start="20251115233000 +0800" stop="20251116000000 +0800">
+        <title lang="zh">2025全运会全场回放：体操第5比赛日男子个人全能决赛</title>
     </programme>
     <channel id="陕西体育休闲频道">
         <display-name lang="zh">陕西体育休闲频道</display-name>
