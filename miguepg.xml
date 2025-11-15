@@ -535,7 +535,7 @@
         <title lang="zh">第十五届全国运动会-击剑女子重剑个人半决赛、铜牌赛、决赛、男子佩剑个人半决赛、铜牌赛、决赛</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20251115193000 +0800" stop="20251115213000 +0800">
-        <title lang="zh">第十五届全国运动会-女篮决赛</title>
+        <title lang="zh">第十五届全国运动会-女篮决赛（四川VS广东）</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20251115213000 +0800" stop="20251115220000 +0800">
         <title lang="zh">延播：第十五届全国运动会-田径4x100米混合接力决赛、4x400米混合接力决赛</title>
@@ -3387,10 +3387,16 @@
     <programme channel="24小时全运会轮播台" start="20251115130500 +0800" stop="20251115145000 +0800">
         <title lang="zh">2025全运会回放：乒乓球青年组男团金牌赛 广东1-3北京</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251115145000 +0800" stop="20251115173000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251115145000 +0800" stop="20251115165000 +0800">
         <title lang="zh">射击 飞碟双向混合团体铜牌、金牌赛</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251115173000 +0800" stop="20251115173100 +0800">
+    <programme channel="24小时全运会轮播台" start="20251115165000 +0800" stop="20251115170500 +0800">
+        <title lang="zh">2025全运会回放：乒乓球成年组男单1/4决赛 王楚钦4-2林高远</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251115170500 +0800" stop="20251115172500 +0800">
+        <title lang="zh">《咪咕体育日报》潘展乐汪顺夺金 林高远刘诗雯逆转登顶</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251115172500 +0800" stop="20251115173100 +0800">
         <title lang="zh">《咪咕体育日报》杨健前方独家对话孙杨</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251115173100 +0800" stop="20251115174100 +0800">
