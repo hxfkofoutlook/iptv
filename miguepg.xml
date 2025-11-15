@@ -2661,7 +2661,7 @@
     <programme channel="发现之旅" start="20251116230000 +0800" stop="20251116235000 +0800">
         <title lang="zh">家国（24-006）</title>
     </programme>
-    <programme channel="发现之旅" start="20251116235000 +0800" stop="20251117000000 +0800">
+    <programme channel="发现之旅" start="20251116235000 +0800" stop="20251117060000 +0800">
         <title lang="zh">佳酿之旅（25-015）</title>
     </programme>
     <channel id="中学生">
@@ -8892,7 +8892,7 @@
     <programme channel="CETV1" start="20251116230000 +0800" stop="20251116235000 +0800">
         <title lang="zh">等着我</title>
     </programme>
-    <programme channel="CETV1" start="20251116235000 +0800" stop="20251117000000 +0800">
+    <programme channel="CETV1" start="20251116235000 +0800" stop="20251117004000 +0800">
         <title lang="zh">等着我</title>
     </programme>
     <channel id="CETV2">
@@ -9069,7 +9069,7 @@
     <programme channel="CETV4" start="20251116231500 +0800" stop="20251116235500 +0800">
         <title lang="zh">安全动起来</title>
     </programme>
-    <programme channel="CETV4" start="20251116235500 +0800" stop="20251117000000 +0800">
+    <programme channel="CETV4" start="20251116235500 +0800" stop="20251117011000 +0800">
         <title lang="zh">疾风少年</title>
     </programme>
     <channel id="山东教育">
