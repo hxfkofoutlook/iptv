@@ -450,10 +450,10 @@
     <programme channel="CCTV5体育" start="20251115113000 +0800" stop="20251115123000 +0800">
         <title lang="zh">体坛快讯-全运最前沿</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251115123000 +0800" stop="20251115131500 +0800">
+    <programme channel="CCTV5体育" start="20251115123000 +0800" stop="20251115135200 +0800">
         <title lang="zh">第十五届全国运动会-乒乓球男单半决赛 王楚钦-樊振东</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251115131500 +0800" stop="20251115150000 +0800">
+    <programme channel="CCTV5体育" start="20251115135200 +0800" stop="20251115150000 +0800">
         <title lang="zh">第十五届全国运动会-女排小组赛 天津-江苏</title>
     </programme>
     <programme channel="CCTV5体育" start="20251115150000 +0800" stop="20251115161500 +0800">
@@ -862,7 +862,7 @@
         <title lang="zh">本集提要-隐锋-第12集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251115221805 +0800" stop="20251115230720 +0800">
-        <title lang="zh">隐锋12/37</title>
+        <title lang="zh">隐锋第12集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251115230720 +0800" stop="20251115235320 +0800">
         <title lang="zh">完美伴侣第28集</title>
@@ -5283,34 +5283,25 @@
     <programme channel="辽宁卫视" start="20251115115900 +0800" stop="20251115120000 +0800">
         <title lang="zh">海洋预报</title>
     </programme>
-    <programme channel="辽宁卫视" start="20251115120000 +0800" stop="20251115125100 +0800">
+    <programme channel="辽宁卫视" start="20251115120000 +0800" stop="20251115130000 +0800">
         <title lang="zh">说天下</title>
     </programme>
-    <programme channel="辽宁卫视" start="20251115125100 +0800" stop="20251115133100 +0800">
-        <title lang="zh">白天剧场</title>
+    <programme channel="辽宁卫视" start="20251115130000 +0800" stop="20251115172300 +0800">
+        <title lang="zh">辽宁城市足球超级擂台总局赛</title>
     </programme>
-    <programme channel="辽宁卫视" start="20251115133100 +0800" stop="20251115141300 +0800">
-        <title lang="zh">白天剧场</title>
-    </programme>
-    <programme channel="辽宁卫视" start="20251115141300 +0800" stop="20251115145500 +0800">
-        <title lang="zh">白天剧场</title>
-    </programme>
-    <programme channel="辽宁卫视" start="20251115145500 +0800" stop="20251115153700 +0800">
-        <title lang="zh">白天剧场</title>
-    </programme>
-    <programme channel="辽宁卫视" start="20251115153700 +0800" stop="20251115163200 +0800">
-        <title lang="zh">白天剧场</title>
-    </programme>
-    <programme channel="辽宁卫视" start="20251115163200 +0800" stop="20251115172400 +0800">
-        <title lang="zh">欢乐集结号</title>
-    </programme>
-    <programme channel="辽宁卫视" start="20251115172400 +0800" stop="20251115175600 +0800">
+    <programme channel="辽宁卫视" start="20251115172300 +0800" stop="20251115175400 +0800">
         <title lang="zh">食全食美</title>
     </programme>
-    <programme channel="辽宁卫视" start="20251115175600 +0800" stop="20251115182200 +0800">
-        <title lang="zh">风物辽宁</title>
+    <programme channel="辽宁卫视" start="20251115175400 +0800" stop="20251115175900 +0800">
+        <title lang="zh">国宝时刻</title>
     </programme>
-    <programme channel="辽宁卫视" start="20251115182200 +0800" stop="20251115183000 +0800">
+    <programme channel="辽宁卫视" start="20251115175900 +0800" stop="20251115180900 +0800">
+        <title lang="zh">食安辽宁</title>
+    </programme>
+    <programme channel="辽宁卫视" start="20251115180900 +0800" stop="20251115182500 +0800">
+        <title lang="zh">匠心辽品</title>
+    </programme>
+    <programme channel="辽宁卫视" start="20251115182500 +0800" stop="20251115183000 +0800">
         <title lang="zh">气象资讯</title>
     </programme>
     <programme channel="辽宁卫视" start="20251115183000 +0800" stop="20251115185600 +0800">
