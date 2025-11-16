@@ -537,16 +537,16 @@
     <channel id="CCTV6电影">
         <display-name lang="zh">CCTV6电影</display-name>
     </channel>
-    <programme channel="CCTV6电影" start="20251116000000 +0800" stop="20251116020230 +0800">
+    <programme channel="CCTV6电影" start="20251116000000 +0800" stop="20251116021058 +0800">
         <title lang="zh">新蝙蝠侠（下）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251116020230 +0800" stop="20251116040130 +0800">
+    <programme channel="CCTV6电影" start="20251116021058 +0800" stop="20251116040958 +0800">
         <title lang="zh">十八洞村</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251116040130 +0800" stop="20251116052625 +0800">
+    <programme channel="CCTV6电影" start="20251116040958 +0800" stop="20251116053453 +0800">
         <title lang="zh">西地突围</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251116052625 +0800" stop="20251116061915 +0800">
+    <programme channel="CCTV6电影" start="20251116053453 +0800" stop="20251116061915 +0800">
         <title lang="zh">未知嫌疑人</title>
     </programme>
     <programme channel="CCTV6电影" start="20251116061915 +0800" stop="20251116075427 +0800">
@@ -3324,40 +3324,28 @@
     <programme channel="24小时全运会轮播台" start="20251116075900 +0800" stop="20251116081000 +0800">
         <title lang="zh">全运粤章：岭南文化火出圈！独家对话开幕式表演团队代表-富美青年英歌队</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251116081000 +0800" stop="20251116103800 +0800">
+    <programme channel="24小时全运会轮播台" start="20251116081000 +0800" stop="20251116094500 +0800">
         <title lang="zh">2025全运会全场回放：体操第5比赛日男子个人全能决赛</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251116103800 +0800" stop="20251116105700 +0800">
-        <title lang="zh">《咪咕体育日报》潘展乐汪顺夺金 林高远刘诗雯逆转登顶</title>
+    <programme channel="24小时全运会轮播台" start="20251116094500 +0800" stop="20251116122000 +0800">
+        <title lang="zh">乒乓球 第10比赛日 上午场 5号桌</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251116105700 +0800" stop="20251116110400 +0800">
-        <title lang="zh">《咪咕体育日报》杨健前方独家对话孙杨</title>
+    <programme channel="24小时全运会轮播台" start="20251116122000 +0800" stop="20251116160000 +0800">
+        <title lang="zh">乒乓球 第10比赛日 上午场 1号桌</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251116110400 +0800" stop="20251116111300 +0800">
-        <title lang="zh">《中国榜样》对话李倩纯享版：从篮球后卫到奥运拳王</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251116111300 +0800" stop="20251116135000 +0800">
-        <title lang="zh">2025全运会全场回放：游泳第5比赛日晚间场</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251116135000 +0800" stop="20251116143200 +0800">
-        <title lang="zh">2025全运会回放：乒乓球成年组女单1/4决赛 孙颖莎4-0刘斐</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251116143200 +0800" stop="20251116150800 +0800">
-        <title lang="zh">《中国榜样》对话龙道一纯享版：你想要成功 没有人可以阻止你</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251116150800 +0800" stop="20251116151700 +0800">
-        <title lang="zh">《中国榜样》对话李倩纯享版：从篮球后卫到奥运拳王</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251116151700 +0800" stop="20251116163200 +0800">
+    <programme channel="24小时全运会轮播台" start="20251116160000 +0800" stop="20251116163200 +0800">
         <title lang="zh">2025全运会回放：乒乓球成年组男单半决赛 王楚钦2-4樊振东</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251116163200 +0800" stop="20251116174800 +0800">
+    <programme channel="24小时全运会轮播台" start="20251116163200 +0800" stop="20251116174500 +0800">
         <title lang="zh">2025全运会开幕式特别节目</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251116174800 +0800" stop="20251116185000 +0800">
-        <title lang="zh">2025全运会回放：乒乓球成年组男单1/4决赛 王楚钦4-2林高远</title>
+    <programme channel="24小时全运会轮播台" start="20251116174500 +0800" stop="20251116202000 +0800">
+        <title lang="zh">乒乓球 第10比赛日 晚间场 6号桌</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251116185000 +0800" stop="20251117003400 +0800">
+    <programme channel="24小时全运会轮播台" start="20251116202000 +0800" stop="20251116233000 +0800">
+        <title lang="zh">乒乓球 第10比赛日 晚间场 1号桌</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251116233000 +0800" stop="20251117003400 +0800">
         <title lang="zh">2025全运会全场回放：羽毛球成年男团决赛 江苏3-2浙江</title>
     </programme>
     <channel id="陕西体育休闲频道">
