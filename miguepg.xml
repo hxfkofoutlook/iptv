@@ -106,7 +106,7 @@
         <title lang="zh">前情提要-乌蒙深处-第5集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251117200600 +0800" stop="20251117205655 +0800">
-        <title lang="zh">乌蒙深处5/28</title>
+        <title lang="zh">乌蒙深处第5集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251117205655 +0800" stop="20251117210120 +0800">
         <title lang="zh">前情提要-乌蒙深处-第6集</title>
@@ -709,10 +709,10 @@
         <title lang="zh">黑白禁区22/42</title>
     </programme>
     <programme channel="CCTV7国防军事" start="20251117170330 +0800" stop="20251117173100 +0800">
-        <title lang="zh">世界战史-2025-204</title>
+        <title lang="zh">世界战史-2025-214</title>
     </programme>
     <programme channel="CCTV7国防军事" start="20251117173100 +0800" stop="20251117175600 +0800">
-        <title lang="zh">军事纪录-2025-220</title>
+        <title lang="zh">军事纪录-2025-230</title>
     </programme>
     <programme channel="CCTV7国防军事" start="20251117175600 +0800" stop="20251117180230 +0800">
         <title lang="zh">国防微视频-军歌嘹亮-中国军魂（战旗版）</title>
@@ -847,13 +847,13 @@
         <title lang="zh">本集提要-四喜-第21集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251117193000 +0800" stop="20251117202505 +0800">
-        <title lang="zh">四喜21/36</title>
+        <title lang="zh">四喜第21集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251117202505 +0800" stop="20251117203005 +0800">
         <title lang="zh">本集提要-四喜-第22集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251117203005 +0800" stop="20251117212135 +0800">
-        <title lang="zh">四喜22/36</title>
+        <title lang="zh">四喜第22集</title>
     </programme>
     <programme channel="CCTV8电视剧" start="20251117212135 +0800" stop="20251117212630 +0800">
         <title lang="zh">本集提要-隐锋-第14集</title>
@@ -3408,29 +3408,35 @@
     <programme channel="24小时全运会轮播台" start="20251117081600 +0800" stop="20251117085000 +0800">
         <title lang="zh">2025全运会全场回放：游泳第5比赛日晚间场</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251117085000 +0800" stop="20251117114500 +0800">
+    <programme channel="24小时全运会轮播台" start="20251117085000 +0800" stop="20251117105000 +0800">
         <title lang="zh">游泳 第8比赛日 上午场</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251117114500 +0800" stop="20251117125000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251117105000 +0800" stop="20251117105300 +0800">
+        <title lang="zh">2025全运会全场回放：游泳第5比赛日晚间场</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251117105300 +0800" stop="20251117110300 +0800">
+        <title lang="zh">《中国榜样》对话李倩纯享版：从篮球后卫到奥运拳王</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251117110300 +0800" stop="20251117113800 +0800">
+        <title lang="zh">《中国榜样》对话龙道一纯享版：你想要成功 没有人可以阻止你</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251117113800 +0800" stop="20251117125000 +0800">
         <title lang="zh">2025全运会回放：乒乓球成年组男单半决赛 王楚钦2-4樊振东</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251117125000 +0800" stop="20251117170000 +0800">
         <title lang="zh">网球 女子单打第3轮</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251117170000 +0800" stop="20251117183700 +0800">
-        <title lang="zh">2025全运会全场回放：羽毛球成年男团决赛 江苏3-2浙江</title>
+    <programme channel="24小时全运会轮播台" start="20251117170000 +0800" stop="20251117180300 +0800">
+        <title lang="zh">2025全运会回放：击剑女子重剑/男子佩剑个人半决赛、铜牌赛、金牌赛</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251117183700 +0800" stop="20251117184500 +0800">
-        <title lang="zh">《中国榜样》对话李倩纯享版：从篮球后卫到奥运拳王</title>
+    <programme channel="24小时全运会轮播台" start="20251117180300 +0800" stop="20251117184500 +0800">
+        <title lang="zh">2025全运会回放：乒乓球成年组男单铜牌赛 王楚钦4-1袁励岑</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251117184500 +0800" stop="20251117223000 +0800">
         <title lang="zh">田径 第3比赛日 晚间场</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251117223000 +0800" stop="20251117231600 +0800">
-        <title lang="zh">2025全运会全场回放：体操第5比赛日男子个人全能决赛</title>
-    </programme>
-    <programme channel="24小时全运会轮播台" start="20251117231600 +0800" stop="20251118001500 +0800">
-        <title lang="zh">2025全运会全场回放：花样游泳 集体技术自选</title>
+    <programme channel="24小时全运会轮播台" start="20251117223000 +0800" stop="20251118003800 +0800">
+        <title lang="zh">2025全运会全场回放：篮球女子成年组金牌赛 广东74-68四川</title>
     </programme>
     <channel id="陕西体育休闲频道">
         <display-name lang="zh">陕西体育休闲频道</display-name>
