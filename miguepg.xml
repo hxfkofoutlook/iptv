@@ -3426,16 +3426,16 @@
     <programme channel="24小时全运会轮播台" start="20251117113800 +0800" stop="20251117125000 +0800">
         <title lang="zh">2025全运会回放：乒乓球成年组男单半决赛 王楚钦2-4樊振东</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251117125000 +0800" stop="20251117180000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251117125000 +0800" stop="20251117172900 +0800">
         <title lang="zh">网球 女子单打第3轮</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251117180000 +0800" stop="20251117180300 +0800">
+    <programme channel="24小时全运会轮播台" start="20251117172900 +0800" stop="20251117180300 +0800">
         <title lang="zh">2025全运会回放：击剑女子重剑/男子佩剑个人半决赛、铜牌赛、金牌赛</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251117180300 +0800" stop="20251117184500 +0800">
+    <programme channel="24小时全运会轮播台" start="20251117180300 +0800" stop="20251117184000 +0800">
         <title lang="zh">2025全运会回放：乒乓球成年组男单铜牌赛 王楚钦4-1袁励岑</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251117184500 +0800" stop="20251117223000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251117184000 +0800" stop="20251117223000 +0800">
         <title lang="zh">田径 第3比赛日 晚间场</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251117223000 +0800" stop="20251118003800 +0800">
@@ -3615,14 +3615,11 @@
     <programme channel="24小时城市联赛轮播台" start="20251117174200 +0800" stop="20251117210100 +0800">
         <title lang="zh">江苏苏超决赛全场回放：南通队0:0泰州队（点球3:4）</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251117210100 +0800" stop="20251117221600 +0800">
-        <title lang="zh">河南豫排第二阶段第10轮回放：航空港区3-0平顶山</title>
+    <programme channel="24小时城市联赛轮播台" start="20251117210100 +0800" stop="20251117234000 +0800">
+        <title lang="zh">河南豫排第二阶段第11轮回放：新乡南太行3-1开封龙亭</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251117221600 +0800" stop="20251117232100 +0800">
-        <title lang="zh">河南豫排第二阶段第10轮回放：周口0-3郑州</title>
-    </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251117232100 +0800" stop="20251118013400 +0800">
-        <title lang="zh">四川川超第8轮：甘孜州有机牦牛队1:1阿坝州雪山雄鹰队</title>
+    <programme channel="24小时城市联赛轮播台" start="20251117234000 +0800" stop="20251118005800 +0800">
+        <title lang="zh">河南豫排第二阶段第11轮回放：周口3-0商丘科迪花木兰</title>
     </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
