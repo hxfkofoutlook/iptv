@@ -2346,8 +2346,8 @@
     <channel id="CGTN俄语">
         <display-name lang="zh">CGTN俄语</display-name>
     </channel>
-    <programme channel="CGTN俄语" start="20251116235800 +0800" stop="20251117001500 +0800">
-        <title lang="zh">结束</title>
+    <programme channel="CGTN俄语" start="20251116233000 +0800" stop="20251117001500 +0800">
+        <title lang="zh">生财有道(俄)-2025-320</title>
     </programme>
     <programme channel="CGTN俄语" start="20251117001500 +0800" stop="20251117011500 +0800">
         <title lang="zh">生活百科</title>
