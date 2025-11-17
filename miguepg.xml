@@ -112,7 +112,7 @@
         <title lang="zh">前情提要-乌蒙深处-第6集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251117210120 +0800" stop="20251117214920 +0800">
-        <title lang="zh">乌蒙深处6/28</title>
+        <title lang="zh">乌蒙深处第6集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251117214920 +0800" stop="20251117220000 +0800">
         <title lang="zh">非遗里的中国-MV</title>
@@ -1062,16 +1062,19 @@
     <programme channel="CCTV10科教" start="20251117203100 +0800" stop="20251117212030 +0800">
         <title lang="zh">探索·发现-2025-321</title>
     </programme>
-    <programme channel="CCTV10科教" start="20251117212030 +0800" stop="20251117214800 +0800">
+    <programme channel="CCTV10科教" start="20251117212030 +0800" stop="20251117213030 +0800">
+        <title lang="zh">动物驯化简史-1</title>
+    </programme>
+    <programme channel="CCTV10科教" start="20251117213030 +0800" stop="20251117215800 +0800">
         <title lang="zh">创新进行时-2025-229</title>
     </programme>
-    <programme channel="CCTV10科教" start="20251117214800 +0800" stop="20251117224500 +0800">
+    <programme channel="CCTV10科教" start="20251117215800 +0800" stop="20251117225500 +0800">
         <title lang="zh">2025科教纪录片精选-7</title>
     </programme>
-    <programme channel="CCTV10科教" start="20251117224500 +0800" stop="20251117234500 +0800">
+    <programme channel="CCTV10科教" start="20251117225500 +0800" stop="20251117235500 +0800">
         <title lang="zh">剧说历史（第一季）-59</title>
     </programme>
-    <programme channel="CCTV10科教" start="20251117234500 +0800" stop="20251117235900 +0800">
+    <programme channel="CCTV10科教" start="20251117235500 +0800" stop="20251117235900 +0800">
         <title lang="zh">科学动物园-2025-46</title>
     </programme>
     <channel id="CCTV11戏曲">
