@@ -486,17 +486,23 @@
     <programme channel="CCTV5体育" start="20251118063000 +0800" stop="20251118070000 +0800">
         <title lang="zh">健身动起来</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251118070000 +0800" stop="20251118093000 +0800">
+    <programme channel="CCTV5体育" start="20251118070000 +0800" stop="20251118090000 +0800">
         <title lang="zh">全运晨报</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251118093000 +0800" stop="20251118120000 +0800">
+    <programme channel="CCTV5体育" start="20251118090000 +0800" stop="20251118093000 +0800">
+        <title lang="zh">实况录像-第十五届全国运动会马拉松竞走混合接力决赛</title>
+    </programme>
+    <programme channel="CCTV5体育" start="20251118093000 +0800" stop="20251118103000 +0800">
         <title lang="zh">第十五届全国运动会：田径(女子200米、男子200米复赛、男子标枪决赛)</title>
+    </programme>
+    <programme channel="CCTV5体育" start="20251118103000 +0800" stop="20251118120000 +0800">
+        <title lang="zh">实况录像-第十五届全国运动会体操单项决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20251118120000 +0800" stop="20251118130000 +0800">
         <title lang="zh">体坛快讯-全运最前沿</title>
     </programme>
     <programme channel="CCTV5体育" start="20251118130000 +0800" stop="20251118140000 +0800">
-        <title lang="zh">第十五届全国运动会-赛事转播报道9-2</title>
+        <title lang="zh">实况录像-第十五届全国运动会田径决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20251118140000 +0800" stop="20251118160000 +0800">
         <title lang="zh">第十五届全国运动会：羽毛球单项半决赛</title>
@@ -507,8 +513,11 @@
     <programme channel="CCTV5体育" start="20251118180000 +0800" stop="20251118190000 +0800">
         <title lang="zh">体育新闻-全运进行时</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251118190000 +0800" stop="20251118213000 +0800">
-        <title lang="zh">第十五届全国运动会：田径(女子5000米、男子5000米决赛、女子400米、男子400米决赛、女子撑杆跳高、男子跳远、男子链球决赛)</title>
+    <programme channel="CCTV5体育" start="20251118190000 +0800" stop="20251118210000 +0800">
+        <title lang="zh">第十五届全国运动会：田径（女子5000米、男子5000米决赛、女子400米、男子400米决赛、女子撑杆跳高、男子跳远、男子链球决赛）</title>
+    </programme>
+    <programme channel="CCTV5体育" start="20251118210000 +0800" stop="20251118213000 +0800">
+        <title lang="zh">实况录像-第十五届全国运动会霹雳舞女子决赛</title>
     </programme>
     <programme channel="CCTV5体育" start="20251118213000 +0800" stop="20251118223500 +0800">
         <title lang="zh">体育世界-全景全运会</title>
@@ -547,16 +556,22 @@
         <title lang="zh">2025年ATP1000男子网球大师赛总决赛- 单打决赛</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20251118093000 +0800" stop="20251118100000 +0800">
-        <title lang="zh">第十五届全国运动会-赛事直播13</title>
+        <title lang="zh">实况录像-第十五届全国运动会游泳多项决赛</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20251118100000 +0800" stop="20251118140000 +0800">
+    <programme channel="CCTV5+体育赛事" start="20251118100000 +0800" stop="20251118120000 +0800">
         <title lang="zh">第十五届全国运动会：网球单打1/4决赛</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20251118140000 +0800" stop="20251118160000 +0800">
-        <title lang="zh">第十五届全国运动会：垒球决赛</title>
+    <programme channel="CCTV5+体育赛事" start="20251118120000 +0800" stop="20251118140000 +0800">
+        <title lang="zh">实况录像-第十五届全国运动会田径决赛</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20251118160000 +0800" stop="20251118180000 +0800">
-        <title lang="zh">第十五届全国运动会：射箭混合团体1/4决16:00、半决赛、铜牌赛、决赛</title>
+    <programme channel="CCTV5+体育赛事" start="20251118140000 +0800" stop="20251118160000 +0800">
+        <title lang="zh">第十五届全国运动会：垒球决赛 江苏-辽宁</title>
+    </programme>
+    <programme channel="CCTV5+体育赛事" start="20251118160000 +0800" stop="20251118173000 +0800">
+        <title lang="zh">第十五届全国运动会：射箭混合团体1/4决赛、半决赛、铜牌赛、决赛</title>
+    </programme>
+    <programme channel="CCTV5+体育赛事" start="20251118173000 +0800" stop="20251118180000 +0800">
+        <title lang="zh">实况录像-第十五届全国运动会场地自行车</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20251118180000 +0800" stop="20251118210500 +0800">
         <title lang="zh">第十五届全国运动会：乒乓球团体半决赛</title>
