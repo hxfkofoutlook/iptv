@@ -570,11 +570,8 @@
     <programme channel="CCTV5+体育赛事" start="20251119160000 +0800" stop="20251119180000 +0800">
         <title lang="zh">第十五届全国运动会-竞速小轮车半决赛、决赛</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20251119180000 +0800" stop="20251119200000 +0800">
+    <programme channel="CCTV5+体育赛事" start="20251119180000 +0800" stop="20251119210500 +0800">
         <title lang="zh">第十五届全国运动会-乒乓球女团决赛 河北-山东</title>
-    </programme>
-    <programme channel="CCTV5+体育赛事" start="20251119200000 +0800" stop="20251119210500 +0800">
-        <title lang="zh">第十五届全国运动会-举重男子102公斤级决赛</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20251119210500 +0800" stop="20251119223500 +0800">
         <title lang="zh">实况录像-2025/2026赛季欧洲篮球联赛 第11轮 皇家马德里—帕纳辛纳科斯</title>
