@@ -3471,8 +3471,20 @@
     <programme channel="24小时全运会轮播台" start="20251120174500 +0800" stop="20251120230000 +0800">
         <title lang="zh">乒乓球 男子团体金牌赛 北京vs上海</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251120230000 +0800" stop="20251121003000 +0800">
-        <title lang="zh">2025全运会全场回放：足球女子成年组金牌赛 湖北0-1江苏</title>
+    <programme channel="24小时全运会轮播台" start="20251120230000 +0800" stop="20251120230300 +0800">
+        <title lang="zh">《咪咕体育日报》女飞人陈妤颉破纪录 汪顺19金创历史</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251120230300 +0800" stop="20251120231500 +0800">
+        <title lang="zh">《全运粤章》全运攀岩霹雳舞赛场火热!  独家对话圈内大咖陈俊义和邓羽楷分享新兴运动热潮</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251120231500 +0800" stop="20251120233400 +0800">
+        <title lang="zh">《全运粤章》对话刘平云 十五运会吉祥物诞生记</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251120233400 +0800" stop="20251120234500 +0800">
+        <title lang="zh">《全运粤章》岭南文化焕发新活力！独家对话广彩瓷非遗传承人冯汉威</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251120234500 +0800" stop="20251121014200 +0800">
+        <title lang="zh">2025全运会全场回放：排球女子成年组冠亚军决赛 江苏3-0山东</title>
     </programme>
     <channel id="陕西体育休闲频道">
         <display-name lang="zh">陕西体育休闲频道</display-name>
