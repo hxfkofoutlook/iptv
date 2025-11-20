@@ -100,13 +100,13 @@
         <title lang="zh">前情提要-乌蒙深处-第11集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251120200600 +0800" stop="20251120205655 +0800">
-        <title lang="zh">乌蒙深处11/28</title>
+        <title lang="zh">乌蒙深处第11集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251120205655 +0800" stop="20251120210120 +0800">
         <title lang="zh">前情提要-乌蒙深处-第12集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251120210120 +0800" stop="20251120214935 +0800">
-        <title lang="zh">乌蒙深处12/28</title>
+        <title lang="zh">乌蒙深处第12集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251120214935 +0800" stop="20251120220000 +0800">
         <title lang="zh">山水间的家-主题曲</title>
@@ -504,11 +504,8 @@
     <programme channel="CCTV5体育" start="20251120170000 +0800" stop="20251120175500 +0800">
         <title lang="zh">体育新闻-全运进行时</title>
     </programme>
-    <programme channel="CCTV5体育" start="20251120175500 +0800" stop="20251120201500 +0800">
+    <programme channel="CCTV5体育" start="20251120175500 +0800" stop="20251120210000 +0800">
         <title lang="zh">第十五届全国运动会 乒乓球男子团体决赛 北京-上海</title>
-    </programme>
-    <programme channel="CCTV5体育" start="20251120201500 +0800" stop="20251120210000 +0800">
-        <title lang="zh">第十五届全国运动会 田径（女子4x100米接力、男子4x100米接力决赛、女子4x400米接力、男子4x400米接力决赛）</title>
     </programme>
     <programme channel="CCTV5体育" start="20251120210000 +0800" stop="20251120213000 +0800">
         <title lang="zh">实况录像-第十五届全国运动会 皮划艇多项比赛</title>
@@ -570,11 +567,8 @@
     <programme channel="CCTV5+体育赛事" start="20251120170000 +0800" stop="20251120190000 +0800">
         <title lang="zh">实况录像-第十五届全国运动会 击剑男子花剑、女子佩剑团体决赛</title>
     </programme>
-    <programme channel="CCTV5+体育赛事" start="20251120190000 +0800" stop="20251120201500 +0800">
+    <programme channel="CCTV5+体育赛事" start="20251120190000 +0800" stop="20251120210500 +0800">
         <title lang="zh">第十五届全国运动会 田径（女子1500米、男子1500米决赛、女子10000米决赛、男子三级跳远、男子铅球、女子链球决赛）</title>
-    </programme>
-    <programme channel="CCTV5+体育赛事" start="20251120201500 +0800" stop="20251120210500 +0800">
-        <title lang="zh">第十五届全国运动会 男排决赛 福建-山东</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20251120210500 +0800" stop="20251120220500 +0800">
         <title lang="zh">实况录像（奥林匹克）-第十五届全国运动会 乒乓球男单比赛（4K）</title>
@@ -3465,13 +3459,25 @@
     <programme channel="24小时全运会轮播台" start="20251120085000 +0800" stop="20251120094500 +0800">
         <title lang="zh">2025全运会全场回放：篮球男子U18金牌赛 山东78-85广东</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251120094500 +0800" stop="20251120174500 +0800">
+    <programme channel="24小时全运会轮播台" start="20251120094500 +0800" stop="20251120172600 +0800">
         <title lang="zh">网球 男女单打决赛</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251120174500 +0800" stop="20251120230000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251120172600 +0800" stop="20251120174500 +0800">
+        <title lang="zh">2025全运会全场回放：田径马拉松竞走混合接力决赛</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251120174500 +0800" stop="20251120211500 +0800">
         <title lang="zh">乒乓球 男子团体金牌赛 北京vs上海</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251120230000 +0800" stop="20251120230300 +0800">
+    <programme channel="24小时全运会轮播台" start="20251120211500 +0800" stop="20251120220400 +0800">
+        <title lang="zh">2025全运会全场回放：乒乓球成年组女子团体金牌赛 河北队2-3山东队</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251120220400 +0800" stop="20251120220900 +0800">
+        <title lang="zh">2025全运会集锦：网球女双决赛 王欣瑜/袁悦1-2王雅繁/蒋欣玗</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251120220900 +0800" stop="20251120223600 +0800">
+        <title lang="zh">《咪咕体育日报》陈梦率山东女团登顶 吴艳妮惜败摘银</title>
+    </programme>
+    <programme channel="24小时全运会轮播台" start="20251120223600 +0800" stop="20251120230300 +0800">
         <title lang="zh">《咪咕体育日报》女飞人陈妤颉破纪录 汪顺19金创历史</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251120230300 +0800" stop="20251120231500 +0800">
@@ -4089,7 +4095,7 @@
     <programme channel="广东卫视" start="20251120230500 +0800" stop="20251120235000 +0800">
         <title lang="zh">冰雪尖刀连(1)</title>
     </programme>
-    <programme channel="广东卫视" start="20251120235000 +0800" stop="20251121000000 +0800">
+    <programme channel="广东卫视" start="20251120235000 +0800" stop="20251121000500 +0800">
         <title lang="zh">重播节目、纪录片</title>
     </programme>
     <channel id="江西卫视">
