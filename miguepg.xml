@@ -297,8 +297,11 @@
     <programme channel="CCTV3综艺" start="20251121223705 +0800" stop="20251121231350 +0800">
         <title lang="zh">慕名而来-3</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20251121231350 +0800" stop="20251121235900 +0800">
+    <programme channel="CCTV3综艺" start="20251121231350 +0800" stop="20251121235950 +0800">
         <title lang="zh">综艺喜乐汇-2025-1299 紧急公关25/38</title>
+    </programme>
+    <programme channel="CCTV3综艺" start="20251121235950 +0800" stop="20251121235900 +0800">
+        <title lang="zh">中国唱将-5</title>
     </programme>
     <channel id="CCTV4中文国际">
         <display-name lang="zh">CCTV4中文国际</display-name>
