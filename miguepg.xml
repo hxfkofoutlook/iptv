@@ -96,19 +96,19 @@
     <programme channel="CCTV1综合" start="20251121193850 +0800" stop="20251121195600 +0800">
         <title lang="zh">焦点访谈</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251121195600 +0800" stop="20251121210430 +0800">
+    <programme channel="CCTV1综合" start="20251121195600 +0800" stop="20251121211855 +0800">
         <title lang="zh">第十五届全国运动会-闭幕式</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251121210430 +0800" stop="20251121220600 +0800">
+    <programme channel="CCTV1综合" start="20251121211855 +0800" stop="20251121222030 +0800">
         <title lang="zh">踏歌行-6</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251121220600 +0800" stop="20251121224000 +0800">
+    <programme channel="CCTV1综合" start="20251121222030 +0800" stop="20251121225430 +0800">
         <title lang="zh">晚间新闻</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251121224000 +0800" stop="20251121232845 +0800">
-        <title lang="zh">礼仪中国-1（一套版）</title>
+    <programme channel="CCTV1综合" start="20251121225430 +0800" stop="20251121232355 +0800">
+        <title lang="zh">百年守护-10</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251121232845 +0800" stop="20251121235900 +0800">
+    <programme channel="CCTV1综合" start="20251121232355 +0800" stop="20251121235900 +0800">
         <title lang="zh">中华考工记-5</title>
     </programme>
     <channel id="CCTV2财经">
@@ -3486,10 +3486,10 @@
     <programme channel="24小时全运会轮播台" start="20251121160200 +0800" stop="20251121180000 +0800">
         <title lang="zh">2025全运会全场回放：乒乓球男子团体金牌赛 北京队3-1上海队​</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251121180000 +0800" stop="20251121210700 +0800">
+    <programme channel="24小时全运会轮播台" start="20251121180000 +0800" stop="20251121211500 +0800">
         <title lang="zh">第十五届全国运动会闭幕式特别节目&amp;闭幕式（CCTV5）</title>
     </programme>
-    <programme channel="24小时全运会轮播台" start="20251121210700 +0800" stop="20251121234000 +0800">
+    <programme channel="24小时全运会轮播台" start="20251121211500 +0800" stop="20251121234000 +0800">
         <title lang="zh">2025全运会全场回放：乒乓球成年组女子团体金牌赛 河北队2-3山东队</title>
     </programme>
     <programme channel="24小时全运会轮播台" start="20251121234000 +0800" stop="20251121234600 +0800">
