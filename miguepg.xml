@@ -99,11 +99,8 @@
     <programme channel="CCTV1综合" start="20251121195600 +0800" stop="20251121210430 +0800">
         <title lang="zh">第十五届全国运动会-闭幕式</title>
     </programme>
-    <programme channel="CCTV1综合" start="20251121210430 +0800" stop="20251121215630 +0800">
+    <programme channel="CCTV1综合" start="20251121210430 +0800" stop="20251121220600 +0800">
         <title lang="zh">踏歌行-6</title>
-    </programme>
-    <programme channel="CCTV1综合" start="20251121215630 +0800" stop="20251121220600 +0800">
-        <title lang="zh">乌蒙深处第13集</title>
     </programme>
     <programme channel="CCTV1综合" start="20251121220600 +0800" stop="20251121224000 +0800">
         <title lang="zh">晚间新闻</title>
@@ -297,11 +294,8 @@
     <programme channel="CCTV3综艺" start="20251121223650 +0800" stop="20251121231350 +0800">
         <title lang="zh">慕名而来-3</title>
     </programme>
-    <programme channel="CCTV3综艺" start="20251121231350 +0800" stop="20251121235950 +0800">
+    <programme channel="CCTV3综艺" start="20251121231350 +0800" stop="20251121235900 +0800">
         <title lang="zh">综艺喜乐汇-2025-1299 紧急公关25/38</title>
-    </programme>
-    <programme channel="CCTV3综艺" start="20251121235950 +0800" stop="20251121235900 +0800">
-        <title lang="zh">中国唱将-5</title>
     </programme>
     <channel id="CCTV4中文国际">
         <display-name lang="zh">CCTV4中文国际</display-name>
@@ -451,7 +445,7 @@
         <title lang="zh">实况录像-2024/2025赛季中国男子篮球职业联赛 季后赛 半决赛 2</title>
     </programme>
     <programme channel="CCTV5体育" start="20251121040000 +0800" stop="20251121053000 +0800">
-        <title lang="zh">国际足球赛场-25-26赛季英超联赛第9轮 切尔西—桑德兰</title>
+        <title lang="zh">国际足球赛场-2025-2026赛季英超联赛第9轮 切尔西—桑德兰</title>
     </programme>
     <programme channel="CCTV5体育" start="20251121053000 +0800" stop="20251121060000 +0800">
         <title lang="zh">实况录像-2025年射箭世界杯总决赛 1</title>
@@ -535,7 +529,7 @@
         <title lang="zh">第十五届全国运动会-羽毛球单项决赛</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20251121153300 +0800" stop="20251121170000 +0800">
-        <title lang="zh">国际足球赛场-25-26赛季英超联赛第11轮 托特纳姆—曼联</title>
+        <title lang="zh">国际足球赛场-2025-2026赛季英超联赛第11轮 托特纳姆—曼联</title>
     </programme>
     <programme channel="CCTV5+体育赛事" start="20251121170000 +0800" stop="20251121183000 +0800">
         <title lang="zh">实况录像-2025/2026赛季欧洲篮球联赛 第11轮 皇家马德里—帕纳辛纳科斯</title>
