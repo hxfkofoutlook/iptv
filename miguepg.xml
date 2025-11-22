@@ -3645,8 +3645,11 @@
     <programme channel="24小时城市联赛轮播台" start="20251122184000 +0800" stop="20251122215900 +0800">
         <title lang="zh">江苏苏超决赛全场回放：南通队0:0泰州队（点球3:4）</title>
     </programme>
-    <programme channel="24小时城市联赛轮播台" start="20251122215900 +0800" stop="20251123003900 +0800">
-        <title lang="zh">河南豫排第二阶段第11轮回放：新乡南太行3-1开封龙亭</title>
+    <programme channel="24小时城市联赛轮播台" start="20251122215900 +0800" stop="20251122231700 +0800">
+        <title lang="zh">河南豫排第二阶段第11轮回放：周口3-0商丘科迪花木兰</title>
+    </programme>
+    <programme channel="24小时城市联赛轮播台" start="20251122231700 +0800" stop="20251123013900 +0800">
+        <title lang="zh">四川川超第9轮：广安板楯蛮队0:3成都锦城队</title>
     </programme>
     <channel id="武术世界">
         <display-name lang="zh">武术世界</display-name>
