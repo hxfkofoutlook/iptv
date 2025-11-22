@@ -3381,8 +3381,140 @@
     <channel id="陕西体育休闲频道">
         <display-name lang="zh">陕西体育休闲频道</display-name>
     </channel>
-    <programme channel="陕西体育休闲频道" start="20251123000000 +0800" stop="20251123235900 +0800">
-        <title lang="zh"></title>
+    <programme channel="陕西体育休闲频道" start="20251123000000 +0800" stop="20251123011100 +0800">
+        <title lang="zh">天下赛场</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123011100 +0800" stop="20251123064600 +0800">
+        <title lang="zh">导视+结束曲</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123064600 +0800" stop="20251123064700 +0800">
+        <title lang="zh">台标晨曲</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123064700 +0800" stop="20251123071700 +0800">
+        <title lang="zh">搏击王</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123071700 +0800" stop="20251123072000 +0800">
+        <title lang="zh">频道+导视</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123072000 +0800" stop="20251123075000 +0800">
+        <title lang="zh">体育时间</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123075000 +0800" stop="20251123081000 +0800">
+        <title lang="zh">天下赛场</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123081000 +0800" stop="20251123084000 +0800">
+        <title lang="zh">剧场：谷鼓齐鸣-33</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123084000 +0800" stop="20251123090000 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123090000 +0800" stop="20251123101100 +0800">
+        <title lang="zh">夺宝秦兵</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123101100 +0800" stop="20251123103200 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123103200 +0800" stop="20251123104800 +0800">
+        <title lang="zh">体育会客厅</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123104800 +0800" stop="20251123110900 +0800">
+        <title lang="zh">陕西体育</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123110900 +0800" stop="20251123113900 +0800">
+        <title lang="zh">剧场：谷鼓齐鸣-34</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123113900 +0800" stop="20251123120000 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123120000 +0800" stop="20251123132400 +0800">
+        <title lang="zh">夺宝秦兵</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123132400 +0800" stop="20251123134400 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123134400 +0800" stop="20251123134500 +0800">
+        <title lang="zh">导视</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123134500 +0800" stop="20251123135500 +0800">
+        <title lang="zh">童梦声语</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123135500 +0800" stop="20251123141000 +0800">
+        <title lang="zh">体育会客厅</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123141000 +0800" stop="20251123144000 +0800">
+        <title lang="zh">剧场：谷鼓齐鸣-35</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123144000 +0800" stop="20251123150100 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123150100 +0800" stop="20251123153100 +0800">
+        <title lang="zh">剧场：谷鼓齐鸣-36</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123153100 +0800" stop="20251123155100 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123155100 +0800" stop="20251123155500 +0800">
+        <title lang="zh">导视+广告</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123155500 +0800" stop="20251123162500 +0800">
+        <title lang="zh">剧场：谷鼓齐鸣-37</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123162500 +0800" stop="20251123164500 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123164500 +0800" stop="20251123165000 +0800">
+        <title lang="zh">导视+广告</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123165000 +0800" stop="20251123172000 +0800">
+        <title lang="zh">剧场：谷鼓齐鸣-38</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123172000 +0800" stop="20251123174000 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123174000 +0800" stop="20251123175500 +0800">
+        <title lang="zh">畅游天下</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123175500 +0800" stop="20251123175600 +0800">
+        <title lang="zh">导视</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123175600 +0800" stop="20251123182600 +0800">
+        <title lang="zh">剧场：谷鼓齐鸣-39</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123182600 +0800" stop="20251123184600 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123184600 +0800" stop="20251123190600 +0800">
+        <title lang="zh">天下赛场</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123190600 +0800" stop="20251123191000 +0800">
+        <title lang="zh">广告+导视</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123191000 +0800" stop="20251123201500 +0800">
+        <title lang="zh">开心智斗</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123201500 +0800" stop="20251123203500 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123203500 +0800" stop="20251123204500 +0800">
+        <title lang="zh">赛事集锦</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123204500 +0800" stop="20251123210000 +0800">
+        <title lang="zh">体育会客厅</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123210000 +0800" stop="20251123212000 +0800">
+        <title lang="zh">陕西体育</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123212000 +0800" stop="20251123212500 +0800">
+        <title lang="zh">广告+导视</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123212500 +0800" stop="20251123223800 +0800">
+        <title lang="zh">夺宝秦兵</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123223800 +0800" stop="20251123225900 +0800">
+        <title lang="zh">专题节目</title>
+    </programme>
+    <programme channel="陕西体育休闲频道" start="20251123225900 +0800" stop="20251124000000 +0800">
+        <title lang="zh">天下赛场</title>
     </programme>
     <channel id="24小时城市联赛轮播台">
         <display-name lang="zh">24小时城市联赛轮播台</display-name>
