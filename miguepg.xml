@@ -579,40 +579,46 @@
     <programme channel="CCTV6电影" start="20251124014237 +0800" stop="20251124031447 +0800">
         <title lang="zh">咏春女孩</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251124031447 +0800" stop="20251124073336 +0800">
+    <programme channel="CCTV6电影" start="20251124031447 +0800" stop="20251124044554 +0800">
         <title lang="zh">开工大急</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251124073336 +0800" stop="20251124091851 +0800">
-        <title lang="zh">老少爷们上法场</title>
+    <programme channel="CCTV6电影" start="20251124044554 +0800" stop="20251124062818 +0800">
+        <title lang="zh">顽主</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251124091851 +0800" stop="20251124110429 +0800">
+    <programme channel="CCTV6电影" start="20251124062818 +0800" stop="20251124070338 +0800">
+        <title lang="zh">我和我的父辈：诗</title>
+    </programme>
+    <programme channel="CCTV6电影" start="20251124070338 +0800" stop="20251124090320 +0800">
+        <title lang="zh">平原枪声</title>
+    </programme>
+    <programme channel="CCTV6电影" start="20251124090320 +0800" stop="20251124104638 +0800">
         <title lang="zh">寒刀凛</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251124110429 +0800" stop="20251124125104 +0800">
+    <programme channel="CCTV6电影" start="20251124104638 +0800" stop="20251124123755 +0800">
         <title lang="zh">血战漫川关</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251124125104 +0800" stop="20251124125719 +0800">
+    <programme channel="CCTV6电影" start="20251124123755 +0800" stop="20251124124345 +0800">
         <title lang="zh">音乐电影欣赏</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251124125719 +0800" stop="20251124144953 +0800">
+    <programme channel="CCTV6电影" start="20251124124345 +0800" stop="20251124144244 +0800">
         <title lang="zh">燃烧的港湾</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251124144953 +0800" stop="20251124152611 +0800">
+    <programme channel="CCTV6电影" start="20251124144244 +0800" stop="20251124151747 +0800">
         <title lang="zh">生生长流（上）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251124152611 +0800" stop="20251124163247 +0800">
+    <programme channel="CCTV6电影" start="20251124151747 +0800" stop="20251124162338 +0800">
         <title lang="zh">生生长流（下）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251124163247 +0800" stop="20251124181957 +0800">
+    <programme channel="CCTV6电影" start="20251124162338 +0800" stop="20251124181553 +0800">
         <title lang="zh">侠义金枪客</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251124181957 +0800" stop="20251124183042 +0800">
+    <programme channel="CCTV6电影" start="20251124181553 +0800" stop="20251124182558 +0800">
         <title lang="zh">今日影评2025-234</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251124183042 +0800" stop="20251124201547 +0800">
+    <programme channel="CCTV6电影" start="20251124182558 +0800" stop="20251124201447 +0800">
         <title lang="zh">血战落魂桥</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251124201547 +0800" stop="20251124220000 +0800">
+    <programme channel="CCTV6电影" start="20251124201447 +0800" stop="20251124220000 +0800">
         <title lang="zh">绝地</title>
     </programme>
     <programme channel="CCTV6电影" start="20251124220000 +0800" stop="20251124221800 +0800">
@@ -624,10 +630,10 @@
     <programme channel="CCTV6电影" start="20251124222320 +0800" stop="20251124230017 +0800">
         <title lang="zh">迷失之城（上）</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251124230017 +0800" stop="20251124230147 +0800">
+    <programme channel="CCTV6电影" start="20251124230017 +0800" stop="20251124230117 +0800">
         <title lang="zh">中国体育彩票阳光开奖2025-11-24</title>
     </programme>
-    <programme channel="CCTV6电影" start="20251124230147 +0800" stop="20251124235900 +0800">
+    <programme channel="CCTV6电影" start="20251124230117 +0800" stop="20251124235900 +0800">
         <title lang="zh">迷失之城（下）</title>
     </programme>
     <channel id="CCTV7国防军事">
