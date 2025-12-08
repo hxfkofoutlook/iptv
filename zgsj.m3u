@@ -1,0 +1,138 @@
+#EXTINF:-1 tvg-name="CCTV1综合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视",CCTV1综合
+http://127.0.0.1/PLTV/?zgpid=cctv1
+#EXTINF:-1 tvg-name="CCTV2财经" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央视",CCTV2财经
+http://127.0.0.1/PLTV/?zgpid=cctv2
+#EXTINF:-1 tvg-name="CCTV3综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="央视",CCTV3综艺
+http://127.0.0.1/PLTV/?zgpid=cctv3
+#EXTINF:-1 tvg-name="CCTV4中文国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视",CCTV4中文国际
+http://127.0.0.1/PLTV/?zgpid=cctv4
+#EXTINF:-1 tvg-name="CCTV5体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视",CCTV5体育
+http://127.0.0.1/PLTV/?zgpid=cctv5
+#EXTINF:-1 tvg-name="CCTV5+体育赛事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央视",CCTV5+体育赛事
+http://127.0.0.1/PLTV/?zgpid=cctv5p
+#EXTINF:-1 tvg-name="CCTV6电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央视",CCTV6电影
+http://127.0.0.1/PLTV/?zgpid=cctv6
+#EXTINF:-1 tvg-name="CCTV7国防军事" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央视",CCTV7国防军事
+http://127.0.0.1/PLTV/?zgpid=cctv7
+#EXTINF:-1 tvg-name="CCTV8电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央视",CCTV8电视剧
+http://127.0.0.1/PLTV/?zgpid=cctv8
+#EXTINF:-1 tvg-name="CCTV9纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央视",CCTV9纪录
+http://127.0.0.1/PLTV/?zgpid=cctv9
+#EXTINF:-1 tvg-name="CCTV10科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央视",CCTV10科教
+http://127.0.0.1/PLTV/?zgpid=cctv10
+#EXTINF:-1 tvg-name="CCTV11戏曲" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视",CCTV11戏曲
+http://127.0.0.1/PLTV/?zgpid=cctv11
+#EXTINF:-1 tvg-name="CCTV12社会与法" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央视",CCTV12社会与法
+http://127.0.0.1/PLTV/?zgpid=cctv12
+#EXTINF:-1 tvg-name="CCTV13新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视",CCTV13新闻
+http://127.0.0.1/PLTV/?zgpid=cctv13
+#EXTINF:-1 tvg-name="CCTV14少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="央视",CCTV14少儿
+http://127.0.0.1/PLTV/?zgpid=cctv14
+#EXTINF:-1 tvg-name="CCTV15音乐" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视",CCTV15音乐
+http://127.0.0.1/PLTV/?zgpid=cctv15
+#EXTINF:-1 tvg-name="CCTV16奥林匹克" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视",CCTV16奥林匹克
+http://127.0.0.1/PLTV/?zgpid=cctv16
+#EXTINF:-1 tvg-name="CCTV17农业农村" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视",CCTV17农业农村
+http://127.0.0.1/PLTV/?zgpid=cctv17
+#EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="央视",CCTV4K
+http://127.0.0.1/PLTV/?zgpid=cctv4k
+#EXTINF:-1 tvg-name="CGTN新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视",CGTN新闻
+http://127.0.0.1/PLTV/?zgpid=cgtn
+#EXTINF:-1 tvg-name="北京卫视4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视4K.png" group-title="卫视",北京卫视4K
+http://127.0.0.1/PLTV/?zgpid=bjws4k
+#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="卫视",广东卫视
+http://127.0.0.1/PLTV/?zgpid=gdws
+#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="卫视",江苏卫视
+http://127.0.0.1/PLTV/?zgpid=jsws
+#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="卫视",浙江卫视
+http://127.0.0.1/PLTV/?zgpid=zjws
+#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="卫视",湖南卫视
+http://127.0.0.1/PLTV/?zgpid=hunws
+#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视",东方卫视
+http://127.0.0.1/PLTV/?zgpid=dfws
+#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视",北京卫视
+http://127.0.0.1/PLTV/?zgpid=bjws
+#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="卫视",深圳卫视
+http://127.0.0.1/PLTV/?zgpid=szws
+#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/辽宁卫视.png" group-title="卫视",辽宁卫视
+http://127.0.0.1/PLTV/?zgpid=lnws
+#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安徽卫视.png" group-title="卫视",安徽卫视
+http://127.0.0.1/PLTV/?zgpid=ahws
+#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/山东卫视.png" group-title="卫视",山东卫视
+http://127.0.0.1/PLTV/?zgpid=sdws
+#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/黑龙江卫视.png" group-title="卫视",黑龙江卫视
+http://127.0.0.1/PLTV/?zgpid=hljws
+#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天津卫视.png" group-title="卫视",天津卫视
+http://127.0.0.1/PLTV/?zgpid=tjws
+#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="卫视",广西卫视
+http://127.0.0.1/PLTV/?zgpid=gxws
+#EXTINF:-1 tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="卫视",东南卫视
+http://127.0.0.1/PLTV/?zgpid=dnws
+#EXTINF:-1 tvg-name="甘肃卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/甘肃卫视.png" group-title="卫视",甘肃卫视
+http://127.0.0.1/PLTV/?zgpid=gsws
+#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/贵州卫视.png" group-title="卫视",贵州卫视
+http://127.0.0.1/PLTV/?zgpid=gzws
+#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海南卫视.png" group-title="卫视",海南卫视
+http://127.0.0.1/PLTV/?zgpid=hainws
+#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河北卫视.png" group-title="卫视",河北卫视
+http://127.0.0.1/PLTV/?zgpid=hebws
+#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/河南卫视.png" group-title="卫视",河南卫视
+http://127.0.0.1/PLTV/?zgpid=henws
+#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="卫视",湖北卫视
+http://127.0.0.1/PLTV/?zgpid=hubws
+#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/吉林卫视.png" group-title="卫视",吉林卫视
+http://127.0.0.1/PLTV/?zgpid=jlws
+#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江西卫视.png" group-title="卫视",江西卫视
+http://127.0.0.1/PLTV/?zgpid=jxws
+#EXTINF:-1 tvg-name="康巴卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/康巴卫视.png" group-title="卫视",康巴卫视
+http://127.0.0.1/PLTV/?zgpid=kbws
+#EXTINF:-1 tvg-name="安多卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/安多卫视.png" group-title="卫视",安多卫视
+http://127.0.0.1/PLTV/?zgpid=adws
+#EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵团卫视.png" group-title="卫视",兵团卫视
+http://127.0.0.1/PLTV/?zgpid=btws
+#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/内蒙古卫视.png" group-title="卫视",内蒙古卫视
+http://127.0.0.1/PLTV/?zgpid=nmgws
+#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/宁夏卫视.png" group-title="卫视",宁夏卫视
+http://127.0.0.1/PLTV/?zgpid=nxws
+#EXTINF:-1 tvg-name="农林卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/农林卫视.png" group-title="卫视",农林卫视
+http://127.0.0.1/PLTV/?zgpid=nlws
+#EXTINF:-1 tvg-name="三沙卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三沙卫视.png" group-title="卫视",三沙卫视
+http://127.0.0.1/PLTV/?zgpid=ssws
+#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/陕西卫视.png" group-title="卫视",陕西卫视
+http://127.0.0.1/PLTV/?zgpid=shanxws
+#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="卫视",四川卫视
+http://127.0.0.1/PLTV/?zgpid=scws
+#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/西藏卫视.png" group-title="卫视",西藏卫视
+http://127.0.0.1/PLTV/?zgpid=xzws
+#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/新疆卫视.png" group-title="卫视",新疆卫视
+http://127.0.0.1/PLTV/?zgpid=xjws
+#EXTINF:-1 tvg-name="延边卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/延边卫视.png" group-title="卫视",延边卫视
+http://127.0.0.1/PLTV/?zgpid=ybws
+#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/云南卫视.png" group-title="卫视",云南卫视
+http://127.0.0.1/PLTV/?zgpid=ynws
+#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重庆卫视.png" group-title="卫视",重庆卫视
+http://127.0.0.1/PLTV/?zgpid=cqws
+#EXTINF:-1 tvg-name="北京纪实科教" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京纪实.png" group-title="数字",北京纪实科教
+http://127.0.0.1/PLTV/?zgpid=bjadjs
+#EXTINF:-1 tvg-name="家庭理财" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/家庭理财.png" group-title="数字",家庭理财
+http://127.0.0.1/PLTV/?zgpid=jtlc
+#EXTINF:-1 tvg-name="金鹰卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/金鹰卡通.png" group-title="数字",金鹰卡通
+http://127.0.0.1/PLTV/?zgpid=jykt
+#EXTINF:-1 tvg-name="卡酷少儿" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卡酷动画.png" group-title="数字",卡酷少儿
+http://127.0.0.1/PLTV/?zgpid=kkse
+#EXTINF:-1 tvg-name="女性时尚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/女性时尚.png" group-title="数字",女性时尚
+http://127.0.0.1/PLTV/?zgpid=nxss
+#EXTINF:-1 tvg-name="天元围棋" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天元围棋.png" group-title="数字",天元围棋
+http://127.0.0.1/PLTV/?zgpid=tywq
+#EXTINF:-1 tvg-name="炫动卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/炫动卡通.png" group-title="数字",炫动卡通
+http://127.0.0.1/PLTV/?zgpid=xdkt
+#EXTINF:-1 tvg-name="优漫卡通" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/优漫卡通.png" group-title="数字",优漫卡通
+http://127.0.0.1/PLTV/?zgpid=ymkt
+#EXTINF:-1 tvg-name="CETV-1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1.png" group-title="数字",CETV-1
+http://127.0.0.1/PLTV/?zgpid=cetv1
+#EXTINF:-1 tvg-name="CETV-2" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/IPTVEFEL.png" group-title="数字",CETV-2
+http://127.0.0.1/PLTV/?zgpid=cetv2
+#EXTINF:-1 tvg-name="CETV-3" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/IPTVEFEL.png" group-title="数字",CETV-3
+http://127.0.0.1/PLTV/?zgpid=cetv3
+#EXTINF:-1 tvg-name="CETV-4" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/IPTVEFEL.png" group-title="数字",CETV-4
+http://127.0.0.1/PLTV/?zgpid=cetv4
