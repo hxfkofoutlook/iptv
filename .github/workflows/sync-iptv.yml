@@ -1,0 +1,67 @@
+name: Sync M3U to Root
+
+on:
+  schedule:
+    - cron: '0 * * * *'   # 每小时执行一次
+  workflow_dispatch:      # 手动触发
+
+permissions:
+  contents: write   # ⬅⬅⬅ 允许 Actions 推送到仓库
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout your repo
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Fetch .m3u/.m3u8 file list from source repo
+        run: |
+          curl -s https://api.github.com/repos/abusaeeidx/IPTV-Scraper-Zilla/contents \
+          | jq -r '.[] | select(.name | test("\\.(m3u8?)$")) | .download_url' > urls.txt
+          echo "Found playlist URLs:"
+          cat urls.txt
+
+      - name: Download .m3u/.m3u8 files to ROOT directory
+        run: |
+          while read -r url; do
+            [ -z "$url" ] && continue
+            filename=$(basename "$url")
+            echo "Downloading $filename"
+            curl -L -o "$filename" "$url"
+          done < urls.txt
+
+      # 🔽 新增：单独下载 sports.m3u 并重命名为 Nowsports.m3u
+      - name: Download sports.m3u as Nowsports.m3u
+        run: |
+          echo "Downloading sports.m3u -> Nowsports.m3u"
+          curl -L -o "Nowsports.m3u" "https://raw.githubusercontent.com/ediart/tvbox/refs/heads/main/TVBoxOSC/tvbox/sports.m3u"
+
+      # 🔽 新增：下载 StarHub.m3u
+      - name: Download StarHub.m3u
+        run: |
+          echo "Downloading StarHub.m3u"
+          curl -L -o "StarHub.m3u" "https://raw.githubusercontent.com/AbidUrsa/StarHubPlaylist/refs/heads/main/StarHub.m3u"
+
+      - name: Commit and Push if changed
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -e
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add *.m3u *.m3u8 2>/dev/null || true
+
+          if git diff --cached --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+
+          git commit -m "Update M3U playlists"
+
+          git remote set-url origin "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git"
+          git push origin HEAD:${GITHUB_REF#refs/heads/}
