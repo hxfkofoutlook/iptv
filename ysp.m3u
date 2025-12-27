@@ -9,7 +9,7 @@ http://127.0.0.1/PLTV/?yspid=CCTV4
 #EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视频道",CCTV5
 http://127.0.0.1/PLTV/?yspid=CCTV5
 #EXTINF:-1 tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央视频道",CCTV5+
-http://127.0.0.1/PLTV/?yspid=CCTV5+
+http://127.0.0.1/PLTV/?yspid=CCTV5p
 #EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央视频道",CCTV6
 http://127.0.0.1/PLTV/?yspid=CCTV6
 #EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央视频道",CCTV7
