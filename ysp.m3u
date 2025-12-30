@@ -33,7 +33,7 @@ http://127.0.0.1/PLTV/?yspid=CCTV15
 #EXTINF:-1 tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视频道",CCTV16
 http://127.0.0.1/PLTV/?yspid=CCTV16
 #EXTINF:-1 tvg-name="CCTV16 4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视频道",CCTV16 4K
-http://127.0.0.1/PLTV/?yspid=CCTV16(4K)
+http://127.0.0.1/PLTV/?yspid=CCTV16 4k
 #EXTINF:-1 tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视频道",CCTV17
 http://127.0.0.1/PLTV/?yspid=CCTV17
 #EXTINF:-1 tvg-name="CCTV4K" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4K.png" group-title="央视频道",CCTV4K
@@ -52,12 +52,6 @@ http://127.0.0.1/PLTV/?yspid=CGTN阿拉伯语
 http://127.0.0.1/PLTV/?yspid=CGTN西班牙语
 #EXTINF:-1 tvg-name="CGTN外语纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN纪录.png" group-title="央视频道",CGTN外语纪录
 http://127.0.0.1/PLTV/?yspid=CGTN外语纪录
-#EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一剧场.png" group-title="央视频道",CCTV第一剧场
-http://127.0.0.1/PLTV/?yspid=第一剧场
-#EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云剧场.png" group-title="央视频道",CCTV风云剧场
-http://127.0.0.1/PLTV/?yspid=风云剧场
-#EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
-http://127.0.0.1/PLTV/?yspid=怀旧剧场
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视频道",北京卫视
 http://127.0.0.1/PLTV/?yspid=北京卫视
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视频道",东方卫视
