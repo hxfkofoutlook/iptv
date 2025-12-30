@@ -53,11 +53,11 @@ http://127.0.0.1/PLTV/?yspid=CGTN西班牙语
 #EXTINF:-1 tvg-name="CGTN外语纪录" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN纪录.png" group-title="央视频道",CGTN外语纪录
 http://127.0.0.1/PLTV/?yspid=CGTN外语纪录
 #EXTINF:-1 tvg-name="CCTV第一剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/第一剧场.png" group-title="央视频道",CCTV第一剧场
-http://127.0.0.1/PLTV/?yspid=CCTV第一剧场
+http://127.0.0.1/PLTV/?yspid=第一剧场
 #EXTINF:-1 tvg-name="CCTV风云剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/风云剧场.png" group-title="央视频道",CCTV风云剧场
-http://127.0.0.1/PLTV/?yspid=CCTV风云剧场
+http://127.0.0.1/PLTV/?yspid=风云剧场
 #EXTINF:-1 tvg-name="CCTV怀旧剧场" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/怀旧剧场.png" group-title="央视频道",CCTV怀旧剧场
-http://127.0.0.1/PLTV/?yspid=CCTV怀旧剧场
+http://127.0.0.1/PLTV/?yspid=怀旧剧场
 #EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="卫视频道",北京卫视
 http://127.0.0.1/PLTV/?yspid=北京卫视
 #EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="卫视频道",东方卫视
@@ -126,5 +126,3 @@ http://127.0.0.1/PLTV/?yspid=西藏卫视
 http://127.0.0.1/PLTV/?yspid=兵团卫视
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1.png" group-title="卫视频道",CETV1
 http://127.0.0.1/PLTV/?yspid=cetv1
-#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/国学.png" group-title="卫视频道",国学频道
-http://127.0.0.1/PLTV/?yspid=国学
