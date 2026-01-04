@@ -1,999 +1,999 @@
 #EXTM3U x-tvg-url="https://epg.iill.top/epg.xml"
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="香港",香港|翡翠台
-http://127.0.0.1/smart.php?id=jade_twn
+http://127.0.0.1/smart.m3u8?id=jade_twn
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="香港",香港|翡翠台
-http://127.0.0.1/smart.php?id=Jade_xue
+http://127.0.0.1/smart.m3u8?id=Jade_xue
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/明珠.png" group-title="香港",香港|明珠台
-http://127.0.0.1/smart.php?id=pearl_twn
+http://127.0.0.1/smart.m3u8?id=pearl_twn
 #EXTINF:-1 tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="香港",香港|无线新闻
-http://127.0.0.1/smart.php?id=inews_twn
+http://127.0.0.1/smart.m3u8?id=inews_twn
 #EXTINF:-1 tvg-id="TVBPLUS" tvg-name="TVBPLUS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBPLUS.png" group-title="香港",香港|TVBPLUS
-http://127.0.0.1/smart.php?id=j2_twn
+http://127.0.0.1/smart.m3u8?id=j2_twn
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="VIUTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="香港",香港|ViuTV
-http://127.0.0.1/smart.php?id=viu1_twn
+http://127.0.0.1/smart.m3u8?id=viu1_twn
 #EXTINF:-1 tvg-id="ViuTV 6" tvg-name="VIUTV" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/viutv6.png" group-title="香港",香港|ViuTV 6
-http://127.0.0.1/smart.php?id=viusix_twn
+http://127.0.0.1/smart.m3u8?id=viusix_twn
 #EXTINF:-1 tvg-id="RTHK 31" tvg-name="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="香港",香港|RTHK 31
-http://127.0.0.1/smart.php?id=rhk31_twn
+http://127.0.0.1/smart.m3u8?id=rhk31_twn
 #EXTINF:-1 tvg-id="RTHK 32" tvg-name="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="香港",香港|RTHK 32
-http://127.0.0.1/smart.php?id=rhk32_twn
+http://127.0.0.1/smart.m3u8?id=rhk32_twn
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOYTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="香港",香港|HOY TV
-http://127.0.0.1/smart.php?id=hoycaijing_twn
+http://127.0.0.1/smart.m3u8?id=hoycaijing_twn
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="香港",香港|凤凰中文
-http://127.0.0.1/smart.php?id=phoenixtv_hd
+http://127.0.0.1/smart.m3u8?id=phoenixtv_hd
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="香港",香港|凤凰资讯
-http://127.0.0.1/smart.php?id=phoenixinfo_hd
+http://127.0.0.1/smart.m3u8?id=phoenixinfo_hd
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="香港",香港|凤凰香港
-http://127.0.0.1/smart.php?id=hkphoenix_twn
+http://127.0.0.1/smart.m3u8?id=hkphoenix_twn
 #EXTINF:-1 tvg-id="台视 HD" tvg-name="台视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视.png" group-title="台湾",台湾|台视 HD
-http://127.0.0.1/smart.php?id=ttv_taiwan
+http://127.0.0.1/smart.m3u8?id=ttv_taiwan
 #EXTINF:-1 tvg-id="台视新闻" tvg-name="台视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视新闻.png" group-title="台湾",台湾|台视新闻
-http://127.0.0.1/smart.php?id=ttvnews_twn
+http://127.0.0.1/smart.m3u8?id=ttvnews_twn
 #EXTINF:-1 tvg-id="台视综合" tvg-name="台视综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/台视综合.png" group-title="台湾",台湾|台视综合
-http://127.0.0.1/smart.php?id=ttvzhonghe
+http://127.0.0.1/smart.m3u8?id=ttvzhonghe
 #EXTINF:-1 tvg-id="中视 HD" tvg-name="中视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视.png" group-title="台湾",台湾|中视 HD
-http://127.0.0.1/smart.php?id=zhongshihd_twn
+http://127.0.0.1/smart.m3u8?id=zhongshihd_twn
 #EXTINF:-1 tvg-id="中视新闻" tvg-name="中视新闻" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视新闻.png" group-title="台湾",台湾|中视新闻
-http://127.0.0.1/smart.php?id=zhongshinews_twn
+http://127.0.0.1/smart.m3u8?id=zhongshinews_twn
 #EXTINF:-1 tvg-id="中视经典" tvg-name="中视经典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中视经典.png" group-title="台湾",台湾|中视经典
-http://127.0.0.1/smart.php?id=zhongshi_twn
+http://127.0.0.1/smart.m3u8?id=zhongshi_twn
 #EXTINF:-1 tvg-id="华视 HD" tvg-name="华视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华视.png" group-title="台湾",台湾|华视 HD
-http://127.0.0.1/smart.php?id=ctshd_twn
+http://127.0.0.1/smart.m3u8?id=ctshd_twn
 #EXTINF:-1 tvg-id="公视 HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/公视.png" group-title="台湾",台湾|公视 HD
-http://127.0.0.1/smart.php?id=ctv_taiwan
+http://127.0.0.1/smart.m3u8?id=ctv_taiwan
 #EXTINF:-1 tvg-id="公视台语台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/公视台语.png" group-title="台湾",台湾|公视台语台
-http://127.0.0.1/smart.php?id=ctv2_twn
+http://127.0.0.1/smart.m3u8?id=ctv2_twn
 #EXTINF:-1 tvg-id="三立台湾台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立台湾.png" group-title="台湾",台湾|三立台湾台
-http://127.0.0.1/smart.php?id=sanlitaiwan
+http://127.0.0.1/smart.m3u8?id=sanlitaiwan
 #EXTINF:-1 tvg-id="三立都会台" tvg-name="三立都会台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立都会.png" group-title="台湾",台湾|三立都会台
-http://127.0.0.1/smart.php?id=sanlidouhui
+http://127.0.0.1/smart.m3u8?id=sanlidouhui
 #EXTINF:-1 tvg-id="三立综合台" tvg-name="三立综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立综合.png" group-title="台湾",台湾|三立综合台
-http://127.0.0.1/smart.php?id=sanlizhonghe
+http://127.0.0.1/smart.m3u8?id=sanlizhonghe
 #EXTINF:-1 tvg-id="三立戏剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/三立戏剧.png" group-title="台湾",台湾|三立戏剧台
-http://127.0.0.1/smart.php?id=sanlixiju_twn
+http://127.0.0.1/smart.m3u8?id=sanlixiju_twn
 #EXTINF:-1 tvg-id="东森新闻台" tvg-name="东森新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森新闻.png" group-title="台湾",台湾|东森新闻台
-http://127.0.0.1/smart.php?id=ettvnews
+http://127.0.0.1/smart.m3u8?id=ettvnews
 #EXTINF:-1 tvg-id="东森财经新闻台" tvg-name="东森财经新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森财经新闻.png" group-title="台湾",台湾|东森财经新闻台
-http://127.0.0.1/smart.php?id=ettvcaijing_twn
+http://127.0.0.1/smart.m3u8?id=ettvcaijing_twn
 #EXTINF:-1 tvg-id="东森综合台" tvg-name="东森综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森综合.png" group-title="台湾",台湾|东森综合台
-http://127.0.0.1/smart.php?id=ettvzhonghe
+http://127.0.0.1/smart.m3u8?id=ettvzhonghe
 #EXTINF:-1 tvg-id="东森戏剧台" tvg-name="东森戏剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森戏剧.png" group-title="台湾",台湾|东森戏剧台
-http://127.0.0.1/smart.php?id=ettvdrama
+http://127.0.0.1/smart.m3u8?id=ettvdrama
 #EXTINF:-1 tvg-id="东森电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森电影.png" group-title="台湾",台湾|东森电影台
-http://127.0.0.1/smart.php?id=ettvmovie
+http://127.0.0.1/smart.m3u8?id=ettvmovie
 #EXTINF:-1 tvg-id="东森洋片台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森洋片.png" group-title="台湾",台湾|东森洋片台
-http://127.0.0.1/smart.php?id=ettvwestern
+http://127.0.0.1/smart.m3u8?id=ettvwestern
 #EXTINF:-1 tvg-id="东森幼幼台" tvg-name="东森幼幼台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森幼幼.png" group-title="台湾",台湾|东森幼幼台
-http://127.0.0.1/smart.php?id=yoyo_twn
+http://127.0.0.1/smart.m3u8?id=yoyo_twn
 #EXTINF:-1 tvg-id="东森超视" tvg-name="东森超视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森超视.png" group-title="台湾",台湾|东森超视
-http://127.0.0.1/smart.php?id=ettvsuper
+http://127.0.0.1/smart.m3u8?id=ettvsuper
 #EXTINF:-1 tvg-id="TVBS HD" tvg-name="TVBS" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS.png" group-title="台湾",台湾|TVBS HD
-http://127.0.0.1/smart.php?id=tvbs
+http://127.0.0.1/smart.m3u8?id=tvbs
 #EXTINF:-1 tvg-id="TVBS 新闻台" tvg-name="TVBS新闻台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS1.png" group-title="台湾",台湾|TVBS 新闻台
-http://127.0.0.1/smart.php?id=tvbs_n
+http://127.0.0.1/smart.m3u8?id=tvbs_n
 #EXTINF:-1 tvg-id="TVBS 欢乐台" tvg-name="TVBS欢乐台" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVBS2.png" group-title="台湾",台湾|TVBS 欢乐台
-http://127.0.0.1/smart.php?id=tvbshuanle_twn
+http://127.0.0.1/smart.m3u8?id=tvbshuanle_twn
 #EXTINF:-1 tvg-id="民视 HD" tvg-name="民视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视.png" group-title="台湾",台湾|民视 HD
-http://127.0.0.1/smart.php?id=ftvhd_taiwan
+http://127.0.0.1/smart.m3u8?id=ftvhd_taiwan
 #EXTINF:-1 tvg-id="民视新闻台" tvg-name="民视新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视新闻.png" group-title="台湾",台湾|民视新闻台
-http://127.0.0.1/smart.php?id=ftvnew_taiwan
+http://127.0.0.1/smart.m3u8?id=ftvnew_taiwan
 #EXTINF:-1 tvg-id="民视台湾台" tvg-name="民视台湾台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/民视台湾.png" group-title="台湾",台湾|民视台湾台
-http://127.0.0.1/smart.php?id=ftvtaiwan_twn
+http://127.0.0.1/smart.m3u8?id=ftvtaiwan_twn
 #EXTINF:-1 tvg-id="中天综合" tvg-name="中天综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天综合.png" group-title="台湾",台湾|中天综合
-http://127.0.0.1/smart.php?id=ctizhonghe
+http://127.0.0.1/smart.m3u8?id=ctizhonghe
 #EXTINF:-1 tvg-id="中天娱乐" tvg-name="中天娱乐台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天娱乐.png" group-title="台湾",台湾|中天娱乐
-http://127.0.0.1/smart.php?id=ctient
+http://127.0.0.1/smart.m3u8?id=ctient
 #EXTINF:-1 tvg-id="中天亚洲" tvg-name="中天亚洲台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天亚洲.png" group-title="台湾",台湾|中天亚洲
-http://127.0.0.1/smart.php?id=ctiasia_twn
+http://127.0.0.1/smart.m3u8?id=ctiasia_twn
 #EXTINF:-1 tvg-id="中天新闻" tvg-name="中天新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/中天新闻.png" group-title="台湾",台湾|中天新闻
-http://127.0.0.1/smart.php?id=ctinews
+http://127.0.0.1/smart.m3u8?id=ctinews
 #EXTINF:-1 tvg-id="寰宇新闻台" tvg-name="寰宇新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/寰宇新闻台湾.png" group-title="台湾",台湾|寰宇新闻台
-http://127.0.0.1/smart.php?id=huanyuxinwen_twn
+http://127.0.0.1/smart.m3u8?id=huanyuxinwen_twn
 #EXTINF:-1 tvg-id="寰宇财经台" tvg-name="寰宇财经台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/寰宇财经.png" group-title="台湾",台湾|寰宇财经台
-http://127.0.0.1/smart.php?id=huanyutaiwan_twn
+http://127.0.0.1/smart.m3u8?id=huanyutaiwan_twn
 #EXTINF:-1 tvg-id="八大第一台" tvg-name="八大第一台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大第一.png" group-title="台湾",台湾|八大第一台
-http://127.0.0.1/smart.php?id=badafirst
+http://127.0.0.1/smart.m3u8?id=badafirst
 #EXTINF:-1 tvg-id="八大综合台" tvg-name="八大综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大综合.png" group-title="台湾",台湾|八大综合台
-http://127.0.0.1/smart.php?id=badazhonghe
+http://127.0.0.1/smart.m3u8?id=badazhonghe
 #EXTINF:-1 tvg-id="八大戏剧台" tvg-name="八大戏剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大戏剧.png" group-title="台湾",台湾|八大戏剧台
-http://127.0.0.1/smart.php?id=badadrama
+http://127.0.0.1/smart.m3u8?id=badadrama
 #EXTINF:-1 tvg-id="八大娱乐台" tvg-name="八大娱乐台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/八大娱乐.png" group-title="台湾",台湾|八大娱乐台
-http://127.0.0.1/smart.php?id=badaentertain
+http://127.0.0.1/smart.m3u8?id=badaentertain
 #EXTINF:-1 tvg-id="纬来体育" tvg-name="纬来体育台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来体育.png" group-title="台湾",台湾|纬来体育
-http://127.0.0.1/smart.php?id=videolandsport
+http://127.0.0.1/smart.m3u8?id=videolandsport
 #EXTINF:-1 tvg-id="纬来精彩" tvg-name="纬来精彩台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来精彩.png" group-title="台湾",台湾|纬来精彩
-http://127.0.0.1/smart.php?id=videolandspecial_twn
+http://127.0.0.1/smart.m3u8?id=videolandspecial_twn
 #EXTINF:-1 tvg-id="纬来日本" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来日本.png" group-title="台湾",台湾|纬来日本
-http://127.0.0.1/smart.php?id=videolandjapan
+http://127.0.0.1/smart.m3u8?id=videolandjapan
 #EXTINF:-1 tvg-id="纬来电影" tvg-name="纬来电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来电影.png" group-title="台湾",台湾|纬来电影
-http://127.0.0.1/smart.php?id=videolandmovie
+http://127.0.0.1/smart.m3u8?id=videolandmovie
 #EXTINF:-1 tvg-id="纬来综合" tvg-name="纬来综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来综合.png" group-title="台湾",台湾|纬来综合
-http://127.0.0.1/smart.php?id=videolandzonghe
+http://127.0.0.1/smart.m3u8?id=videolandzonghe
 #EXTINF:-1 tvg-id="纬来育乐" tvg-name="纬来育乐台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/纬来育乐.png" group-title="台湾",台湾|纬来育乐
-http://127.0.0.1/smart.php?id=videolandyule
+http://127.0.0.1/smart.m3u8?id=videolandyule
 #EXTINF:-1 tvg-id="爱尔达综合台" tvg-name="爱尔达综合台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达综合.png" group-title="台湾",台湾|爱尔达综合台
-http://127.0.0.1/smart.php?id=eltazonghe_twn
+http://127.0.0.1/smart.m3u8?id=eltazonghe_twn
 #EXTINF:-1 tvg-id="爱尔达影剧台" tvg-name="爱尔达影剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达影剧.png" group-title="台湾",台湾|爱尔达影剧台
-http://127.0.0.1/smart.php?id=eltayingju_twn
+http://127.0.0.1/smart.m3u8?id=eltayingju_twn
 #EXTINF:-1 tvg-id="爱尔达体育1台" tvg-name="爱尔达体育1台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达体育1.png" group-title="台湾",台湾|爱尔达体育1台
-http://127.0.0.1/smart.php?id=eltasport_twn
+http://127.0.0.1/smart.m3u8?id=eltasport_twn
 #EXTINF:-1 tvg-id="爱尔达体育2台" tvg-name="爱尔达体育2台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达体育2.png" group-title="台湾",台湾|爱尔达体育2台
-http://127.0.0.1/smart.php?id=eltasport2_twn
+http://127.0.0.1/smart.m3u8?id=eltasport2_twn
 #EXTINF:-1 tvg-id="爱尔达体育3台" tvg-name="爱尔达体育3台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达体育3.png" group-title="台湾",台湾|爱尔达体育3台
-http://127.0.0.1/smart.php?id=eltasport3_twn
+http://127.0.0.1/smart.m3u8?id=eltasport3_twn
 #EXTINF:-1 tvg-id="非凡新闻" tvg-name="非凡新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/非凡新闻.png" group-title="台湾",台湾|非凡新闻
-http://127.0.0.1/smart.php?id=feifannews_twn
+http://127.0.0.1/smart.m3u8?id=feifannews_twn
 #EXTINF:-1 tvg-id="年代新闻" tvg-name="年代新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/年代新闻.png" group-title="台湾",台湾|年代新闻
-http://127.0.0.1/smart.php?id=niandainews_twn
+http://127.0.0.1/smart.m3u8?id=niandainews_twn
 #EXTINF:-1 tvg-id="龙华戏剧" tvg-name="龙华戏剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华戏剧.png" group-title="台湾",台湾|龙华戏剧
-http://127.0.0.1/smart.php?id=lunghuaxiju_twn
+http://127.0.0.1/smart.m3u8?id=lunghuaxiju_twn
 #EXTINF:-1 tvg-id="龙华偶像" tvg-name="龙华偶像" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华偶像.png" group-title="台湾",台湾|龙华偶像
-http://127.0.0.1/smart.php?id=lunghuaidol_twn
+http://127.0.0.1/smart.m3u8?id=lunghuaidol_twn
 #EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华电影.png" group-title="台湾",台湾|龙华电影
-http://127.0.0.1/smart.php?id=xingwei_movie
+http://127.0.0.1/smart.m3u8?id=xingwei_movie
 #EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华洋片.png" group-title="台湾",台湾|龙华洋片
-http://127.0.0.1/smart.php?id=lunghuawestern_twn
+http://127.0.0.1/smart.m3u8?id=lunghuawestern_twn
 #EXTINF:-1 tvg-id="龙华经典" tvg-name="龙华经典HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华经典.png" group-title="台湾",台湾|龙华经典
-http://127.0.0.1/smart.php?id=lunghuajingdian_twn
+http://127.0.0.1/smart.m3u8?id=lunghuajingdian_twn
 #EXTINF:-1 tvg-id="靖天国际" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天国际.png" group-title="台湾",台湾|靖天国际
-http://127.0.0.1/smart.php?id=jingtianintl_twn
+http://127.0.0.1/smart.m3u8?id=jingtianintl_twn
 #EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天卡通.png" group-title="台湾",台湾|靖天卡通
-http://127.0.0.1/smart.php?id=jingtiancartoon_twn
+http://127.0.0.1/smart.m3u8?id=jingtiancartoon_twn
 #EXTINF:-1 tvg-id="大愛電視" tvg-name="大爱电视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大爱电视.png" group-title="台湾",台湾|大愛電視
-http://127.0.0.1/smart.php?id=daai_twn
+http://127.0.0.1/smart.m3u8?id=daai_twn
 #EXTINF:-1 tvg-id="大愛二台" tvg-name="大爱二台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大爱二.png" group-title="台湾",台湾|大愛二台
-http://127.0.0.1/smart.php?id=daai2_twn
+http://127.0.0.1/smart.m3u8?id=daai2_twn
 #EXTINF:-1 tvg-id="EYE 旅游台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/EYE旅游.png" group-title="台湾",台湾|EYE 旅游台
-http://127.0.0.1/smart.php?id=eyetvtravel_twn
+http://127.0.0.1/smart.m3u8?id=eyetvtravel_twn
 #EXTINF:-1 tvg-id="EYE 戏剧台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/EYE戏剧.png" group-title="台湾",台湾|EYE 戏剧台
-http://127.0.0.1/smart.php?id=eyetvxiju_twn
+http://127.0.0.1/smart.m3u8?id=eyetvxiju_twn
 #EXTINF:-1 tvg-id="亚洲美食" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/亚洲美食.png" group-title="台湾",台湾|亚洲美食
-http://127.0.0.1/smart.php?id=afc_twn
+http://127.0.0.1/smart.m3u8?id=afc_twn
 #EXTINF:-1 tvg-id="美食星球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美食星球.png" group-title="台湾",台湾|美食星球
-http://127.0.0.1/smart.php?id=foodplanet_twn
+http://127.0.0.1/smart.m3u8?id=foodplanet_twn
 #EXTINF:-1 tvg-id="TLC旅遊生活" tvg-name="TLC旅游生活频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TLC旅游生活.png" group-title="台湾",台湾|TLC旅遊生活
-http://127.0.0.1/smart.php?id=tlc_twn
+http://127.0.0.1/smart.m3u8?id=tlc_twn
 #EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/亚洲旅游.png" group-title="台湾",台湾|亚洲旅游台
-http://127.0.0.1/smart.php?id=asiatravel_twn
+http://127.0.0.1/smart.m3u8?id=asiatravel_twn
 #EXTINF:-1 tvg-id="Arirang" tvg-name="ARIRANG阿里郎频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ARIRANG.png" group-title="台湾",台湾|Arirang
-http://127.0.0.1/smart.php?id=arirang_twn
+http://127.0.0.1/smart.m3u8?id=arirang_twn
 #EXTINF:-1 tvg-id="AXN Taiwan" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="台湾",台湾|AXN Taiwan
-http://127.0.0.1/smart.php?id=axn_twn
+http://127.0.0.1/smart.m3u8?id=axn_twn
 #EXTINF:-1 tvg-id="MTV Live" tvg-name="MTVLIVE" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MTVLIVE.png" group-title="台湾",台湾|MTV Live
-http://127.0.0.1/smart.php?id=mtvhd_twn
+http://127.0.0.1/smart.m3u8?id=mtvhd_twn
 #EXTINF:-1 tvg-id="HBO_HD" tvg-name="HBO" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO.png" group-title="台湾",台湾|HBO_HD
-http://127.0.0.1/smart.php?id=hbohd_twn
+http://127.0.0.1/smart.m3u8?id=hbohd_twn
 #EXTINF:-1 tvg-id="HBO_HITS" tvg-name="HITS" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/513_wbg_c_9ba19450bd.png" group-title="台湾",台湾|HBO_HITS
-http://127.0.0.1/smart.php?id=hbohit_twn
+http://127.0.0.1/smart.m3u8?id=hbohit_twn
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/113_wbg_c_7976cb8257.png" group-title="台湾",台湾|CINEMAX
-http://127.0.0.1/smart.php?id=cinemax_twn
+http://127.0.0.1/smart.m3u8?id=cinemax_twn
 #EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好莱坞电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/好莱坞电影.png" group-title="台湾",台湾|好萊塢電影台
-http://127.0.0.1/smart.php?id=hollywoodmovies_twn
+http://127.0.0.1/smart.m3u8?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-id="卫视电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卫视电影.png" group-title="台湾",台湾|卫视电影台
-http://127.0.0.1/smart.php?id=weishimovie_twn
+http://127.0.0.1/smart.m3u8?id=weishimovie_twn
 #EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙祥时代.png" group-title="台湾",台湾|龙祥时代
-http://127.0.0.1/smart.php?id=lungxiangtime_twn
+http://127.0.0.1/smart.m3u8?id=lungxiangtime_twn
 #EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="台湾",台湾|美亚电影
-http://127.0.0.1/smart.php?id=meiyamovie_twn
+http://127.0.0.1/smart.m3u8?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="華藝綜合" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/华艺综合.png" group-title="台湾",台湾|華藝綜合
-http://127.0.0.1/smart.php?id=weishichinese_twn
+http://127.0.0.1/smart.m3u8?id=weishichinese_twn
 #EXTINF:-1 tvg-id="博斯运动一台" tvg-name="博斯运动一台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯运动一.png" group-title="台湾",台湾|博斯运动一台
-http://127.0.0.1/smart.php?id=bosisport1_twn
+http://127.0.0.1/smart.m3u8?id=bosisport1_twn
 #EXTINF:-1 tvg-id="博斯运动二台" tvg-name="博斯运动二台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯运动二.png" group-title="台湾",台湾|博斯运动二台
-http://127.0.0.1/smart.php?id=bosisport2_twn
+http://127.0.0.1/smart.m3u8?id=bosisport2_twn
 #EXTINF:-1 tvg-id="博斯高球一台" tvg-name="博斯高球一台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯高球.png" group-title="台湾",台湾|博斯高球一台
-http://127.0.0.1/smart.php?id=bosigolf1_twn
+http://127.0.0.1/smart.m3u8?id=bosigolf1_twn
 #EXTINF:-1 tvg-id="博斯高球二台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯高球二.png" group-title="台湾",台湾|博斯高球二台
-http://127.0.0.1/smart.php?id=bosigolf2_twn
+http://127.0.0.1/smart.m3u8?id=bosigolf2_twn
 #EXTINF:-1 tvg-id="博斯网球台" tvg-name="博斯网球台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯网球.png" group-title="台湾",台湾|博斯网球台
-http://127.0.0.1/smart.php?id=bositennis_twn
+http://127.0.0.1/smart.m3u8?id=bositennis_twn
 #EXTINF:-1 tvg-id="博斯无限台" tvg-name="博斯无限台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/博斯无限.png" group-title="台湾",台湾|博斯无限台
-http://127.0.0.1/smart.php?id=bosiunlimited_twn
+http://127.0.0.1/smart.m3u8?id=bosiunlimited_twn
 #EXTINF:-1 tvg-id="好消息 2" tvg-name="好消息2台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/好消息2.png" group-title="台湾",台湾|好消息 2
-http://127.0.0.1/smart.php?id=good2_twn
+http://127.0.0.1/smart.m3u8?id=good2_twn
 #EXTINF:-1 tvg-id="CCTV-1 综合" tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="央视",央卫|CCTV-1 综合
-http://127.0.0.1/smart.php?id=cctv1
+http://127.0.0.1/smart.m3u8?id=cctv1
 #EXTINF:-1 tvg-id="CCTV-2 财经" tvg-name="CCTV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV2.png" group-title="央视",央卫|CCTV-2 财经
-http://127.0.0.1/smart.php?id=cctv2
+http://127.0.0.1/smart.m3u8?id=cctv2
 #EXTINF:-1 tvg-id="CCTV-3 综艺" tvg-name="CCTV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV3.png" group-title="央视",央卫|CCTV-3 综艺
-http://127.0.0.1/smart.php?id=cctv3
+http://127.0.0.1/smart.m3u8?id=cctv3
 #EXTINF:-1 tvg-id="CCTV-4 中文国际" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视",央卫|CCTV-4 中文国际
-http://127.0.0.1/smart.php?id=Cctv4
+http://127.0.0.1/smart.m3u8?id=Cctv4
 #EXTINF:-1 tvg-id="CCTV-4 中文国际" tvg-name="CCTV4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV4.png" group-title="央视",央卫|CCTV-4 中文国际
-http://127.0.0.1/smart.php?id=cctv4
+http://127.0.0.1/smart.m3u8?id=cctv4
 #EXTINF:-1 tvg-id="CCTV-5 体育" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="央视",央卫|CCTV-5 体育
-http://127.0.0.1/smart.php?id=cctv5
+http://127.0.0.1/smart.m3u8?id=cctv5
 #EXTINF:-1 tvg-id="CCTV-6 电影" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="央视",央卫|CCTV-6 电影
-http://127.0.0.1/smart.php?id=cctv6
+http://127.0.0.1/smart.m3u8?id=cctv6
 #EXTINF:-1 tvg-id="CCTV-7 国防军事" tvg-name="CCTV7" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV7.png" group-title="央视",央卫|CCTV-7 国防军事
-http://127.0.0.1/smart.php?id=cctv7
+http://127.0.0.1/smart.m3u8?id=cctv7
 #EXTINF:-1 tvg-id="CCTV-8 电视剧" tvg-name="CCTV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="央视",央卫|CCTV-8 电视剧
-http://127.0.0.1/smart.php?id=cctv8hd
+http://127.0.0.1/smart.m3u8?id=cctv8hd
 #EXTINF:-1 tvg-id="CCTV-9 记录" tvg-name="CCTV9" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV9.png" group-title="央视",央卫|CCTV-9 记录
-http://127.0.0.1/smart.php?id=cctv9hd
+http://127.0.0.1/smart.m3u8?id=cctv9hd
 #EXTINF:-1 tvg-id="CCTV-10 科教" tvg-name="CCTV10" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV10.png" group-title="央视",央卫|CCTV-10 科教
-http://127.0.0.1/smart.php?id=cctv10hd
+http://127.0.0.1/smart.m3u8?id=cctv10hd
 #EXTINF:-1 tvg-id="CCTV-11 戏曲" tvg-name="CCTV11" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV11.png" group-title="央视",央卫|CCTV-11 戏曲
-http://127.0.0.1/smart.php?id=cctv11
+http://127.0.0.1/smart.m3u8?id=cctv11
 #EXTINF:-1 tvg-id="CCTV-12 社会与法" tvg-name="CCTV12" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV12.png" group-title="央视",央卫|CCTV-12 社会与法
-http://127.0.0.1/smart.php?id=cctv12
+http://127.0.0.1/smart.m3u8?id=cctv12
 #EXTINF:-1 tvg-id="CCTV-13 新闻" tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="央视",央卫|CCTV-13 新闻
-http://127.0.0.1/smart.php?id=cctv13
+http://127.0.0.1/smart.m3u8?id=cctv13
 #EXTINF:-1 tvg-id="CCTV-14 少儿" tvg-name="CCTV14" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV14.png" group-title="央视",央卫|CCTV-14 少儿
-http://127.0.0.1/smart.php?id=cctv14
+http://127.0.0.1/smart.m3u8?id=cctv14
 #EXTINF:-1 tvg-id="CCTV-15 音乐" tvg-name="CCTV15" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV15.png" group-title="央视",央卫|CCTV-15 音乐
-http://127.0.0.1/smart.php?id=cctv15
+http://127.0.0.1/smart.m3u8?id=cctv15
 #EXTINF:-1 tvg-id="CCTV-16 奥林匹克" tvg-name="CCTV16" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV16.png" group-title="央视",央卫|CCTV-16 奥林匹克
-http://127.0.0.1/smart.php?id=cctv16
+http://127.0.0.1/smart.m3u8?id=cctv16
 #EXTINF:-1 tvg-id="CCTV-17 农业农村" tvg-name="CCTV17" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV17.png" group-title="央视",央卫|CCTV-17 农业农村
-http://127.0.0.1/smart.php?id=cctv17
+http://127.0.0.1/smart.m3u8?id=cctv17
 #EXTINF:-1 tvg-id="CCTV-5+ 体育赛事" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="央视",央卫|CCTV-5+ 体育赛事
-http://127.0.0.1/smart.php?id=cctv5plus
+http://127.0.0.1/smart.m3u8?id=cctv5plus
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖南卫视.png" group-title="央视",央卫|湖南卫视
-http://127.0.0.1/smart.php?id=hunan_twn
+http://127.0.0.1/smart.m3u8?id=hunan_twn
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/浙江卫视.png" group-title="央视",央卫|浙江卫视
-http://127.0.0.1/smart.php?id=zhejiang_twn
+http://127.0.0.1/smart.m3u8?id=zhejiang_twn
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/江苏卫视.png" group-title="央视",央卫|江苏卫视
-http://127.0.0.1/smart.php?id=jiangsu_twn
+http://127.0.0.1/smart.m3u8?id=jiangsu_twn
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东方卫视.png" group-title="央视",央卫|东方卫视
-http://127.0.0.1/smart.php?id=dongfangweishi_twn
+http://127.0.0.1/smart.m3u8?id=dongfangweishi_twn
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/北京卫视.png" group-title="央视",央卫|北京卫视
-http://127.0.0.1/smart.php?id=beijing
+http://127.0.0.1/smart.m3u8?id=beijing
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/深圳卫视.png" group-title="央视",央卫|深圳卫视
-http://127.0.0.1/smart.php?id=shenzhen
+http://127.0.0.1/smart.m3u8?id=shenzhen
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东卫视.png" group-title="央视",央卫|广东卫视
-http://127.0.0.1/smart.php?id=guangdongweishi_twn
+http://127.0.0.1/smart.m3u8?id=guangdongweishi_twn
 #EXTINF:-1 tvg-id="大湾区卫视" tvg-name="大湾区卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/大湾区卫视.png" group-title="央视",央卫|大湾区卫视
-http://127.0.0.1/smart.php?id=nanfang_twn
+http://127.0.0.1/smart.m3u8?id=nanfang_twn
 #EXTINF:-1 tvg-id="珠江台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/珠江.png" group-title="央视",央卫|珠江台
-http://127.0.0.1/smart.php?id=zhujiang
+http://127.0.0.1/smart.m3u8?id=zhujiang
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东南卫视.png" group-title="央视",央卫|东南卫视
-http://127.0.0.1/smart.php?id=fujian
+http://127.0.0.1/smart.m3u8?id=fujian
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广西卫视.png" group-title="央视",央卫|广西卫视
-http://127.0.0.1/smart.php?id=guangxi
+http://127.0.0.1/smart.m3u8?id=guangxi
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/湖北卫视.png" group-title="央视",央卫|湖北卫视
-http://127.0.0.1/smart.php?id=hubei
+http://127.0.0.1/smart.m3u8?id=hubei
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/四川卫视.png" group-title="央视",央卫|四川卫视
-http://127.0.0.1/smart.php?id=sichuan_twn
+http://127.0.0.1/smart.m3u8?id=sichuan_twn
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="央视",央卫|CGTN
-http://127.0.0.1/smart.php?id=CGTN
+http://127.0.0.1/smart.m3u8?id=CGTN
 #EXTINF:-1 tvg-id="CCTV-6" tvg-name="CCTV6" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV6.png" group-title="电影",电影|CCTV-6
-http://127.0.0.1/smart.php?id=cctv6
+http://127.0.0.1/smart.m3u8?id=cctv6
 #EXTINF:-1 tvg-id="AXN Taiwan" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="电影",电影|AXN Taiwan
-http://127.0.0.1/smart.php?id=axn_twn
+http://127.0.0.1/smart.m3u8?id=axn_twn
 #EXTINF:-1 tvg-id="HBO_HD" tvg-name="HBO" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO.png" group-title="电影",电影|HBO_HD
-http://127.0.0.1/smart.php?id=hbohd_twn
+http://127.0.0.1/smart.m3u8?id=hbohd_twn
 #EXTINF:-1 tvg-id="HBO_HITS" tvg-name="HITS" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/513_wbg_c_9ba19450bd.png" group-title="电影",电影|HBO_HITS
-http://127.0.0.1/smart.php?id=hbohit_twn
+http://127.0.0.1/smart.m3u8?id=hbohit_twn
 #EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/113_wbg_c_7976cb8257.png" group-title="电影",电影|CINEMAX
-http://127.0.0.1/smart.php?id=cinemax_twn
+http://127.0.0.1/smart.m3u8?id=cinemax_twn
 #EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好莱坞电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/好莱坞电影.png" group-title="电影",电影|好萊塢電影台
-http://127.0.0.1/smart.php?id=hollywoodmovies_twn
+http://127.0.0.1/smart.m3u8?id=hollywoodmovies_twn
 #EXTINF:-1 tvg-id="东森电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森电影.png" group-title="电影",电影|东森电影
-http://127.0.0.1/smart.php?id=ettvmovie
+http://127.0.0.1/smart.m3u8?id=ettvmovie
 #EXTINF:-1 tvg-id="东森洋片" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森洋片.png" group-title="电影",电影|东森洋片
-http://127.0.0.1/smart.php?id=ettvwestern
+http://127.0.0.1/smart.m3u8?id=ettvwestern
 #EXTINF:-1 tvg-id="龙华电影" tvg-name="龙华电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华电影.png" group-title="电影",电影|龙华电影
-http://127.0.0.1/smart.php?id=xingwei_movie
+http://127.0.0.1/smart.m3u8?id=xingwei_movie
 #EXTINF:-1 tvg-id="龙华洋片" tvg-name="龙华洋片HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华洋片.png" group-title="电影",电影|龙华洋片
-http://127.0.0.1/smart.php?id=lunghuawestern_twn
+http://127.0.0.1/smart.m3u8?id=lunghuawestern_twn
 #EXTINF:-1 tvg-id="龙祥时代" tvg-name="龙祥时代" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙祥时代.png" group-title="电影",电影|龙祥时代
-http://127.0.0.1/smart.php?id=lungxiangtime_twn
+http://127.0.0.1/smart.m3u8?id=lungxiangtime_twn
 #EXTINF:-1 tvg-id="美亚电影" tvg-name="美亚电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影.png" group-title="电影",电影|美亚电影
-http://127.0.0.1/smart.php?id=meiyamovie_twn
+http://127.0.0.1/smart.m3u8?id=meiyamovie_twn
 #EXTINF:-1 tvg-id="卫视电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/卫视电影.png" group-title="电影",电影|卫视电影台
-http://127.0.0.1/smart.php?id=weishimovie_twn
+http://127.0.0.1/smart.m3u8?id=weishimovie_twn
 #EXTINF:-1 tvg-id="天映频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="电影",电影|天映频道
-http://127.0.0.1/smart.php?id=Celestial
+http://127.0.0.1/smart.m3u8?id=Celestial
 #EXTINF:-1 tvg-id="天映频道" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="电影",电影|天映频道
-http://127.0.0.1/smart.php?id=Celestialindo
+http://127.0.0.1/smart.m3u8?id=Celestialindo
 #EXTINF:-1 tvg-id="天映经典" tvg-name="天映经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="电影",电影|天映经典
-http://127.0.0.1/smart.php?id=Celestial2
+http://127.0.0.1/smart.m3u8?id=Celestial2
 #EXTINF:-1 tvg-id="Animax" tvg-name="ANIMAX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ANIMAX.png" group-title="电影",电影|Animax
-http://127.0.0.1/smart.php?id=Animax
+http://127.0.0.1/smart.m3u8?id=Animax
 #EXTINF:-1 tvg-id="Movies Now HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MOVIE.png" group-title="电影",电影|Movies Now HD
-http://127.0.0.1/smart.php?id=moviesnow_raj
+http://127.0.0.1/smart.m3u8?id=moviesnow_raj
 #EXTINF:-1 tvg-id="Star Movies HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/STARMOVIESHD.png" group-title="电影",电影|Star Movies HD
-http://127.0.0.1/smart.php?id=starmovies_raj
+http://127.0.0.1/smart.m3u8?id=starmovies_raj
 #EXTINF:-1 tvg-id="Hits" tvg-name="HITS" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/513_wbg_c_9ba19450bd.png" group-title="电影",电影|Hits
-http://127.0.0.1/smart.php?id=Hits
+http://127.0.0.1/smart.m3u8?id=Hits
 #EXTINF:-1 tvg-id="Warner TV" tvg-name="WARNERTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/WARNERTV.png" group-title="电影",电影|Warner TV
-http://127.0.0.1/smart.php?id=WarnerTV
+http://127.0.0.1/smart.m3u8?id=WarnerTV
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBOHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBOHD.png" group-title="电影",电影|HBO HD
-http://127.0.0.1/smart.php?id=Hbo
+http://127.0.0.1/smart.m3u8?id=Hbo
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBOSIGNATURE(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBOSIGNATURE.png" group-title="电影",电影|HBO Signature
-http://127.0.0.1/smart.php?id=Hbosignature
+http://127.0.0.1/smart.m3u8?id=Hbosignature
 #EXTINF:-1 tvg-id="HBO Family" tvg-name="HBOFAMILY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBO温馨家庭.png" group-title="电影",电影|HBO Family
-http://127.0.0.1/smart.php?id=Hbofamily
+http://127.0.0.1/smart.m3u8?id=Hbofamily
 #EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBOHITS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBOHITS.png" group-title="电影",电影|HBO Hits
-http://127.0.0.1/smart.php?id=Hbohitshd
+http://127.0.0.1/smart.m3u8?id=Hbohitshd
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/113_wbg_c_7976cb8257.png" group-title="电影",电影|Cinemax
-http://127.0.0.1/smart.php?id=Cinemax
+http://127.0.0.1/smart.m3u8?id=Cinemax
 #EXTINF:-1 tvg-id="Dreamworks" tvg-name="DREAMWORKS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DREAMWORKS.png" group-title="电影",电影|Dreamworks
-http://127.0.0.1/smart.php?id=Dreamworks
+http://127.0.0.1/smart.m3u8?id=Dreamworks
 #EXTINF:-1 tvg-id="SCM" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="电影",电影|SCM
-http://127.0.0.1/smart.php?id=Weishimovie
+http://127.0.0.1/smart.m3u8?id=Weishimovie
 #EXTINF:-1 tvg-id="Thrill" tvg-name="THRILL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/THRILL.png" group-title="电影",电影|Thrill
-http://127.0.0.1/smart.php?id=Thrill
+http://127.0.0.1/smart.m3u8?id=Thrill
 #EXTINF:-1 tvg-id="Hits Movie" tvg-name="HITSMOVIES(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MOVIE.png" group-title="电影",电影|Hits Movie
-http://127.0.0.1/smart.php?id=Hitsmovie
+http://127.0.0.1/smart.m3u8?id=Hitsmovie
 #EXTINF:-1 tvg-id="One" tvg-name="ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png" group-title="电影",电影|One
-http://127.0.0.1/smart.php?id=One
+http://127.0.0.1/smart.m3u8?id=One
 #EXTINF:-1 tvg-id="tvN Movie" tvg-name="TVNMOVIES" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/tvn-movies.png" group-title="电影",电影|tvN Movie
-http://127.0.0.1/smart.php?id=Tvnmovie
+http://127.0.0.1/smart.m3u8?id=Tvnmovie
 #EXTINF:-1 tvg-id="Axn HD" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="电影",电影|Axn HD
-http://127.0.0.1/smart.php?id=Axn
+http://127.0.0.1/smart.m3u8?id=Axn
 #EXTINF:-1 tvg-id="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/250px-Paramount_Network.svg.png" group-title="电影",电影|Paramount Network
-http://127.0.0.1/smart.php?id=Paramountnetwork
+http://127.0.0.1/smart.m3u8?id=Paramountnetwork
 #EXTINF:-1 tvg-id="Astrol Kplus" tvg-name="KPLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="电影",电影|Astrol Kplus
-http://127.0.0.1/smart.php?id=Kplus
+http://127.0.0.1/smart.m3u8?id=Kplus
 #EXTINF:-1 tvg-id="Rock Actions" tvg-name="ROCKACTION" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKACTION.png" group-title="电影",电影|Rock Actions
-http://127.0.0.1/smart.php?id=Rockaction
+http://127.0.0.1/smart.m3u8?id=Rockaction
 #EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="ROCKENTERTAINMENT" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKENTERTAINMENT.png" group-title="电影",电影|Rock Entertainment
-http://127.0.0.1/smart.php?id=Rockentertain
+http://127.0.0.1/smart.m3u8?id=Rockentertain
 #EXTINF:-1 tvg-id="Natgeo_HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NATGEO.png" group-title="记录",记录|Natgeo_HD
-http://127.0.0.1/smart.php?id=natgeohd_twn
+http://127.0.0.1/smart.m3u8?id=natgeohd_twn
 #EXTINF:-1 tvg-id="NatGeo_Wild HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NATGEO.png" group-title="记录",记录|NatGeo_Wild HD
-http://127.0.0.1/smart.php?id=natgeowild_twn
+http://127.0.0.1/smart.m3u8?id=natgeowild_twn
 #EXTINF:-1 tvg-id="Animal_Planet" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="记录",记录|Animal_Planet
-http://127.0.0.1/smart.php?id=animalplanet_twn
+http://127.0.0.1/smart.m3u8?id=animalplanet_twn
 #EXTINF:-1 tvg-id="Discovery Asia" tvg-name="DISCOVERYASIA" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERYASIA.png" group-title="记录",记录|Discovery Asia
-http://127.0.0.1/smart.php?id=discoverytwn_twn
+http://127.0.0.1/smart.m3u8?id=discoverytwn_twn
 #EXTINF:-1 tvg-id="CI" tvg-name="CINEMAONEGLOBAL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CI.png" group-title="记录",记录|CI
-http://127.0.0.1/smart.php?id=ci_twn
+http://127.0.0.1/smart.m3u8?id=ci_twn
 #EXTINF:-1 tvg-id="Asia Travel" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ASIATRAVEL.png" group-title="记录",记录|Asia Travel
-http://127.0.0.1/smart.php?id=asiatravel_twn
+http://127.0.0.1/smart.m3u8?id=asiatravel_twn
 #EXTINF:-1 tvg-id="Discovery HD" tvg-name="DISCOVERYHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERYHD.png" group-title="记录",记录|Discovery HD
-http://127.0.0.1/smart.php?id=discoveryhd_twn
+http://127.0.0.1/smart.m3u8?id=discoveryhd_twn
 #EXTINF:-1 tvg-id="亚洲美食" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/亚洲美食.png" group-title="记录",记录|亚洲美食
-http://127.0.0.1/smart.php?id=afc_twn
+http://127.0.0.1/smart.m3u8?id=afc_twn
 #EXTINF:-1 tvg-id="美食星球" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美食星球.png" group-title="记录",记录|美食星球
-http://127.0.0.1/smart.php?id=foodplanet_twn
+http://127.0.0.1/smart.m3u8?id=foodplanet_twn
 #EXTINF:-1 tvg-id="亚洲TLC" tvg-name="TLC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TLC.png" group-title="记录",记录|亚洲TLC
-http://127.0.0.1/smart.php?id=tlc_twn
+http://127.0.0.1/smart.m3u8?id=tlc_twn
 #EXTINF:-1 tvg-id="NatGeo HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NATGEO.png" group-title="记录",记录|NatGeo HD
-http://127.0.0.1/smart.php?id=Natgeo
+http://127.0.0.1/smart.m3u8?id=Natgeo
 #EXTINF:-1 tvg-id="Fashion TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FASHIONTV.png" group-title="记录",记录|Fashion TV
-http://127.0.0.1/smart.php?id=fashiontv_twn
+http://127.0.0.1/smart.m3u8?id=fashiontv_twn
 #EXTINF:-1 tvg-id="History" tvg-name="HISTORY" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/223_wbg_c_711bca6ce6.png" group-title="记录",记录|History
-http://127.0.0.1/smart.php?id=History
+http://127.0.0.1/smart.m3u8?id=History
 #EXTINF:-1 tvg-id="BBC Earth HD" tvg-name="BBCEARTHHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCEARTH.png" group-title="记录",记录|BBC Earth HD
-http://127.0.0.1/smart.php?id=bbcearth_twn
+http://127.0.0.1/smart.m3u8?id=bbcearth_twn
 #EXTINF:-1 tvg-id="BBC Earth Lifestyle" tvg-name="BBCEARTH" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCEARTH.png" group-title="记录",记录|BBC Earth Lifestyle
-http://127.0.0.1/smart.php?id=bbclifestyle_twn
+http://127.0.0.1/smart.m3u8?id=bbclifestyle_twn
 #EXTINF:-1 tvg-id="MTV Live" tvg-name="MTVLIVE" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MTVLIVE.png" group-title="记录",记录|MTV Live
-http://127.0.0.1/smart.php?id=mtvhd_twn
+http://127.0.0.1/smart.m3u8?id=mtvhd_twn
 #EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NATGEOWILD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NATGEOWILD.png" group-title="记录",记录|NatGeo Wild HD
-http://127.0.0.1/smart.php?id=Natgeowild
+http://127.0.0.1/smart.m3u8?id=Natgeowild
 #EXTINF:-1 tvg-id="Animal Planet (Eng)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ANIMALPLANET.png" group-title="记录",记录|Animal Planet (Eng)
-http://127.0.0.1/smart.php?id=AnimalPlanet
+http://127.0.0.1/smart.m3u8?id=AnimalPlanet
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TLC.png" group-title="记录",记录|TLC
-http://127.0.0.1/smart.php?id=Tlc
+http://127.0.0.1/smart.m3u8?id=Tlc
 #EXTINF:-1 tvg-id="Foodnetwork Hd" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FOODNETWORK.png" group-title="记录",记录|Foodnetwork Hd
-http://127.0.0.1/smart.php?id=Foodnetwork
+http://127.0.0.1/smart.m3u8?id=Foodnetwork
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HGTV.png" group-title="记录",记录|HGTV
-http://127.0.0.1/smart.php?id=HGTV
+http://127.0.0.1/smart.m3u8?id=HGTV
 #EXTINF:-1 tvg-id="亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/亚洲旅游.png" group-title="记录",记录|亚洲旅游台
-http://127.0.0.1/smart.php?id=asiatravel_twn
+http://127.0.0.1/smart.m3u8?id=asiatravel_twn
 #EXTINF:-1 tvg-id="Skynews" tvg-name="SKYNEWSHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYNEWS.png" group-title="新闻",新闻|Skynews
-http://127.0.0.1/smart.php?id=skynews_twn
+http://127.0.0.1/smart.m3u8?id=skynews_twn
 #EXTINF:-1 tvg-id="ABC News" tvg-name="ABCNEWSLIVE" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ABCNEWS.png" group-title="新闻",新闻|ABC News
-http://127.0.0.1/smart.php?id=abcnews_glo
+http://127.0.0.1/smart.m3u8?id=abcnews_glo
 #EXTINF:-1 tvg-id="东森财经新闻" tvg-name="东森财经新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森财经新闻.png" group-title="新闻",新闻|东森财经新闻
-http://127.0.0.1/smart.php?id=ettvcaijing_twn
+http://127.0.0.1/smart.m3u8?id=ettvcaijing_twn
 #EXTINF:-1 tvg-id="CBS HD" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="新闻",新闻|CBS HD
-http://127.0.0.1/smart.php?id=cbshd_glo
+http://127.0.0.1/smart.m3u8?id=cbshd_glo
 #EXTINF:-1 tvg-id="CBSN HD" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="新闻",新闻|CBSN HD
-http://127.0.0.1/smart.php?id=cbsn_glo
+http://127.0.0.1/smart.m3u8?id=cbsn_glo
 #EXTINF:-1 tvg-id="France 24" tvg-name="FRANCE24" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FRANCE24.png" group-title="新闻",新闻|France 24
-http://127.0.0.1/smart.php?id=france24_twn
+http://127.0.0.1/smart.m3u8?id=france24_twn
 #EXTINF:-1 tvg-id="DW (Deutsch)" tvg-name="DW" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DW.png" group-title="新闻",新闻|DW (Deutsch)
-http://127.0.0.1/smart.php?id=dw_twn
+http://127.0.0.1/smart.m3u8?id=dw_twn
 #EXTINF:-1 tvg-id="NHK World" tvg-name="NHKWORLD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHKWORLD.png" group-title="新闻",新闻|NHK World
-http://127.0.0.1/smart.php?id=nhkworld_japan
+http://127.0.0.1/smart.m3u8?id=nhkworld_japan
 #EXTINF:-1 tvg-id="Fox News" tvg-name="FOXNEWSCHANNELHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FOXNEWS.png" group-title="新闻",新闻|Fox News
-http://127.0.0.1/smart.php?id=foxnews_twn
+http://127.0.0.1/smart.m3u8?id=foxnews_twn
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="新闻",新闻|CGTN
-http://127.0.0.1/smart.php?id=CGTN
+http://127.0.0.1/smart.m3u8?id=CGTN
 #EXTINF:-1 tvg-id="CNN International" tvg-name="CNNINTERNATIONAL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN.png" group-title="新闻",新闻|CNN International
-http://127.0.0.1/smart.php?id=Cnn
+http://127.0.0.1/smart.m3u8?id=Cnn
 #EXTINF:-1 tvg-id="CNN backup" tvg-name="CNN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN.png" group-title="新闻",新闻|CNN backup
-http://127.0.0.1/smart.php?id=cnn_twn
+http://127.0.0.1/smart.m3u8?id=cnn_twn
 #EXTINF:-1 tvg-id="CNBC" tvg-name="CNBCASIA(HD)" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/319_wbg_c_dfd95edee4.png" group-title="新闻",新闻|CNBC
-http://127.0.0.1/smart.php?id=cnbc_twn
+http://127.0.0.1/smart.m3u8?id=cnbc_twn
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNA.png" group-title="新闻",新闻|CNA
-http://127.0.0.1/smart.php?id=cna
+http://127.0.0.1/smart.m3u8?id=cna
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCWORLDNEWS.png" group-title="新闻",新闻|BBC World News
-http://127.0.0.1/smart.php?id=bbcnews_twn
+http://127.0.0.1/smart.m3u8?id=bbcnews_twn
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCWORLDNEWS.png" group-title="新闻",新闻|BBC World News
-http://127.0.0.1/smart.php?id=Bbcnews
+http://127.0.0.1/smart.m3u8?id=Bbcnews
 #EXTINF:-1 tvg-id="Bloomberg News" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BLOOMBERGTV.png" group-title="新闻",新闻|Bloomberg News
-http://127.0.0.1/smart.php?id=bloomberg_twn
+http://127.0.0.1/smart.m3u8?id=bloomberg_twn
 #EXTINF:-1 tvg-id="Al-Jazeera" tvg-name="ALJAZEERAENGLISH" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ALJAZEERA.png" group-title="新闻",新闻|Al-Jazeera
-http://127.0.0.1/smart.php?id=aljazeera_twn
+http://127.0.0.1/smart.m3u8?id=aljazeera_twn
 #EXTINF:-1 tvg-id="Baby TV Eng" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BABYTV.png" group-title="儿童",儿童|Baby TV Eng
-http://127.0.0.1/smart.php?id=Babytv
+http://127.0.0.1/smart.m3u8?id=Babytv
 #EXTINF:-1 tvg-id="CBeebies" tvg-name="CBEEBIES" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CBEEBIES.png" group-title="儿童",儿童|CBeebies
-http://127.0.0.1/smart.php?id=Cbeebies
+http://127.0.0.1/smart.m3u8?id=Cbeebies
 #EXTINF:-1 tvg-id="Kids TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYKIDS.png" group-title="儿童",儿童|Kids TV
-http://127.0.0.1/smart.php?id=KidsTV
+http://127.0.0.1/smart.m3u8?id=KidsTV
 #EXTINF:-1 tvg-id="Momo TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/600px-SPOTV_logo.svg.png" group-title="儿童",儿童|Momo TV
-http://127.0.0.1/smart.php?id=momo1_twn
+http://127.0.0.1/smart.m3u8?id=momo1_twn
 #EXTINF:-1 tvg-id="Animax" tvg-name="ANIMAX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ANIMAX.png" group-title="儿童",儿童|Animax
-http://127.0.0.1/smart.php?id=Animax
+http://127.0.0.1/smart.m3u8?id=Animax
 #EXTINF:-1 tvg-id="Baby TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BABYTV.png" group-title="儿童",儿童|Baby TV
-http://127.0.0.1/smart.php?id=babytv_twn
+http://127.0.0.1/smart.m3u8?id=babytv_twn
 #EXTINF:-1 tvg-id="MiaoMi" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="儿童",儿童|MiaoMi
-http://127.0.0.1/smart.php?id=MiaoMi
+http://127.0.0.1/smart.m3u8?id=MiaoMi
 #EXTINF:-1 tvg-id="靖天卡通" tvg-name="靖天卡通台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/靖天卡通.png" group-title="儿童",儿童|靖天卡通
-http://127.0.0.1/smart.php?id=jingtiancartoon_twn
+http://127.0.0.1/smart.m3u8?id=jingtiancartoon_twn
 #EXTINF:-1 tvg-id="东森幼幼" tvg-name="东森幼幼台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/东森幼幼.png" group-title="儿童",儿童|东森幼幼
-http://127.0.0.1/smart.php?id=yoyo_twn
+http://127.0.0.1/smart.m3u8?id=yoyo_twn
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOONNETWORK" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CARTOONNETWORK.png" group-title="儿童",儿童|Cartoon Network
-http://127.0.0.1/smart.php?id=Cn
+http://127.0.0.1/smart.m3u8?id=Cn
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKELODEON.png" group-title="儿童",儿童|Nickelodeon
-http://127.0.0.1/smart.php?id=Nickelodeon
+http://127.0.0.1/smart.m3u8?id=Nickelodeon
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="NICKJR" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKJR.png" group-title="儿童",儿童|Nick Jr
-http://127.0.0.1/smart.php?id=Nickjr
+http://127.0.0.1/smart.m3u8?id=Nickjr
 #EXTINF:-1 tvg-id="Astro Premier League 1" tvg-name="ASTROPREMIERLEAGUE" tvg-logo="http://192.168.2.1:8090/logo/Astro Premier League 1.png" group-title="体育",体育|Astro Premier League 1
-http://127.0.0.1/smart.php?id=go_assp1
+http://127.0.0.1/smart.m3u8?id=go_assp1
 #EXTINF:-1 tvg-id="Astro EPL 1 backup" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="体育",体育|Astro EPL 1 backup
-http://127.0.0.1/smart.php?id=go_assp1x
+http://127.0.0.1/smart.m3u8?id=go_assp1x
 #EXTINF:-1 tvg-id="Astro Premier League 2" tvg-name="ASTROPREMIERLEAGUE2" tvg-logo="http://192.168.2.1:8090/logo/Astro Premier League 2.png" group-title="体育",体育|Astro Premier League 2
-http://127.0.0.1/smart.php?id=go_assp2
+http://127.0.0.1/smart.m3u8?id=go_assp2
 #EXTINF:-1 tvg-id="Astro Grandstand" tvg-name="ASTROGRANDSTAND" tvg-logo="http://192.168.2.1:8090/logo/Astro Grandstand.png" group-title="体育",体育|Astro Grandstand
-http://127.0.0.1/smart.php?id=go_assp3
+http://127.0.0.1/smart.m3u8?id=go_assp3
 #EXTINF:-1 tvg-id="Astro Football" tvg-name="ASTROFOOTBALL" tvg-logo="http://192.168.2.1:8090/logo/Astro Football.png" group-title="体育",体育|Astro Football
-http://127.0.0.1/smart.php?id=go_assp4
+http://127.0.0.1/smart.m3u8?id=go_assp4
 #EXTINF:-1 tvg-id="Astro Sports Plus" tvg-name="ASTROSPORTSPLUS" tvg-logo="http://192.168.2.1:8090/logo/Astro Premier League 1.png" group-title="体育",体育|Astro Sports Plus
-http://127.0.0.1/smart.php?id=go_sportsplus
+http://127.0.0.1/smart.m3u8?id=go_sportsplus
 #EXTINF:-1 tvg-id="Astro Badminton 1" tvg-name="ASTROBADMINTON" tvg-logo="http://192.168.2.1:8090/logo/Astro Badminton.png" group-title="体育",体育|Astro Badminton 1
-http://127.0.0.1/smart.php?id=go_badminton1
+http://127.0.0.1/smart.m3u8?id=go_badminton1
 #EXTINF:-1 tvg-id="Astro Badminton 2" tvg-name="ASTROBADMINTON2" tvg-logo="http://192.168.2.1:8090/logo/Astro Badminton.png" group-title="体育",体育|Astro Badminton 2
-http://127.0.0.1/smart.php?id=go_badminton2
+http://127.0.0.1/smart.m3u8?id=go_badminton2
 #EXTINF:-1 tvg-id="Astro W-Sports" tvg-name="WSPORT" tvg-logo="https://images.now-tv.com/shares/vod_images/vi_vodlibrary_desc_t/202312/en_us/icon_hi_res/l00419" group-title="体育",体育|Astro W-Sports
-http://127.0.0.1/smart.php?id=go_assp5
+http://127.0.0.1/smart.m3u8?id=go_assp5
 #EXTINF:-1 tvg-id="Supersports 1" tvg-name="SUPERSPORTS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTDOC.png" group-title="体育",体育|Supersports 1
-http://127.0.0.1/smart.php?id=Assp1
+http://127.0.0.1/smart.m3u8?id=Assp1
 #EXTINF:-1 tvg-id="Supersports 2" tvg-name="SUPERSPORTS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTDOC.png" group-title="体育",体育|Supersports 2
-http://127.0.0.1/smart.php?id=Assp2
+http://127.0.0.1/smart.m3u8?id=Assp2
 #EXTINF:-1 tvg-id="Supersports 3" tvg-name="SUPERSPORTS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTDOC.png" group-title="体育",体育|Supersports 3
-http://127.0.0.1/smart.php?id=Assp3
+http://127.0.0.1/smart.m3u8?id=Assp3
 #EXTINF:-1 tvg-id="Supersports 4" tvg-name="SUPERSPORTS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTDOC.png" group-title="体育",体育|Supersports 4
-http://127.0.0.1/smart.php?id=Assp4
+http://127.0.0.1/smart.m3u8?id=Assp4
 #EXTINF:-1 tvg-id="WWE" tvg-name="WWENETWORK" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/WWE.png" group-title="体育",体育|WWE
-http://127.0.0.1/smart.php?id=Wwe
+http://127.0.0.1/smart.m3u8?id=Wwe
 #EXTINF:-1 tvg-id="Fight Sports" tvg-name="FIGHTSPORTS(HD)" tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2018/08/TVA-29-August-6.png" group-title="体育",体育|Fight Sports
-http://127.0.0.1/smart.php?id=Fs
+http://127.0.0.1/smart.m3u8?id=Fs
 #EXTINF:-1 tvg-id="NBA TV" tvg-name="NBATVHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NBATV.png" group-title="体育",体育|NBA TV
-http://127.0.0.1/smart.php?id=Nba
+http://127.0.0.1/smart.m3u8?id=Nba
 #EXTINF:-1 tvg-id="Astro Cricket" tvg-name="ASTROCRICKET" tvg-logo="http://192.168.2.1:8090/logo/Astro Cricket.png" group-title="体育",体育|Astro Cricket
-http://127.0.0.1/smart.php?id=Acricket
+http://127.0.0.1/smart.m3u8?id=Acricket
 #EXTINF:-1 tvg-id="Astro Golf" tvg-name="GOLF" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/GOLFCHANNEL.png" group-title="体育",体育|Astro Golf
-http://127.0.0.1/smart.php?id=Agolf
+http://127.0.0.1/smart.m3u8?id=Agolf
 #EXTINF:-1 tvg-id="Tnt Sports 1" tvg-name="TNTSPORTS1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNTSPORTS1.png" group-title="体育",体育|Tnt Sports 1
-http://127.0.0.1/smart.php?id=6fac0aaead
+http://127.0.0.1/smart.m3u8?id=6fac0aaead
 #EXTINF:-1 tvg-id="TNT Sports 2" tvg-name="TNTSPORTS2HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNTSPORTS2.png" group-title="体育",体育|TNT Sports 2
-http://127.0.0.1/smart.php?id=d9a76a79cc
+http://127.0.0.1/smart.m3u8?id=d9a76a79cc
 #EXTINF:-1 tvg-id="TNT Sports 3" tvg-name="TNTSPORTS3HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNTSPORTS3.png" group-title="体育",体育|TNT Sports 3
-http://127.0.0.1/smart.php?id=5fea4d73db
+http://127.0.0.1/smart.m3u8?id=5fea4d73db
 #EXTINF:-1 tvg-id="TNT Sports 4" tvg-name="TNTSPORTS4HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TNTSPORTS4.png" group-title="体育",体育|TNT Sports 4
-http://127.0.0.1/smart.php?id=tntsport4
+http://127.0.0.1/smart.m3u8?id=tntsport4
 #EXTINF:-1 tvg-id="Sony Ten 1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SONY.png" group-title="体育",体育|Sony Ten 1
-http://127.0.0.1/smart.php?id=ten1_raj
+http://127.0.0.1/smart.m3u8?id=ten1_raj
 #EXTINF:-1 tvg-id="Sony Ten 2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SONY.png" group-title="体育",体育|Sony Ten 2
-http://127.0.0.1/smart.php?id=ten2_raj
+http://127.0.0.1/smart.m3u8?id=ten2_raj
 #EXTINF:-1 tvg-id="Sony Ten 3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SONY.png" group-title="体育",体育|Sony Ten 3
-http://127.0.0.1/smart.php?id=ten3_raj
+http://127.0.0.1/smart.m3u8?id=ten3_raj
 #EXTINF:-1 tvg-id="SPOTV 1 HD" tvg-name="SPOTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/600px-SPOTV_logo.svg.png" group-title="体育",体育|SPOTV 1 HD
-http://127.0.0.1/smart.php?id=go_spotv
+http://127.0.0.1/smart.m3u8?id=go_spotv
 #EXTINF:-1 tvg-id="SPO TV 2" tvg-name="SPOTV2" tvg-logo="https://ownassetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png" group-title="体育",体育|SPO TV 2
-http://127.0.0.1/smart.php?id=go_spotv2
+http://127.0.0.1/smart.m3u8?id=go_spotv2
 #EXTINF:-1 tvg-id="Skysports F1" tvg-logo="https://epg.iill.top/logo/Sky-Sports-F1.png" group-title="体育",体育|Skysports F1
-http://127.0.0.1/smart.php?id=tiankongf1
+http://127.0.0.1/smart.m3u8?id=tiankongf1
 #EXTINF:-1 tvg-id="Skysports Cricket" tvg-name="CRICKET" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSCRICKET.png" group-title="体育",体育|Skysports Cricket
-http://127.0.0.1/smart.php?id=tiankongcricket
+http://127.0.0.1/smart.m3u8?id=tiankongcricket
 #EXTINF:-1 tvg-id="Skysports EPL" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/329_wbg_c_10d86ae07c.png" group-title="体育",体育|Skysports EPL
-http://127.0.0.1/smart.php?id=tiankongepl
+http://127.0.0.1/smart.m3u8?id=tiankongepl
 #EXTINF:-1 tvg-id="Skysports Main Event" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSMAINEVENT.png" group-title="体育",体育|Skysports Main Event
-http://127.0.0.1/smart.php?id=tiankongmain
+http://127.0.0.1/smart.m3u8?id=tiankongmain
 #EXTINF:-1 tvg-id="Skysports News" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSNEWS.png" group-title="体育",体育|Skysports News
-http://127.0.0.1/smart.php?id=tiankongnews
+http://127.0.0.1/smart.m3u8?id=tiankongnews
 #EXTINF:-1 tvg-id="Skysports Mix" tvg-name="MIX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSMIX.png" group-title="体育",体育|Skysports Mix
-http://127.0.0.1/smart.php?id=tiankongmix
+http://127.0.0.1/smart.m3u8?id=tiankongmix
 #EXTINF:-1 tvg-id="CCTV-5 体育频道" tvg-name="CCTV5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5.png" group-title="体育",体育|CCTV-5 体育频道
-http://127.0.0.1/smart.php?id=cctv5
+http://127.0.0.1/smart.m3u8?id=cctv5
 #EXTINF:-1 tvg-id="CCTV-5+ 体育赛事 HD" tvg-name="CCTV5+" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV5+.png" group-title="体育",体育|CCTV-5+ 体育赛事 HD
-http://127.0.0.1/smart.php?id=cctv5plus
+http://127.0.0.1/smart.m3u8?id=cctv5plus
 #EXTINF:-1 tvg-id="爱尔达体育2台" tvg-name="爱尔达体育2台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达体育2.png" group-title="体育",体育|爱尔达体育2台
-http://127.0.0.1/smart.php?id=eltasport2_twn
+http://127.0.0.1/smart.m3u8?id=eltasport2_twn
 #EXTINF:-1 tvg-id="爱尔达体育3台" tvg-name="爱尔达体育3台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱尔达体育3.png" group-title="体育",体育|爱尔达体育3台
-http://127.0.0.1/smart.php?id=eltasport3_twn
+http://127.0.0.1/smart.m3u8?id=eltasport3_twn
 #EXTINF:-1 tvg-id="Rugby Pass TV" tvg-name="RUGBY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SUPERSPORTRUGBY.png" group-title="体育",体育|Rugby Pass TV
-http://127.0.0.1/smart.php?id=Rugbypasstv
+http://127.0.0.1/smart.m3u8?id=Rugbypasstv
 #EXTINF:-1 tvg-id="RTM Sports HD" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/329_wbg_c_10d86ae07c.png" group-title="体育",体育|RTM Sports HD
-http://127.0.0.1/smart.php?id=Rtmsport
+http://127.0.0.1/smart.m3u8?id=Rtmsport
 #EXTINF:-1 tvg-id="Arena" tvg-name="ARENABOLA2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AH.png" group-title="体育",体育|Arena
-http://127.0.0.1/smart.php?id=Arena
+http://127.0.0.1/smart.m3u8?id=Arena
 #EXTINF:-1 tvg-id="Arena 2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AH.png" group-title="体育",体育|Arena 2
-http://127.0.0.1/smart.php?id=Arena2
+http://127.0.0.1/smart.m3u8?id=Arena2
 #EXTINF:-1 tvg-id="BolaArena 1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AH.png" group-title="体育",体育|BolaArena 1
-http://127.0.0.1/smart.php?id=Bolaarena1
+http://127.0.0.1/smart.m3u8?id=Bolaarena1
 #EXTINF:-1 tvg-id="BolaArena 2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AH.png" group-title="体育",体育|BolaArena 2
-http://127.0.0.1/smart.php?id=Bolaarena2
+http://127.0.0.1/smart.m3u8?id=Bolaarena2
 #EXTINF:-1 tvg-id="Astro Beinsports 1" tvg-name="BEINSPORTS1" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/638_wbg_c_693ae9bf65.png" group-title="体育",体育|Astro Beinsports 1
-http://127.0.0.1/smart.php?id=Astrobein1
+http://127.0.0.1/smart.m3u8?id=Astrobein1
 #EXTINF:-1 tvg-id="Astro Beinsports 2" tvg-name="BEINSPORTS2" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/639_wbg_c_c934cb40d8.png" group-title="体育",体育|Astro Beinsports 2
-http://127.0.0.1/smart.php?id=Astrobein2
+http://127.0.0.1/smart.m3u8?id=Astrobein2
 #EXTINF:-1 tvg-id="Astro Beinsports 3" tvg-name="BEINSPORTS3" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/643_wbg_c_5e0adf46dd.png" group-title="体育",体育|Astro Beinsports 3
-http://127.0.0.1/smart.php?id=Astrobein3
+http://127.0.0.1/smart.m3u8?id=Astrobein3
 #EXTINF:-1 tvg-id="Channel 5" tvg-name="CHANNEL5" tvg-logo="https://epg.112114.xyz/logo/CHANNEL5.png" group-title="新加坡",新加坡|Channel 5
-http://127.0.0.1/smart.php?id=Channel5HD
+http://127.0.0.1/smart.m3u8?id=Channel5HD
 #EXTINF:-1 tvg-id="Channel 8" tvg-name="CHANNEL8" tvg-logo="https://epg.112114.xyz/logo/CHANNEL8.png" group-title="新加坡",新加坡|Channel 8
-http://127.0.0.1/smart.php?id=Channel8HD
+http://127.0.0.1/smart.m3u8?id=Channel8HD
 #EXTINF:-1 tvg-id="Suria" tvg-name="SURIA" tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1673978259/mediacorp/corporate/inline-images/suria__370x180.jpg" group-title="新加坡",新加坡|Suria
-http://127.0.0.1/smart.php?id=Suria
+http://127.0.0.1/smart.m3u8?id=Suria
 #EXTINF:-1 tvg-id="Channel U" tvg-name="CHANNELU" tvg-logo="https://epg.112114.xyz/logo/CHANNELUHD.png" group-title="新加坡",新加坡|Channel U
-http://127.0.0.1/smart.php?id=ChannelU
+http://127.0.0.1/smart.m3u8?id=ChannelU
 #EXTINF:-1 tvg-id="Vasantham" tvg-name="VASANTHAM" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="新加坡",新加坡|Vasantham
-http://127.0.0.1/smart.php?id=Vasantham
+http://127.0.0.1/smart.m3u8?id=Vasantham
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNA.png" group-title="新加坡",新加坡|CNA
-http://127.0.0.1/smart.php?id=cna
+http://127.0.0.1/smart.m3u8?id=cna
 #EXTINF:-1 tvg-id="CNA backup" tvg-name="CNA" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNA.png" group-title="新加坡",新加坡|CNA backup
-http://127.0.0.1/smart.php?id=cna_twn
+http://127.0.0.1/smart.m3u8?id=cna_twn
 #EXTINF:-1 tvg-id="MeWatch Ch 5" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DW.png" group-title="新加坡",新加坡|MeWatch Ch 5
-http://127.0.0.1/smart.php?id=Mewatch_ch5
+http://127.0.0.1/smart.m3u8?id=Mewatch_ch5
 #EXTINF:-1 tvg-id="MeWatch Ch 8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DW.png" group-title="新加坡",新加坡|MeWatch Ch 8
-http://127.0.0.1/smart.php?id=Mewatch_ch8
+http://127.0.0.1/smart.m3u8?id=Mewatch_ch8
 #EXTINF:-1 tvg-id="MeWatch Ch U" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DW.png" group-title="新加坡",新加坡|MeWatch Ch U
-http://127.0.0.1/smart.php?id=Mewatch_chU
+http://127.0.0.1/smart.m3u8?id=Mewatch_chU
 #EXTINF:-1 tvg-id="MeWatch Suria" tvg-name="SURIA" tvg-logo="https://onecms-res.cloudinary.com/image/upload/v1673978259/mediacorp/corporate/inline-images/suria__370x180.jpg" group-title="新加坡",新加坡|MeWatch Suria
-http://127.0.0.1/smart.php?id=Mewatch_Suria
+http://127.0.0.1/smart.m3u8?id=Mewatch_Suria
 #EXTINF:-1 tvg-id="MeWatch Vasantham" tvg-name="VASANTHAM" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DW.png" group-title="新加坡",新加坡|MeWatch Vasantham
-http://127.0.0.1/smart.php?id=Mewatch_Vasantham
+http://127.0.0.1/smart.m3u8?id=Mewatch_Vasantham
 #EXTINF:-1 tvg-id="MeWatch CNA" tvg-name="CNA" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNA.png" group-title="新加坡",新加坡|MeWatch CNA
-http://127.0.0.1/smart.php?id=Mewatch_cna
+http://127.0.0.1/smart.m3u8?id=Mewatch_cna
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FTV1.png" group-title="马来西亚",马来西亚|TV1
-http://127.0.0.1/smart.php?id=TV1
+http://127.0.0.1/smart.m3u8?id=TV1
 #EXTINF:-1 tvg-id="TV1 backup" tvg-name="TV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FTV1.png" group-title="马来西亚",马来西亚|TV1 backup
-http://127.0.0.1/smart.php?id=TV1_backup
+http://127.0.0.1/smart.m3u8?id=TV1_backup
 #EXTINF:-1 tvg-id="TV2" tvg-name="TV2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ITV2.png" group-title="马来西亚",马来西亚|TV2
-http://127.0.0.1/smart.php?id=TV2
+http://127.0.0.1/smart.m3u8?id=TV2
 #EXTINF:-1 tvg-id="TV3" tvg-name="TV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ITV3.png" group-title="马来西亚",马来西亚|TV3
-http://127.0.0.1/smart.php?id=TV3
+http://127.0.0.1/smart.m3u8?id=TV3
 #EXTINF:-1 tvg-id="TV3 SD" tvg-name="TV3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ITV3.png" group-title="马来西亚",马来西亚|TV3 SD
-http://127.0.0.1/smart.php?id=TV3_mega
+http://127.0.0.1/smart.m3u8?id=TV3_mega
 #EXTINF:-1 tvg-id="NTV7" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ab/NTV7_logo_%282018%29.svg/1200px-NTV7_logo_%282018%29.svg.png" group-title="马来西亚",马来西亚|NTV7
-http://127.0.0.1/smart.php?id=NTV7
+http://127.0.0.1/smart.m3u8?id=NTV7
 #EXTINF:-1 tvg-id="TV8" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV8.png" group-title="马来西亚",马来西亚|TV8
-http://127.0.0.1/smart.php?id=TV8
+http://127.0.0.1/smart.m3u8?id=TV8
 #EXTINF:-1 tvg-id="TV9" tvg-name="TV9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/TV9_%28Malaysia%29_logo.svg/408px-TV9_%28Malaysia%29_logo.svg.png" group-title="马来西亚",马来西亚|TV9
-http://127.0.0.1/smart.php?id=TV9
+http://127.0.0.1/smart.m3u8?id=TV9
 #EXTINF:-1 tvg-id="Ria" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/Z.png" group-title="马来西亚",马来西亚|Ria
-http://127.0.0.1/smart.php?id=Ria-0
+http://127.0.0.1/smart.m3u8?id=Ria-0
 #EXTINF:-1 tvg-id="Ria-3" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/Z.png" group-title="马来西亚",马来西亚|Ria-3
-http://127.0.0.1/smart.php?id=Ria_backup
+http://127.0.0.1/smart.m3u8?id=Ria_backup
 #EXTINF:-1 tvg-id="Al-Hijrah" tvg-name="ALHIJRAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TV_Alhijrah_%282013%29.svg/640px-TV_Alhijrah_%282013%29.svg.png" group-title="马来西亚",马来西亚|Al-Hijrah
-http://127.0.0.1/smart.php?id=Alhijrah
+http://127.0.0.1/smart.m3u8?id=Alhijrah
 #EXTINF:-1 tvg-id="Al-Hijrah backup" tvg-name="ALHIJRAH" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/TV_Alhijrah_%282013%29.svg/640px-TV_Alhijrah_%282013%29.svg.png" group-title="马来西亚",马来西亚|Al-Hijrah backup
-http://127.0.0.1/smart.php?id=Alhijrah_backup
+http://127.0.0.1/smart.m3u8?id=Alhijrah_backup
 #EXTINF:-1 tvg-id="Awani" tvg-logo="http://192.168.2.1:8090/logo/Astro Warna.png" group-title="马来西亚",马来西亚|Awani
-http://127.0.0.1/smart.php?id=Awani
+http://127.0.0.1/smart.m3u8?id=Awani
 #EXTINF:-1 tvg-id="Bernama" tvg-name="BERNAMA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Bernama_TV.png" group-title="马来西亚",马来西亚|Bernama
-http://127.0.0.1/smart.php?id=Bernama
+http://127.0.0.1/smart.m3u8?id=Bernama
 #EXTINF:-1 tvg-id="Prima" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AH.png" group-title="马来西亚",马来西亚|Prima
-http://127.0.0.1/smart.php?id=Prima-0
+http://127.0.0.1/smart.m3u8?id=Prima-0
 #EXTINF:-1 tvg-id="Prima backup" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AH.png" group-title="马来西亚",马来西亚|Prima backup
-http://127.0.0.1/smart.php?id=AAprima1
+http://127.0.0.1/smart.m3u8?id=AAprima1
 #EXTINF:-1 tvg-id="Prima backup 2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AH.png" group-title="马来西亚",马来西亚|Prima backup 2
-http://127.0.0.1/smart.php?id=AAprima
+http://127.0.0.1/smart.m3u8?id=AAprima
 #EXTINF:-1 tvg-id="Ceria" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AH.png" group-title="马来西亚",马来西亚|Ceria
-http://127.0.0.1/smart.php?id=Ceria
+http://127.0.0.1/smart.m3u8?id=Ceria
 #EXTINF:-1 tvg-id="Astro MTV" tvg-name="MTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MTV.png" group-title="马来西亚",马来西亚|Astro MTV
-http://127.0.0.1/smart.php?id=AstroMTV
+http://127.0.0.1/smart.m3u8?id=AstroMTV
 #EXTINF:-1 tvg-id="Mecca Live HD" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="马来西亚",马来西亚|Mecca Live HD
-http://127.0.0.1/smart.php?id=quran_mido
+http://127.0.0.1/smart.m3u8?id=quran_mido
 #EXTINF:-1 tvg-id="Madinah HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AH.png" group-title="马来西亚",马来西亚|Madinah HD
-http://127.0.0.1/smart.php?id=sunnah_mido
+http://127.0.0.1/smart.m3u8?id=sunnah_mido
 #EXTINF:-1 tvg-id="Oasis" tvg-logo="http://192.168.2.1:8090/logo/Astro Oasis.png" group-title="马来西亚",马来西亚|Oasis
-http://127.0.0.1/smart.php?id=Oasis
+http://127.0.0.1/smart.m3u8?id=Oasis
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBOHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBOHD.png" group-title="马来西亚",马来西亚|HBO HD
-http://127.0.0.1/smart.php?id=Hbo
+http://127.0.0.1/smart.m3u8?id=Hbo
 #EXTINF:-1 tvg-id="HBO Signature" tvg-name="HBOSIGNATURE(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBOSIGNATURE.png" group-title="马来西亚",马来西亚|HBO Signature
-http://127.0.0.1/smart.php?id=Hbosignature
+http://127.0.0.1/smart.m3u8?id=Hbosignature
 #EXTINF:-1 tvg-id="HBO Hits" tvg-name="HBOHITS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBOHITS.png" group-title="马来西亚",马来西亚|HBO Hits
-http://127.0.0.1/smart.php?id=Hbohitshd
+http://127.0.0.1/smart.m3u8?id=Hbohitshd
 #EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NATGEOWILD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NATGEOWILD.png" group-title="马来西亚",马来西亚|NatGeo Wild HD
-http://127.0.0.1/smart.php?id=Natgeowild
+http://127.0.0.1/smart.m3u8?id=Natgeowild
 #EXTINF:-1 tvg-id="Cartoon Network" tvg-name="CARTOONNETWORK" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CARTOONNETWORK.png" group-title="马来西亚",马来西亚|Cartoon Network
-http://127.0.0.1/smart.php?id=Cn
+http://127.0.0.1/smart.m3u8?id=Cn
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKELODEON.png" group-title="马来西亚",马来西亚|Nickelodeon
-http://127.0.0.1/smart.php?id=Nickelodeon
+http://127.0.0.1/smart.m3u8?id=Nickelodeon
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="NICKJR" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKJR.png" group-title="马来西亚",马来西亚|Nick Jr
-http://127.0.0.1/smart.php?id=Nickjr
+http://127.0.0.1/smart.m3u8?id=Nickjr
 #EXTINF:-1 tvg-id="Dreamworks" tvg-name="DREAMWORKS" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DREAMWORKS.png" group-title="马来西亚",马来西亚|Dreamworks
-http://127.0.0.1/smart.php?id=Dreamworks
+http://127.0.0.1/smart.m3u8?id=Dreamworks
 #EXTINF:-1 tvg-id="Siar" tvg-name="SIAR" tvg-logo="https://siar.my/wp-content/uploads/2020/04/SIAR-5.png" group-title="马来西亚",马来西亚|Siar
-http://127.0.0.1/smart.php?id=Siar
+http://127.0.0.1/smart.m3u8?id=Siar
 #EXTINF:-1 tvg-id="Citra" tvg-name="CITRADRAMA(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AH.png" group-title="马来西亚",马来西亚|Citra
-http://127.0.0.1/smart.php?id=AAcitra
+http://127.0.0.1/smart.m3u8?id=AAcitra
 #EXTINF:-1 tvg-id="Citra backup" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AH.png" group-title="马来西亚",马来西亚|Citra backup
-http://127.0.0.1/smart.php?id=AAcitra1
+http://127.0.0.1/smart.m3u8?id=AAcitra1
 #EXTINF:-1 tvg-id="Sensasi" tvg-name="SENSASI" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Astro_Sensasi_%28Dec_2024%29.png/960px-Astro_Sensasi_%28Dec_2024%29.png" group-title="马来西亚",马来西亚|Sensasi
-http://127.0.0.1/smart.php?id=Sensasi
+http://127.0.0.1/smart.m3u8?id=Sensasi
 #EXTINF:-1 tvg-id="Aura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/55/Astro_Aura_%282024%29.png" group-title="马来西亚",马来西亚|Aura
-http://127.0.0.1/smart.php?id=Aura
+http://127.0.0.1/smart.m3u8?id=Aura
 #EXTINF:-1 tvg-id="Rania" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Astro_Rania_%282024%29.png/960px-Astro_Rania_%282024%29.png" group-title="马来西亚",马来西亚|Rania
-http://127.0.0.1/smart.php?id=Rania
+http://127.0.0.1/smart.m3u8?id=Rania
 #EXTINF:-1 tvg-id="KBS World" tvg-name="KBSWORLD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/KBS_World_%282009%29.svg/960px-KBS_World_%282009%29.svg.png" group-title="马来西亚",马来西亚|KBS World
-http://127.0.0.1/smart.php?id=KBS
+http://127.0.0.1/smart.m3u8?id=KBS
 #EXTINF:-1 tvg-id="Boo" tvg-name="BOO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_Boo_%282024%29.png" group-title="马来西亚",马来西亚|Boo
-http://127.0.0.1/smart.php?id=Boo
+http://127.0.0.1/smart.m3u8?id=Boo
 #EXTINF:-1 tvg-id="Awesome TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DW.png" group-title="马来西亚",马来西亚|Awesome TV
-http://127.0.0.1/smart.php?id=Dsangat
+http://127.0.0.1/smart.m3u8?id=Dsangat
 #EXTINF:-1 tvg-id="Astro Sonypix" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SONY.png" group-title="马来西亚",马来西亚|Astro Sonypix
-http://127.0.0.1/smart.php?id=Asonypix
+http://127.0.0.1/smart.m3u8?id=Asonypix
 #EXTINF:-1 tvg-id="Sony HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SONY.png" group-title="马来西亚",马来西亚|Sony HD
-http://127.0.0.1/smart.php?id=SetOne
+http://127.0.0.1/smart.m3u8?id=SetOne
 #EXTINF:-1 tvg-id="TvN" tvg-name="TVN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVN.png" group-title="马来西亚",马来西亚|TvN
-http://127.0.0.1/smart.php?id=TVN
+http://127.0.0.1/smart.m3u8?id=TVN
 #EXTINF:-1 tvg-id="AEC" tvg-name="AEC" tvg-logo="http://192.168.2.1:8090/logo/Astro AEC.png" group-title="马来西亚",马来西亚|AEC
-http://127.0.0.1/smart.php?id=AEC
+http://127.0.0.1/smart.m3u8?id=AEC
 #EXTINF:-1 tvg-id="华丽台 HD （Wah Lai Toi）" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AH.png" group-title="马来西亚",马来西亚|华丽台 HD （Wah Lai Toi）
-http://127.0.0.1/smart.php?id=Wlt
+http://127.0.0.1/smart.m3u8?id=Wlt
 #EXTINF:-1 tvg-id="欢喜台 HD （Hua Hee Tai）" tvg-logo="http://192.168.2.1:8090/logo/Astro Hua Hee Dai.png" group-title="马来西亚",马来西亚|欢喜台 HD （Hua Hee Tai）
-http://127.0.0.1/smart.php?id=Huahee
+http://127.0.0.1/smart.m3u8?id=Huahee
 #EXTINF:-1 tvg-id="Astro QJ" tvg-name="ASTROQJ" tvg-logo="http://192.168.2.1:8090/logo/Astro QJ.png" group-title="马来西亚",马来西亚|Astro QJ
-http://127.0.0.1/smart.php?id=Quanjia
+http://127.0.0.1/smart.m3u8?id=Quanjia
 #EXTINF:-1 tvg-id="TVB Jade" tvg-name="TVBJADE" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB1.png" group-title="马来西亚",马来西亚|TVB Jade
-http://127.0.0.1/smart.php?id=Tvbjade
+http://127.0.0.1/smart.m3u8?id=Tvbjade
 #EXTINF:-1 tvg-id="TVB Asia" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="马来西亚",马来西亚|TVB Asia
-http://127.0.0.1/smart.php?id=Tvbasia
+http://127.0.0.1/smart.m3u8?id=Tvbasia
 #EXTINF:-1 tvg-id="TVB Entertainment" tvg-name="TVBENTERTAINMENTNEWS" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png" group-title="马来西亚",马来西亚|TVB Entertainment
-http://127.0.0.1/smart.php?id=Tvbentertainment
+http://127.0.0.1/smart.m3u8?id=Tvbentertainment
 #EXTINF:-1 tvg-id="TVB Classic" tvg-name="TVBCLASSIC" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB8.png" group-title="马来西亚",马来西亚|TVB Classic
-http://127.0.0.1/smart.php?id=Tvbclassic
+http://127.0.0.1/smart.m3u8?id=Tvbclassic
 #EXTINF:-1 tvg-id="AOD" tvg-name="AOD" tvg-logo="http://192.168.2.1:8090/logo/Astro AOD.png" group-title="马来西亚",马来西亚|AOD
-http://127.0.0.1/smart.php?id=Aodhd
+http://127.0.0.1/smart.m3u8?id=Aodhd
 #EXTINF:-1 tvg-id="One" tvg-name="ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png" group-title="马来西亚",马来西亚|One
-http://127.0.0.1/smart.php?id=One
+http://127.0.0.1/smart.m3u8?id=One
 #EXTINF:-1 tvg-id="TVB 星河台 Xing He" tvg-name="TVB星河" tvg-logo="https://raw.githubusercontent.com/wanglindl/TVlogo/main/img/TVB6.png" group-title="马来西亚",马来西亚|TVB 星河台 Xing He
-http://127.0.0.1/smart.php?id=Xinhe
+http://127.0.0.1/smart.m3u8?id=Xinhe
 #EXTINF:-1 tvg-id="爱奇艺 iQiyi" tvg-name="IQIYI" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱奇艺.png" group-title="马来西亚",马来西亚|爱奇艺 iQiyi
-http://127.0.0.1/smart.php?id=Qiyi
+http://127.0.0.1/smart.m3u8?id=Qiyi
 #EXTINF:-1 tvg-id="Animal Planet (Eng)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ANIMALPLANET.png" group-title="马来西亚",马来西亚|Animal Planet (Eng)
-http://127.0.0.1/smart.php?id=AnimalPlanet
+http://127.0.0.1/smart.m3u8?id=AnimalPlanet
 #EXTINF:-1 tvg-id="tvN Movie" tvg-name="TVNMOVIES" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/tvn-movies.png" group-title="马来西亚",马来西亚|tvN Movie
-http://127.0.0.1/smart.php?id=Tvnmovie
+http://127.0.0.1/smart.m3u8?id=Tvnmovie
 #EXTINF:-1 tvg-id="CNN backup" tvg-name="CNN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNN.png" group-title="马来西亚",马来西亚|CNN backup
-http://127.0.0.1/smart.php?id=cnn_twn
+http://127.0.0.1/smart.m3u8?id=cnn_twn
 #EXTINF:-1 tvg-id="Celestial Classic" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MOVIE.png" group-title="马来西亚",马来西亚|Celestial Classic
-http://127.0.0.1/smart.php?id=Celestial2
+http://127.0.0.1/smart.m3u8?id=Celestial2
 #EXTINF:-1 tvg-id="CNBC" tvg-name="CNBCASIA(HD)" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/319_wbg_c_dfd95edee4.png" group-title="马来西亚",马来西亚|CNBC
-http://127.0.0.1/smart.php?id=cnbc_twn
+http://127.0.0.1/smart.m3u8?id=cnbc_twn
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TLC.png" group-title="马来西亚",马来西亚|TLC
-http://127.0.0.1/smart.php?id=Tlc
+http://127.0.0.1/smart.m3u8?id=Tlc
 #EXTINF:-1 tvg-id="CNA" tvg-name="CNA" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CNA.png" group-title="马来西亚",马来西亚|CNA
-http://127.0.0.1/smart.php?id=cna
+http://127.0.0.1/smart.m3u8?id=cna
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCWORLDNEWS.png" group-title="马来西亚",马来西亚|BBC World News
-http://127.0.0.1/smart.php?id=bbcnews_twn
+http://127.0.0.1/smart.m3u8?id=bbcnews_twn
 #EXTINF:-1 tvg-id="Foodnetwork Hd" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FOODNETWORK.png" group-title="马来西亚",马来西亚|Foodnetwork Hd
-http://127.0.0.1/smart.php?id=Foodnetwork
+http://127.0.0.1/smart.m3u8?id=Foodnetwork
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HGTV.png" group-title="马来西亚",马来西亚|HGTV
-http://127.0.0.1/smart.php?id=HGTV
+http://127.0.0.1/smart.m3u8?id=HGTV
 #EXTINF:-1 tvg-id="Goshop" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="马来西亚",马来西亚|Goshop
-http://127.0.0.1/smart.php?id=Goshop
+http://127.0.0.1/smart.m3u8?id=Goshop
 #EXTINF:-1 tvg-id="Celestial Movies HD" tvg-name="CELESTIALMOVIES" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MOVIE.png" group-title="马来西亚",马来西亚|Celestial Movies HD
-http://127.0.0.1/smart.php?id=Celestial
+http://127.0.0.1/smart.m3u8?id=Celestial
 #EXTINF:-1 tvg-id="Axn HD" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="马来西亚",马来西亚|Axn HD
-http://127.0.0.1/smart.php?id=Axn
+http://127.0.0.1/smart.m3u8?id=Axn
 #EXTINF:-1 tvg-id="Paramount Network" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/250px-Paramount_Network.svg.png" group-title="马来西亚",马来西亚|Paramount Network
-http://127.0.0.1/smart.php?id=Paramountnetwork
+http://127.0.0.1/smart.m3u8?id=Paramountnetwork
 #EXTINF:-1 tvg-id="Astrol Kplus" tvg-name="KPLUS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/8c/K_Plus_Asia_Logo.jpg/250px-K_Plus_Asia_Logo.jpg" group-title="马来西亚",马来西亚|Astrol Kplus
-http://127.0.0.1/smart.php?id=Kplus
+http://127.0.0.1/smart.m3u8?id=Kplus
 #EXTINF:-1 tvg-id="AFC 亚洲旅游台" tvg-name="亚洲旅游台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/亚洲旅游.png" group-title="马来西亚",马来西亚|AFC 亚洲旅游台
-http://127.0.0.1/smart.php?id=asiatravel_twn
+http://127.0.0.1/smart.m3u8?id=asiatravel_twn
 #EXTINF:-1 tvg-id="Rock Actions" tvg-name="ROCKACTION" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKACTION.png" group-title="马来西亚",马来西亚|Rock Actions
-http://127.0.0.1/smart.php?id=Rockaction
+http://127.0.0.1/smart.m3u8?id=Rockaction
 #EXTINF:-1 tvg-id="Bloomberg News" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BLOOMBERGTV.png" group-title="马来西亚",马来西亚|Bloomberg News
-http://127.0.0.1/smart.php?id=bloomberg_twn
+http://127.0.0.1/smart.m3u8?id=bloomberg_twn
 #EXTINF:-1 tvg-id="Al-Jazeera" tvg-name="ALJAZEERAENGLISH" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ALJAZEERA.png" group-title="马来西亚",马来西亚|Al-Jazeera
-http://127.0.0.1/smart.php?id=aljazeera_twn
+http://127.0.0.1/smart.m3u8?id=aljazeera_twn
 #EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="ROCKENTERTAINMENT" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKENTERTAINMENT.png" group-title="马来西亚",马来西亚|Rock Entertainment
-http://127.0.0.1/smart.php?id=Rockentertain
+http://127.0.0.1/smart.m3u8?id=Rockentertain
 #EXTINF:-1 tvg-id="RTM Sports HD" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/329_wbg_c_10d86ae07c.png" group-title="马来西亚",马来西亚|RTM Sports HD
-http://127.0.0.1/smart.php?id=Rtmsport
+http://127.0.0.1/smart.m3u8?id=Rtmsport
 #EXTINF:-1 tvg-id="Arena" tvg-name="ARENABOLA2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AH.png" group-title="马来西亚",马来西亚|Arena
-http://127.0.0.1/smart.php?id=Arena
+http://127.0.0.1/smart.m3u8?id=Arena
 #EXTINF:-1 tvg-id="Arena 2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AH.png" group-title="马来西亚",马来西亚|Arena 2
-http://127.0.0.1/smart.php?id=Arena2
+http://127.0.0.1/smart.m3u8?id=Arena2
 #EXTINF:-1 tvg-id="BolaArena 1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AH.png" group-title="马来西亚",马来西亚|BolaArena 1
-http://127.0.0.1/smart.php?id=Bolaarena1
+http://127.0.0.1/smart.m3u8?id=Bolaarena1
 #EXTINF:-1 tvg-id="BolaArena 2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AH.png" group-title="马来西亚",马来西亚|BolaArena 2
-http://127.0.0.1/smart.php?id=Bolaarena2
+http://127.0.0.1/smart.m3u8?id=Bolaarena2
 #EXTINF:-1 tvg-id="Astro LOL" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="马来西亚",马来西亚|Astro LOL
-http://127.0.0.1/smart.php?id=Astro_lol
+http://127.0.0.1/smart.m3u8?id=Astro_lol
 #EXTINF:-1 tvg-id="Astro Rusi" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="马来西亚",马来西亚|Astro Rusi
-http://127.0.0.1/smart.php?id=Rusi
+http://127.0.0.1/smart.m3u8?id=Rusi
 #EXTINF:-1 tvg-id="WION" tvg-name="WION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/WION_news_Logo.svg/1200px-WION_news_Logo.svg.png" group-title="马来西亚",马来西亚|WION
-http://127.0.0.1/smart.php?id=Wion
+http://127.0.0.1/smart.m3u8?id=Wion
 #EXTINF:-1 tvg-id="RTM Asean" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/329_wbg_c_10d86ae07c.png" group-title="马来西亚",马来西亚|RTM Asean
-http://127.0.0.1/smart.php?id=Rtmasean
+http://127.0.0.1/smart.m3u8?id=Rtmasean
 #EXTINF:-1 tvg-id="TVRI National" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="印尼",印尼|TVRI National
-http://127.0.0.1/smart.php?id=TVRI
+http://127.0.0.1/smart.m3u8?id=TVRI
 #EXTINF:-1 tvg-id="RCTI" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="印尼",印尼|RCTI
-http://127.0.0.1/smart.php?id=Rcti
+http://127.0.0.1/smart.m3u8?id=Rcti
 #EXTINF:-1 tvg-id="Kompass TV" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="印尼",印尼|Kompass TV
-http://127.0.0.1/smart.php?id=Kompass
+http://127.0.0.1/smart.m3u8?id=Kompass
 #EXTINF:-1 tvg-id="Berita Satu" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="印尼",印尼|Berita Satu
-http://127.0.0.1/smart.php?id=BeritaSatu_eko
+http://127.0.0.1/smart.m3u8?id=BeritaSatu_eko
 #EXTINF:-1 tvg-id="Indosiar HD" tvg-name="SIAR" tvg-logo="https://siar.my/wp-content/uploads/2020/04/SIAR-5.png" group-title="印尼",印尼|Indosiar HD
-http://127.0.0.1/smart.php?id=Indosiar
+http://127.0.0.1/smart.m3u8?id=Indosiar
 #EXTINF:-1 tvg-id="AnTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HWAZANTV.png" group-title="印尼",印尼|AnTV
-http://127.0.0.1/smart.php?id=Antv
+http://127.0.0.1/smart.m3u8?id=Antv
 #EXTINF:-1 tvg-id="MNC TV" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="印尼",印尼|MNC TV
-http://127.0.0.1/smart.php?id=Mnctv
+http://127.0.0.1/smart.m3u8?id=Mnctv
 #EXTINF:-1 tvg-id="Trans 7" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="印尼",印尼|Trans 7
-http://127.0.0.1/smart.php?id=Trans7_eko
+http://127.0.0.1/smart.m3u8?id=Trans7_eko
 #EXTINF:-1 tvg-id="Transtv" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="印尼",印尼|Transtv
-http://127.0.0.1/smart.php?id=Transtv
+http://127.0.0.1/smart.m3u8?id=Transtv
 #EXTINF:-1 tvg-id="JTV" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="印尼",印尼|JTV
-http://127.0.0.1/smart.php?id=JTV_eko
+http://127.0.0.1/smart.m3u8?id=JTV_eko
 #EXTINF:-1 tvg-id="Metro TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/600px-SPOTV_logo.svg.png" group-title="印尼",印尼|Metro TV
-http://127.0.0.1/smart.php?id=metrotv_eko
+http://127.0.0.1/smart.m3u8?id=metrotv_eko
 #EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/113_wbg_c_7976cb8257.png" group-title="印尼",印尼|Cinemax
-http://127.0.0.1/smart.php?id=Cinemax
+http://127.0.0.1/smart.m3u8?id=Cinemax
 #EXTINF:-1 tvg-id="SCTV" tvg-name="SCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SCTV2.png" group-title="印尼",印尼|SCTV
-http://127.0.0.1/smart.php?id=SCTV
+http://127.0.0.1/smart.m3u8?id=SCTV
 #EXTINF:-1 tvg-id="Tvone" tvg-name="ONE" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVONEHD.png" group-title="印尼",印尼|Tvone
-http://127.0.0.1/smart.php?id=Tvone
+http://127.0.0.1/smart.m3u8?id=Tvone
 #EXTINF:-1 tvg-id="TVMU" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CMUSIC.png" group-title="印尼",印尼|TVMU
-http://127.0.0.1/smart.php?id=TVMU_eko
+http://127.0.0.1/smart.m3u8?id=TVMU_eko
 #EXTINF:-1 tvg-id="GTV" tvg-name="GTV游戏竞技" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HGTV.png" group-title="印尼",印尼|GTV
-http://127.0.0.1/smart.php?id=Gtv
+http://127.0.0.1/smart.m3u8?id=Gtv
 #EXTINF:-1 tvg-id="RTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTDOC.png" group-title="印尼",印尼|RTV
-http://127.0.0.1/smart.php?id=Rtv
+http://127.0.0.1/smart.m3u8?id=Rtv
 #EXTINF:-1 tvg-id="Jak TV" tvg-name="KTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FTV1.png" group-title="印尼",印尼|Jak TV
-http://127.0.0.1/smart.php?id=JakTV
+http://127.0.0.1/smart.m3u8?id=JakTV
 #EXTINF:-1 tvg-id="iNews TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/INEWS.png" group-title="印尼",印尼|iNews TV
-http://127.0.0.1/smart.php?id=Inewstv
+http://127.0.0.1/smart.m3u8?id=Inewstv
 #EXTINF:-1 tvg-id="Daai TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DAAI.png" group-title="印尼",印尼|Daai TV
-http://127.0.0.1/smart.php?id=DaaiTV
+http://127.0.0.1/smart.m3u8?id=DaaiTV
 #EXTINF:-1 tvg-id="Net TV" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="印尼",印尼|Net TV
-http://127.0.0.1/smart.php?id=NetTV
+http://127.0.0.1/smart.m3u8?id=NetTV
 #EXTINF:-1 tvg-id="Animax" tvg-name="ANIMAX" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ANIMAX.png" group-title="印尼",印尼|Animax
-http://127.0.0.1/smart.php?id=Animax
+http://127.0.0.1/smart.m3u8?id=Animax
 #EXTINF:-1 tvg-id="EWTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DW.png" group-title="印尼",印尼|EWTN
-http://127.0.0.1/smart.php?id=Ewtn
+http://127.0.0.1/smart.m3u8?id=Ewtn
 #EXTINF:-1 tvg-id="AlQuran AlKareem" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="印尼",印尼|AlQuran AlKareem
-http://127.0.0.1/smart.php?id=AlQuran
+http://127.0.0.1/smart.m3u8?id=AlQuran
 #EXTINF:-1 tvg-id="Tawaf TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DW.png" group-title="印尼",印尼|Tawaf TV
-http://127.0.0.1/smart.php?id=TawafTV
+http://127.0.0.1/smart.m3u8?id=TawafTV
 #EXTINF:-1 tvg-id="Vision Prime" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="印尼",印尼|Vision Prime
-http://127.0.0.1/smart.php?id=VisionPrime
+http://127.0.0.1/smart.m3u8?id=VisionPrime
 #EXTINF:-1 tvg-id="Muslim TV" tvg-name="MTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MTV.png" group-title="印尼",印尼|Muslim TV
-http://127.0.0.1/smart.php?id=MuslimTV
+http://127.0.0.1/smart.m3u8?id=MuslimTV
 #EXTINF:-1 tvg-id="Music TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CMUSIC.png" group-title="印尼",印尼|Music TV
-http://127.0.0.1/smart.php?id=MusicTV
+http://127.0.0.1/smart.m3u8?id=MusicTV
 #EXTINF:-1 tvg-id="Lifestyle&Fashion" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LIFETIME.png" group-title="印尼",印尼|Lifestyle&Fashion
-http://127.0.0.1/smart.php?id=Lifestyle
+http://127.0.0.1/smart.m3u8?id=Lifestyle
 #EXTINF:-1 tvg-id="Entertain" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/E!ENTERTAINMENT.png" group-title="印尼",印尼|Entertain
-http://127.0.0.1/smart.php?id=Entertain
+http://127.0.0.1/smart.m3u8?id=Entertain
 #EXTINF:-1 tvg-id="Hits" tvg-name="HITS" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/513_wbg_c_9ba19450bd.png" group-title="印尼",印尼|Hits
-http://127.0.0.1/smart.php?id=Hits
+http://127.0.0.1/smart.m3u8?id=Hits
 #EXTINF:-1 tvg-id="Warner TV" tvg-name="WARNERTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/WARNERTV.png" group-title="印尼",印尼|Warner TV
-http://127.0.0.1/smart.php?id=WarnerTV
+http://127.0.0.1/smart.m3u8?id=WarnerTV
 #EXTINF:-1 tvg-id="SCM" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="印尼",印尼|SCM
-http://127.0.0.1/smart.php?id=Weishimovie
+http://127.0.0.1/smart.m3u8?id=Weishimovie
 #EXTINF:-1 tvg-id="Thrill" tvg-name="THRILL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/THRILL.png" group-title="印尼",印尼|Thrill
-http://127.0.0.1/smart.php?id=Thrill
+http://127.0.0.1/smart.m3u8?id=Thrill
 #EXTINF:-1 tvg-id="Fight Sports" tvg-name="FIGHTSPORTS(HD)" tvg-logo="https://tva.onscreenasia.com/wp-content/uploads/2018/08/TVA-29-August-6.png" group-title="印尼",印尼|Fight Sports
-http://127.0.0.1/smart.php?id=Fs
+http://127.0.0.1/smart.m3u8?id=Fs
 #EXTINF:-1 tvg-id="Hits Movie" tvg-name="HITSMOVIES(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MOVIE.png" group-title="印尼",印尼|Hits Movie
-http://127.0.0.1/smart.php?id=Hitsmovie
+http://127.0.0.1/smart.m3u8?id=Hitsmovie
 #EXTINF:-1 tvg-id="One" tvg-name="ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png" group-title="印尼",印尼|One
-http://127.0.0.1/smart.php?id=One
+http://127.0.0.1/smart.m3u8?id=One
 #EXTINF:-1 tvg-id="tvN Movie" tvg-name="TVNMOVIES" tvg-logo="https://astromedia.com.my/wp-content/uploads/2023/12/tvn-movies.png" group-title="印尼",印尼|tvN Movie
-http://127.0.0.1/smart.php?id=Tvnmovie
+http://127.0.0.1/smart.m3u8?id=Tvnmovie
 #EXTINF:-1 tvg-id="Celestial Movies HD" tvg-name="CELESTIALMOVIES" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MOVIE.png" group-title="印尼",印尼|Celestial Movies HD
-http://127.0.0.1/smart.php?id=Celestialindo
+http://127.0.0.1/smart.m3u8?id=Celestialindo
 #EXTINF:-1 tvg-id="Rock Actions" tvg-name="ROCKACTION" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKACTION.png" group-title="印尼",印尼|Rock Actions
-http://127.0.0.1/smart.php?id=Rockaction
+http://127.0.0.1/smart.m3u8?id=Rockaction
 #EXTINF:-1 tvg-id="Rock Entertainment" tvg-name="ROCKENTERTAINMENT" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ROCKENTERTAINMENT.png" group-title="印尼",印尼|Rock Entertainment
-http://127.0.0.1/smart.php?id=Rockentertain
+http://127.0.0.1/smart.m3u8?id=Rockentertain
 #EXTINF:-1 tvg-id="Sun TV HD" tvg-name="SUNTVHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/GOLDSUNTV.png" group-title="印度",印度|Sun TV HD
-http://127.0.0.1/smart.php?id=Suntv
+http://127.0.0.1/smart.m3u8?id=Suntv
 #EXTINF:-1 tvg-id="Star Vijay" tvg-name="STARVIJAY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="印度",印度|Star Vijay
-http://127.0.0.1/smart.php?id=Starvijay
+http://127.0.0.1/smart.m3u8?id=Starvijay
 #EXTINF:-1 tvg-id="Colors Tamil" tvg-name="COLORSTAMIL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CI.png" group-title="印度",印度|Colors Tamil
-http://127.0.0.1/smart.php?id=Colorstam
+http://127.0.0.1/smart.m3u8?id=Colorstam
 #EXTINF:-1 tvg-id="Sun Music" tvg-name="SUNMUSIC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CMUSIC.png" group-title="印度",印度|Sun Music
-http://127.0.0.1/smart.php?id=Sunmusic
+http://127.0.0.1/smart.m3u8?id=Sunmusic
 #EXTINF:-1 tvg-id="Astro Sunlife" tvg-name="SUNLIFE" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LIFETIME.png" group-title="印度",印度|Astro Sunlife
-http://127.0.0.1/smart.php?id=Sunlife
+http://127.0.0.1/smart.m3u8?id=Sunlife
 #EXTINF:-1 tvg-id="Astro Vaanavil" tvg-name="ASTROVAANAVIL" tvg-logo="http://192.168.2.1:8090/logo/Astro Vaanavil.png" group-title="印度",印度|Astro Vaanavil
-http://127.0.0.1/smart.php?id=Vaanavil
+http://127.0.0.1/smart.m3u8?id=Vaanavil
 #EXTINF:-1 tvg-id="Zee Tamil" tvg-name="ZEETAMIL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/Z.png" group-title="印度",印度|Zee Tamil
-http://127.0.0.1/smart.php?id=Zeetamil
+http://127.0.0.1/smart.m3u8?id=Zeetamil
 #EXTINF:-1 tvg-id="Zee Business" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/Z.png" group-title="印度",印度|Zee Business
-http://127.0.0.1/smart.php?id=Zeebusiness
+http://127.0.0.1/smart.m3u8?id=Zeebusiness
 #EXTINF:-1 tvg-id="News 18 Tamil" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DW.png" group-title="印度",印度|News 18 Tamil
-http://127.0.0.1/smart.php?id=news18tamil_raj
+http://127.0.0.1/smart.m3u8?id=news18tamil_raj
 #EXTINF:-1 tvg-id="Adithya" tvg-name="ADITHYA" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NBATV.png" group-title="印度",印度|Adithya
-http://127.0.0.1/smart.php?id=Adithya
+http://127.0.0.1/smart.m3u8?id=Adithya
 #EXTINF:-1 tvg-id="Makkal TV" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="印度",印度|Makkal TV
-http://127.0.0.1/smart.php?id=Makkaltv
+http://127.0.0.1/smart.m3u8?id=Makkaltv
 #EXTINF:-1 tvg-id="Zee Action" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/Z.png" group-title="印度",印度|Zee Action
-http://127.0.0.1/smart.php?id=Zeeaction
+http://127.0.0.1/smart.m3u8?id=Zeeaction
 #EXTINF:-1 tvg-id="Astro KTV" tvg-name="KTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FTV1.png" group-title="印度",印度|Astro KTV
-http://127.0.0.1/smart.php?id=Astroktv
+http://127.0.0.1/smart.m3u8?id=Astroktv
 #EXTINF:-1 tvg-id="Zee TV HD" tvg-name="ZEETV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/Z.png" group-title="印度",印度|Zee TV HD
-http://127.0.0.1/smart.php?id=Zeetvhd
+http://127.0.0.1/smart.m3u8?id=Zeetvhd
 #EXTINF:-1 tvg-id="Zee Cinema HD" tvg-name="ZEECINEMAHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CI.png" group-title="印度",印度|Zee Cinema HD
-http://127.0.0.1/smart.php?id=Zeecinemahd
+http://127.0.0.1/smart.m3u8?id=Zeecinemahd
 #EXTINF:-1 tvg-id="Color HD" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="印度",印度|Color HD
-http://127.0.0.1/smart.php?id=Colorhd
+http://127.0.0.1/smart.m3u8?id=Colorhd
 #EXTINF:-1 tvg-id="Starplus HD" tvg-name="STARPLUS" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="印度",印度|Starplus HD
-http://127.0.0.1/smart.php?id=Starplushd
+http://127.0.0.1/smart.m3u8?id=Starplushd
 #EXTINF:-1 tvg-id="Picture HD" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="印度",印度|Picture HD
-http://127.0.0.1/smart.php?id=Npicture
+http://127.0.0.1/smart.m3u8?id=Npicture
 #EXTINF:-1 tvg-id="Zee News" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/Z.png" group-title="印度",印度|Zee News
-http://127.0.0.1/smart.php?id=Zeenews
+http://127.0.0.1/smart.m3u8?id=Zeenews
 #EXTINF:-1 tvg-id="Asianet" tvg-name="ASIANET" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MOVIE.png" group-title="印度",印度|Asianet
-http://127.0.0.1/smart.php?id=asianet_raj
+http://127.0.0.1/smart.m3u8?id=asianet_raj
 #EXTINF:-1 tvg-id="Asianet News" tvg-name="ASIANET" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MOVIE.png" group-title="印度",印度|Asianet News
-http://127.0.0.1/smart.php?id=asianetnews_raj
+http://127.0.0.1/smart.m3u8?id=asianetnews_raj
 #EXTINF:-1 tvg-id="Discovery World Tamil" tvg-name="DISCOVERY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="印度",印度|Discovery World Tamil
-http://127.0.0.1/smart.php?id=discoveryworldtam_raj
+http://127.0.0.1/smart.m3u8?id=discoveryworldtam_raj
 #EXTINF:-1 tvg-id="History Tamil" tvg-name="HISTORY" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/223_wbg_c_711bca6ce6.png" group-title="印度",印度|History Tamil
-http://127.0.0.1/smart.php?id=historytam_raj
+http://127.0.0.1/smart.m3u8?id=historytam_raj
 #EXTINF:-1 tvg-id="NatGeo Tamil" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NATGEO.png" group-title="印度",印度|NatGeo Tamil
-http://127.0.0.1/smart.php?id=natgeotamil_raj
+http://127.0.0.1/smart.m3u8?id=natgeotamil_raj
 #EXTINF:-1 tvg-id="Natgeo Wild Tamil" tvg-name="NATGEOWILD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NATGEOWILD.png" group-title="印度",印度|Natgeo Wild Tamil
-http://127.0.0.1/smart.php?id=natgeowildtamil_raj
+http://127.0.0.1/smart.m3u8?id=natgeowildtamil_raj
 #EXTINF:-1 tvg-id="Astro Sonypix" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SONY.png" group-title="印度",印度|Astro Sonypix
-http://127.0.0.1/smart.php?id=Asonypix
+http://127.0.0.1/smart.m3u8?id=Asonypix
 #EXTINF:-1 tvg-id="Discovery Kids Tamil" tvg-name="DISCOVERY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="印度",印度|Discovery Kids Tamil
-http://127.0.0.1/smart.php?id=discoverykidtamil_raj
+http://127.0.0.1/smart.m3u8?id=discoverykidtamil_raj
 #EXTINF:-1 tvg-id="Discovery Tamil" tvg-name="DISCOVERY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DISCOVERY.png" group-title="印度",印度|Discovery Tamil
-http://127.0.0.1/smart.php?id=discoverytamil_raj
+http://127.0.0.1/smart.m3u8?id=discoverytamil_raj
 #EXTINF:-1 tvg-id="Sony Yay Tamil" tvg-name="SONYYAY" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SONY.png" group-title="印度",印度|Sony Yay Tamil
-http://127.0.0.1/smart.php?id=sonyyaytam_raj
+http://127.0.0.1/smart.m3u8?id=sonyyaytam_raj
 #EXTINF:-1 tvg-id="Sun TV India" tvg-name="SUNTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/GOLDSUNTV.png" group-title="印度",印度|Sun TV India
-http://127.0.0.1/smart.php?id=suntv_raj
+http://127.0.0.1/smart.m3u8?id=suntv_raj
 #EXTINF:-1 tvg-id="Starmaa HD" tvg-name="STARMAA" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AH.png" group-title="印度",印度|Starmaa HD
-http://127.0.0.1/smart.php?id=starmaa_raj
+http://127.0.0.1/smart.m3u8?id=starmaa_raj
 #EXTINF:-1 tvg-id="Starmaa Movies HD" tvg-name="MAAMOVIES" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MOVIE.png" group-title="印度",印度|Starmaa Movies HD
-http://127.0.0.1/smart.php?id=starmaamovies_raj
+http://127.0.0.1/smart.m3u8?id=starmaamovies_raj
 #EXTINF:-1 tvg-id="Bollyone" tvg-name="ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png" group-title="印度",印度|Bollyone
-http://127.0.0.1/smart.php?id=Bollyone
+http://127.0.0.1/smart.m3u8?id=Bollyone
 #EXTINF:-1 tvg-id="Astro Sunmusic" tvg-name="SUNMUSIC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CMUSIC.png" group-title="印度",印度|Astro Sunmusic
-http://127.0.0.1/smart.php?id=Sunmusic
+http://127.0.0.1/smart.m3u8?id=Sunmusic
 #EXTINF:-1 tvg-id="Vijay Super" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOUPE.png" group-title="印度",印度|Vijay Super
-http://127.0.0.1/smart.php?id=vijaysuper_raj
+http://127.0.0.1/smart.m3u8?id=vijaysuper_raj
 #EXTINF:-1 tvg-id="Vellithirai" tvg-logo="http://192.168.2.1:8090/logo/Astro Vellithirai.png" group-title="印度",印度|Vellithirai
-http://127.0.0.1/smart.php?id=Vellithirai
+http://127.0.0.1/smart.m3u8?id=Vellithirai
 #EXTINF:-1 tvg-id="Channel 3 Thailand" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="泰国",泰国|Channel 3 Thailand
-http://127.0.0.1/smart.php?id=ch3_pat
+http://127.0.0.1/smart.m3u8?id=ch3_pat
 #EXTINF:-1 tvg-id="Channel 5 Thailand" tvg-name="CHANNEL5" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="泰国",泰国|Channel 5 Thailand
-http://127.0.0.1/smart.php?id=ch5_pat
+http://127.0.0.1/smart.m3u8?id=ch5_pat
 #EXTINF:-1 tvg-id="Channel 7 Thailand" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="泰国",泰国|Channel 7 Thailand
-http://127.0.0.1/smart.php?id=ch7_pat
+http://127.0.0.1/smart.m3u8?id=ch7_pat
 #EXTINF:-1 tvg-id="MCOT HD Thailand-1" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="泰国",泰国|MCOT HD Thailand-1
-http://127.0.0.1/smart.php?id=mcot_pat
+http://127.0.0.1/smart.m3u8?id=mcot_pat
 #EXTINF:-1 tvg-id="PPTV Thailand1" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="泰国",泰国|PPTV Thailand1
-http://127.0.0.1/smart.php?id=pptv_pat
+http://127.0.0.1/smart.m3u8?id=pptv_pat
 #EXTINF:-1 tvg-id="Thai Thai" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="泰国",泰国|Thai Thai
-http://127.0.0.1/smart.php?id=thaithai_pat
+http://127.0.0.1/smart.m3u8?id=thaithai_pat
 #EXTINF:-1 tvg-id="Amarin" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="泰国",泰国|Amarin
-http://127.0.0.1/smart.php?id=amarin_pat
+http://127.0.0.1/smart.m3u8?id=amarin_pat
 #EXTINF:-1 tvg-id="Ch 8" tvg-name="CH8(HD)" tvg-logo="https://epg.112114.xyz/logo/CHANNEL8.png" group-title="泰国",泰国|Ch 8
-http://127.0.0.1/smart.php?id=ch8_pat
+http://127.0.0.1/smart.m3u8?id=ch8_pat
 #EXTINF:-1 tvg-id="GmmOne" tvg-name="ONE" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png" group-title="泰国",泰国|GmmOne
-http://127.0.0.1/smart.php?id=gmmone_pat
+http://127.0.0.1/smart.m3u8?id=gmmone_pat
 #EXTINF:-1 tvg-id="Mono" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="泰国",泰国|Mono
-http://127.0.0.1/smart.php?id=mono_pat
+http://127.0.0.1/smart.m3u8?id=mono_pat
 #EXTINF:-1 tvg-id="Thairath" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="泰国",泰国|Thairath
-http://127.0.0.1/smart.php?id=thairath_pat
+http://127.0.0.1/smart.m3u8?id=thairath_pat
 #EXTINF:-1 tvg-id="tpbs" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="泰国",泰国|tpbs
-http://127.0.0.1/smart.php?id=tpbs_pat
+http://127.0.0.1/smart.m3u8?id=tpbs_pat
 #EXTINF:-1 tvg-id="Workpoint" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DW.png" group-title="泰国",泰国|Workpoint
-http://127.0.0.1/smart.php?id=workpoint_pat
+http://127.0.0.1/smart.m3u8?id=workpoint_pat
 #EXTINF:-1 tvg-id="Gmm Channel" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="泰国",泰国|Gmm Channel
-http://127.0.0.1/smart.php?id=gmmchannel_pat
+http://127.0.0.1/smart.m3u8?id=gmmchannel_pat
 #EXTINF:-1 tvg-id="Nation" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/cc/One_TV_Asia_logo_%282020%29.png" group-title="泰国",泰国|Nation
-http://127.0.0.1/smart.php?id=nation_pat
+http://127.0.0.1/smart.m3u8?id=nation_pat
 #EXTINF:-1 tvg-id="Tnn24" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="泰国",泰国|Tnn24
-http://127.0.0.1/smart.php?id=tnn24_pat
+http://127.0.0.1/smart.m3u8?id=tnn24_pat
 #EXTINF:-1 tvg-id="Nbt" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="泰国",泰国|Nbt
-http://127.0.0.1/smart.php?id=nbt_pat
+http://127.0.0.1/smart.m3u8?id=nbt_pat
 #EXTINF:-1 tvg-id="New" tvg-name="NEWTV超级电视剧" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/INEWS.png" group-title="泰国",泰国|New
-http://127.0.0.1/smart.php?id=new_pat
+http://127.0.0.1/smart.m3u8?id=new_pat
 #EXTINF:-1 tvg-id="TPTV" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="泰国",泰国|TPTV
-http://127.0.0.1/smart.php?id=tptv_pat
+http://127.0.0.1/smart.m3u8?id=tptv_pat
 #EXTINF:-1 tvg-id="BBC 1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBC.png" group-title="英国",英国|BBC 1
-http://127.0.0.1/smart.php?id=bbc1_antik
+http://127.0.0.1/smart.m3u8?id=bbc1_antik
 #EXTINF:-1 tvg-id="BBC 2" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBC.png" group-title="英国",英国|BBC 2
-http://127.0.0.1/smart.php?id=bbc2_antik
+http://127.0.0.1/smart.m3u8?id=bbc2_antik
 #EXTINF:-1 tvg-id="CBBC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBC.png" group-title="英国",英国|CBBC
-http://127.0.0.1/smart.php?id=cbbc_antik
+http://127.0.0.1/smart.m3u8?id=cbbc_antik
 #EXTINF:-1 tvg-id="More4" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/LOVENARURE4K.png" group-title="英国",英国|More4
-http://127.0.0.1/smart.php?id=more4_antik
+http://127.0.0.1/smart.m3u8?id=more4_antik
 #EXTINF:-1 tvg-id="Freesports" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/329_wbg_c_10d86ae07c.png" group-title="英国",英国|Freesports
-http://127.0.0.1/smart.php?id=freesports_antik
+http://127.0.0.1/smart.m3u8?id=freesports_antik
 #EXTINF:-1 tvg-id="Skynews" tvg-name="SKYNEWSHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYNEWS.png" group-title="英国",英国|Skynews
-http://127.0.0.1/smart.php?id=skynews_twn
+http://127.0.0.1/smart.m3u8?id=skynews_twn
 #EXTINF:-1 tvg-id="Pick TV" tvg-name="KTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FTV1.png" group-title="英国",英国|Pick TV
-http://127.0.0.1/smart.php?id=picktv_antik
+http://127.0.0.1/smart.m3u8?id=picktv_antik
 #EXTINF:-1 tvg-id="itv 1" tvg-name="ITV1HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ITV1.png" group-title="英国",英国|itv 1
-http://127.0.0.1/smart.php?id=itv1_antik
+http://127.0.0.1/smart.m3u8?id=itv1_antik
 #EXTINF:-1 tvg-id="itv 2" tvg-name="ITV2HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ITV2.png" group-title="英国",英国|itv 2
-http://127.0.0.1/smart.php?id=itv2_antik
+http://127.0.0.1/smart.m3u8?id=itv2_antik
 #EXTINF:-1 tvg-id="Euronews" tvg-name="EURONEWS" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/326_wbg_c_27ac31ad19.png" group-title="英国",英国|Euronews
-http://127.0.0.1/smart.php?id=euronews_antik
+http://127.0.0.1/smart.m3u8?id=euronews_antik
 #EXTINF:-1 tvg-id="Channel 4" tvg-logo="https://i.guim.co.uk/img/media/b73cc57cb1d46ae742efd06b6c58805e8600d482/16_0_2443_1466/master/2443.jpg?width=700&quality=85&auto=format&fit=max&s=fb1dca6cdd4589cd9ef2fc941935de71" group-title="英国",英国|Channel 4
-http://127.0.0.1/smart.php?id=channel4_antik
+http://127.0.0.1/smart.m3u8?id=channel4_antik
 #EXTINF:-1 tvg-id="NatGeo HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NATGEO.png" group-title="英国",英国|NatGeo HD
-http://127.0.0.1/smart.php?id=Natgeo
+http://127.0.0.1/smart.m3u8?id=Natgeo
 #EXTINF:-1 tvg-id="CBeebies" tvg-name="CBEEBIES" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CBEEBIES.png" group-title="英国",英国|CBeebies
-http://127.0.0.1/smart.php?id=Cbeebies
+http://127.0.0.1/smart.m3u8?id=Cbeebies
 #EXTINF:-1 tvg-id="History" tvg-name="HISTORY" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/223_wbg_c_711bca6ce6.png" group-title="英国",英国|History
-http://127.0.0.1/smart.php?id=History
+http://127.0.0.1/smart.m3u8?id=History
 #EXTINF:-1 tvg-id="Kids TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MYKIDS.png" group-title="英国",英国|Kids TV
-http://127.0.0.1/smart.php?id=KidsTV
+http://127.0.0.1/smart.m3u8?id=KidsTV
 #EXTINF:-1 tvg-id="France 24" tvg-name="FRANCE24" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/FRANCE24.png" group-title="英国",英国|France 24
-http://127.0.0.1/smart.php?id=france24_twn
+http://127.0.0.1/smart.m3u8?id=france24_twn
 #EXTINF:-1 tvg-id="DW (Deutsch)" tvg-name="DW" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/DW.png" group-title="英国",英国|DW (Deutsch)
-http://127.0.0.1/smart.php?id=dw_twn
+http://127.0.0.1/smart.m3u8?id=dw_twn
 #EXTINF:-1 tvg-id="BBC Earth HD" tvg-name="BBCEARTHHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCEARTH.png" group-title="英国",英国|BBC Earth HD
-http://127.0.0.1/smart.php?id=bbcearth_twn
+http://127.0.0.1/smart.m3u8?id=bbcearth_twn
 #EXTINF:-1 tvg-id="BBC Earth Lifestyle" tvg-name="BBCEARTH" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCEARTH.png" group-title="英国",英国|BBC Earth Lifestyle
-http://127.0.0.1/smart.php?id=bbclifestyle_twn
+http://127.0.0.1/smart.m3u8?id=bbclifestyle_twn
 #EXTINF:-1 tvg-id="MTV Live" tvg-name="MTVLIVE" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MTVLIVE.png" group-title="英国",英国|MTV Live
-http://127.0.0.1/smart.php?id=mtvhd_twn
+http://127.0.0.1/smart.m3u8?id=mtvhd_twn
 #EXTINF:-1 tvg-id="Star Movies HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/STARMOVIESHD.png" group-title="英国",英国|Star Movies HD
-http://127.0.0.1/smart.php?id=starmovies_raj
+http://127.0.0.1/smart.m3u8?id=starmovies_raj
 #EXTINF:-1 tvg-id="NHK World" tvg-name="NHKWORLD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NHKWORLD.png" group-title="英国",英国|NHK World
-http://127.0.0.1/smart.php?id=nhkworld_japan
+http://127.0.0.1/smart.m3u8?id=nhkworld_japan
 #EXTINF:-1 tvg-id="Warner TV" tvg-name="WARNERTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/WARNERTV.png" group-title="英国",英国|Warner TV
-http://127.0.0.1/smart.php?id=WarnerTV
+http://127.0.0.1/smart.m3u8?id=WarnerTV
 #EXTINF:-1 tvg-id="HBO HD" tvg-name="HBOHD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HBOHD.png" group-title="英国",英国|HBO HD
-http://127.0.0.1/smart.php?id=Hbo
+http://127.0.0.1/smart.m3u8?id=Hbo
 #EXTINF:-1 tvg-id="NatGeo Wild HD" tvg-name="NATGEOWILD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NATGEOWILD.png" group-title="英国",英国|NatGeo Wild HD
-http://127.0.0.1/smart.php?id=Natgeowild
+http://127.0.0.1/smart.m3u8?id=Natgeowild
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="NICKELODEON" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKELODEON.png" group-title="英国",英国|Nickelodeon
-http://127.0.0.1/smart.php?id=Nickelodeon
+http://127.0.0.1/smart.m3u8?id=Nickelodeon
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="NICKJR" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NICKJR.png" group-title="英国",英国|Nick Jr
-http://127.0.0.1/smart.php?id=Nickjr
+http://127.0.0.1/smart.m3u8?id=Nickjr
 #EXTINF:-1 tvg-id="Thrill" tvg-name="THRILL" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/THRILL.png" group-title="英国",英国|Thrill
-http://127.0.0.1/smart.php?id=Thrill
+http://127.0.0.1/smart.m3u8?id=Thrill
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN.png" group-title="英国",英国|CGTN
-http://127.0.0.1/smart.php?id=CGTN
+http://127.0.0.1/smart.m3u8?id=CGTN
 #EXTINF:-1 tvg-id="Hits Movie" tvg-name="HITSMOVIES(HD)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/MOVIE.png" group-title="英国",英国|Hits Movie
-http://127.0.0.1/smart.php?id=Hitsmovie
+http://127.0.0.1/smart.m3u8?id=Hitsmovie
 #EXTINF:-1 tvg-id="Animal Planet (Eng)" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ANIMALPLANET.png" group-title="英国",英国|Animal Planet (Eng)
-http://127.0.0.1/smart.php?id=AnimalPlanet
+http://127.0.0.1/smart.m3u8?id=AnimalPlanet
 #EXTINF:-1 tvg-id="CNBC" tvg-name="CNBCASIA(HD)" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/319_wbg_c_dfd95edee4.png" group-title="英国",英国|CNBC
-http://127.0.0.1/smart.php?id=cnbc_twn
+http://127.0.0.1/smart.m3u8?id=cnbc_twn
 #EXTINF:-1 tvg-id="TLC" tvg-name="TLC" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TLC.png" group-title="英国",英国|TLC
-http://127.0.0.1/smart.php?id=Tlc
+http://127.0.0.1/smart.m3u8?id=Tlc
 #EXTINF:-1 tvg-id="BBC World News" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BBCWORLDNEWS.png" group-title="英国",英国|BBC World News
-http://127.0.0.1/smart.php?id=bbcworldnews_antik
+http://127.0.0.1/smart.m3u8?id=bbcworldnews_antik
 #EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HGTV.png" group-title="英国",英国|HGTV
-http://127.0.0.1/smart.php?id=HGTV
+http://127.0.0.1/smart.m3u8?id=HGTV
 #EXTINF:-1 tvg-id="Axn HD" tvg-name="AXN" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/AXN.png" group-title="英国",英国|Axn HD
-http://127.0.0.1/smart.php?id=Axn
+http://127.0.0.1/smart.m3u8?id=Axn
 #EXTINF:-1 tvg-id="Skysports F1" tvg-logo="https://epg.iill.top/logo/Sky-Sports-F1.png" group-title="英国",英国|Skysports F1
-http://127.0.0.1/smart.php?id=tiankongf1
+http://127.0.0.1/smart.m3u8?id=tiankongf1
 #EXTINF:-1 tvg-id="Skysports Cricket" tvg-name="CRICKET" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSCRICKET.png" group-title="英国",英国|Skysports Cricket
-http://127.0.0.1/smart.php?id=tiankongcricket
+http://127.0.0.1/smart.m3u8?id=tiankongcricket
 #EXTINF:-1 tvg-id="Bloomberg News" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/BLOOMBERGTV.png" group-title="英国",英国|Bloomberg News
-http://127.0.0.1/smart.php?id=bloomberg_twn
+http://127.0.0.1/smart.m3u8?id=bloomberg_twn
 #EXTINF:-1 tvg-id="Skysports EPL" tvg-logo="https://nowtv-strapi-bucket.s3.ap-southeast-1.amazonaws.com/329_wbg_c_10d86ae07c.png" group-title="英国",英国|Skysports EPL
-http://127.0.0.1/smart.php?id=tiankongepl
+http://127.0.0.1/smart.m3u8?id=tiankongepl
 #EXTINF:-1 tvg-id="Skysports Main Event" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSMAINEVENT.png" group-title="英国",英国|Skysports Main Event
-http://127.0.0.1/smart.php?id=tiankongmain
+http://127.0.0.1/smart.m3u8?id=tiankongmain
 #EXTINF:-1 tvg-id="Skysports News" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/SKYSPORTSNEWS.png" group-title="英国",英国|Skysports News
-http://127.0.0.1/smart.php?id=tiankongnews
+http://127.0.0.1/smart.m3u8?id=tiankongnews
 #EXTINF:-1 tvg-id="Al-Jazeera" tvg-name="ALJAZEERAENGLISH" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/ALJAZEERA.png" group-title="英国",英国|Al-Jazeera
-http://127.0.0.1/smart.php?id=aljazeera_twn
+http://127.0.0.1/smart.m3u8?id=aljazeera_twn
