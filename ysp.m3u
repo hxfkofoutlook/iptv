@@ -45,7 +45,7 @@ http://127.0.0.1/PLTV/?yspid=CGTN
 #EXTINF:-1 tvg-name="CGTN法语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN法语.png" group-title="央视频道",CGTN法语
 http://127.0.0.1/PLTV/?yspid=CGTN法语
 #EXTINF:-1 tvg-name="CGTN俄语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN俄语.png" group-title="央视频道",CGTN俄语
-http://127.0.0.1/PLTV/?yspid=CGTN俄语频道
+http://127.0.0.1/PLTV/?yspid=CGTN俄语
 #EXTINF:-1 tvg-name="CGTN阿拉伯语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN阿拉伯语.png" group-title="央视频道",CGTN阿拉伯语
 http://127.0.0.1/PLTV/?yspid=CGTN阿拉伯语
 #EXTINF:-1 tvg-name="CGTN西班牙语" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CGTN西班牙语.png" group-title="央视频道",CGTN西班牙语
