@@ -125,6 +125,6 @@ http://127.0.0.1/PLTV/?yspid=西藏卫视
 #EXTINF:-1 tvg-name="兵团卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/兵团卫视.png" group-title="卫视频道",兵团卫视
 http://127.0.0.1/PLTV/?yspid=兵团卫视
 #EXTINF:-1 tvg-name="CETV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1.png" group-title="卫视频道",CETV1
-http://127.0.0.1/PLTV/?yspid=cetv1
+http://127.0.0.1/PLTV/?yspid=CETV1
 #EXTINF:-1 tvg-name="国学" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CETV1.png" group-title="卫视频道",国学频道
 http://127.0.0.1/PLTV/?yspid=国学频道
