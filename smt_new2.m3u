@@ -1,4 +1,118 @@
 #EXTM3U x-tvg-url="https://epg.iill.top/epg.xml.gz"
+#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV-6 電影" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07dd54a5b01_AQwz.png" group-title="电影频道",CCTV-6 電影
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cctv6
+#EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a214c5249a75_DKEB.png" group-title="电影频道",HBO_HD
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=hbohd_twn
+#EXTINF:-1 tvg-id="hbohits_twn" tvg-name="HBO_HITS" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a98c1dfc0d15_7wpj.png" group-title="电影频道",HBO_HITS
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=hbohits_twn
+#EXTINF:-1 tvg-id="hbosignature_twn" tvg-name="HBO Signature Taiwan" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a1fa102b_37U1.png" group-title="电影频道",HBO Signature Taiwan
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=hbosignature_twn
+#EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood Movies" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fe14e0a469_2mEo.png" group-title="电影频道",Hollywood Movies
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=hollywoodmovies_twn
+#EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a214f430ba32_4W5w.png" group-title="电影频道",AXN Taiwan
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=axn_twn
+#EXTINF:-1 tvg-id="cinemax_twn" tvg-name="CINEMAX" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07dbea69aba_ufhU.png" group-title="电影频道",CINEMAX
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cinemax_twn
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65018cd0f1d7d_57r5.png" group-title="电影频道",Cinemax
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Cinemax
+#EXTINF:-1 tvg-id="daai2_twn" tvg-name="大爱2台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/62caac4b4e685_4aD4.png" group-title="电影频道",大爱2台
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=daai2_twn
+#EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影 ETTV Movie" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2151e2716d5_9LKH.jpg" group-title="电影频道",东森电影 ETTV Movie
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ettvmovie
+#EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片 ETTV Western" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687359d5b4f76_uR3E.jpg" group-title="电影频道",东森洋片 ETTV Western
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ettvwestern
+#EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龙华洋片 Lunghua Western" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21049520fc1_QIVj.png" group-title="电影频道",龙华洋片 Lunghua Western
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=lunghuawestern_twn
+#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59b103887_nVWq.png" group-title="电影频道",Animax
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Animax
+#EXTINF:-1 tvg-id="lungxiangtime_twn" tvg-name="龙详时代" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4745db8d4f_IsS5.jpg" group-title="电影频道",龙详时代
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=lungxiangtime_twn
+#EXTINF:-1 tvg-id="moviesnow_raj" tvg-name="Movies Now HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ff2f91b795d2_KROR.png" group-title="电影频道",Movies Now HD
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=moviesnow_raj
+#EXTINF:-1 tvg-id="starmovies_raj" tvg-name="Star Movies HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ff2fd101059d_XUc4.png" group-title="电影频道",Star Movies HD
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=starmovies_raj
+#EXTINF:-1 tvg-id="weishichinese_twn" tvg-name="卫视中文台 Star Movies Chinese" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16ef902a949_C0FF.jpg" group-title="电影频道",卫视中文台 Star Movies Chinese
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=weishichinese_twn
+#EXTINF:-1 tvg-id="Hits" tvg-name="Hits" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59d6a6de1_8h0h.png" group-title="电影频道",Hits
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Hits
+#EXTINF:-1 tvg-id="WarnerTV" tvg-name="Warner TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59eb3a668_w1aF.png" group-title="电影频道",Warner TV
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=WarnerTV
+#EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="美亚电影" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f2edf3bc7057_sF6F.png" group-title="电影频道",美亚电影
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-id="Weishimovie" tvg-name="SCM" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5a1f01819_pHwR.png" group-title="电影频道",SCM
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Weishimovie
+#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5a44bfe16_FwQ7.png" group-title="电影频道",Thrill
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Thrill
+#EXTINF:-1 tvg-id="Hbofamily" tvg-name="HBO Family" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/645e165a87fea_Llf4.png" group-title="电影频道",HBO Family
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Hbofamily
+#EXTINF:-1 tvg-id="Axn" tvg-name="Axn HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2166dcd0c33_p0em.png" group-title="电影频道",Axn HD
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Axn
+#EXTINF:-1 tvg-id="Hbo" tvg-name="HBO HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a216594043cc_iIRr.png" group-title="电影频道",HBO HD
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Hbo
+#EXTINF:-1 tvg-id="Hbosignature" tvg-name="HBO Signature" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64e03ea042dbb_AX33.png" group-title="电影频道",HBO Signature
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Hbosignature
+#EXTINF:-1 tvg-id="Hbohitshd" tvg-name="HBO Hits" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6624d76b20337_4k7x.png" group-title="电影频道",HBO Hits
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Hbohitshd
+#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6678f8fdc31dc_1E9W.png" group-title="电影频道",Dreamworks
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Dreamworks
+#EXTINF:-1 tvg-id="Hitsmovie" tvg-name="Hits Movie" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5b0bec9f9_EFfE.png" group-title="电影频道",Hits Movie
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Hitsmovie
+#EXTINF:-1 tvg-id="Tvnmovie" tvg-name="tvN Movie" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6046399aabce3_PKQH.jpg" group-title="电影频道",tvN Movie
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Tvnmovie
+#EXTINF:-1 tvg-id="Kplus" tvg-name="Astrol Kplus" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/640080a3bebdf_2Zm2.png" group-title="电影频道",Astrol Kplus
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Kplus
+#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59ffa80a7_H00Q.png" group-title="电影频道",One
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=One
+#EXTINF:-1 tvg-id="Celestialindo" tvg-name="天映頻道Celestial Movies" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68735747ca2b9_622X.webp" group-title="电影频道",天映頻道Celestial Movies
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Celestialindo
+#EXTINF:-1 tvg-id="Celestial2" tvg-name="Celestial Classic" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b3df32c37b0b_2c1C.jpg" group-title="电影频道",Celestial Classic
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Celestial2
+#EXTINF:-1 tvg-id="Rockaction" tvg-name="Rock Actions" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/646898c9642fe_D9Re.jpg" group-title="电影频道",Rock Actions
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Rockaction
+#EXTINF:-1 tvg-id="Rockentertain" tvg-name="Rock Entertainment" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/646898eea5975_32x1.jpg" group-title="电影频道",Rock Entertainment
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Rockentertain
+#EXTINF:-1 tvg-id="ci_twn" tvg-name="CI" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a98f24ab1e1e_lcJU.png" group-title="纪录频道",CI
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ci_twn
+#EXTINF:-1 tvg-id="asiatravel_twn" tvg-name="Asia Travel" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e202a1f2a_rv0X.png" group-title="纪录频道",Asia Travel
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=asiatravel_twn
+#EXTINF:-1 tvg-id="afc_twn" tvg-name="亚洲美食" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cb6e4ec03_5cx5.jpg" group-title="纪录频道",亚洲美食
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=afc_twn
+#EXTINF:-1 tvg-id="Natgeo" tvg-name="NatGeo HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5fa3ba3874dd6_052Z.png" group-title="纪录频道",NatGeo HD
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Natgeo
+#EXTINF:-1 tvg-id="fashiontv_twn" tvg-name="Fashion TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f6b2d6f239ec_Oob3.jpg" group-title="纪录频道",Fashion TV
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=fashiontv_twn
+#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e090ed797_tvMv.png" group-title="纪录频道",History
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=History
+#EXTINF:-1 tvg-id="bbcearth_twn" tvg-name="BBC Earth HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4ccb450d60_liZo.jpg" group-title="纪录频道",BBC Earth HD
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=bbcearth_twn
+#EXTINF:-1 tvg-id="bbclifestyle_twn" tvg-name="BBC Earth Lifestyle" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cce6aa24d_WykD.jpg" group-title="纪录频道",BBC Earth Lifestyle
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=bbclifestyle_twn
+#EXTINF:-1 tvg-id="tlc_twn" tvg-name="亚洲旅游 TLC Asia" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d38506957_oDZu.jpg" group-title="纪录频道",亚洲旅游 TLC Asia
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=tlc_twn
+#EXTINF:-1 tvg-id="mtvhd_twn" tvg-name="MTV Live" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d0fabc707_0V7z.jpg" group-title="纪录频道",MTV Live
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=mtvhd_twn
+#EXTINF:-1 tvg-id="Natgeowild" tvg-name="NatGeo_Wild HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a98f64207d24_Z7IR.png" group-title="纪录频道",NatGeo_Wild HD
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Natgeowild
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal_Planet" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e0b6e4e25_1t87.png" group-title="纪录频道",Animal_Planet
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=AnimalPlanet
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6230103f0133e_OdSA.png" group-title="纪录频道",HGTV
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=HGTV
+#EXTINF:-1 tvg-id="Tlc" tvg-name="TLC" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b502a10ccb7c_HELo.png" group-title="纪录频道",TLC
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Tlc
+#EXTINF:-1 tvg-id="Foodnetwork" tvg-name="Foodnetwork Hd" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6319a9164e71e_3i8V.png" group-title="纪录频道",Foodnetwork Hd
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Foodnetwork
+#EXTINF:-1 tvg-id="Afc" tvg-name="Asia Food Network" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6915b1b5d62a3_A6Zw.png" group-title="纪录频道",Asia Food Network
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Afc
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet (Eng)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ecf924651f26_c7eN.png" group-title="纪录频道",Animal Planet (Eng)
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=AnimalPlanet
+#EXTINF:-1 tvg-id="Natgeowild" tvg-name="NatGeo Wild HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f5238eb84441_i5BZ.png" group-title="纪录频道",NatGeo Wild HD
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Natgeowild
+#EXTINF:-1 tvg-id="Discoveryasia" tvg-name="Discovery Asia" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbccddd541a_zfGf.png" group-title="纪录频道",Discovery Asia
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Discoveryasia
+#EXTINF:-1 tvg-id="Dmax" tvg-name="Dmax" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcd907aad2_kPeK.jpeg" group-title="纪录频道",Dmax
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Dmax
+#EXTINF:-1 tvg-id="discoverych_twn" tvg-name="探索频道" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6899b0b5131a2_T2qC.png" group-title="纪录频道",探索频道
+http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=discoverych_twn
 #EXTINF:-1 tvg-id="TV1" tvg-name="TV1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5c133979efad5_VpBu.png" group-title="马来西亚",TV1
 http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=TV1
 #EXTINF:-1 tvg-id="TV1_backup" tvg-name="TV1 backup" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6432c5ba2b936_0iGE.png" group-title="马来西亚",TV1 backup
@@ -943,120 +1057,6 @@ http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Cnn
 http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cnn_twn
 #EXTINF:-1 tvg-id="cna" tvg-name="CNA" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687b15728f76b_8JYq.svg" group-title="Singapore",CNA
 http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cna
-#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV-6 電影" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07dd54a5b01_AQwz.png" group-title="电影频道",CCTV-6 電影
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cctv6
-#EXTINF:-1 tvg-id="hbohd_twn" tvg-name="HBO_HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a214c5249a75_DKEB.png" group-title="电影频道",HBO_HD
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=hbohd_twn
-#EXTINF:-1 tvg-id="hbohits_twn" tvg-name="HBO_HITS" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a98c1dfc0d15_7wpj.png" group-title="电影频道",HBO_HITS
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=hbohits_twn
-#EXTINF:-1 tvg-id="hbosignature_twn" tvg-name="HBO Signature Taiwan" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68937a1fa102b_37U1.png" group-title="电影频道",HBO Signature Taiwan
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=hbosignature_twn
-#EXTINF:-1 tvg-id="hollywoodmovies_twn" tvg-name="Hollywood Movies" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a0fe14e0a469_2mEo.png" group-title="电影频道",Hollywood Movies
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=hollywoodmovies_twn
-#EXTINF:-1 tvg-id="axn_twn" tvg-name="AXN Taiwan" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a214f430ba32_4W5w.png" group-title="电影频道",AXN Taiwan
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=axn_twn
-#EXTINF:-1 tvg-id="cinemax_twn" tvg-name="CINEMAX" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07dbea69aba_ufhU.png" group-title="电影频道",CINEMAX
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=cinemax_twn
-#EXTINF:-1 tvg-id="Cinemax" tvg-name="Cinemax" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/65018cd0f1d7d_57r5.png" group-title="电影频道",Cinemax
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Cinemax
-#EXTINF:-1 tvg-id="daai2_twn" tvg-name="大爱2台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/62caac4b4e685_4aD4.png" group-title="电影频道",大爱2台
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=daai2_twn
-#EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影 ETTV Movie" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2151e2716d5_9LKH.jpg" group-title="电影频道",东森电影 ETTV Movie
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ettvmovie
-#EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片 ETTV Western" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687359d5b4f76_uR3E.jpg" group-title="电影频道",东森洋片 ETTV Western
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ettvwestern
-#EXTINF:-1 tvg-id="lunghuawestern_twn" tvg-name="龙华洋片 Lunghua Western" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21049520fc1_QIVj.png" group-title="电影频道",龙华洋片 Lunghua Western
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=lunghuawestern_twn
-#EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59b103887_nVWq.png" group-title="电影频道",Animax
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Animax
-#EXTINF:-1 tvg-id="lungxiangtime_twn" tvg-name="龙详时代" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4745db8d4f_IsS5.jpg" group-title="电影频道",龙详时代
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=lungxiangtime_twn
-#EXTINF:-1 tvg-id="moviesnow_raj" tvg-name="Movies Now HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ff2f91b795d2_KROR.png" group-title="电影频道",Movies Now HD
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=moviesnow_raj
-#EXTINF:-1 tvg-id="starmovies_raj" tvg-name="Star Movies HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ff2fd101059d_XUc4.png" group-title="电影频道",Star Movies HD
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=starmovies_raj
-#EXTINF:-1 tvg-id="weishichinese_twn" tvg-name="卫视中文台 Star Movies Chinese" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f16ef902a949_C0FF.jpg" group-title="电影频道",卫视中文台 Star Movies Chinese
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=weishichinese_twn
-#EXTINF:-1 tvg-id="Hits" tvg-name="Hits" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59d6a6de1_8h0h.png" group-title="电影频道",Hits
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Hits
-#EXTINF:-1 tvg-id="WarnerTV" tvg-name="Warner TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59eb3a668_w1aF.png" group-title="电影频道",Warner TV
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=WarnerTV
-#EXTINF:-1 tvg-id="meiyamovie_twn" tvg-name="美亚电影" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f2edf3bc7057_sF6F.png" group-title="电影频道",美亚电影
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=meiyamovie_twn
-#EXTINF:-1 tvg-id="Weishimovie" tvg-name="SCM" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5a1f01819_pHwR.png" group-title="电影频道",SCM
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Weishimovie
-#EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5a44bfe16_FwQ7.png" group-title="电影频道",Thrill
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Thrill
-#EXTINF:-1 tvg-id="Hbofamily" tvg-name="HBO Family" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/645e165a87fea_Llf4.png" group-title="电影频道",HBO Family
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Hbofamily
-#EXTINF:-1 tvg-id="Axn" tvg-name="Axn HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2166dcd0c33_p0em.png" group-title="电影频道",Axn HD
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Axn
-#EXTINF:-1 tvg-id="Hbo" tvg-name="HBO HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a216594043cc_iIRr.png" group-title="电影频道",HBO HD
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Hbo
-#EXTINF:-1 tvg-id="Hbosignature" tvg-name="HBO Signature" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/64e03ea042dbb_AX33.png" group-title="电影频道",HBO Signature
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Hbosignature
-#EXTINF:-1 tvg-id="Hbohitshd" tvg-name="HBO Hits" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6624d76b20337_4k7x.png" group-title="电影频道",HBO Hits
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Hbohitshd
-#EXTINF:-1 tvg-id="Dreamworks" tvg-name="Dreamworks" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6678f8fdc31dc_1E9W.png" group-title="电影频道",Dreamworks
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Dreamworks
-#EXTINF:-1 tvg-id="Hitsmovie" tvg-name="Hits Movie" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d5b0bec9f9_EFfE.png" group-title="电影频道",Hits Movie
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Hitsmovie
-#EXTINF:-1 tvg-id="Tvnmovie" tvg-name="tvN Movie" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6046399aabce3_PKQH.jpg" group-title="电影频道",tvN Movie
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Tvnmovie
-#EXTINF:-1 tvg-id="Kplus" tvg-name="Astrol Kplus" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/640080a3bebdf_2Zm2.png" group-title="电影频道",Astrol Kplus
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Kplus
-#EXTINF:-1 tvg-id="One" tvg-name="One" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/607d59ffa80a7_H00Q.png" group-title="电影频道",One
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=One
-#EXTINF:-1 tvg-id="Celestialindo" tvg-name="天映頻道Celestial Movies" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68735747ca2b9_622X.webp" group-title="电影频道",天映頻道Celestial Movies
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Celestialindo
-#EXTINF:-1 tvg-id="Celestial2" tvg-name="Celestial Classic" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b3df32c37b0b_2c1C.jpg" group-title="电影频道",Celestial Classic
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Celestial2
-#EXTINF:-1 tvg-id="Rockaction" tvg-name="Rock Actions" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/646898c9642fe_D9Re.jpg" group-title="电影频道",Rock Actions
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Rockaction
-#EXTINF:-1 tvg-id="Rockentertain" tvg-name="Rock Entertainment" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/646898eea5975_32x1.jpg" group-title="电影频道",Rock Entertainment
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Rockentertain
-#EXTINF:-1 tvg-id="ci_twn" tvg-name="CI" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a98f24ab1e1e_lcJU.png" group-title="纪录频道",CI
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=ci_twn
-#EXTINF:-1 tvg-id="asiatravel_twn" tvg-name="Asia Travel" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e202a1f2a_rv0X.png" group-title="纪录频道",Asia Travel
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=asiatravel_twn
-#EXTINF:-1 tvg-id="afc_twn" tvg-name="亚洲美食" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cb6e4ec03_5cx5.jpg" group-title="纪录频道",亚洲美食
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=afc_twn
-#EXTINF:-1 tvg-id="Natgeo" tvg-name="NatGeo HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5fa3ba3874dd6_052Z.png" group-title="纪录频道",NatGeo HD
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Natgeo
-#EXTINF:-1 tvg-id="fashiontv_twn" tvg-name="Fashion TV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f6b2d6f239ec_Oob3.jpg" group-title="纪录频道",Fashion TV
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=fashiontv_twn
-#EXTINF:-1 tvg-id="History" tvg-name="History" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e090ed797_tvMv.png" group-title="纪录频道",History
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=History
-#EXTINF:-1 tvg-id="bbcearth_twn" tvg-name="BBC Earth HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4ccb450d60_liZo.jpg" group-title="纪录频道",BBC Earth HD
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=bbcearth_twn
-#EXTINF:-1 tvg-id="bbclifestyle_twn" tvg-name="BBC Earth Lifestyle" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4cce6aa24d_WykD.jpg" group-title="纪录频道",BBC Earth Lifestyle
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=bbclifestyle_twn
-#EXTINF:-1 tvg-id="tlc_twn" tvg-name="亚洲旅游 TLC Asia" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d38506957_oDZu.jpg" group-title="纪录频道",亚洲旅游 TLC Asia
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=tlc_twn
-#EXTINF:-1 tvg-id="mtvhd_twn" tvg-name="MTV Live" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d0fabc707_0V7z.jpg" group-title="纪录频道",MTV Live
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=mtvhd_twn
-#EXTINF:-1 tvg-id="Natgeowild" tvg-name="NatGeo_Wild HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a98f64207d24_Z7IR.png" group-title="纪录频道",NatGeo_Wild HD
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Natgeowild
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal_Planet" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07e0b6e4e25_1t87.png" group-title="纪录频道",Animal_Planet
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=AnimalPlanet
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6230103f0133e_OdSA.png" group-title="纪录频道",HGTV
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=HGTV
-#EXTINF:-1 tvg-id="Tlc" tvg-name="TLC" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b502a10ccb7c_HELo.png" group-title="纪录频道",TLC
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Tlc
-#EXTINF:-1 tvg-id="Foodnetwork" tvg-name="Foodnetwork Hd" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6319a9164e71e_3i8V.png" group-title="纪录频道",Foodnetwork Hd
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Foodnetwork
-#EXTINF:-1 tvg-id="Afc" tvg-name="Asia Food Network" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6915b1b5d62a3_A6Zw.png" group-title="纪录频道",Asia Food Network
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Afc
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="Animal Planet (Eng)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ecf924651f26_c7eN.png" group-title="纪录频道",Animal Planet (Eng)
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=AnimalPlanet
-#EXTINF:-1 tvg-id="Natgeowild" tvg-name="NatGeo Wild HD" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f5238eb84441_i5BZ.png" group-title="纪录频道",NatGeo Wild HD
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Natgeowild
-#EXTINF:-1 tvg-id="Discoveryasia" tvg-name="Discovery Asia" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbccddd541a_zfGf.png" group-title="纪录频道",Discovery Asia
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Discoveryasia
-#EXTINF:-1 tvg-id="Dmax" tvg-name="Dmax" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68cbcd907aad2_kPeK.jpeg" group-title="纪录频道",Dmax
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=Dmax
-#EXTINF:-1 tvg-id="discoverych_twn" tvg-name="探索频道" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6899b0b5131a2_T2qC.png" group-title="纪录频道",探索频道
-http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=discoverych_twn
 #EXTINF:-1 tvg-id="bbc1_antik" tvg-name="BBC 1" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f9181361dee5_MDjl.jpg" group-title="英国",BBC 1
 http://www.douyin-cdn.dns-dynamic.net/xsmt.php?id=bbc1_antik
 #EXTINF:-1 tvg-id="bbc2_antik" tvg-name="BBC 2" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5f91814fb3817_6fDV.jpg" group-title="英国",BBC 2
