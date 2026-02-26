@@ -1,819 +1,820 @@
 #EXTM3U x-tvg-url="https://epg.tv.darwinchow.com/epg.xml.gz"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV1.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-1综合
-https://127.0.0.1/channel/cctv1?streamid=48c1974280a3a6456c75be0030beaef3&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv1?streamid=48c1974280a3a6456c75be0030beaef3
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV1.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-1综合
-https://127.0.0.1/channel/cctv1?streamid=998729a1cb7cf591d704867af0706fcc&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv1?streamid=998729a1cb7cf591d704867af0706fcc
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV1.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-1综合
-https://127.0.0.1/channel/cctv1?streamid=4cadc2911b4ea6d1547ec217d4a89636&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv1?streamid=4cadc2911b4ea6d1547ec217d4a89636
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV1.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-1综合
-https://127.0.0.1/channel/cctv1?streamid=a0be365ff6a320be467e29a5a20cd153&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv1?streamid=a0be365ff6a320be467e29a5a20cd153
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV1.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-1综合
-https://127.0.0.1/channel/cctv1?streamid=7c2ca36ec3508f1d1d7aae0ffcc20640&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv1?streamid=7c2ca36ec3508f1d1d7aae0ffcc20640
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV1.png" group-title="央视",CCTV-1综合
-https://127.0.0.1/channel/cctv1?streamid=f3c88f5bed400d18fdad31f3ab120932&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv1?streamid=f3c88f5bed400d18fdad31f3ab120932
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV1.png" group-title="央视",CCTV-1综合
-https://127.0.0.1/channel/cctv1?streamid=67d3df9cb5a4c6ff36233ffeebae5243&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv1?streamid=67d3df9cb5a4c6ff36233ffeebae5243
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV1.png" group-title="央视",CCTV-1综合
-https://127.0.0.1/channel/cctv1?streamid=b1ec02ed02e333bbef63c4eaf6b8be05&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv1?streamid=b1ec02ed02e333bbef63c4eaf6b8be05
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV1.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-1综合
-https://127.0.0.1/channel/cctv1?streamid=2374643d674cdf8371ff7faab7301ca9&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv1?streamid=2374643d674cdf8371ff7faab7301ca9
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV2.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-2财经
-https://127.0.0.1/channel/cctv2?streamid=3ad8659873beb150fd0c70e2762d1f51&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv2?streamid=3ad8659873beb150fd0c70e2762d1f51
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV2.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-2财经
-https://127.0.0.1/channel/cctv2?streamid=9b5a7335fd8ad80130013d1a0ac12cc5&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv2?streamid=9b5a7335fd8ad80130013d1a0ac12cc5
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV2.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-2财经
-https://127.0.0.1/channel/cctv2?streamid=03bad19e7d6d7984e79b31bbcf7e3c35&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv2?streamid=03bad19e7d6d7984e79b31bbcf7e3c35
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV2.png" group-title="央视",CCTV-2财经
-https://127.0.0.1/channel/cctv2?streamid=6c99eea9d4ab7ab7060aee325896ce15&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv2?streamid=6c99eea9d4ab7ab7060aee325896ce15
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV2.png" group-title="央视",CCTV-2财经
-https://127.0.0.1/channel/cctv2?streamid=180430fb8fa7c063eee7a81a514dd67b&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv2?streamid=180430fb8fa7c063eee7a81a514dd67b
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV2.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-2财经
-https://127.0.0.1/channel/cctv2?streamid=d57c163ec36ff7546035effe068a0f92&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv2?streamid=d57c163ec36ff7546035effe068a0f92
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV3.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-3综艺
-https://127.0.0.1/channel/cctv3?streamid=eb965ce72d50a8223f2a0bf3b9aa7f22&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv3?streamid=eb965ce72d50a8223f2a0bf3b9aa7f22
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV3.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-3综艺
-https://127.0.0.1/channel/cctv3?streamid=8d9bc9cf7929e2315bf7d380324a8884&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv3?streamid=8d9bc9cf7929e2315bf7d380324a8884
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV3.png" group-title="央视",CCTV-3综艺
-https://127.0.0.1/channel/cctv3?streamid=fcbb4ccc5fe91f99ae0e689f692373c7&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv3?streamid=fcbb4ccc5fe91f99ae0e689f692373c7
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV3.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-3综艺
-https://127.0.0.1/channel/cctv3?streamid=8534aa113db9511aa0e3560be436240a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv3?streamid=8534aa113db9511aa0e3560be436240a
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV4.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-4中文国际
-https://127.0.0.1/channel/cctv4?streamid=9c314d097c3ab71b16bfba614edde87f&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv4?streamid=9c314d097c3ab71b16bfba614edde87f
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV4.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-4中文国际
-https://127.0.0.1/channel/cctv4?streamid=ce75d364585192ff3dfb5ca3ca9103aa&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv4?streamid=ce75d364585192ff3dfb5ca3ca9103aa
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV4.png" group-title="央视",CCTV-4中文国际
-https://127.0.0.1/channel/cctv4?streamid=fc529fb087b8c2c36be475317318bf7c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv4?streamid=fc529fb087b8c2c36be475317318bf7c
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV4.png" group-title="央视",CCTV-4中文国际
-https://127.0.0.1/channel/cctv4?streamid=d5454d007e2bc9de8ef6b901a9d0a0a3&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv4?streamid=d5454d007e2bc9de8ef6b901a9d0a0a3
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV4.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-4中文国际
-https://127.0.0.1/channel/cctv4?streamid=f6d91aae665e981f61512464ee9a6a30&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv4?streamid=f6d91aae665e981f61512464ee9a6a30
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV5.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-5体育
-https://127.0.0.1/channel/cctv5?streamid=cee0259d8634772d2f31024519505df7&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv5?streamid=cee0259d8634772d2f31024519505df7
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV5.png" group-title="央视",CCTV-5体育
-https://127.0.0.1/channel/cctv5?streamid=952fea22b18ebe5245663cffc4252bfa&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv5?streamid=952fea22b18ebe5245663cffc4252bfa
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV5.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-5体育
-https://127.0.0.1/channel/cctv5?streamid=6188385ff4684acb3a6e68acf23e7f8e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv5?streamid=6188385ff4684acb3a6e68acf23e7f8e
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV5+.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-5+体育赛事
-https://127.0.0.1/channel/cctv5p?streamid=5abeb9f5977d817ac6912946fd8a363c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv5p?streamid=5abeb9f5977d817ac6912946fd8a363c
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV5+.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-5+体育赛事
-https://127.0.0.1/channel/cctv5p?streamid=279cd002821a941b5d1846664ef85668&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv5p?streamid=279cd002821a941b5d1846664ef85668
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
-https://127.0.0.1/channel/cctv5p?streamid=2ba31c4731b025e81cde80d81592c652&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv5p?streamid=2ba31c4731b025e81cde80d81592c652
 #EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV5+.png" group-title="央视",CCTV-5+体育赛事
-https://127.0.0.1/channel/cctv5p?streamid=471f662bd9bd321886e95c0f8efb9643&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv5p?streamid=471f662bd9bd321886e95c0f8efb9643
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV6.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-6电影
-https://127.0.0.1/channel/cctv6?streamid=606fe2d1c81b20daba7232b9a4671a38&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv6?streamid=606fe2d1c81b20daba7232b9a4671a38
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV6.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-6电影
-https://127.0.0.1/channel/cctv6?streamid=ea01950afaf6eb46f45aa2dedba90a76&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv6?streamid=ea01950afaf6eb46f45aa2dedba90a76
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV6.png" group-title="央视",CCTV-6电影
-https://127.0.0.1/channel/cctv6?streamid=fd12a1382b1679cbc9e4b71caa3fe37c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv6?streamid=fd12a1382b1679cbc9e4b71caa3fe37c
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV6.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-6电影
-https://127.0.0.1/channel/cctv6?streamid=c6560868a25e9cd76ace95dae802356a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv6?streamid=c6560868a25e9cd76ace95dae802356a
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV7.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-7国防军事
-https://127.0.0.1/channel/cctv7?streamid=5a42e851e3cd52d2bb3328f800a01375&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv7?streamid=5a42e851e3cd52d2bb3328f800a01375
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV7.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-7国防军事
-https://127.0.0.1/channel/cctv7?streamid=8fd131f0a384073d2b6ae325956a90ad&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv7?streamid=8fd131f0a384073d2b6ae325956a90ad
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV7.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-7国防军事
-https://127.0.0.1/channel/cctv7?streamid=5261ec4776cb20443bb90c594b59080d&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv7?streamid=5261ec4776cb20443bb90c594b59080d
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV7.png" group-title="央视",CCTV-7国防军事
-https://127.0.0.1/channel/cctv7?streamid=8674a5bfc497aecb37bc8bf1a31da9a1&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv7?streamid=8674a5bfc497aecb37bc8bf1a31da9a1
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV7.png" group-title="央视",CCTV-7国防军事
-https://127.0.0.1/channel/cctv7?streamid=71b0aeae01d05fdc8f33f3302142d06b&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv7?streamid=71b0aeae01d05fdc8f33f3302142d06b
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV7.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-7国防军事
-https://127.0.0.1/channel/cctv7?streamid=f71f62fb3b20668f9eb8d74f0e80a510&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv7?streamid=f71f62fb3b20668f9eb8d74f0e80a510
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV8.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-8电视剧
-https://127.0.0.1/channel/cctv8?streamid=c7943b69ff5e554bda34a671d96e1c28&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv8?streamid=c7943b69ff5e554bda34a671d96e1c28
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV8.png" group-title="央视",CCTV-8电视剧
-https://127.0.0.1/channel/cctv8?streamid=516e10d70157486f8e4a6598e38f92c6&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv8?streamid=516e10d70157486f8e4a6598e38f92c6
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV8.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-8电视剧
-https://127.0.0.1/channel/cctv8?streamid=ad087599c7f1a1164d0677217de11e9b&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv8?streamid=ad087599c7f1a1164d0677217de11e9b
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV9.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-9纪录
-https://127.0.0.1/channel/cctv9?streamid=5954fda6062bc00ed8672c6362d3f98f&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv9?streamid=5954fda6062bc00ed8672c6362d3f98f
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV9.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-9纪录
-https://127.0.0.1/channel/cctv9?streamid=e51cb1098312682884e5ba059197ac98&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv9?streamid=e51cb1098312682884e5ba059197ac98
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV9.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-9纪录
-https://127.0.0.1/channel/cctv9?streamid=9f7fb8fc446c4e7b0fa0fc9ed23a8e00&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv9?streamid=9f7fb8fc446c4e7b0fa0fc9ed23a8e00
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV9.png" group-title="央视",CCTV-9纪录
-https://127.0.0.1/channel/cctv9?streamid=c003818cd0b62e7a1e7832af8fb67399&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv9?streamid=c003818cd0b62e7a1e7832af8fb67399
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV9.png" group-title="央视",CCTV-9纪录
-https://127.0.0.1/channel/cctv9?streamid=2d9c66a9d7767eeda86f295dbe15cfbe&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv9?streamid=2d9c66a9d7767eeda86f295dbe15cfbe
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV9.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-9纪录
-https://127.0.0.1/channel/cctv9?streamid=6db04f1d1e97a6264329c1cbbf782dab&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv9?streamid=6db04f1d1e97a6264329c1cbbf782dab
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV10.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-10科教
-https://127.0.0.1/channel/cctv10?streamid=e80795fd3044b246bd1a7551e562e8cc&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv10?streamid=e80795fd3044b246bd1a7551e562e8cc
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV10.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-10科教
-https://127.0.0.1/channel/cctv10?streamid=53cbfa568bc8689f60602d4bb0b0a492&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv10?streamid=53cbfa568bc8689f60602d4bb0b0a492
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV10.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-10科教
-https://127.0.0.1/channel/cctv10?streamid=b7be4e90e336bbac9b20860c4c41ae9a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv10?streamid=b7be4e90e336bbac9b20860c4c41ae9a
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV10.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-10科教
-https://127.0.0.1/channel/cctv10?streamid=b62694461a764351ce14d136e31f7ba4&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv10?streamid=b62694461a764351ce14d136e31f7ba4
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV10.png" group-title="央视",CCTV-10科教
-https://127.0.0.1/channel/cctv10?streamid=101979df36c15e976665985b0e1d2871&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv10?streamid=101979df36c15e976665985b0e1d2871
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV10.png" group-title="央视",CCTV-10科教
-https://127.0.0.1/channel/cctv10?streamid=00522f22124941fc233302625c0a7991&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv10?streamid=00522f22124941fc233302625c0a7991
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV10.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-10科教
-https://127.0.0.1/channel/cctv10?streamid=5ff8e119b16cb681d3360a4160ab9336&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv10?streamid=5ff8e119b16cb681d3360a4160ab9336
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV11.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-11戏曲
-https://127.0.0.1/channel/cctv11?streamid=1e8535a239383764611a6e3f2712daff&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv11?streamid=1e8535a239383764611a6e3f2712daff
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV11.png" group-title="央视",CCTV-11戏曲
-https://127.0.0.1/channel/cctv11?streamid=4663ec7fd7b8950ae4637a98de692596&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv11?streamid=4663ec7fd7b8950ae4637a98de692596
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV11.png" group-title="央视",CCTV-11戏曲
-https://127.0.0.1/channel/cctv11?streamid=6aa0f5d2d3daab4b7bf24e6010effa06&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv11?streamid=6aa0f5d2d3daab4b7bf24e6010effa06
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV11.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-11戏曲
-https://127.0.0.1/channel/cctv11?streamid=bb4c891c2b60dc70d1faadda776af70c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv11?streamid=bb4c891c2b60dc70d1faadda776af70c
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV12.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-12社会与法
-https://127.0.0.1/channel/cctv12?streamid=84f9cd3c87e9c658fbabba0f81cf060f&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv12?streamid=84f9cd3c87e9c658fbabba0f81cf060f
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV12.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-12社会与法
-https://127.0.0.1/channel/cctv12?streamid=64c41668f0e9f57c96e9736fb30d37df&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv12?streamid=64c41668f0e9f57c96e9736fb30d37df
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV12.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-12社会与法
-https://127.0.0.1/channel/cctv12?streamid=d36c340bc6d96aaa75c1316b518c48ab&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv12?streamid=d36c340bc6d96aaa75c1316b518c48ab
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV12.png" group-title="央视",CCTV-12社会与法
-https://127.0.0.1/channel/cctv12?streamid=a0084ee44bf88f6f01e43999093937c6&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv12?streamid=a0084ee44bf88f6f01e43999093937c6
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV12.png" group-title="央视",CCTV-12社会与法
-https://127.0.0.1/channel/cctv12?streamid=5d8aa20df82a3a27fe9367ae56f74c40&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv12?streamid=5d8aa20df82a3a27fe9367ae56f74c40
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV12.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-12社会与法
-https://127.0.0.1/channel/cctv12?streamid=ed6f74d8d87d41ad467abb7eae4ae986&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv12?streamid=ed6f74d8d87d41ad467abb7eae4ae986
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV13.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-13新闻
-https://127.0.0.1/channel/cctv13?streamid=e081b73f90838f2f7773c487c773a704&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv13?streamid=e081b73f90838f2f7773c487c773a704
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV13.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-13新闻
-https://127.0.0.1/channel/cctv13?streamid=1b1115d7d80372b6f364f68b61e7c86a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv13?streamid=1b1115d7d80372b6f364f68b61e7c86a
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV13.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-13新闻
-https://127.0.0.1/channel/cctv13?streamid=defb513b18117ce5614191a3908c5000&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv13?streamid=defb513b18117ce5614191a3908c5000
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV13.png" group-title="央视",CCTV-13新闻
-https://127.0.0.1/channel/cctv13?streamid=97cd8352d86dbe3ccd4c755a46373c89&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv13?streamid=97cd8352d86dbe3ccd4c755a46373c89
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV13.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-13新闻
-https://127.0.0.1/channel/cctv13?streamid=0978d5c6854c30e435c1d548aab1f50f&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv13?streamid=0978d5c6854c30e435c1d548aab1f50f
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV14.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-14少儿
-https://127.0.0.1/channel/cctv14?streamid=871b32727b0ef17d5fd422ec46ebad46&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv14?streamid=871b32727b0ef17d5fd422ec46ebad46
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV14.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-14少儿
-https://127.0.0.1/channel/cctv14?streamid=a0832718401ca1264fe330cfecb3f1db&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv14?streamid=a0832718401ca1264fe330cfecb3f1db
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV14.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-14少儿
-https://127.0.0.1/channel/cctv14?streamid=22e1c729bbc79ad5b9eeca5fc6562880&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv14?streamid=22e1c729bbc79ad5b9eeca5fc6562880
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV14.png" group-title="央视",CCTV-14少儿
-https://127.0.0.1/channel/cctv14?streamid=cd7f094a8cbd27746588a67d5853973c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv14?streamid=cd7f094a8cbd27746588a67d5853973c
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV14.png" group-title="央视",CCTV-14少儿
-https://127.0.0.1/channel/cctv14?streamid=30ec4702d6aa823382556bdc77f497a9&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv14?streamid=30ec4702d6aa823382556bdc77f497a9
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV14.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-14少儿
-https://127.0.0.1/channel/cctv14?streamid=96ff4dc119769f1375124c545df7f338&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv14?streamid=96ff4dc119769f1375124c545df7f338
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV15.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-15音乐
-https://127.0.0.1/channel/cctv15?streamid=85d3d65c9e35f8fd3e9dd7e1aa0dbd9f&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv15?streamid=85d3d65c9e35f8fd3e9dd7e1aa0dbd9f
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV15.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-15音乐
-https://127.0.0.1/channel/cctv15?streamid=73a1c20a5e3d61a97d43dbd4ba3082aa&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv15?streamid=73a1c20a5e3d61a97d43dbd4ba3082aa
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV15.png" group-title="央视",CCTV-15音乐
-https://127.0.0.1/channel/cctv15?streamid=89c30ce40adbb322930aad6bfb13688f&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv15?streamid=89c30ce40adbb322930aad6bfb13688f
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV15.png" group-title="央视",CCTV-15音乐
-https://127.0.0.1/channel/cctv15?streamid=d6d74a271a6aca633b5fcf2be34620c9&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv15?streamid=d6d74a271a6aca633b5fcf2be34620c9
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV15.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-15音乐
-https://127.0.0.1/channel/cctv15?streamid=a4f3350a7403e897e578f04e8d4c99ab&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv15?streamid=a4f3350a7403e897e578f04e8d4c99ab
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV16.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-16奥林匹克
-https://127.0.0.1/channel/cctv16?streamid=e95353fc28814e84bdbdced00fffd936&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv16?streamid=e95353fc28814e84bdbdced00fffd936
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV16.png" group-title="央视",CCTV-16奥林匹克
-https://127.0.0.1/channel/cctv16?streamid=3c481ca528146a3b2d4ec73dc4bfddc2&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv16?streamid=3c481ca528146a3b2d4ec73dc4bfddc2
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV17.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-17农业农村
-https://127.0.0.1/channel/cctv17?streamid=5705e33cae9af7d4656a7b840eb12b7e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv17?streamid=5705e33cae9af7d4656a7b840eb12b7e
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV17.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-17农业农村
-https://127.0.0.1/channel/cctv17?streamid=95b9932d777a76990930b17674bde5a9&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv17?streamid=95b9932d777a76990930b17674bde5a9
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV17.png" group-title="央视",CCTV-17农业农村
-https://127.0.0.1/channel/cctv17?streamid=641839a62c09b756f6ae467b1bba0840&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv17?streamid=641839a62c09b756f6ae467b1bba0840
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV17.png" group-title="央视",CCTV-17农业农村
-https://127.0.0.1/channel/cctv17?streamid=367244f73d5d6e4b2bb5e1ef47949c8f&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv17?streamid=367244f73d5d6e4b2bb5e1ef47949c8f
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV17.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-17农业农村
-https://127.0.0.1/channel/cctv17?streamid=69e72a843671bacc8534d5a9594c198d&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv17?streamid=69e72a843671bacc8534d5a9594c198d
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV4K.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-4K超高清
-https://127.0.0.1/channel/cctv4k?streamid=9d9e2bf5475db3aed03a0803b8860e4f&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv4k?streamid=9d9e2bf5475db3aed03a0803b8860e4f
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV4K.png" group-title="央视",CCTV-4K超高清
-https://127.0.0.1/channel/cctv4k?streamid=925611a7e913d370b80f6481e5e5033e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv4k?streamid=925611a7e913d370b80f6481e5e5033e
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV4K.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CCTV-4K超高清
-https://127.0.0.1/channel/cctv4k?streamid=3af810f7d466810e838b0439f35580d6&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv4k?streamid=3af810f7d466810e838b0439f35580d6
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://static.tv.darwinchow.com/logo/CGTN.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CGTN新闻
-https://127.0.0.1/channel/cgtn?streamid=394867cf2625de705689fc710a38f0f0&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cgtn?streamid=394867cf2625de705689fc710a38f0f0
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://static.tv.darwinchow.com/logo/CGTN.png" group-title="央视",CGTN新闻
-https://127.0.0.1/channel/cgtn?streamid=d9cc76265a106b5980c5fa666bd8dbd9&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cgtn?streamid=d9cc76265a106b5980c5fa666bd8dbd9
 #EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://static.tv.darwinchow.com/logo/CGTN.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CGTN新闻
-https://127.0.0.1/channel/cgtn?streamid=da54ebfbc50330b2b0b500db037046b0&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cgtn?streamid=da54ebfbc50330b2b0b500db037046b0
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://static.tv.darwinchow.com/logo/CGTN纪录.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CGTN纪录
-https://127.0.0.1/channel/cgtndocumentary?streamid=bdeb3340e4cd85a15d5ed8979153fb12&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cgtndocumentary?streamid=bdeb3340e4cd85a15d5ed8979153fb12
 #EXTINF:-1 tvg-id="CGTN纪录" tvg-name="CGTN纪录" tvg-logo="https://static.tv.darwinchow.com/logo/CGTN纪录.png" group-title="央视",CGTN纪录
-https://127.0.0.1/channel/cgtndocumentary?streamid=1c4e0873cecbc662ed352b637c0ffdb3&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cgtndocumentary?streamid=1c4e0873cecbc662ed352b637c0ffdb3
 #EXTINF:-1 tvg-id="CGTN西语" tvg-name="CGTN西语" tvg-logo="https://static.tv.darwinchow.com/logo/CGTN西语.png" group-title="央视",CGTN西班牙语
-https://127.0.0.1/channel/cgtnspanish?streamid=09975a6acc56573219d93775c77aa5bd&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cgtnspanish?streamid=09975a6acc56573219d93775c77aa5bd
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://static.tv.darwinchow.com/logo/CGTN法语.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="央视",CGTN法语
-https://127.0.0.1/channel/cgtnfrench?streamid=bc340c269f2d3e78c61e373eecf0ce43&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cgtnfrench?streamid=bc340c269f2d3e78c61e373eecf0ce43
 #EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://static.tv.darwinchow.com/logo/CGTN法语.png" group-title="央视",CGTN法语
-https://127.0.0.1/channel/cgtnfrench?streamid=f33ec48b19a653861e5a9971a19feafc&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cgtnfrench?streamid=f33ec48b19a653861e5a9971a19feafc
 #EXTINF:-1 tvg-id="CGTN阿语" tvg-name="CGTN阿语" tvg-logo="https://static.tv.darwinchow.com/logo/CGTN阿语.png" group-title="央视",CGTN阿拉伯语
-https://127.0.0.1/channel/cgtnarabic?streamid=61eb1aa12cce595f2e6c1f6e546f5a77&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cgtnarabic?streamid=61eb1aa12cce595f2e6c1f6e546f5a77
 #EXTINF:-1 tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://static.tv.darwinchow.com/logo/CGTN俄语.png" group-title="央视",CGTN俄语
-https://127.0.0.1/channel/cgtnrussian?streamid=cbe7f1aab6c5e5ffac7c3acb85ca35d9&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cgtnrussian?streamid=cbe7f1aab6c5e5ffac7c3acb85ca35d9
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://static.tv.darwinchow.com/logo/北京卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",北京卫视
-https://127.0.0.1/channel/beijingweishi?streamid=117720dac7e490d78c4866d59a1b676b&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/beijingweishi?streamid=117720dac7e490d78c4866d59a1b676b
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://static.tv.darwinchow.com/logo/北京卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",北京卫视
-https://127.0.0.1/channel/beijingweishi?streamid=80d1b8e776b55348cd9e344be34b5f8b&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/beijingweishi?streamid=80d1b8e776b55348cd9e344be34b5f8b
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://static.tv.darwinchow.com/logo/北京卫视.png" group-title="卫视",北京卫视
-https://127.0.0.1/channel/beijingweishi?streamid=610d5f9ff828c03e81ef29c5db86f755&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/beijingweishi?streamid=610d5f9ff828c03e81ef29c5db86f755
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://static.tv.darwinchow.com/logo/北京卫视.png" group-title="卫视",北京卫视
-https://127.0.0.1/channel/beijingweishi?streamid=73eab605c457dcfb5f3a15bf5c04793d&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/beijingweishi?streamid=73eab605c457dcfb5f3a15bf5c04793d
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://static.tv.darwinchow.com/logo/北京卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",北京卫视
-https://127.0.0.1/channel/beijingweishi?streamid=7fde3e5bb8c2152fb209a4d9132fd965&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/beijingweishi?streamid=7fde3e5bb8c2152fb209a4d9132fd965
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://static.tv.darwinchow.com/logo/天津卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",天津卫视
-https://127.0.0.1/channel/tianjinweishi?streamid=d593468c792a8f11fab070cca0f34b5c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/tianjinweishi?streamid=d593468c792a8f11fab070cca0f34b5c
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://static.tv.darwinchow.com/logo/天津卫视.png" group-title="卫视",天津卫视
-https://127.0.0.1/channel/tianjinweishi?streamid=d0e6474087103fde72fd8ccbf7faff5a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/tianjinweishi?streamid=d0e6474087103fde72fd8ccbf7faff5a
 #EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://static.tv.darwinchow.com/logo/天津卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",天津卫视
-https://127.0.0.1/channel/tianjinweishi?streamid=2ba6307036c0f91c6ac1d3213936c1e5&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/tianjinweishi?streamid=2ba6307036c0f91c6ac1d3213936c1e5
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://static.tv.darwinchow.com/logo/河北卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",河北卫视
-https://127.0.0.1/channel/hebeiweishi?streamid=8363903dcd7add5747218582f8748861&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/hebeiweishi?streamid=8363903dcd7add5747218582f8748861
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://static.tv.darwinchow.com/logo/河北卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",河北卫视
-https://127.0.0.1/channel/hebeiweishi?streamid=77164ed8591a9eb8abb6acd9478b57da&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/hebeiweishi?streamid=77164ed8591a9eb8abb6acd9478b57da
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://static.tv.darwinchow.com/logo/河北卫视.png" group-title="卫视",河北卫视
-https://127.0.0.1/channel/hebeiweishi?streamid=0118adfda2d051b3f76b671df2d065bc&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/hebeiweishi?streamid=0118adfda2d051b3f76b671df2d065bc
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://static.tv.darwinchow.com/logo/河北卫视.png" group-title="卫视",河北卫视
-https://127.0.0.1/channel/hebeiweishi?streamid=0609e5efd39cdd481f120a22f7ef2cf4&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/hebeiweishi?streamid=0609e5efd39cdd481f120a22f7ef2cf4
 #EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://static.tv.darwinchow.com/logo/河北卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",河北卫视
-https://127.0.0.1/channel/hebeiweishi?streamid=b890ee6d820b5521a326077ce5efac3b&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/hebeiweishi?streamid=b890ee6d820b5521a326077ce5efac3b
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://static.tv.darwinchow.com/logo/山西卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",山西卫视
-https://127.0.0.1/channel/shanxiweishi?streamid=14c59a96d7f357e98b8e85c4e2011f0e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shanxiweishi?streamid=14c59a96d7f357e98b8e85c4e2011f0e
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://static.tv.darwinchow.com/logo/山西卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",山西卫视
-https://127.0.0.1/channel/shanxiweishi?streamid=d485c4ae12d8ed45ada2db1cfcacfb89&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shanxiweishi?streamid=d485c4ae12d8ed45ada2db1cfcacfb89
 #EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://static.tv.darwinchow.com/logo/山西卫视.png" group-title="卫视",山西卫视
-https://127.0.0.1/channel/shanxiweishi?streamid=9881dadfcf14cb95f98f68c38bd41ab5&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shanxiweishi?streamid=9881dadfcf14cb95f98f68c38bd41ab5
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://static.tv.darwinchow.com/logo/内蒙古卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",内蒙古卫视
-https://127.0.0.1/channel/neimengguweishi?streamid=0bbc8e7c7ee7473bdea7a49613650364&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/neimengguweishi?streamid=0bbc8e7c7ee7473bdea7a49613650364
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://static.tv.darwinchow.com/logo/内蒙古卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",内蒙古卫视
-https://127.0.0.1/channel/neimengguweishi?streamid=26079e7851c8387219357db2e24639fa&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/neimengguweishi?streamid=26079e7851c8387219357db2e24639fa
 #EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://static.tv.darwinchow.com/logo/内蒙古卫视.png" group-title="卫视",内蒙古卫视
-https://127.0.0.1/channel/neimengguweishi?streamid=b98d1e2a245b5fb175ba5232a7a380b9&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/neimengguweishi?streamid=b98d1e2a245b5fb175ba5232a7a380b9
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://static.tv.darwinchow.com/logo/辽宁卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",辽宁卫视
-https://127.0.0.1/channel/liaoningweishi?streamid=59bb5a8a22ef95fecfa3a485d2a6a34c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/liaoningweishi?streamid=59bb5a8a22ef95fecfa3a485d2a6a34c
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://static.tv.darwinchow.com/logo/辽宁卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",辽宁卫视
-https://127.0.0.1/channel/liaoningweishi?streamid=03fa8f10c5b551c6429d66ac41770557&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/liaoningweishi?streamid=03fa8f10c5b551c6429d66ac41770557
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://static.tv.darwinchow.com/logo/辽宁卫视.png" group-title="卫视",辽宁卫视
-https://127.0.0.1/channel/liaoningweishi?streamid=2c19155d20f767bab10c2e5af22012ae&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/liaoningweishi?streamid=2c19155d20f767bab10c2e5af22012ae
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://static.tv.darwinchow.com/logo/辽宁卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",辽宁卫视
-https://127.0.0.1/channel/liaoningweishi?streamid=09e7ec70660c348d579b94e1e369860c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/liaoningweishi?streamid=09e7ec70660c348d579b94e1e369860c
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://static.tv.darwinchow.com/logo/吉林卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",吉林卫视
-https://127.0.0.1/channel/jilinweishi?streamid=cbb74277f14bd7b57f384aea56163c4f&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jilinweishi?streamid=cbb74277f14bd7b57f384aea56163c4f
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://static.tv.darwinchow.com/logo/吉林卫视.png" group-title="卫视",吉林卫视
-https://127.0.0.1/channel/jilinweishi?streamid=41a42049a35dc875ebd6fb6c3e5eefa3&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jilinweishi?streamid=41a42049a35dc875ebd6fb6c3e5eefa3
 #EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://static.tv.darwinchow.com/logo/吉林卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",吉林卫视
-https://127.0.0.1/channel/jilinweishi?streamid=2765a43eafd6f6dfc2fc2785ca3411fa&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jilinweishi?streamid=2765a43eafd6f6dfc2fc2785ca3411fa
 #EXTINF:-1 tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://static.tv.darwinchow.com/logo/延边卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",延边卫视
-https://127.0.0.1/channel/yanbianweishi?streamid=a186a36b7327e1359fa4aed6eef0e69c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/yanbianweishi?streamid=a186a36b7327e1359fa4aed6eef0e69c
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://static.tv.darwinchow.com/logo/黑龙江卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",黑龙江卫视
-https://127.0.0.1/channel/heilongjiangweishi?streamid=48b126688946b574dbb4b9d769d9a4c4&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/heilongjiangweishi?streamid=48b126688946b574dbb4b9d769d9a4c4
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://static.tv.darwinchow.com/logo/黑龙江卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",黑龙江卫视
-https://127.0.0.1/channel/heilongjiangweishi?streamid=6d9e79cca1baad11a0d5714c3e8b764c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/heilongjiangweishi?streamid=6d9e79cca1baad11a0d5714c3e8b764c
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://static.tv.darwinchow.com/logo/黑龙江卫视.png" group-title="卫视",黑龙江卫视
-https://127.0.0.1/channel/heilongjiangweishi?streamid=a7e46bdd0242a96d284f4e3632146583&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/heilongjiangweishi?streamid=a7e46bdd0242a96d284f4e3632146583
 #EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://static.tv.darwinchow.com/logo/黑龙江卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",黑龙江卫视
-https://127.0.0.1/channel/heilongjiangweishi?streamid=7beca3c3857233a958a97718a0f1c84e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/heilongjiangweishi?streamid=7beca3c3857233a958a97718a0f1c84e
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.tv.darwinchow.com/logo/东方卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",东方卫视
-https://127.0.0.1/channel/dongfangweishi?streamid=583617d7d3d0f8dd12ee9f7cca715755&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/dongfangweishi?streamid=583617d7d3d0f8dd12ee9f7cca715755
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.tv.darwinchow.com/logo/东方卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",东方卫视
-https://127.0.0.1/channel/dongfangweishi?streamid=0b2288459c86c0eba713d2763d32c9a6&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/dongfangweishi?streamid=0b2288459c86c0eba713d2763d32c9a6
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.tv.darwinchow.com/logo/东方卫视.png" group-title="卫视",东方卫视
-https://127.0.0.1/channel/dongfangweishi?streamid=9b1d0490b7833d5a7915fae8099a7867&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/dongfangweishi?streamid=9b1d0490b7833d5a7915fae8099a7867
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.tv.darwinchow.com/logo/东方卫视.png" group-title="卫视",东方卫视
-https://127.0.0.1/channel/dongfangweishi?streamid=52190af0dad54b98ee8780df8d4d262a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/dongfangweishi?streamid=52190af0dad54b98ee8780df8d4d262a
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.tv.darwinchow.com/logo/东方卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",东方卫视
-https://127.0.0.1/channel/dongfangweishi?streamid=4624ed7fbb73e462d5745f4a0b3fd48f&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/dongfangweishi?streamid=4624ed7fbb73e462d5745f4a0b3fd48f
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://static.tv.darwinchow.com/logo/江苏卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",江苏卫视
-https://127.0.0.1/channel/jiangsuweishi?streamid=e990ef801f00f53b1dde188dea4e969e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jiangsuweishi?streamid=e990ef801f00f53b1dde188dea4e969e
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://static.tv.darwinchow.com/logo/江苏卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",江苏卫视
-https://127.0.0.1/channel/jiangsuweishi?streamid=20c35b80efb13b63c11ec67a94bdcab0&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jiangsuweishi?streamid=20c35b80efb13b63c11ec67a94bdcab0
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://static.tv.darwinchow.com/logo/江苏卫视.png" group-title="卫视",江苏卫视
-https://127.0.0.1/channel/jiangsuweishi?streamid=839b1fa7def986ce56c099e5c55dee6b&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jiangsuweishi?streamid=839b1fa7def986ce56c099e5c55dee6b
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://static.tv.darwinchow.com/logo/江苏卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",江苏卫视
-https://127.0.0.1/channel/jiangsuweishi?streamid=165b05be00f47642b13694ad0523ed9e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jiangsuweishi?streamid=165b05be00f47642b13694ad0523ed9e
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://static.tv.darwinchow.com/logo/浙江卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",浙江卫视
-https://127.0.0.1/channel/zhejiangweishi?streamid=c6d7d017f44018074a1efcc135e6e99b&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/zhejiangweishi?streamid=c6d7d017f44018074a1efcc135e6e99b
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://static.tv.darwinchow.com/logo/浙江卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",浙江卫视
-https://127.0.0.1/channel/zhejiangweishi?streamid=cf346ae87409835bfeae0e2a02021ec7&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/zhejiangweishi?streamid=cf346ae87409835bfeae0e2a02021ec7
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://static.tv.darwinchow.com/logo/浙江卫视.png" group-title="卫视",浙江卫视
-https://127.0.0.1/channel/zhejiangweishi?streamid=7d6b3c001755d43b0c74928a13f3e7a9&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/zhejiangweishi?streamid=7d6b3c001755d43b0c74928a13f3e7a9
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://static.tv.darwinchow.com/logo/浙江卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",浙江卫视
-https://127.0.0.1/channel/zhejiangweishi?streamid=8ec9eed195d11d764126071ec051b76b&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/zhejiangweishi?streamid=8ec9eed195d11d764126071ec051b76b
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://static.tv.darwinchow.com/logo/安徽卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",安徽卫视
-https://127.0.0.1/channel/anhuiweishi?streamid=e8122edecf80983750bd05f0f610f163&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/anhuiweishi?streamid=e8122edecf80983750bd05f0f610f163
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://static.tv.darwinchow.com/logo/安徽卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",安徽卫视
-https://127.0.0.1/channel/anhuiweishi?streamid=3289c04ceb3c18724b3b96c8d0b34c3e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/anhuiweishi?streamid=3289c04ceb3c18724b3b96c8d0b34c3e
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://static.tv.darwinchow.com/logo/安徽卫视.png" group-title="卫视",安徽卫视
-https://127.0.0.1/channel/anhuiweishi?streamid=a6e3349525e9570a1f00f6150e3b7250&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/anhuiweishi?streamid=a6e3349525e9570a1f00f6150e3b7250
 #EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://static.tv.darwinchow.com/logo/安徽卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",安徽卫视
-https://127.0.0.1/channel/anhuiweishi?streamid=9c53a6498fa1ef73e7a45f37d5c9612a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/anhuiweishi?streamid=9c53a6498fa1ef73e7a45f37d5c9612a
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/东南卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",东南卫视
-https://127.0.0.1/channel/dongnanweishi?streamid=f6a5a653d9d0da6a9b2007368fe73983&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/dongnanweishi?streamid=f6a5a653d9d0da6a9b2007368fe73983
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/东南卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",东南卫视
-https://127.0.0.1/channel/dongnanweishi?streamid=b889f7309314a076c4370633319ccbd6&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/dongnanweishi?streamid=b889f7309314a076c4370633319ccbd6
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/东南卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",东南卫视
-https://127.0.0.1/channel/dongnanweishi?streamid=6313601f11eedbef69ec138f99e60849&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/dongnanweishi?streamid=6313601f11eedbef69ec138f99e60849
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/东南卫视.png" group-title="卫视",东南卫视
-https://127.0.0.1/channel/dongnanweishi?streamid=3d37daa41fbaf8da07fda450c0d7ed3a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/dongnanweishi?streamid=3d37daa41fbaf8da07fda450c0d7ed3a
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/东南卫视.png" group-title="卫视",东南卫视
-https://127.0.0.1/channel/dongnanweishi?streamid=42f8948650060773a728af8c73220442&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/dongnanweishi?streamid=42f8948650060773a728af8c73220442
 #EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/东南卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",东南卫视
-https://127.0.0.1/channel/dongnanweishi?streamid=47465572f57e037ae8949350e2afa3ab&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/dongnanweishi?streamid=47465572f57e037ae8949350e2afa3ab
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://static.tv.darwinchow.com/logo/海峡卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",海峡卫视
-https://127.0.0.1/channel/haixiaweishi?streamid=8180c1f2c521be1f47c84f2915773202&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/haixiaweishi?streamid=8180c1f2c521be1f47c84f2915773202
 #EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://static.tv.darwinchow.com/logo/海峡卫视.png" group-title="卫视",海峡卫视
-https://127.0.0.1/channel/haixiaweishi?streamid=af995c4558170db66b727bdce307b378&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/haixiaweishi?streamid=af995c4558170db66b727bdce307b378
 #EXTINF:-1 tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://static.tv.darwinchow.com/logo/厦门卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",厦门卫视
-https://127.0.0.1/channel/xiamenweishi?streamid=27d03115f18f9a40dcaa68f6f4c06584&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/xiamenweishi?streamid=27d03115f18f9a40dcaa68f6f4c06584
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://static.tv.darwinchow.com/logo/江西卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",江西卫视
-https://127.0.0.1/channel/jiangxiweishi?streamid=b5108f0777ea691a0547a42a6dfd5d8b&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jiangxiweishi?streamid=b5108f0777ea691a0547a42a6dfd5d8b
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://static.tv.darwinchow.com/logo/江西卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",江西卫视
-https://127.0.0.1/channel/jiangxiweishi?streamid=1db8e059b16c7f76b5622641e1d53335&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jiangxiweishi?streamid=1db8e059b16c7f76b5622641e1d53335
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://static.tv.darwinchow.com/logo/江西卫视.png" group-title="卫视",江西卫视
-https://127.0.0.1/channel/jiangxiweishi?streamid=89a8dfdaa7e93821006c06503014a531&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jiangxiweishi?streamid=89a8dfdaa7e93821006c06503014a531
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://static.tv.darwinchow.com/logo/江西卫视.png" group-title="卫视",江西卫视
-https://127.0.0.1/channel/jiangxiweishi?streamid=cda90f50ac0a10df01f8e5a0739b5728&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jiangxiweishi?streamid=cda90f50ac0a10df01f8e5a0739b5728
 #EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://static.tv.darwinchow.com/logo/江西卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",江西卫视
-https://127.0.0.1/channel/jiangxiweishi?streamid=da30d877f535e7dd2dedbb2d459261c7&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jiangxiweishi?streamid=da30d877f535e7dd2dedbb2d459261c7
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://static.tv.darwinchow.com/logo/山东卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",山东卫视
-https://127.0.0.1/channel/shandongweishi?streamid=c68ee9786e387587b627cec2c9538936&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shandongweishi?streamid=c68ee9786e387587b627cec2c9538936
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://static.tv.darwinchow.com/logo/山东卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",山东卫视
-https://127.0.0.1/channel/shandongweishi?streamid=cac7edfa356e65946d2d1a242d372a32&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shandongweishi?streamid=cac7edfa356e65946d2d1a242d372a32
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://static.tv.darwinchow.com/logo/山东卫视.png" group-title="卫视",山东卫视
-https://127.0.0.1/channel/shandongweishi?streamid=bfcb39f5c96d95787f598ba6a7d3290b&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shandongweishi?streamid=bfcb39f5c96d95787f598ba6a7d3290b
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://static.tv.darwinchow.com/logo/山东卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",山东卫视
-https://127.0.0.1/channel/shandongweishi?streamid=bfbedef6e363ab1739db41bc67df8124&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shandongweishi?streamid=bfbedef6e363ab1739db41bc67df8124
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/河南卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",河南卫视
-https://127.0.0.1/channel/henanweishi?streamid=2f9ce4728d261c2da5b74d1377a4d72c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/henanweishi?streamid=2f9ce4728d261c2da5b74d1377a4d72c
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/河南卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",河南卫视
-https://127.0.0.1/channel/henanweishi?streamid=f340797c763ba0e6215e2a4ef29faf14&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/henanweishi?streamid=f340797c763ba0e6215e2a4ef29faf14
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/河南卫视.png" group-title="卫视",河南卫视
-https://127.0.0.1/channel/henanweishi?streamid=448a4c83a489da35424900f7ba5b5b17&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/henanweishi?streamid=448a4c83a489da35424900f7ba5b5b17
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/河南卫视.png" group-title="卫视",河南卫视
-https://127.0.0.1/channel/henanweishi?streamid=e0c64b80235c273f89175b940bdba4f3&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/henanweishi?streamid=e0c64b80235c273f89175b940bdba4f3
 #EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/河南卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",河南卫视
-https://127.0.0.1/channel/henanweishi?streamid=72b6e825544e20c7fc981c0b58d28f24&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/henanweishi?streamid=72b6e825544e20c7fc981c0b58d28f24
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://static.tv.darwinchow.com/logo/湖北卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",湖北卫视
-https://127.0.0.1/channel/hubeiweishi?streamid=2c045aa56cc03cefd75a9b5b5f7a9a51&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/hubeiweishi?streamid=2c045aa56cc03cefd75a9b5b5f7a9a51
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://static.tv.darwinchow.com/logo/湖北卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",湖北卫视
-https://127.0.0.1/channel/hubeiweishi?streamid=0e7592c950cde8ccc16fc502c4ca8be0&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/hubeiweishi?streamid=0e7592c950cde8ccc16fc502c4ca8be0
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://static.tv.darwinchow.com/logo/湖北卫视.png" group-title="卫视",湖北卫视
-https://127.0.0.1/channel/hubeiweishi?streamid=bc408c2b90aca6f4a19d9139b528251d&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/hubeiweishi?streamid=bc408c2b90aca6f4a19d9139b528251d
 #EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://static.tv.darwinchow.com/logo/湖北卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",湖北卫视
-https://127.0.0.1/channel/hubeiweishi?streamid=473116edbb34360459acdcc63c213a82&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/hubeiweishi?streamid=473116edbb34360459acdcc63c213a82
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/湖南卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",湖南卫视
-https://127.0.0.1/channel/hunanweishi?streamid=39b3c6b489f73aacea9e32a276f89647&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/hunanweishi?streamid=39b3c6b489f73aacea9e32a276f89647
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/湖南卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",湖南卫视
-https://127.0.0.1/channel/hunanweishi?streamid=212b931b9338298de64304f50ad44626&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/hunanweishi?streamid=212b931b9338298de64304f50ad44626
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/湖南卫视.png" group-title="卫视",湖南卫视
-https://127.0.0.1/channel/hunanweishi?streamid=5267850fe8f7b6692d4e36192a97660e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/hunanweishi?streamid=5267850fe8f7b6692d4e36192a97660e
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/湖南卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",湖南卫视
-https://127.0.0.1/channel/hunanweishi?streamid=681c1911b6bc52fc3d93cc3b3ebdd54c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/hunanweishi?streamid=681c1911b6bc52fc3d93cc3b3ebdd54c
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://static.tv.darwinchow.com/logo/广东卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",广东卫视
-https://127.0.0.1/channel/guangdongweishi?streamid=f45a3588f9ffb64e75ca82d5180588de&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/guangdongweishi?streamid=f45a3588f9ffb64e75ca82d5180588de
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://static.tv.darwinchow.com/logo/广东卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",广东卫视
-https://127.0.0.1/channel/guangdongweishi?streamid=c379318744b6014be40dbc0c38b9564f&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/guangdongweishi?streamid=c379318744b6014be40dbc0c38b9564f
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://static.tv.darwinchow.com/logo/广东卫视.png" group-title="卫视",广东卫视
-https://127.0.0.1/channel/guangdongweishi?streamid=723870291b6e1e7f1068a36bd5eaed4f&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/guangdongweishi?streamid=723870291b6e1e7f1068a36bd5eaed4f
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://static.tv.darwinchow.com/logo/广东卫视.png" group-title="卫视",广东卫视
-https://127.0.0.1/channel/guangdongweishi?streamid=dd4b0228f0519556bab2ea091e13b46c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/guangdongweishi?streamid=dd4b0228f0519556bab2ea091e13b46c
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://static.tv.darwinchow.com/logo/广东卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",广东卫视
-https://127.0.0.1/channel/guangdongweishi?streamid=fcf502e17dd1e99f3ae7f8466b1dfc1e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/guangdongweishi?streamid=fcf502e17dd1e99f3ae7f8466b1dfc1e
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://static.tv.darwinchow.com/logo/深圳卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",深圳卫视
-https://127.0.0.1/channel/shenzhenweishi?streamid=6410bda2b5a92d8acae0e6d8467ba7e5&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shenzhenweishi?streamid=6410bda2b5a92d8acae0e6d8467ba7e5
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://static.tv.darwinchow.com/logo/深圳卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",深圳卫视
-https://127.0.0.1/channel/shenzhenweishi?streamid=603243b4c49848984baf809f418753f7&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shenzhenweishi?streamid=603243b4c49848984baf809f418753f7
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://static.tv.darwinchow.com/logo/深圳卫视.png" group-title="卫视",深圳卫视
-https://127.0.0.1/channel/shenzhenweishi?streamid=8068915df0dac12a66235d9954232a7b&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shenzhenweishi?streamid=8068915df0dac12a66235d9954232a7b
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://static.tv.darwinchow.com/logo/深圳卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",深圳卫视
-https://127.0.0.1/channel/shenzhenweishi?streamid=b45bcdfee0d9ffd47a719082aa0f59c0&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shenzhenweishi?streamid=b45bcdfee0d9ffd47a719082aa0f59c0
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://static.tv.darwinchow.com/logo/广西卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",广西卫视
-https://127.0.0.1/channel/guangxiweishi?streamid=05fc03334d59dcced0541bae7c81ad60&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/guangxiweishi?streamid=05fc03334d59dcced0541bae7c81ad60
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://static.tv.darwinchow.com/logo/广西卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",广西卫视
-https://127.0.0.1/channel/guangxiweishi?streamid=af5f95dcc2d6532e8ad9edca14140cf6&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/guangxiweishi?streamid=af5f95dcc2d6532e8ad9edca14140cf6
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://static.tv.darwinchow.com/logo/广西卫视.png" group-title="卫视",广西卫视
-https://127.0.0.1/channel/guangxiweishi?streamid=4832e336d852b7aca5523ae80b5764c4&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/guangxiweishi?streamid=4832e336d852b7aca5523ae80b5764c4
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://static.tv.darwinchow.com/logo/广西卫视.png" group-title="卫视",广西卫视
-https://127.0.0.1/channel/guangxiweishi?streamid=3065f5d34f4378997f1ee8d8107b6092&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/guangxiweishi?streamid=3065f5d34f4378997f1ee8d8107b6092
 #EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://static.tv.darwinchow.com/logo/广西卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",广西卫视
-https://127.0.0.1/channel/guangxiweishi?streamid=11cb9ca121784e9718be5467d4e42613&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/guangxiweishi?streamid=11cb9ca121784e9718be5467d4e42613
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/海南卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",海南卫视
-https://127.0.0.1/channel/hainanweishi?streamid=6065c56c138a4a9f005af03372d65c69&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/hainanweishi?streamid=6065c56c138a4a9f005af03372d65c69
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/海南卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",海南卫视
-https://127.0.0.1/channel/hainanweishi?streamid=697d20d69495fc292773cc7ed2dfdfa8&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/hainanweishi?streamid=697d20d69495fc292773cc7ed2dfdfa8
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/海南卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",海南卫视
-https://127.0.0.1/channel/hainanweishi?streamid=4177e7af81ca272c140aac86cd95a528&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/hainanweishi?streamid=4177e7af81ca272c140aac86cd95a528
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/海南卫视.png" group-title="卫视",海南卫视
-https://127.0.0.1/channel/hainanweishi?streamid=5b280360f5942042de02cbdd20dd8b3f&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/hainanweishi?streamid=5b280360f5942042de02cbdd20dd8b3f
 #EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/海南卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",海南卫视
-https://127.0.0.1/channel/hainanweishi?streamid=a5e42f8ed405cc3e27940dc063d19024&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/hainanweishi?streamid=a5e42f8ed405cc3e27940dc063d19024
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://static.tv.darwinchow.com/logo/三沙卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",三沙卫视
-https://127.0.0.1/channel/sanshaweishi?streamid=40bd9f393462fb2361a37db0315fef39&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/sanshaweishi?streamid=40bd9f393462fb2361a37db0315fef39
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://static.tv.darwinchow.com/logo/三沙卫视.png" group-title="卫视",三沙卫视
-https://127.0.0.1/channel/sanshaweishi?streamid=ad2eb14398f6c43a7a750bbefba9a1c7&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/sanshaweishi?streamid=ad2eb14398f6c43a7a750bbefba9a1c7
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://static.tv.darwinchow.com/logo/三沙卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",三沙卫视
-https://127.0.0.1/channel/sanshaweishi?streamid=5fdb72474c2749449c641c8c7b84009c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/sanshaweishi?streamid=5fdb72474c2749449c641c8c7b84009c
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://static.tv.darwinchow.com/logo/重庆卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",重庆卫视
-https://127.0.0.1/channel/chongqingweishi?streamid=cb3cc485cf158a2e4fac66f5a5562691&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/chongqingweishi?streamid=cb3cc485cf158a2e4fac66f5a5562691
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://static.tv.darwinchow.com/logo/重庆卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",重庆卫视
-https://127.0.0.1/channel/chongqingweishi?streamid=60d46978577dff8439657a397f769ef3&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/chongqingweishi?streamid=60d46978577dff8439657a397f769ef3
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://static.tv.darwinchow.com/logo/重庆卫视.png" group-title="卫视",重庆卫视
-https://127.0.0.1/channel/chongqingweishi?streamid=737d3b1b2a486b3de8328b7a64b31051&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/chongqingweishi?streamid=737d3b1b2a486b3de8328b7a64b31051
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://static.tv.darwinchow.com/logo/重庆卫视.png" group-title="卫视",重庆卫视
-https://127.0.0.1/channel/chongqingweishi?streamid=13dd9307e37d356ebb730efe2a469a3f&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/chongqingweishi?streamid=13dd9307e37d356ebb730efe2a469a3f
 #EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://static.tv.darwinchow.com/logo/重庆卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",重庆卫视
-https://127.0.0.1/channel/chongqingweishi?streamid=fa669af3a5372a804d04dd23cee057b5&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/chongqingweishi?streamid=fa669af3a5372a804d04dd23cee057b5
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://static.tv.darwinchow.com/logo/四川卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",四川卫视
-https://127.0.0.1/channel/sichuanweishi?streamid=b230eca40489fb1c3682999f99b8db77&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/sichuanweishi?streamid=b230eca40489fb1c3682999f99b8db77
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://static.tv.darwinchow.com/logo/四川卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",四川卫视
-https://127.0.0.1/channel/sichuanweishi?streamid=b5dc4426617006dcbc1fb6d0e0db11fc&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/sichuanweishi?streamid=b5dc4426617006dcbc1fb6d0e0db11fc
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://static.tv.darwinchow.com/logo/四川卫视.png" group-title="卫视",四川卫视
-https://127.0.0.1/channel/sichuanweishi?streamid=9a0e66150171347491e3282fd0d7b3bb&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/sichuanweishi?streamid=9a0e66150171347491e3282fd0d7b3bb
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://static.tv.darwinchow.com/logo/四川卫视.png" group-title="卫视",四川卫视
-https://127.0.0.1/channel/sichuanweishi?streamid=8b7a029b7c0b7c94522bcb2fb87d07cc&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/sichuanweishi?streamid=8b7a029b7c0b7c94522bcb2fb87d07cc
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://static.tv.darwinchow.com/logo/四川卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",四川卫视
-https://127.0.0.1/channel/sichuanweishi?streamid=de58a9abab571a0967618bbea4af46c6&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/sichuanweishi?streamid=de58a9abab571a0967618bbea4af46c6
 #EXTINF:-1 tvg-id="康巴卫视" tvg-name="康巴卫视" tvg-logo="https://static.tv.darwinchow.com/logo/康巴卫视.png" group-title="卫视",康巴卫视
-https://127.0.0.1/channel/kangbaweishi?streamid=89ff8f81b4b509d0c9a537e691bf823c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/kangbaweishi?streamid=89ff8f81b4b509d0c9a537e691bf823c
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://static.tv.darwinchow.com/logo/贵州卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",贵州卫视
-https://127.0.0.1/channel/guizhouweishi?streamid=4119866a508352d7e65ecf27820fad68&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/guizhouweishi?streamid=4119866a508352d7e65ecf27820fad68
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://static.tv.darwinchow.com/logo/贵州卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",贵州卫视
-https://127.0.0.1/channel/guizhouweishi?streamid=974429eb9f8d5bb09ae64c08cec0ea47&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/guizhouweishi?streamid=974429eb9f8d5bb09ae64c08cec0ea47
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://static.tv.darwinchow.com/logo/贵州卫视.png" group-title="卫视",贵州卫视
-https://127.0.0.1/channel/guizhouweishi?streamid=c20e1dfec2a05b5fa276af0e16feedda&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/guizhouweishi?streamid=c20e1dfec2a05b5fa276af0e16feedda
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://static.tv.darwinchow.com/logo/贵州卫视.png" group-title="卫视",贵州卫视
-https://127.0.0.1/channel/guizhouweishi?streamid=c6560c718ba6f69f5952af2e353c75cf&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/guizhouweishi?streamid=c6560c718ba6f69f5952af2e353c75cf
 #EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://static.tv.darwinchow.com/logo/贵州卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",贵州卫视
-https://127.0.0.1/channel/guizhouweishi?streamid=a9c6a6f514d2a84e0f8bedcc5220f054&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/guizhouweishi?streamid=a9c6a6f514d2a84e0f8bedcc5220f054
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/云南卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",云南卫视
-https://127.0.0.1/channel/yunnanweishi?streamid=890886956dfb96eb7ee22421e1a02865&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/yunnanweishi?streamid=890886956dfb96eb7ee22421e1a02865
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/云南卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",云南卫视
-https://127.0.0.1/channel/yunnanweishi?streamid=b6b335eb8692603b7fe17b5a19c6019c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/yunnanweishi?streamid=b6b335eb8692603b7fe17b5a19c6019c
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/云南卫视.png" group-title="卫视",云南卫视
-https://127.0.0.1/channel/yunnanweishi?streamid=be5a3782650b75f9e34c7ae070a9a5a7&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/yunnanweishi?streamid=be5a3782650b75f9e34c7ae070a9a5a7
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/云南卫视.png" group-title="卫视",云南卫视
-https://127.0.0.1/channel/yunnanweishi?streamid=1390150482b76471623b95dda1aa3fd2&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/yunnanweishi?streamid=1390150482b76471623b95dda1aa3fd2
 #EXTINF:-1 tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/云南卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",云南卫视
-https://127.0.0.1/channel/yunnanweishi?streamid=6b2719e1042acdeca1032424f19cc0be&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/yunnanweishi?streamid=6b2719e1042acdeca1032424f19cc0be
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://static.tv.darwinchow.com/logo/西藏卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",西藏卫视
-https://127.0.0.1/channel/xizangweishi?streamid=87d5d189c27b58362d120509277f9102&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/xizangweishi?streamid=87d5d189c27b58362d120509277f9102
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://static.tv.darwinchow.com/logo/西藏卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",西藏卫视
-https://127.0.0.1/channel/xizangweishi?streamid=56bc46c214a3db655ac560312d813a44&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/xizangweishi?streamid=56bc46c214a3db655ac560312d813a44
 #EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://static.tv.darwinchow.com/logo/西藏卫视.png" group-title="卫视",西藏卫视
-https://127.0.0.1/channel/xizangweishi?streamid=9f35ca9fc94ca23fe8905ca4e110aeda&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/xizangweishi?streamid=9f35ca9fc94ca23fe8905ca4e110aeda
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://static.tv.darwinchow.com/logo/陕西卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",陕西卫视
-https://127.0.0.1/channel/shaanxiweishi?streamid=d50950436bbd1a3c774243ce4d9d99e5&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shaanxiweishi?streamid=d50950436bbd1a3c774243ce4d9d99e5
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://static.tv.darwinchow.com/logo/陕西卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",陕西卫视
-https://127.0.0.1/channel/shaanxiweishi?streamid=2dbca3fa28d1cabeffaecc4239826c06&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shaanxiweishi?streamid=2dbca3fa28d1cabeffaecc4239826c06
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://static.tv.darwinchow.com/logo/陕西卫视.png" group-title="卫视",陕西卫视
-https://127.0.0.1/channel/shaanxiweishi?streamid=593ba50a0e35963344be8ea0f806277c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shaanxiweishi?streamid=593ba50a0e35963344be8ea0f806277c
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://static.tv.darwinchow.com/logo/甘肃卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",甘肃卫视
-https://127.0.0.1/channel/gansuweishi?streamid=f855fcd6c38cead1b2435ac858d475cb&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/gansuweishi?streamid=f855fcd6c38cead1b2435ac858d475cb
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://static.tv.darwinchow.com/logo/甘肃卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",甘肃卫视
-https://127.0.0.1/channel/gansuweishi?streamid=dd35bf3ff694d7f921f8e772568866de&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/gansuweishi?streamid=dd35bf3ff694d7f921f8e772568866de
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://static.tv.darwinchow.com/logo/甘肃卫视.png" group-title="卫视",甘肃卫视
-https://127.0.0.1/channel/gansuweishi?streamid=859927ac977a803881c7ad4efc70c424&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/gansuweishi?streamid=859927ac977a803881c7ad4efc70c424
 #EXTINF:-1 tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://static.tv.darwinchow.com/logo/甘肃卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",甘肃卫视
-https://127.0.0.1/channel/gansuweishi?streamid=14eb5deb2383a890ee02d953127956a1&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/gansuweishi?streamid=14eb5deb2383a890ee02d953127956a1
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://static.tv.darwinchow.com/logo/青海卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",青海卫视
-https://127.0.0.1/channel/qinghaiweishi?streamid=d7e5caf6ed0597066942159d34c1be1d&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/qinghaiweishi?streamid=d7e5caf6ed0597066942159d34c1be1d
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://static.tv.darwinchow.com/logo/青海卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",青海卫视
-https://127.0.0.1/channel/qinghaiweishi?streamid=c832faeb2a4b9b87586b88d875352314&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/qinghaiweishi?streamid=c832faeb2a4b9b87586b88d875352314
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://static.tv.darwinchow.com/logo/青海卫视.png" group-title="卫视",青海卫视
-https://127.0.0.1/channel/qinghaiweishi?streamid=832d14ce34de491ae03fdea480a79bfb&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/qinghaiweishi?streamid=832d14ce34de491ae03fdea480a79bfb
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://static.tv.darwinchow.com/logo/青海卫视.png" group-title="卫视",青海卫视
-https://127.0.0.1/channel/qinghaiweishi?streamid=1d1e90a465ccf828108415a98b172969&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/qinghaiweishi?streamid=1d1e90a465ccf828108415a98b172969
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://static.tv.darwinchow.com/logo/青海卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",青海卫视
-https://127.0.0.1/channel/qinghaiweishi?streamid=85b565d171ca7aaeb8e5fe74c5470365&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/qinghaiweishi?streamid=85b565d171ca7aaeb8e5fe74c5470365
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://static.tv.darwinchow.com/logo/宁夏卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",宁夏卫视
-https://127.0.0.1/channel/ningxiaweishi?streamid=155db9fe4f58111c9413a1144658fd50&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/ningxiaweishi?streamid=155db9fe4f58111c9413a1144658fd50
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://static.tv.darwinchow.com/logo/宁夏卫视.png" group-title="卫视",宁夏卫视
-https://127.0.0.1/channel/ningxiaweishi?streamid=4c5f80c0aa19b342a8b12ebdfce99836&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/ningxiaweishi?streamid=4c5f80c0aa19b342a8b12ebdfce99836
 #EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://static.tv.darwinchow.com/logo/宁夏卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",宁夏卫视
-https://127.0.0.1/channel/ningxiaweishi?streamid=d5e361dbb0ee321847fe07c3c3a03d74&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/ningxiaweishi?streamid=d5e361dbb0ee321847fe07c3c3a03d74
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://static.tv.darwinchow.com/logo/新疆卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",新疆卫视
-https://127.0.0.1/channel/xinjiangweishi?streamid=783b1084dc2de64a377e2eccaf9de045&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/xinjiangweishi?streamid=783b1084dc2de64a377e2eccaf9de045
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://static.tv.darwinchow.com/logo/新疆卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",新疆卫视
-https://127.0.0.1/channel/xinjiangweishi?streamid=25a62fd9d24aa688b1ebe95538109c83&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/xinjiangweishi?streamid=25a62fd9d24aa688b1ebe95538109c83
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://static.tv.darwinchow.com/logo/新疆卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",新疆卫视
-https://127.0.0.1/channel/xinjiangweishi?streamid=523515e68162f225e1bdb9c0f419bd16&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/xinjiangweishi?streamid=523515e68162f225e1bdb9c0f419bd16
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://static.tv.darwinchow.com/logo/新疆卫视.png" group-title="卫视",新疆卫视
-https://127.0.0.1/channel/xinjiangweishi?streamid=0c17ee7e829623e8b5efa7b8a4421592&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/xinjiangweishi?streamid=0c17ee7e829623e8b5efa7b8a4421592
 #EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://static.tv.darwinchow.com/logo/新疆卫视.png" group-title="卫视",新疆卫视
-https://127.0.0.1/channel/xinjiangweishi?streamid=f7de306f1d70401053131fea46dbc2d0&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/xinjiangweishi?streamid=f7de306f1d70401053131fea46dbc2d0
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://static.tv.darwinchow.com/logo/兵团卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",兵团卫视
-https://127.0.0.1/channel/bingtuanweishi?streamid=c3cd8952d9f42d685ac6762577d3552d&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/bingtuanweishi?streamid=c3cd8952d9f42d685ac6762577d3552d
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://static.tv.darwinchow.com/logo/兵团卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",兵团卫视
-https://127.0.0.1/channel/bingtuanweishi?streamid=ca64d28862bc96d85df0336bc4d02a6a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/bingtuanweishi?streamid=ca64d28862bc96d85df0336bc4d02a6a
 #EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" tvg-logo="https://static.tv.darwinchow.com/logo/兵团卫视.png" group-title="卫视",兵团卫视
-https://127.0.0.1/channel/bingtuanweishi?streamid=2e0cb6342ef4130c3b683202f9269a13&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/bingtuanweishi?streamid=2e0cb6342ef4130c3b683202f9269a13
 #EXTINF:-1 tvg-id="北京纪实科教" tvg-name="北京纪实科教" tvg-logo="https://static.tv.darwinchow.com/logo/北京纪实科教.png" group-title="卫视",北京纪实科教
-https://127.0.0.1/channel/beijingjishikejiao?streamid=be45568167530940d41aa4c83c574efb&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/beijingjishikejiao?streamid=be45568167530940d41aa4c83c574efb
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://static.tv.darwinchow.com/logo/金鹰纪实.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",金鹰纪实
-https://127.0.0.1/channel/jinyingjishi?streamid=59a0f7833b9710e08e58481fa27d0e2a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jinyingjishi?streamid=59a0f7833b9710e08e58481fa27d0e2a
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://static.tv.darwinchow.com/logo/金鹰纪实.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",金鹰纪实
-https://127.0.0.1/channel/jinyingjishi?streamid=e191a3d76bad9ea0a61f3c7a10729a18&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jinyingjishi?streamid=e191a3d76bad9ea0a61f3c7a10729a18
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://static.tv.darwinchow.com/logo/金鹰纪实.png" group-title="卫视",金鹰纪实
-https://127.0.0.1/channel/jinyingjishi?streamid=d873be106fa408267a162c923949a757&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jinyingjishi?streamid=d873be106fa408267a162c923949a757
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://static.tv.darwinchow.com/logo/CETV1.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",CETV-1综合教育
-https://127.0.0.1/channel/cetv1?streamid=a61c9a2f2b72e6c2c49b8525a1993f29&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cetv1?streamid=a61c9a2f2b72e6c2c49b8525a1993f29
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://static.tv.darwinchow.com/logo/CETV1.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",CETV-1综合教育
-https://127.0.0.1/channel/cetv1?streamid=d810446765812bb6bdcd827400ac9d14&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cetv1?streamid=d810446765812bb6bdcd827400ac9d14
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://static.tv.darwinchow.com/logo/CETV1.png" group-title="卫视",CETV-1综合教育
-https://127.0.0.1/channel/cetv1?streamid=74c251e4ae67c2545ccd467f808b8c31&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cetv1?streamid=74c251e4ae67c2545ccd467f808b8c31
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://static.tv.darwinchow.com/logo/CETV1.png" group-title="卫视",CETV-1综合教育
-https://127.0.0.1/channel/cetv1?streamid=42d2b99bf75babe5551f138007c00f29&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cetv1?streamid=42d2b99bf75babe5551f138007c00f29
 #EXTINF:-1 tvg-id="中国教育1台" tvg-name="中国教育1台" tvg-logo="https://static.tv.darwinchow.com/logo/CETV1.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",CETV-1综合教育
-https://127.0.0.1/channel/cetv1?streamid=e87e7f3f1352d720d04c94bd45da4584&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cetv1?streamid=e87e7f3f1352d720d04c94bd45da4584
 #EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://static.tv.darwinchow.com/logo/CETV2.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",CETV-2教育教学
-https://127.0.0.1/channel/cetv2?streamid=ac6f327c499223eb858211e1764e70fb&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cetv2?streamid=ac6f327c499223eb858211e1764e70fb
 #EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://static.tv.darwinchow.com/logo/CETV2.png" group-title="卫视",CETV-2教育教学
-https://127.0.0.1/channel/cetv2?streamid=ab33317b6a86e010e24a1be8bcc0a697&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cetv2?streamid=ab33317b6a86e010e24a1be8bcc0a697
 #EXTINF:-1 tvg-id="中国教育2台" tvg-name="中国教育2台" tvg-logo="https://static.tv.darwinchow.com/logo/CETV2.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",CETV-2教育教学
-https://127.0.0.1/channel/cetv2?streamid=d762daa1d58e7fc1bd810a64f2263dc0&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cetv2?streamid=d762daa1d58e7fc1bd810a64f2263dc0
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://static.tv.darwinchow.com/logo/CETV4.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",CETV-4职业教育
-https://127.0.0.1/channel/cetv4?streamid=ce02ed78ba14fd77e66df9f279a1e0fe&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cetv4?streamid=ce02ed78ba14fd77e66df9f279a1e0fe
 #EXTINF:-1 tvg-id="中国教育4台" tvg-name="中国教育4台" tvg-logo="https://static.tv.darwinchow.com/logo/CETV4.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",CETV-4职业教育
-https://127.0.0.1/channel/cetv4?streamid=7541a98f35d6ea7fd59d66a7f73b16d2&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cetv4?streamid=7541a98f35d6ea7fd59d66a7f73b16d2
 #EXTINF:-1 tvg-id="山东教育卫视" tvg-name="山东教育卫视" tvg-logo="https://static.tv.darwinchow.com/logo/山东教育.png" group-title="卫视",山东教育卫视
-https://127.0.0.1/channel/shandongjiaoyuweishi?streamid=94b6a00b99ffa16ef7bd9ac26d795bcc&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shandongjiaoyuweishi?streamid=94b6a00b99ffa16ef7bd9ac26d795bcc
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://static.tv.darwinchow.com/logo/卡酷少儿.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",卡酷少儿
-https://127.0.0.1/channel/kakushaoer?streamid=fcb9fe63fbde62799e4f09136fa8170b&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/kakushaoer?streamid=fcb9fe63fbde62799e4f09136fa8170b
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://static.tv.darwinchow.com/logo/卡酷少儿.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",卡酷少儿
-https://127.0.0.1/channel/kakushaoer?streamid=aff3154b6f1a890d79a4c5928bd06ded&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/kakushaoer?streamid=aff3154b6f1a890d79a4c5928bd06ded
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://static.tv.darwinchow.com/logo/卡酷少儿.png" group-title="卫视",卡酷少儿
-https://127.0.0.1/channel/kakushaoer?streamid=3ec24c38425326b3ccb258de23f1a397&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/kakushaoer?streamid=3ec24c38425326b3ccb258de23f1a397
 #EXTINF:-1 tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://static.tv.darwinchow.com/logo/卡酷少儿.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",卡酷少儿
-https://127.0.0.1/channel/kakushaoer?streamid=4b8f593986f7ff97dc8f2d1502baeded&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/kakushaoer?streamid=4b8f593986f7ff97dc8f2d1502baeded
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://static.tv.darwinchow.com/logo/金鹰卡通.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",金鹰卡通
-https://127.0.0.1/channel/jinyingkatong?streamid=567b6ed9f38700fc17abb2976646b882&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jinyingkatong?streamid=567b6ed9f38700fc17abb2976646b882
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://static.tv.darwinchow.com/logo/金鹰卡通.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",金鹰卡通
-https://127.0.0.1/channel/jinyingkatong?streamid=dfdf248d43713531f6ba5414f58e090a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jinyingkatong?streamid=dfdf248d43713531f6ba5414f58e090a
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://static.tv.darwinchow.com/logo/金鹰卡通.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",金鹰卡通
-https://127.0.0.1/channel/jinyingkatong?streamid=5d97204c0b7c83c2a8abccccfe6f4d7b&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jinyingkatong?streamid=5d97204c0b7c83c2a8abccccfe6f4d7b
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://static.tv.darwinchow.com/logo/哈哈炫动.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",哈哈炫动
-https://127.0.0.1/channel/hahaxuandong?streamid=31bb417c27b90f80765fae7f4260566a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/hahaxuandong?streamid=31bb417c27b90f80765fae7f4260566a
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://static.tv.darwinchow.com/logo/哈哈炫动.png" group-title="卫视",哈哈炫动
-https://127.0.0.1/channel/hahaxuandong?streamid=da108b3d73184c860c506005b77617e9&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/hahaxuandong?streamid=da108b3d73184c860c506005b77617e9
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://static.tv.darwinchow.com/logo/哈哈炫动.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",哈哈炫动
-https://127.0.0.1/channel/hahaxuandong?streamid=0352ec60db405afad679f84a28c34b23&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/hahaxuandong?streamid=0352ec60db405afad679f84a28c34b23
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://static.tv.darwinchow.com/logo/嘉佳卡通.png" group-title="卫视",嘉佳卡通
-https://127.0.0.1/channel/jiajiakatong?streamid=cfeb54dbf8ffa7d7b3fe5238743b21c8&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jiajiakatong?streamid=cfeb54dbf8ffa7d7b3fe5238743b21c8
 #EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://static.tv.darwinchow.com/logo/嘉佳卡通.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",嘉佳卡通
-https://127.0.0.1/channel/jiajiakatong?streamid=daab65af36186e1a7b4570097311f2dc&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jiajiakatong?streamid=daab65af36186e1a7b4570097311f2dc
 #EXTINF:-1 tvg-id="优漫卡通" tvg-name="优漫卡通" tvg-logo="https://static.tv.darwinchow.com/logo/优漫卡通.png" group-title="卫视",优漫卡通
-https://127.0.0.1/channel/youmankatong?streamid=3cc2d4de77439a42124b9304caa47aae&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/youmankatong?streamid=3cc2d4de77439a42124b9304caa47aae
 #EXTINF:-1 tvg-id="凤凰卫视资讯台" tvg-name="凤凰卫视资讯台" tvg-logo="https://static.tv.darwinchow.com/logo/凤凰卫视资讯台.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",凤凰卫视资讯台
-https://127.0.0.1/channel/fenghuangweishizixun?streamid=bbcca9e1cb4c2d7076110386f5d6adbb&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/fenghuangweishizixun?streamid=bbcca9e1cb4c2d7076110386f5d6adbb
 #EXTINF:-1 tvg-id="凤凰卫视中文台" tvg-name="凤凰卫视中文台" tvg-logo="https://static.tv.darwinchow.com/logo/凤凰卫视中文台.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="卫视",凤凰卫视中文台
-https://127.0.0.1/channel/fenghuangweishizhongwen?streamid=5dfab282d10bd060b8e3fb642d76495c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/fenghuangweishizhongwen?streamid=5dfab282d10bd060b8e3fb642d76495c
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV16.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="4K",CCTV-16奥林匹克4K
-https://127.0.0.1/channel/cctv164k?streamid=884beeee2f690947ee4f7b50e57fa356&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv164k?streamid=884beeee2f690947ee4f7b50e57fa356
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV16.png" group-title="4K",CCTV-16奥林匹克4K
-https://127.0.0.1/channel/cctv164k?streamid=06b31b51757bd2961b2ba07ec3a260db&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv164k?streamid=06b31b51757bd2961b2ba07ec3a260db
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV4K.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="4K",CCTV-4K超高清
-https://127.0.0.1/channel/cctv4k?streamid=9d9e2bf5475db3aed03a0803b8860e4f&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv4k?streamid=9d9e2bf5475db3aed03a0803b8860e4f
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV4K.png" group-title="4K",CCTV-4K超高清
-https://127.0.0.1/channel/cctv4k?streamid=925611a7e913d370b80f6481e5e5033e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv4k?streamid=925611a7e913d370b80f6481e5e5033e
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://static.tv.darwinchow.com/logo/CCTV4K.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="4K",CCTV-4K超高清
-https://127.0.0.1/channel/cctv4k?streamid=3af810f7d466810e838b0439f35580d6&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cctv4k?streamid=3af810f7d466810e838b0439f35580d6
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://static.tv.darwinchow.com/logo/北京卫视4K.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="4K",北京卫视4K
-https://127.0.0.1/channel/beijingweishi4k?streamid=25d5d76430b54bdd020d7c296dab2f49&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/beijingweishi4k?streamid=25d5d76430b54bdd020d7c296dab2f49
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://static.tv.darwinchow.com/logo/北京卫视4K.png" group-title="4K",北京卫视4K
-https://127.0.0.1/channel/beijingweishi4k?streamid=0ef605c8a4143ba686d777282d1d8093&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/beijingweishi4k?streamid=0ef605c8a4143ba686d777282d1d8093
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://static.tv.darwinchow.com/logo/北京卫视4K.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="4K",北京卫视4K
-https://127.0.0.1/channel/beijingweishi4k?streamid=f547e05406fe7bdfc6acc9b977edd11f&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/beijingweishi4k?streamid=f547e05406fe7bdfc6acc9b977edd11f
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://static.tv.darwinchow.com/logo/东方卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="4K",东方卫视4K
-https://127.0.0.1/channel/dongfangweishi4k?streamid=f41e2e6a8a641abd5164ef3296613ffc&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/dongfangweishi4k?streamid=f41e2e6a8a641abd5164ef3296613ffc
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://static.tv.darwinchow.com/logo/江苏卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="4K",江苏卫视4K
-https://127.0.0.1/channel/jiangsuweishi4k?streamid=96b7e3f8759d9753cc16c01dbf1cf133&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jiangsuweishi4k?streamid=96b7e3f8759d9753cc16c01dbf1cf133
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://static.tv.darwinchow.com/logo/浙江卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="4K",浙江卫视4K
-https://127.0.0.1/channel/zhejiangweishi4k?streamid=88a8bbf87f8a7e9ca7fde9a99ad455ad&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/zhejiangweishi4k?streamid=88a8bbf87f8a7e9ca7fde9a99ad455ad
 #EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://static.tv.darwinchow.com/logo/山东卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="4K",山东卫视4K
-https://127.0.0.1/channel/shandongweishi4k?streamid=b2b0e07cc468e86084becea40f52584e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shandongweishi4k?streamid=b2b0e07cc468e86084becea40f52584e
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://static.tv.darwinchow.com/logo/湖南卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="4K",湖南卫视4K
-https://127.0.0.1/channel/hunanweishi4k?streamid=b52d43b20b39c56c9bddf8922eca8b65&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/hunanweishi4k?streamid=b52d43b20b39c56c9bddf8922eca8b65
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://static.tv.darwinchow.com/logo/广东卫视4K.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="4K",广东卫视4K
-https://127.0.0.1/channel/guangdongweishi4k?streamid=0e99b91c9171872ee1741a607409cf42&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/guangdongweishi4k?streamid=0e99b91c9171872ee1741a607409cf42
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://static.tv.darwinchow.com/logo/广东卫视4K.png" group-title="4K",广东卫视4K
-https://127.0.0.1/channel/guangdongweishi4k?streamid=19536a755f973091e18a5474c5000880&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/guangdongweishi4k?streamid=19536a755f973091e18a5474c5000880
 #EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://static.tv.darwinchow.com/logo/广东卫视4K.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="4K",广东卫视4K
-https://127.0.0.1/channel/guangdongweishi4k?streamid=434e79f5ca4b5c28c38286e1c881e7dd&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/guangdongweishi4k?streamid=434e79f5ca4b5c28c38286e1c881e7dd
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://static.tv.darwinchow.com/logo/深圳卫视4K.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="4K",深圳卫视4K
-https://127.0.0.1/channel/shenzhenweishi4k?streamid=0e8ac1cf7cfcd940ac6b32a97d8fd9c6&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shenzhenweishi4k?streamid=0e8ac1cf7cfcd940ac6b32a97d8fd9c6
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://static.tv.darwinchow.com/logo/深圳卫视4K.png" group-title="4K",深圳卫视4K
-https://127.0.0.1/channel/shenzhenweishi4k?streamid=a4290cac0f04dc8470701c39af315242&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shenzhenweishi4k?streamid=a4290cac0f04dc8470701c39af315242
 #EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://static.tv.darwinchow.com/logo/深圳卫视4K.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="4K",深圳卫视4K
-https://127.0.0.1/channel/shenzhenweishi4k?streamid=19f863c2a87632a8f48ceb3c8b579e05&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shenzhenweishi4k?streamid=19f863c2a87632a8f48ceb3c8b579e05
 #EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://static.tv.darwinchow.com/logo/四川卫视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="4K",四川卫视4K
-https://127.0.0.1/channel/sichuanweishi4k?streamid=9070d75c22916dd9069af92e78a87f4a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/sichuanweishi4k?streamid=9070d75c22916dd9069af92e78a87f4a
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://static.tv.darwinchow.com/logo/欢笑剧场4K.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="4K",欢笑剧场4K
-https://127.0.0.1/channel/huanxiaojuchang4k?streamid=19ef65ccaaa65442fd584e101f4ad3cd&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/huanxiaojuchang4k?streamid=19ef65ccaaa65442fd584e101f4ad3cd
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://static.tv.darwinchow.com/logo/欢笑剧场4K.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="4K",欢笑剧场4K
-https://127.0.0.1/channel/huanxiaojuchang4k?streamid=cdf81549f79c72ee9b8c690b71f86b4a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/huanxiaojuchang4k?streamid=cdf81549f79c72ee9b8c690b71f86b4a
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://static.tv.darwinchow.com/logo/纯享4K.png" group-title="4K",纯享4K
-https://127.0.0.1/channel/chunxiang4k?streamid=c9057b857c66fd662170ba7a499871d7&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/chunxiang4k?streamid=c9057b857c66fd662170ba7a499871d7
 #EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://static.tv.darwinchow.com/logo/央广购物.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",央广购物
-https://127.0.0.1/channel/yangguanggouwu?streamid=3315a5e7ea36430779f15e2425ed1035&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/yangguanggouwu?streamid=3315a5e7ea36430779f15e2425ed1035
 #EXTINF:-1 tvg-id="央广购物" tvg-name="央广购物" tvg-logo="https://static.tv.darwinchow.com/logo/央广购物.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",央广购物
-https://127.0.0.1/channel/yangguanggouwu?streamid=b8ad66fc9bfd8ee0bd1c826f50b02a31&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/yangguanggouwu?streamid=b8ad66fc9bfd8ee0bd1c826f50b02a31
 #EXTINF:-1 tvg-id="环球奇观" tvg-name="环球奇观" tvg-logo="https://static.tv.darwinchow.com/logo/环球奇观.png" group-title="付费",环球奇观
-https://127.0.0.1/channel/huanqiuqiguan?streamid=ac42e9d4c0b474383f4b4eb57b5a3daf&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/huanqiuqiguan?streamid=ac42e9d4c0b474383f4b4eb57b5a3daf
 #EXTINF:-1 tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://static.tv.darwinchow.com/logo/风云足球.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",风云足球
-https://127.0.0.1/channel/fengyunzuqiu?streamid=3622d9d70ddd3e6345eaa51c6f6b109e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/fengyunzuqiu?streamid=3622d9d70ddd3e6345eaa51c6f6b109e
 #EXTINF:-1 tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://static.tv.darwinchow.com/logo/高尔夫网球.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",高尔夫·网球
-https://127.0.0.1/channel/gaoerfuwangqiu?streamid=81cf839d747fe79320ed21502f9b343e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/gaoerfuwangqiu?streamid=81cf839d747fe79320ed21502f9b343e
 #EXTINF:-1 tvg-id="央视文化精品" tvg-name="央视文化精品" tvg-logo="https://static.tv.darwinchow.com/logo/文化精品.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",央视文化精品
-https://127.0.0.1/channel/yangshiwenhuajingpin?streamid=eb99ee45f33d9c6700cf00ca052d1ecf&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/yangshiwenhuajingpin?streamid=eb99ee45f33d9c6700cf00ca052d1ecf
 #EXTINF:-1 tvg-id="风云音乐" tvg-name="风云音乐" tvg-logo="https://static.tv.darwinchow.com/logo/风云音乐.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",风云音乐
-https://127.0.0.1/channel/fengyunyinyue?streamid=4b977ca75f50d0c99a5b132e3153d407&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/fengyunyinyue?streamid=4b977ca75f50d0c99a5b132e3153d407
 #EXTINF:-1 tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://static.tv.darwinchow.com/logo/第一剧场.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",第一剧场
-https://127.0.0.1/channel/diyijuchang?streamid=1b9fc2b1e0472a8e9828550f0856cd0e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/diyijuchang?streamid=1b9fc2b1e0472a8e9828550f0856cd0e
 #EXTINF:-1 tvg-id="怀旧剧场" tvg-name="怀旧剧场" tvg-logo="https://static.tv.darwinchow.com/logo/怀旧剧场.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",怀旧剧场
-https://127.0.0.1/channel/huaijiujuchang?streamid=785424c4495863dfbc4d69de034160f2&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/huaijiujuchang?streamid=785424c4495863dfbc4d69de034160f2
 #EXTINF:-1 tvg-id="风云剧场" tvg-name="风云剧场" tvg-logo="https://static.tv.darwinchow.com/logo/风云剧场.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",风云剧场
-https://127.0.0.1/channel/fengyunjuchang?streamid=d94162885496c8ed6da36bc4f612ac38&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/fengyunjuchang?streamid=d94162885496c8ed6da36bc4f612ac38
 #EXTINF:-1 tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://static.tv.darwinchow.com/logo/世界地理.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",世界地理
-https://127.0.0.1/channel/shijiedili?streamid=ee665161de9c242c4a68c526017311b5&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shijiedili?streamid=ee665161de9c242c4a68c526017311b5
 #EXTINF:-1 tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://static.tv.darwinchow.com/logo/兵器科技.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",兵器科技
-https://127.0.0.1/channel/bingqikeji?streamid=0b3e3ab30760d9b23f4989b00eef1726&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/bingqikeji?streamid=0b3e3ab30760d9b23f4989b00eef1726
 #EXTINF:-1 tvg-id="女性时尚" tvg-name="女性时尚" tvg-logo="https://static.tv.darwinchow.com/logo/女性时尚.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",女性时尚
-https://127.0.0.1/channel/nvxingshishang?streamid=01e7834bccbb94d3e1d2562947242d31&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/nvxingshishang?streamid=01e7834bccbb94d3e1d2562947242d31
 #EXTINF:-1 tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://static.tv.darwinchow.com/logo/央视台球.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",央视台球
-https://127.0.0.1/channel/yangshitaiqiu?streamid=e9305cac298deddf6919889677a4ce69&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/yangshitaiqiu?streamid=e9305cac298deddf6919889677a4ce69
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://static.tv.darwinchow.com/logo/CHC家庭影院.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",CHC家庭影院
-https://127.0.0.1/channel/chcjiatingyingyuan?streamid=e814fb6928cfae14ab25cb531e1527a5&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/chcjiatingyingyuan?streamid=e814fb6928cfae14ab25cb531e1527a5
 #EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://static.tv.darwinchow.com/logo/CHC影迷电影.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",CHC影迷电影
-https://127.0.0.1/channel/chcyingmidianying?streamid=b568eb23069b4af6176573414c716708&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/chcyingmidianying?streamid=b568eb23069b4af6176573414c716708
 #EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://static.tv.darwinchow.com/logo/CHC动作电影.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",CHC动作电影
-https://127.0.0.1/channel/chcdongzuodianying?streamid=6c9f8f2e46bb247a6eefcafeb2462c83&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/chcdongzuodianying?streamid=6c9f8f2e46bb247a6eefcafeb2462c83
 #EXTINF:-1 tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://static.tv.darwinchow.com/logo/早期教育.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",早期教育
-https://127.0.0.1/channel/cetvcece?streamid=c0f6ec224de28e1dbe8c1e7a2f436709&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cetvcece?streamid=c0f6ec224de28e1dbe8c1e7a2f436709
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://static.tv.darwinchow.com/logo/中国天气.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",中国天气
-https://127.0.0.1/channel/zhongguotianqi?streamid=0ac44380f4bd17e5b1a4b4b3788e7450&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/zhongguotianqi?streamid=0ac44380f4bd17e5b1a4b4b3788e7450
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://static.tv.darwinchow.com/logo/中国天气.png" group-title="付费",中国天气
-https://127.0.0.1/channel/zhongguotianqi?streamid=09aac8dc4d4389feb6a21eb9820ada98&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/zhongguotianqi?streamid=09aac8dc4d4389feb6a21eb9820ada98
 #EXTINF:-1 tvg-id="优优宝贝" tvg-name="优优宝贝" tvg-logo="https://static.tv.darwinchow.com/logo/优优宝贝.png" group-title="付费",优优宝贝
-https://127.0.0.1/channel/youyoubaobei?streamid=61b8f52d9831c7c320a7b666d1f32e66&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/youyoubaobei?streamid=61b8f52d9831c7c320a7b666d1f32e66
 #EXTINF:-1 tvg-id="中华特产" tvg-name="中华特产" tvg-logo="https://static.tv.darwinchow.com/logo/中华特产.png" group-title="付费",中华特产
-https://127.0.0.1/channel/zhonghuatechan?streamid=4a8b18c27adb0e4611694270cc6e4ade&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/zhonghuatechan?streamid=4a8b18c27adb0e4611694270cc6e4ade
 #EXTINF:-1 tvg-id="生态环境" tvg-name="生态环境" tvg-logo="https://static.tv.darwinchow.com/logo/生态环境.png" group-title="付费",生态环境
-https://127.0.0.1/channel/eetv?streamid=ba47074614ad6f22da87d73f9cb54eaf&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/eetv?streamid=ba47074614ad6f22da87d73f9cb54eaf
 #EXTINF:-1 tvg-id="新动漫" tvg-name="新动漫" tvg-logo="https://static.tv.darwinchow.com/logo/新动漫.png" group-title="付费",新动漫
-https://127.0.0.1/channel/xindongman?streamid=482451eef0d12ff9f73306dfb55f7e2c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/xindongman?streamid=482451eef0d12ff9f73306dfb55f7e2c
 #EXTINF:-1 tvg-id="家庭理财" tvg-name="家庭理财" tvg-logo="https://static.tv.darwinchow.com/logo/家庭理财.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",家庭理财
-https://127.0.0.1/channel/jiatinglicai?streamid=d9ee704093abf2c7298910a48681da8a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jiatinglicai?streamid=d9ee704093abf2c7298910a48681da8a
 #EXTINF:-1 tvg-id="东方财经" tvg-name="东方财经" tvg-logo="https://static.tv.darwinchow.com/logo/东方财经.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",东方财经
-https://127.0.0.1/channel/dongfangcaijing?streamid=dbb3f42d35ea33336a9c90b7a013aca0&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/dongfangcaijing?streamid=dbb3f42d35ea33336a9c90b7a013aca0
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://static.tv.darwinchow.com/logo/动漫秀场.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",动漫秀场
-https://127.0.0.1/channel/dongmanxiuchang?streamid=0c10aff6bf71a9594faee176aa42b65a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/dongmanxiuchang?streamid=0c10aff6bf71a9594faee176aa42b65a
 #EXTINF:-1 tvg-id="动漫秀场" tvg-name="动漫秀场" tvg-logo="https://static.tv.darwinchow.com/logo/动漫秀场.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",动漫秀场
-https://127.0.0.1/channel/dongmanxiuchang?streamid=ba65d04c9243ff3f584923ff1918e1ee&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/dongmanxiuchang?streamid=ba65d04c9243ff3f584923ff1918e1ee
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://static.tv.darwinchow.com/logo/游戏风云.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",游戏风云
-https://127.0.0.1/channel/youxifengyun?streamid=f977af663c3c1308afeb862348267a9c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/youxifengyun?streamid=f977af663c3c1308afeb862348267a9c
 #EXTINF:-1 tvg-id="游戏风云" tvg-name="游戏风云" tvg-logo="https://static.tv.darwinchow.com/logo/游戏风云.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",游戏风云
-https://127.0.0.1/channel/youxifengyun?streamid=07493f9acfa0143452ad123a100cde0e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/youxifengyun?streamid=07493f9acfa0143452ad123a100cde0e
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://static.tv.darwinchow.com/logo/乐游.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",乐游
-https://127.0.0.1/channel/leyou?streamid=d2e920fe5cfacb4ea7549e2491c10f0b&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/leyou?streamid=d2e920fe5cfacb4ea7549e2491c10f0b
 #EXTINF:-1 tvg-id="乐游" tvg-name="乐游" tvg-logo="https://static.tv.darwinchow.com/logo/乐游.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",乐游
-https://127.0.0.1/channel/leyou?streamid=381cb145efeb36429386afbdec5666dd&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/leyou?streamid=381cb145efeb36429386afbdec5666dd
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://static.tv.darwinchow.com/logo/法治天地.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",法治天地
-https://127.0.0.1/channel/fazhitiandi?streamid=d1bb9d1692c7a9f4de8d42f54bdcb047&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/fazhitiandi?streamid=d1bb9d1692c7a9f4de8d42f54bdcb047
 #EXTINF:-1 tvg-id="法治天地" tvg-name="法治天地" tvg-logo="https://static.tv.darwinchow.com/logo/法治天地.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",法治天地
-https://127.0.0.1/channel/fazhitiandi?streamid=cc24b28cc998f5f7c3f56ce09495e37a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/fazhitiandi?streamid=cc24b28cc998f5f7c3f56ce09495e37a
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://static.tv.darwinchow.com/logo/都市剧场.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",都市剧场
-https://127.0.0.1/channel/dushijuchang?streamid=c4b4a0b26bea1c6556982925005f2949&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/dushijuchang?streamid=c4b4a0b26bea1c6556982925005f2949
 #EXTINF:-1 tvg-id="都市剧场" tvg-name="都市剧场" tvg-logo="https://static.tv.darwinchow.com/logo/都市剧场.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",都市剧场
-https://127.0.0.1/channel/dushijuchang?streamid=182389ef3d1d3137c6d5350089afc9dc&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/dushijuchang?streamid=182389ef3d1d3137c6d5350089afc9dc
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://static.tv.darwinchow.com/logo/欢笑剧场4K.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",欢笑剧场4K
-https://127.0.0.1/channel/huanxiaojuchang4k?streamid=19ef65ccaaa65442fd584e101f4ad3cd&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/huanxiaojuchang4k?streamid=19ef65ccaaa65442fd584e101f4ad3cd
 #EXTINF:-1 tvg-id="欢笑剧场" tvg-name="欢笑剧场" tvg-logo="https://static.tv.darwinchow.com/logo/欢笑剧场4K.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",欢笑剧场4K
-https://127.0.0.1/channel/huanxiaojuchang4k?streamid=cdf81549f79c72ee9b8c690b71f86b4a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/huanxiaojuchang4k?streamid=cdf81549f79c72ee9b8c690b71f86b4a
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://static.tv.darwinchow.com/logo/金色学堂.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",金色学堂
-https://127.0.0.1/channel/jinsexuetang?streamid=87732b271bb3ed9d5d13ac3fb516cd00&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jinsexuetang?streamid=87732b271bb3ed9d5d13ac3fb516cd00
 #EXTINF:-1 tvg-id="金色学堂" tvg-name="金色学堂" tvg-logo="https://static.tv.darwinchow.com/logo/金色学堂.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",金色学堂
-https://127.0.0.1/channel/jinsexuetang?streamid=7ab563f1bca942dc3cc2d2b2ffae3b33&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jinsexuetang?streamid=7ab563f1bca942dc3cc2d2b2ffae3b33
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://static.tv.darwinchow.com/logo/生活时尚.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",生活时尚
-https://127.0.0.1/channel/shenghuoshishang?streamid=a9df755b89218d85971782f9679fded2&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shenghuoshishang?streamid=a9df755b89218d85971782f9679fded2
 #EXTINF:-1 tvg-id="生活时尚" tvg-name="生活时尚" tvg-logo="https://static.tv.darwinchow.com/logo/生活时尚.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",生活时尚
-https://127.0.0.1/channel/shenghuoshishang?streamid=c071f67e2822f4a77b21ec82a4a6c36a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shenghuoshishang?streamid=c071f67e2822f4a77b21ec82a4a6c36a
 #EXTINF:-1 tvg-id="财富天下" tvg-name="财富天下" tvg-logo="https://static.tv.darwinchow.com/logo/财富天下.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",财富天下
-https://127.0.0.1/channel/caifutianxia?streamid=00aab25b16bebe5ba2b32478bfe52929&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/caifutianxia?streamid=00aab25b16bebe5ba2b32478bfe52929
 #EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://static.tv.darwinchow.com/logo/茶.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",茶
-https://127.0.0.1/channel/cha?streamid=efa01fabf4eecbbb1e282d7d4674ef63&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cha?streamid=efa01fabf4eecbbb1e282d7d4674ef63
 #EXTINF:-1 tvg-id="茶" tvg-name="茶" tvg-logo="https://static.tv.darwinchow.com/logo/茶.png" group-title="付费",茶
-https://127.0.0.1/channel/cha?streamid=f12c5bd7fcf8e7a4c322578c0230de0c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/cha?streamid=f12c5bd7fcf8e7a4c322578c0230de0c
 #EXTINF:-1 tvg-id="先锋乒羽" tvg-name="先锋乒羽" tvg-logo="https://static.tv.darwinchow.com/logo/先锋乒羽.png" group-title="付费",先锋乒羽
-https://127.0.0.1/channel/xianfengpingyu?streamid=74eef2162260e9766f9f62ef2d600c8e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/xianfengpingyu?streamid=74eef2162260e9766f9f62ef2d600c8e
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://static.tv.darwinchow.com/logo/快乐垂钓.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="付费",快乐垂钓
-https://127.0.0.1/channel/kuailechuidiao?streamid=c4ce8f3086c468a6df0ec842eef80b7e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/kuailechuidiao?streamid=c4ce8f3086c468a6df0ec842eef80b7e
 #EXTINF:-1 tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://static.tv.darwinchow.com/logo/快乐垂钓.png" group-title="付费",快乐垂钓
-https://127.0.0.1/channel/kuailechuidiao?streamid=62c4fec548969d9a96acc92ff910823a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/kuailechuidiao?streamid=62c4fec548969d9a96acc92ff910823a
 #EXTINF:-1 tvg-id="睛彩竞技" tvg-name="睛彩竞技" tvg-logo="https://static.tv.darwinchow.com/logo/睛彩竞技.png" group-title="付费",睛彩竞技
-https://127.0.0.1/channel/jingcaijingji?streamid=0bf25b3e7ad9a8f3eae4e5837e86a83b&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jingcaijingji?streamid=0bf25b3e7ad9a8f3eae4e5837e86a83b
 #EXTINF:-1 tvg-id="睛彩青少" tvg-name="睛彩青少" tvg-logo="https://static.tv.darwinchow.com/logo/睛彩青少.png" group-title="付费",睛彩青少
-https://127.0.0.1/channel/jingcaiqingshao?streamid=2c0897cfcbb4de5352a10e5be4c40c42&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jingcaiqingshao?streamid=2c0897cfcbb4de5352a10e5be4c40c42
 #EXTINF:-1 tvg-id="睛彩篮球" tvg-name="睛彩篮球" tvg-logo="https://static.tv.darwinchow.com/logo/睛彩篮球.png" group-title="付费",睛彩篮球
-https://127.0.0.1/channel/jingcailanqiu?streamid=bf4e1ffe7722fe11569c90de4db79ccb&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/jingcailanqiu?streamid=bf4e1ffe7722fe11569c90de4db79ccb
 #EXTINF:-1 tvg-id="NEWTV爱情喜剧" tvg-name="NEWTV爱情喜剧" tvg-logo="https://static.tv.darwinchow.com/logo/NEWTV爱情喜剧.png" group-title="数字",爱情喜剧
-https://127.0.0.1/channel/newtvaiqingxiju?streamid=5409a712c46c74c62b796b6e71dccfe5&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/newtvaiqingxiju?streamid=5409a712c46c74c62b796b6e71dccfe5
 #EXTINF:-1 tvg-id="NEWTV潮妈辣婆" tvg-name="NEWTV潮妈辣婆" tvg-logo="https://static.tv.darwinchow.com/logo/NEWTV潮妈辣婆.png" group-title="数字",潮妈辣婆
-https://127.0.0.1/channel/newtvchaomalapo?streamid=373dc1a7ed2f30ff161d0aa009efe0c7&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/newtvchaomalapo?streamid=373dc1a7ed2f30ff161d0aa009efe0c7
 #EXTINF:-1 tvg-id="NEWTV动作电影" tvg-name="NEWTV动作电影" tvg-logo="https://static.tv.darwinchow.com/logo/NEWTV动作电影.png" group-title="数字",动作电影
-https://127.0.0.1/channel/newtvdongzuodianying?streamid=d47fa96df8dd3b823df74ec7bce69762&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/newtvdongzuodianying?streamid=d47fa96df8dd3b823df74ec7bce69762
 #EXTINF:-1 tvg-id="NEWTV古装剧场" tvg-name="NEWTV古装剧场" tvg-logo="https://static.tv.darwinchow.com/logo/NEWTV古装剧场.png" group-title="数字",古装剧场
-https://127.0.0.1/channel/newtvguzhuangjuchang?streamid=fe57f31007301638ab1e66e5aac2bd0e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/newtvguzhuangjuchang?streamid=fe57f31007301638ab1e66e5aac2bd0e
 #EXTINF:-1 tvg-id="NEWTV家庭剧场" tvg-name="NEWTV家庭剧场" tvg-logo="https://static.tv.darwinchow.com/logo/NEWTV家庭剧场.png" group-title="数字",家庭剧场
-https://127.0.0.1/channel/newtvjiatingjuchang?streamid=efbaeb2bed935e415ce873493d680b45&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/newtvjiatingjuchang?streamid=efbaeb2bed935e415ce873493d680b45
 #EXTINF:-1 tvg-id="NEWTV金牌综艺" tvg-name="NEWTV金牌综艺" tvg-logo="https://static.tv.darwinchow.com/logo/NEWTV金牌综艺.png" group-title="数字",金牌综艺
-https://127.0.0.1/channel/newtvjinpaizongyi?streamid=43901d8594f9175e2080a872c79c644d&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/newtvjinpaizongyi?streamid=43901d8594f9175e2080a872c79c644d
 #EXTINF:-1 tvg-id="NEWTV惊悚悬疑" tvg-name="NEWTV惊悚悬疑" tvg-logo="https://static.tv.darwinchow.com/logo/NEWTV惊悚悬疑.png" group-title="数字",惊悚悬疑
-https://127.0.0.1/channel/newtvjingsongxuanyi?streamid=ba9c17224a0f72d56e854bedb03ec3f6&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/newtvjingsongxuanyi?streamid=ba9c17224a0f72d56e854bedb03ec3f6
 #EXTINF:-1 tvg-id="NEWTV精彩轮播" tvg-name="NEWTV精彩轮播" tvg-logo="https://static.tv.darwinchow.com/logo/NEWTV精彩轮播.png" group-title="数字",精彩轮播
-https://127.0.0.1/channel/newtvjingcailunbo?streamid=7da7c7b3321d43c97bec0d5e63158e44&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/newtvjingcailunbo?streamid=7da7c7b3321d43c97bec0d5e63158e44
 #EXTINF:-1 tvg-id="NEWTV精品大剧" tvg-name="NEWTV精品大剧" tvg-logo="https://static.tv.darwinchow.com/logo/NEWTV精品大剧.png" group-title="数字",精品大剧
-https://127.0.0.1/channel/newtvjingpindaju?streamid=6cb76a3841f38111a8e2bd15111a45d6&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/newtvjingpindaju?streamid=6cb76a3841f38111a8e2bd15111a45d6
 #EXTINF:-1 tvg-id="NEWTV精品纪录" tvg-name="NEWTV精品纪录" tvg-logo="https://static.tv.darwinchow.com/logo/NEWTV精品纪录.png" group-title="数字",精品纪录
-https://127.0.0.1/channel/newtvjingpinjilu?streamid=7c48dbee82b50c887a88e1af1a42a478&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/newtvjingpinjilu?streamid=7c48dbee82b50c887a88e1af1a42a478
 #EXTINF:-1 tvg-id="NEWTV精品萌宠" tvg-name="NEWTV精品萌宠" tvg-logo="https://static.tv.darwinchow.com/logo/NEWTV精品萌宠.png" group-title="数字",精品萌宠
-https://127.0.0.1/channel/newtvjingpinmengchong?streamid=c5f8cac2fab939f3ece4a4c3c448b296&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/newtvjingpinmengchong?streamid=c5f8cac2fab939f3ece4a4c3c448b296
 #EXTINF:-1 tvg-id="NEWTV精品体育" tvg-name="NEWTV精品体育" tvg-logo="https://static.tv.darwinchow.com/logo/NEWTV精品体育.png" group-title="数字",精品体育
-https://127.0.0.1/channel/newtvjingpintiyu?streamid=b79f8f836c237ffa8206a23e3ee30f69&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/newtvjingpintiyu?streamid=b79f8f836c237ffa8206a23e3ee30f69
 #EXTINF:-1 tvg-id="NEWTV军旅剧场" tvg-name="NEWTV军旅剧场" tvg-logo="https://static.tv.darwinchow.com/logo/NEWTV军旅剧场.png" group-title="数字",军旅剧场
-https://127.0.0.1/channel/newtvjunlvjuchang?streamid=1f94df7f1519dcd9b251fdd123aed370&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/newtvjunlvjuchang?streamid=1f94df7f1519dcd9b251fdd123aed370
 #EXTINF:-1 tvg-id="NEWTV军事评论" tvg-name="NEWTV军事评论" tvg-logo="https://static.tv.darwinchow.com/logo/NEWTV军事评论.png" group-title="数字",军事评论
-https://127.0.0.1/channel/newtvjunshipinglun?streamid=a694f8f761babe86d913e89859ab006e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/newtvjunshipinglun?streamid=a694f8f761babe86d913e89859ab006e
 #EXTINF:-1 tvg-id="NEWTV热播精选" tvg-name="NEWTV热播精选" tvg-logo="https://static.tv.darwinchow.com/logo/NEWTV热播精选.png" group-title="数字",热播精选
-https://127.0.0.1/channel/newtvrebojingxuan?streamid=68484f6294d7d60be5ed3f88d83efc5c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/newtvrebojingxuan?streamid=68484f6294d7d60be5ed3f88d83efc5c
 #EXTINF:-1 tvg-id="NEWTV炫舞未来" tvg-name="NEWTV炫舞未来" tvg-logo="https://static.tv.darwinchow.com/logo/NEWTV炫舞未来.png" group-title="数字",炫舞未来
-https://127.0.0.1/channel/newtvxuanwuweilai?streamid=02499628646d02febfaa95d1f3d55538&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/newtvxuanwuweilai?streamid=02499628646d02febfaa95d1f3d55538
 #EXTINF:-1 tvg-id="NEWTV怡伴健康" tvg-name="NEWTV怡伴健康" tvg-logo="https://static.tv.darwinchow.com/logo/NEWTV怡伴健康.png" group-title="数字",怡伴健康
-https://127.0.0.1/channel/newtvyibanjiankang?streamid=1da43ff46833eb553695c5b0ee29ea36&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/newtvyibanjiankang?streamid=1da43ff46833eb553695c5b0ee29ea36
 #EXTINF:-1 tvg-id="NEWTV中国功夫" tvg-name="NEWTV中国功夫" tvg-logo="https://static.tv.darwinchow.com/logo/NEWTV中国功夫.png" group-title="数字",中国功夫
-https://127.0.0.1/channel/newtvzhongguogongfu?streamid=2a34411a5db55e083a9703c68b4631f1&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/newtvzhongguogongfu?streamid=2a34411a5db55e083a9703c68b4631f1
 #EXTINF:-1 tvg-id="哒啵电竞" tvg-name="哒啵电竞" tvg-logo="https://static.tv.darwinchow.com/logo/哒啵电竞.png" group-title="数字",哒啵电竞
-https://127.0.0.1/channel/newtvdabodianjing?streamid=bea58fed13f46a9a4e0ba6c97ce4c48b&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/newtvdabodianjing?streamid=bea58fed13f46a9a4e0ba6c97ce4c48b
 #EXTINF:-1 tvg-id="哒啵赛事" tvg-name="哒啵赛事" tvg-logo="https://static.tv.darwinchow.com/logo/哒啵赛事.png" group-title="数字",哒啵赛事
-https://127.0.0.1/channel/newtvdabosaishi?streamid=066f2640828aa050cd523cca296d3be0&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/newtvdabosaishi?streamid=066f2640828aa050cd523cca296d3be0
 #EXTINF:-1 tvg-id="纯享4K" tvg-name="纯享4K" tvg-logo="https://static.tv.darwinchow.com/logo/纯享4K.png" group-title="数字",纯享4K
-https://127.0.0.1/channel/chunxiang4k?streamid=c9057b857c66fd662170ba7a499871d7&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/chunxiang4k?streamid=c9057b857c66fd662170ba7a499871d7
 #EXTINF:-1 tvg-id="黑莓电影" tvg-name="黑莓电影" tvg-logo="https://static.tv.darwinchow.com/logo/黑莓电影.png" group-title="数字",黑莓电影
-https://127.0.0.1/channel/heimeidianying?streamid=aab004fb9a1ea1ac66a7d77d35c1a039&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/heimeidianying?streamid=aab004fb9a1ea1ac66a7d77d35c1a039
 #EXTINF:-1 tvg-id="黑莓动画" tvg-name="黑莓动画" tvg-logo="https://static.tv.darwinchow.com/logo/黑莓动画.png" group-title="数字",黑莓动画
-https://127.0.0.1/channel/heimeidonghua?streamid=bbf7470de1188ce074c45bdad8eedfdd&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/heimeidonghua?streamid=bbf7470de1188ce074c45bdad8eedfdd
 #EXTINF:-1 tvg-id="天下足球" tvg-name="天下足球" tvg-logo="https://static.tv.darwinchow.com/logo/天下足球.png" group-title="数字",天下足球
-https://127.0.0.1/channel/tianxiazuqiu?streamid=4e4ba1b16af8efd1607cb374555c3507&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/tianxiazuqiu?streamid=4e4ba1b16af8efd1607cb374555c3507
 #EXTINF:-1 tvg-id="好享购物" tvg-name="好享购物" tvg-logo="https://static.tv.darwinchow.com/logo/好享购物.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="数字",好享购物
-https://127.0.0.1/channel/haoxianggouwu?streamid=ed3c68f6a26462d7f2aedad6844834f3&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/haoxianggouwu?streamid=ed3c68f6a26462d7f2aedad6844834f3
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://static.tv.darwinchow.com/logo/上视新闻.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="上海",上海新闻综合
-https://127.0.0.1/channel/shanghaixinwenzonghe?streamid=16d39d7d9bbab680e59a11b3f7c08a58&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shanghaixinwenzonghe?streamid=16d39d7d9bbab680e59a11b3f7c08a58
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://static.tv.darwinchow.com/logo/上视新闻.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="上海",上海新闻综合
-https://127.0.0.1/channel/shanghaixinwenzonghe?streamid=f6eed953b873ecd1190e249c31afc462&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shanghaixinwenzonghe?streamid=f6eed953b873ecd1190e249c31afc462
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://static.tv.darwinchow.com/logo/东方影视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="上海",东方影视
-https://127.0.0.1/channel/dongfangyingshi?streamid=c1e5e21b1bed7cf7ca9df462c24ecc13&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/dongfangyingshi?streamid=c1e5e21b1bed7cf7ca9df462c24ecc13
 #EXTINF:-1 tvg-id="东方影视" tvg-name="东方影视" tvg-logo="https://static.tv.darwinchow.com/logo/东方影视.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="上海",东方影视
-https://127.0.0.1/channel/dongfangyingshi?streamid=99bc41dc8359b6b2a940c992b0dfc202&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/dongfangyingshi?streamid=99bc41dc8359b6b2a940c992b0dfc202
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://static.tv.darwinchow.com/logo/上海第一财经.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="上海",第一财经
-https://127.0.0.1/channel/diyicaijing?streamid=af47d056a57a10b7120a534e7a1b65ea&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/diyicaijing?streamid=af47d056a57a10b7120a534e7a1b65ea
 #EXTINF:-1 tvg-id="第一财经" tvg-name="第一财经" tvg-logo="https://static.tv.darwinchow.com/logo/上海第一财经.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="上海",第一财经
-https://127.0.0.1/channel/diyicaijing?streamid=d71a6077e3d004f9f69ddb5f7aba37a4&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/diyicaijing?streamid=d71a6077e3d004f9f69ddb5f7aba37a4
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://static.tv.darwinchow.com/logo/五星体育.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="上海",五星体育
-https://127.0.0.1/channel/wuxingtiyu?streamid=4da40517ff0df252367c2e8fcb39772e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/wuxingtiyu?streamid=4da40517ff0df252367c2e8fcb39772e
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://static.tv.darwinchow.com/logo/五星体育.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="上海",五星体育
-https://127.0.0.1/channel/wuxingtiyu?streamid=71e1766b92770f0c3bedbde2eb02f08a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/wuxingtiyu?streamid=71e1766b92770f0c3bedbde2eb02f08a
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://static.tv.darwinchow.com/logo/上海都市.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="上海",上海都市
-https://127.0.0.1/channel/shanghaidushi?streamid=7f24c7af2996477f5f4e80a00bdbd3a3&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shanghaidushi?streamid=7f24c7af2996477f5f4e80a00bdbd3a3
 #EXTINF:-1 tvg-id="上海都市" tvg-name="上海都市" tvg-logo="https://static.tv.darwinchow.com/logo/上海都市.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="上海",上海都市
-https://127.0.0.1/channel/shanghaidushi?streamid=ee166a6effdfc21542a977ecb7ab826a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shanghaidushi?streamid=ee166a6effdfc21542a977ecb7ab826a
 #EXTINF:-1 tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://static.tv.darwinchow.com/logo/东方购物.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="上海",东方购物
-https://127.0.0.1/channel/dongfanggouwu?streamid=1d0b4f3afe8b56e67b5fbba0f4f2d865&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/dongfanggouwu?streamid=1d0b4f3afe8b56e67b5fbba0f4f2d865
 #EXTINF:-1 tvg-id="东方购物" tvg-name="东方购物" tvg-logo="https://static.tv.darwinchow.com/logo/东方购物.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="上海",东方购物
-https://127.0.0.1/channel/dongfanggouwu?streamid=63a930773a201952ebf0b6ef38ef5538&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/dongfanggouwu?streamid=63a930773a201952ebf0b6ef38ef5538
 #EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://static.tv.darwinchow.com/logo/上海教育.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="上海",上海教育
-https://127.0.0.1/channel/shanghaijiaoyu?streamid=4b18801b7a77246c750ef199c0b25066&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shanghaijiaoyu?streamid=4b18801b7a77246c750ef199c0b25066
 #EXTINF:-1 tvg-id="上海教育" tvg-name="上海教育" tvg-logo="https://static.tv.darwinchow.com/logo/上海教育.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="上海",上海教育
-https://127.0.0.1/channel/shanghaijiaoyu?streamid=f9bb000d59b09c15a6ebc047444d437d&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/shanghaijiaoyu?streamid=f9bb000d59b09c15a6ebc047444d437d
 #EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://static.tv.darwinchow.com/logo/福建综合.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="福建",福建综合
-https://127.0.0.1/channel/fujianzonghe?streamid=8676c6f75a5555e62f25e7d0b92406b9&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/fujianzonghe?streamid=8676c6f75a5555e62f25e7d0b92406b9
 #EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://static.tv.darwinchow.com/logo/福建综合.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="福建",福建综合
-https://127.0.0.1/channel/fujianzonghe?streamid=f63aa44bf91ab180cdf41b1e49a35236&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/fujianzonghe?streamid=f63aa44bf91ab180cdf41b1e49a35236
 #EXTINF:-1 tvg-id="福建综合" tvg-name="福建综合" tvg-logo="https://static.tv.darwinchow.com/logo/福建综合.png" group-title="福建",福建综合
-https://127.0.0.1/channel/fujianzonghe?streamid=5d18ee9c81b890488bc177d22c9b473c&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/fujianzonghe?streamid=5d18ee9c81b890488bc177d22c9b473c
 #EXTINF:-1 tvg-id="福建乡村公共" tvg-name="福建乡村公共" tvg-logo="https://static.tv.darwinchow.com/logo/福建公共.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="福建",福建乡村振兴·公共
-https://127.0.0.1/channel/fujianxiangcungonggong?streamid=a1c0c04532cfa9f8b337c6658d090f0e&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/fujianxiangcungonggong?streamid=a1c0c04532cfa9f8b337c6658d090f0e
 #EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://static.tv.darwinchow.com/logo/福建新闻.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="福建",福建新闻
-https://127.0.0.1/channel/fujianxinwen?streamid=8c4d39b2a0b2260ec9753c24976f0993&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/fujianxinwen?streamid=8c4d39b2a0b2260ec9753c24976f0993
 #EXTINF:-1 tvg-id="福建新闻" tvg-name="福建新闻" tvg-logo="https://static.tv.darwinchow.com/logo/福建新闻.png" group-title="福建",福建新闻
-https://127.0.0.1/channel/fujianxinwen?streamid=4c16e1f1513f636a8401cfd8d63269a2&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/fujianxinwen?streamid=4c16e1f1513f636a8401cfd8d63269a2
 #EXTINF:-1 tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://static.tv.darwinchow.com/logo/福建电视剧.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="福建",福建电视剧
-https://127.0.0.1/channel/fujiandianshiju?streamid=90f1f46b812d46b3015eca4a3c72bea8&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/fujiandianshiju?streamid=90f1f46b812d46b3015eca4a3c72bea8
 #EXTINF:-1 tvg-id="福建电视剧" tvg-name="福建电视剧" tvg-logo="https://static.tv.darwinchow.com/logo/福建电视剧.png" group-title="福建",福建电视剧
-https://127.0.0.1/channel/fujiandianshiju?streamid=15f655b39042318b5761680452e7ac81&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/fujiandianshiju?streamid=15f655b39042318b5761680452e7ac81
 #EXTINF:-1 tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://static.tv.darwinchow.com/logo/福建旅游.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="福建",福建旅游
-https://127.0.0.1/channel/fujianlvyou?streamid=e0846d0aa98c2bf6b5103f63d1f39675&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/fujianlvyou?streamid=e0846d0aa98c2bf6b5103f63d1f39675
 #EXTINF:-1 tvg-id="福建旅游" tvg-name="福建旅游" tvg-logo="https://static.tv.darwinchow.com/logo/福建旅游.png" group-title="福建",福建旅游
-https://127.0.0.1/channel/fujianlvyou?streamid=8e745983c89f6bfd5cdded5e8dc53631&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/fujianlvyou?streamid=8e745983c89f6bfd5cdded5e8dc53631
 #EXTINF:-1 tvg-id="福建经济" tvg-name="福建经济" tvg-logo="https://static.tv.darwinchow.com/logo/福建经济.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="福建",福建经济生活
-https://127.0.0.1/channel/fujianjingji?streamid=08f24060cb586205093c5cee1cf9377a&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/fujianjingji?streamid=08f24060cb586205093c5cee1cf9377a
 #EXTINF:-1 tvg-id="福建文体" tvg-name="福建文体" tvg-logo="https://static.tv.darwinchow.com/logo/福建文体.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="福建",福建文体
-https://127.0.0.1/channel/fujianwenti?streamid=81aafe944d3137ebb914b7a8548ae922&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/fujianwenti?streamid=81aafe944d3137ebb914b7a8548ae922
 #EXTINF:-1 tvg-id="福建文体" tvg-name="福建文体" tvg-logo="https://static.tv.darwinchow.com/logo/福建文体.png" group-title="福建",福建文体
-https://127.0.0.1/channel/fujianwenti?streamid=a03a423813825134efa749c7a7dc2182&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/fujianwenti?streamid=a03a423813825134efa749c7a7dc2182
 #EXTINF:-1 tvg-id="福建少儿" tvg-name="福建少儿" tvg-logo="https://static.tv.darwinchow.com/logo/福建少儿.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="福建",福建少儿
-https://127.0.0.1/channel/fujianshaoer?streamid=375612fad820624ecc42a99beba00619&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/fujianshaoer?streamid=375612fad820624ecc42a99beba00619
 #EXTINF:-1 tvg-id="福建教育" tvg-name="福建教育" tvg-logo="https://static.tv.darwinchow.com/logo/福建教育.png" catchup="append" catchup-source="&playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}" group-title="福建",福建教育
-https://127.0.0.1/channel/fujianjiaoyu?streamid=4b152d0c817d6d729fa6df7d36ee3693&livekey=01WbSUG6cOGPU2i7rHRqRMWFvR1KTlN02O88h
+https://127.0.0.1/channel/fujianjiaoyu?streamid=4b152d0c817d6d729fa6df7d36ee3693
+
