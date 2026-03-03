@@ -1,66 +1,3 @@
-#EXTM3U x-tvg-url="https://epg.iill.top/epg.xml.gz"
-#EXTINF:-1 tvg-id="cctv1" tvg-name="CCTV-1 綜合" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fb99b9aff5_ZbUY.png" group-title="🇨🇳 中國 | China",CCTV-1 綜合
-https://127.0.0.1/cctv1/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv2" tvg-name="CCTV-2 財經" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fb9b73797b_7vO3.png" group-title="🇨🇳 中國 | China",CCTV-2 財經
-https://127.0.0.1/cctv2/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv3" tvg-name="CCTV-3 綜藝" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fb9d235349_uiZ3.png" group-title="🇨🇳 中國 | China",CCTV-3 綜藝
-https://127.0.0.1/cctv3/playlist.m3u8
-#EXTINF:-1 tvg-id="Cctv4" tvg-name="CCTV-4 中文國際" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/6354f44c76785_7mux.png" group-title="🇨🇳 中國 | China",CCTV-4 中文國際
-https://127.0.0.1/Cctv4/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv4" tvg-name="CCTV-4 中文國際 (備:1)" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5b1271a528652_NDoB.png" group-title="🇨🇳 中國 | China",CCTV-4 中文國際 (備:1)
-https://127.0.0.1/cctv4/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv6" tvg-name="CCTV-6 電影" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07dd54a5b01_AQwz.png" group-title="🇨🇳 中國 | China",CCTV-6 電影
-https://127.0.0.1/cctv6/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv7" tvg-name="CCTV-7 軍事農業" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbb8e839a2_V374.png" group-title="🇨🇳 中國 | China",CCTV-7 軍事農業
-https://127.0.0.1/cctv7/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv8hd" tvg-name="CCTV-8 電視劇" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbba9a3137_kOKc.png" group-title="🇨🇳 中國 | China",CCTV-8 電視劇
-https://127.0.0.1/cctv8hd/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv9hd" tvg-name="CCTV-9 紀錄" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbbcb4a553_0q2H.png" group-title="🇨🇳 中國 | China",CCTV-9 紀錄
-https://127.0.0.1/cctv9hd/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv10hd" tvg-name="CCTV-10 科教" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbbea04618_zBOm.png" group-title="🇨🇳 中國 | China",CCTV-10 科教
-https://127.0.0.1/cctv10hd/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv11" tvg-name="CCTV-11 戲曲" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbc0f86134_rO88.png" group-title="🇨🇳 中國 | China",CCTV-11 戲曲
-https://127.0.0.1/cctv11/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv12" tvg-name="CCTV-12 社會與法" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbc2b8b19e_dYsa.png" group-title="🇨🇳 中國 | China",CCTV-12 社會與法
-https://127.0.0.1/cctv12/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv14" tvg-name="CCTV-14 少兒" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5edf747068391_e0gR.png" group-title="🇨🇳 中國 | China",CCTV-14 少兒
-https://127.0.0.1/cctv14/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv15" tvg-name="CCTV-15 音樂" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68864f7965688_80ux.png" group-title="🇨🇳 中國 | China",CCTV-15 音樂
-https://127.0.0.1/cctv15/playlist.m3u8
-#EXTINF:-1 tvg-id="hunan_twn" tvg-name="湖南卫视" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1e747a19c6f_a8Xj.png" group-title="🇨🇳 中國 | China",湖南卫视
-https://127.0.0.1/hunan_twn/playlist.m3u8
-#EXTINF:-1 tvg-id="zhejiang_twn" tvg-name="浙江卫视" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fb6874b836_9q9M.png" group-title="🇨🇳 中國 | China",浙江卫视
-https://127.0.0.1/zhejiang_twn/playlist.m3u8
-#EXTINF:-1 tvg-id="jiangsu_twn" tvg-name="江苏卫视" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1e74a487b89_HlXT.png" group-title="🇨🇳 中國 | China",江苏卫视
-https://127.0.0.1/jiangsu_twn/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv13" tvg-name="CCTV-13 新聞與頻道" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fbc460918d_68QZ.png" group-title="🇨🇳 中國 | China",CCTV-13 新聞與頻道
-https://127.0.0.1/cctv13/playlist.m3u8
-#EXTINF:-1 tvg-id="shenzhen" tvg-name="深圳卫视" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5d22ffdf55547_1u9U.png" group-title="🇨🇳 中國 | China",深圳卫视
-https://127.0.0.1/shenzhen/playlist.m3u8
-#EXTINF:-1 tvg-id="fujian" tvg-name="福建东南卫视" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fb74f1583c_5t42.png" group-title="🇨🇳 中國 | China",福建东南卫视
-https://127.0.0.1/fujian/playlist.m3u8
-#EXTINF:-1 tvg-id="nanfang_twn" tvg-name="广东南方卫视" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5edf81edc187c_hGG8.jpg" group-title="🇨🇳 中國 | China",广东南方卫视
-https://127.0.0.1/nanfang_twn/playlist.m3u8
-#EXTINF:-1 tvg-id="guangdongweishi_twn" tvg-name="广东卫视" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef9a1d2489b7_0J67.png" group-title="🇨🇳 中國 | China",广东卫视
-https://127.0.0.1/guangdongweishi_twn/playlist.m3u8
-#EXTINF:-1 tvg-id="beijing" tvg-name="北京卫视" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a100738576f4_2rrh.png" group-title="🇨🇳 中國 | China",北京卫视
-https://127.0.0.1/beijing/playlist.m3u8
-#EXTINF:-1 tvg-id="zhujiang" tvg-name="珠江台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a10083848a45_uvfB.png" group-title="🇨🇳 中國 | China",珠江台
-https://127.0.0.1/zhujiang/playlist.m3u8
-#EXTINF:-1 tvg-id="guangxi" tvg-name="广西卫视" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a100775e28cf_vd2Y.png" group-title="🇨🇳 中國 | China",广西卫视
-https://127.0.0.1/guangxi/playlist.m3u8
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/625f9b1cc90c7_jyH8.png" group-title="🇨🇳 中國 | China",CGTN
-https://127.0.0.1/CGTN/playlist.m3u8
-#EXTINF:-1 tvg-id="hubei" tvg-name="湖北卫视" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1007f84d901_aDRq.png" group-title="🇨🇳 中國 | China",湖北卫视
-https://127.0.0.1/hubei/playlist.m3u8
-#EXTINF:-1 tvg-id="sichuan_twn" tvg-name="四川卫视" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a1fb7ddc6b1e_6ShO.png" group-title="🇨🇳 中國 | China",四川卫视
-https://127.0.0.1/sichuan_twn/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv5" tvg-name="CCTV-5 體育" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ba76f63a5e4f_bnN4.png" group-title="🇨🇳 中國 | China",CCTV-5 體育
-https://127.0.0.1/cctv5/playlist.m3u8
-#EXTINF:-1 tvg-id="cctv5plus" tvg-name="CCTV-5+ 體育" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a21137727b90_Ay7G.png" group-title="🇨🇳 中國 | China",CCTV-5+ 體育
-https://127.0.0.1/cctv5plus/playlist.m3u8
-#EXTINF:-1 tvg-id="dongfangweishi_twn" tvg-name="东方卫视" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/68864e9323548_6NhQ.png" group-title="🇨🇳 中國 | China",东方卫视
-https://127.0.0.1/dongfangweishi_twn/playlist.m3u8
 #EXTINF:-1 tvg-id="phoenixtv_hd" tvg-name="凤凰卫视" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5971f2d94b6b3_XfGx.png" group-title="🇨🇳 中國 | China",凤凰卫视
 https://127.0.0.1/phoenixtv_hd/playlist.m3u8
 #EXTINF:-1 tvg-id="phoenixinfo_hd" tvg-name="鳳凰資訊" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5971f2f949ff8_FotD.png" group-title="🇨🇳 中國 | China",鳳凰資訊
@@ -1155,3 +1092,4 @@ https://127.0.0.1/Nickelodeon/playlist.m3u8
 https://127.0.0.1/Nickjr/playlist.m3u8
 #EXTINF:-1 tvg-id="Cn" tvg-name="Cartoon Network" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2158e819c10_pwud.png" group-title="🧸 兒童頻道 | Kids",Cartoon Network
 https://127.0.0.1/Cn/playlist.m3u8
+
