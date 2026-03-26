@@ -1,61 +1,33 @@
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="MyTV",凤凰资讯
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
+https://cdn6.163189.xyz/163189/fhzx
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="MyTV",凤凰中文
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+https://cdn6.163189.xyz/163189/fhzw
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="MyTV",凤凰香港
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
+https://cdn6.163189.xyz/163189/fhhk
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",翡翠台4K(字幕)
 http://o11.163189.xyz/stream/tvb/fct4k/
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",翡翠台4K
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",翡翠台(字幕)
 http://o11.163189.xyz/stream/tvb/fct/
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="MyTV",无线新闻台
+https://cdn6.163189.xyz/163189/wxxw
 #EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB明珠.png" group-title="MyTV",明珠台(字幕)
 http://o11.163189.xyz/stream/tvb/mzt/
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB+.png" group-title="MyTV",TVB Plus(字幕)
 http://o11.163189.xyz/stream/tvb/tvbp/
+#EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="MyTV",NOW新闻台
+https://cdn.163189.xyz/163189/now
 #EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="MyTV",ViuTV
 https://cdn10.163189.xyz/stream/163189/viu/
 #EXTINF:-1 tvg-name="ViuTVsix" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="MyTV",ViuTVsix
 https://cdn10.163189.xyz/stream/163189/viu6/
-#EXTINF:-1 tvg-name="HOY 國際財經台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="MyTV",HOY国际财经台
-https://cdn11.163189.xyz/163189/2c86601a7180416e
-#EXTINF:-1 tvg-name="HOY劇集台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="MyTV",HOY剧集台
-https://cdn11.163189.xyz/163189/c4df21397505587b
-#EXTINF:-1 tvg-name="HOY生活台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="MyTV",HOY生活台
-https://cdn11.163189.xyz/163189/c88d2a936daf88fb
-#EXTINF:-1 tvg-name="HOY怪談台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="MyTV",HOY怪谈台
-https://cdn11.163189.xyz/163189/35f8613e99c59724
-#EXTINF:-1 tvg-name="HOY體育台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="MyTV",HOY体育台
-https://cdn11.163189.xyz/163189/19256090154aa9e9
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="MyTV",HOY TV
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="MyTV",HOY TV
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
-#EXTINF:-1 tvg-name="HOY78" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="MyTV",HOY资讯台
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn.veryfast.filegear-sg.me/live/hoy78/stream.m3u8
-#EXTINF:-1 tvg-name="HOY劇集台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="MyTV",HOY剧集台
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn.veryfast.filegear-sg.me/live/hoyjj/stream.m3u8
-#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="MyTV",ViuTV
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
-#EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="MyTV",NOW新闻台
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
-#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="MyTV",RTHK31
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
-#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="MyTV",RTHK32
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
-#EXTINF:-1 tvg-name="金光布袋戲" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/IPTVEFEL.png" group-title="MyTV",金光布袋戏
-http://o11.163189.xyz/stream/live/jgbdx/
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="MyTV",TVB星河
-https://cdn10.163189.xyz/stream/163189/xinghe/
-#EXTINF:-1 tvg-name="天映新加坡" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="MyTV",天映新加坡
-https://cdn10.163189.xyz/stream/163189/typd/
-#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="MyTV",天映经典
-https://cdn10.163189.xyz/stream/163189/ccm/
-#EXTINF:-1 tvg-name="TVB Jade HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",华丽翡翠台(多音轨字幕)
-http://o11.163189.xyz/stream/live/hlt/
+#EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻.png" group-title="MyTV",TVB娱乐新闻台
+https://cdn6.163189.xyz/163189/ylxw
 #EXTINF:-1 tvg-name="TVB Jade HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",华丽翡翠台(硬字幕)
 http://cdn6.163189.xyz/163189/jade
+#EXTINF:-1 tvg-name="亚洲武侠" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/%E4%BA%9E%E6%B4%B2%E6%AD%A6%E4%BF%A0.png" group-title="MyTV",TVB亚洲武侠
+https://cdn6.163189.xyz/163189/yzwx
+#EXTINF:-1 tvg-name="TVB Jade HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",华丽翡翠台(多音轨字幕)
+http://o11.163189.xyz/stream/live/hlt/
 #EXTINF:-1 tvg-name="TVB Jade HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",华丽翡翠台(新加坡)
 http://o11.163189.xyz/stream/live/jade/
 #EXTINF:-1 tvg-name="AOD" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/AOD.png" group-title="MyTV",Astro AOD
@@ -76,49 +48,37 @@ http://o11.163189.xyz/stream/live/ccm/
 http://o11.163189.xyz/stream/live/tvbxh/
 #EXTINF:-1 tvg-name="千禧經典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="MyTV",千禧经典台
 http://o11.163189.xyz/stream/live/tvbc/
-#EXTINF:-1 tvg-name="TVB1" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/IPTVEFEL.png" group-title="MyTV",TVB1
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
-#EXTINF:-1 tvg-name="TVBJ1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBJ1.png" group-title="MyTV",TVBJ1
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
-#EXTINF:-1 tvg-name="翡翠剧集台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",翡翠剧集台
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
-#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",翡翠台
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="MyTV",无线新闻台
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-#EXTINF:-1 tvg-name="TVB Jade HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",华丽翡翠台(硬字幕)
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/jade/stream.m3u8
-#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",华丽翡翠台
-http://iptvproxy.hxfrock.ggff.net/?url=http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
-#EXTINF:-1 tvg-name="亚洲武侠" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/%E4%BA%9E%E6%B4%B2%E6%AD%A6%E4%BF%A0.png" group-title="MyTV",TVB亚洲武侠
-http://iptvproxy.hxfrock.ggff.net/?url=http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
-#EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻.png" group-title="MyTV",TVB娱乐新闻台
-http://iptvproxy.hxfrock.ggff.net/?url=http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
-#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="MyTV",无线新闻台
-http://iptvproxy.hxfrock.ggff.net/?url=http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
-#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="MyTV",TVB星河
-http://iptvproxy.hxfrock.ggff.net/?url=http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
-#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/%E5%85%AB%E5%BA%A6%E7%A9%BA%E9%96%93.png" group-title="MyTV",八度空间
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
-#EXTINF:-1 tvg-name="CH5" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/Channel5.png" group-title="MyTV",CH5
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
-#EXTINF:-1 tvg-name="CH8" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/Channel8.png" group-title="MyTV",CH8
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
-#EXTINF:-1 tvg-name="CHU" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/ChannelU.png" group-title="MyTV",CHU
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
+#EXTINF:-1 tvg-name="金光布袋戲" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/IPTVEFEL.png" group-title="MyTV",金光布袋戏
+http://o11.163189.xyz/stream/live/jgbdx/
 
-#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视澳门.png" group-title="MyTV",澳视澳门
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn.veryfast.filegear-sg.me/live/asam/stream.m3u8
-#EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视澳门.png" group-title="MyTV",澳视卫星
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn.veryfast.filegear-sg.me/live/as/stream.m3u8
-#EXTINF:-1 tvg-name="澳视体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视澳门.png" group-title="MyTV",澳门体育
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
-#EXTINF:-1 tvg-name="澳视综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视澳门.png" group-title="MyTV",澳门综艺
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/amzy/stream.m3u8
-#EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视澳门.png" group-title="MyTV",澳门莲花
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/amlh/stream.m3u8
-#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重温经典.png" group-title="MyTV",重温经典
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
+
+#EXTINF:-1 tvg-name="HOY 國際財經台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="MyTV",HOY国际财经台
+https://cdn11.163189.xyz/163189/2c86601a7180416e
+#EXTINF:-1 tvg-name="HOY劇集台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="MyTV",HOY剧集台
+https://cdn11.163189.xyz/163189/c4df21397505587b
+#EXTINF:-1 tvg-name="HOY生活台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="MyTV",HOY生活台
+https://cdn11.163189.xyz/163189/c88d2a936daf88fb
+#EXTINF:-1 tvg-name="HOY怪談台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="MyTV",HOY怪谈台
+https://cdn11.163189.xyz/163189/35f8613e99c59724
+#EXTINF:-1 tvg-name="HOY體育台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="MyTV",HOY体育台
+https://cdn11.163189.xyz/163189/19256090154aa9e9
+
+#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/%E5%85%AB%E5%BA%A6%E7%A9%BA%E9%96%93.png" group-title="MyTV",八度空间
+http://cdn6.163189.xyz/163189/8tv
+#EXTINF:-1 tvg-name="CH5" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/Channel5.png" group-title="MyTV",CH5
+http://cdn6.163189.xyz/163189/ch5
+#EXTINF:-1 tvg-name="CH8" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/Channel8.png" group-title="MyTV",CH8
+http://cdn6.163189.xyz/163189/ch8
+#EXTINF:-1 tvg-name="CHU" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/ChannelU.png" group-title="MyTV",CHU
+http://cdn6.163189.xyz/163189/ch
+
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="MyTV",TVB星河
+https://cdn10.163189.xyz/stream/163189/xinghe/
+#EXTINF:-1 tvg-name="天映新加坡" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="MyTV",天映新加坡
+https://cdn10.163189.xyz/stream/163189/typd/
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="MyTV",天映经典
+https://cdn10.163189.xyz/stream/163189/ccm/
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="MyTV",CCTV1
 https://cdn13.178.indevs.in/163189/bea1d91d91364062
 #EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="MyTV",CCTV13
@@ -133,16 +93,7 @@ https://cdn13.178.indevs.in/163189/609602b1e1048784
 https://cdn15.163189.xyz/163189/90871926591ebcbc
 #EXTINF:-1 tvg-name="五星体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/上海五星体育.png" group-title="MyTV",五星体育
 https://cdn15.163189.xyz/163189/9c893bb003e1c7de
-#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="MyTV",海峡卫视
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn3.veryfast.filegear-sg.me/live/hxws/stream.m3u8
-#EXTINF:-1 tvg-name="CCTV1港澳版" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="MyTV",CCTV1港澳版
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
-#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="MyTV",CCTV13
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
-#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="MyTV",广东珠江
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
-#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png" group-title="MyTV",广东体育
-http://iptvproxy.hxfrock.ggff.net/?url=http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
+
 #EXTINF:-1 tvg-name="民視影劇台" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/FTV4.png" group-title="MyTV",民视影剧台
 https://cdn12.178.indevs.in/163189/73d93f1c22fa91d7
 #EXTINF:-1 tvg-name="公視戲劇" tvg-logo="https://cdn.jsdelivr.net/gh/wanglindl/TVlogo@main/img/PTS3.png" group-title="MyTV",公视戏剧
@@ -191,6 +142,84 @@ https://smt.1678520.xyz/163189/a2a1ea789e237e18
 https://smt.1678520.xyz/163189/2824421ea53c4891
 #EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片 ETTV Western" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687359d5b4f76_uR3E.jpg" group-title="MyTV",东森洋片
 https://smt.1678520.xyz/163189/c0e7a31a1ec220fd
+
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="MyTV",凤凰资讯
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/fhzx/stream.m3u8
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="MyTV",凤凰中文
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/fhzw/stream.m3u8
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="MyTV",凤凰香港
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/fhhk/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",翡翠台4K
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/fct4k/stream.m3u8
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="MyTV",HOY TV
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+#EXTINF:-1 tvg-name="HOY TV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="MyTV",HOY TV
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn.veryfast.filegear-sg.me/live/hoy/stream.m3u8
+#EXTINF:-1 tvg-name="HOY78" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="MyTV",HOY资讯台
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn.veryfast.filegear-sg.me/live/hoy78/stream.m3u8
+#EXTINF:-1 tvg-name="HOY劇集台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="MyTV",HOY剧集台
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn.veryfast.filegear-sg.me/live/hoyjj/stream.m3u8
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="MyTV",ViuTV
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn.veryfast.filegear-sg.me/live/viu/stream.m3u8
+#EXTINF:-1 tvg-name="NOW新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/NOW新闻.png" group-title="MyTV",NOW新闻台
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn.veryfast.filegear-sg.me/live/now/stream.m3u8
+#EXTINF:-1 tvg-name="RTHK31" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK31.png" group-title="MyTV",RTHK31
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn.veryfast.filegear-sg.me/live/rthk31/stream.m3u8
+#EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/RTHK32.png" group-title="MyTV",RTHK32
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn.veryfast.filegear-sg.me/live/rthk32/stream.m3u8
+#EXTINF:-1 tvg-name="TVB1" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/IPTVEFEL.png" group-title="MyTV",TVB1
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/tvb1/stream.m3u8
+#EXTINF:-1 tvg-name="TVBJ1" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVBJ1.png" group-title="MyTV",TVBJ1
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/j1/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠剧集台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",翡翠剧集台
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/tvbd/stream.m3u8
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",翡翠台
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/fct/stream.m3u8
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="MyTV",无线新闻台
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+#EXTINF:-1 tvg-name="TVB Jade HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",华丽翡翠台(硬字幕)
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/jade/stream.m3u8
+#EXTINF:-1 tvg-name="华丽翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",华丽翡翠台
+http://iptvproxy.hxfrock.ggff.net/?url=http://v2h.veryfast.filegear-sg.me/live/hlfct/stream.m3u8
+#EXTINF:-1 tvg-name="亚洲武侠" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/%E4%BA%9E%E6%B4%B2%E6%AD%A6%E4%BF%A0.png" group-title="MyTV",TVB亚洲武侠
+http://iptvproxy.hxfrock.ggff.net/?url=http://v2h.veryfast.filegear-sg.me/live/yzwx/stream.m3u8
+#EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻.png" group-title="MyTV",TVB娱乐新闻台
+http://iptvproxy.hxfrock.ggff.net/?url=http://v2h.veryfast.filegear-sg.me/live/ylxw/stream.m3u8
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="MyTV",无线新闻台
+http://iptvproxy.hxfrock.ggff.net/?url=http://v2h.veryfast.filegear-sg.me/live/wxxw/stream.m3u8
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="MyTV",TVB星河
+http://iptvproxy.hxfrock.ggff.net/?url=http://v2h.veryfast.filegear-sg.me/live/tvbxh/stream.m3u8
+#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/%E5%85%AB%E5%BA%A6%E7%A9%BA%E9%96%93.png" group-title="MyTV",八度空间
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/8tv/stream.m3u8
+#EXTINF:-1 tvg-name="CH5" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/Channel5.png" group-title="MyTV",CH5
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/ch5/stream.m3u8
+#EXTINF:-1 tvg-name="CH8" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/Channel8.png" group-title="MyTV",CH8
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/ch8/stream.m3u8
+#EXTINF:-1 tvg-name="CHU" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/ChannelU.png" group-title="MyTV",CHU
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/chu/stream.m3u8
+#EXTINF:-1 tvg-name="澳视澳门" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视澳门.png" group-title="MyTV",澳视澳门
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn.veryfast.filegear-sg.me/live/asam/stream.m3u8
+#EXTINF:-1 tvg-name="澳视卫星" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视澳门.png" group-title="MyTV",澳视卫星
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn.veryfast.filegear-sg.me/live/as/stream.m3u8
+#EXTINF:-1 tvg-name="澳视体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视澳门.png" group-title="MyTV",澳门体育
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/amty/stream.m3u8
+#EXTINF:-1 tvg-name="澳视综艺" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视澳门.png" group-title="MyTV",澳门综艺
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/amzy/stream.m3u8
+#EXTINF:-1 tvg-name="澳门莲花" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/澳视澳门.png" group-title="MyTV",澳门莲花
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/amlh/stream.m3u8
+#EXTINF:-1 tvg-name="重温经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/重温经典.png" group-title="MyTV",重温经典
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/cwjd/stream.m3u8
+#EXTINF:-1 tvg-name="海峡卫视" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/海峡卫视.png" group-title="MyTV",海峡卫视
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn3.veryfast.filegear-sg.me/live/hxws/stream.m3u8
+#EXTINF:-1 tvg-name="CCTV1港澳版" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV1.png" group-title="MyTV",CCTV1港澳版
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn6.veryfast.filegear-sg.me/live/cctv1/stream.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/CCTV13.png" group-title="MyTV",CCTV13
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn3.veryfast.filegear-sg.me/live/cctv13/stream.m3u8
+#EXTINF:-1 tvg-name="广东珠江" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东珠江.png" group-title="MyTV",广东珠江
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn2.veryfast.filegear-sg.me/live/gdzj/stream.m3u8
+#EXTINF:-1 tvg-name="广东体育" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/广东体育.png" group-title="MyTV",广东体育
+http://iptvproxy.hxfrock.ggff.net/?url=http://cdn2.veryfast.filegear-sg.me/live/gdty/stream.m3u8
+
 #EXTINF:-1 tvg-name="龙华电影" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华电影.png" group-title="MyTV",龙华电影
 http://iptvproxy.hxfrock.ggff.net/?url=http://cdn8.veryfast.filegear-sg.me/163189/lhdy
 #EXTINF:-1 tvg-name="龙华经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/龙华经典.png" group-title="MyTV",龙华经典
