@@ -189,18 +189,69 @@ https://cdn8.163189.xyz/163189/lhxj
 https://cdn8.163189.xyz/163189/lhjd
 
 #EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB+.png" group-title="MyTV",TVB Plus
-https://smt.1678520.xyz/163189/18e96648d4420d9e
+https://smt.1678520.xyz/163189/de659ed6e3ab1e55
 #EXTINF:-1 tvg-id="videolandmovie" tvg-name="纬来电影台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d2140bdff_RV5n.jpg" group-title="MyTV",纬来电影台
-https://smt.1678520.xyz/163189/145487bee05856fc
+https://smt.1678520.xyz/163189/602e9465658d4f8c
 #EXTINF:-1 tvg-id="videolandtv" tvg-name="纬来精彩" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/615ad8a8d99f4_J33A.png" group-title="MyTV",纬来戏剧台
-https://smt.1678520.xyz/163189/3586bd154f561caa
+https://smt.1678520.xyz/163189/ab657380c65c1fd1
 #EXTINF:-1 tvg-id="videolandsport" tvg-name="纬来体育台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d26b4e5ea_41OD.png" group-title="MyTV",纬来体育台
-https://smt.1678520.xyz/163189/286f8eb30448a8e8
+https://smt.1678520.xyz/163189/b10b2645c6d9de2b
 #EXTINF:-1 tvg-id="lungxiangtime_twn" tvg-name="龙详时代" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4745db8d4f_IsS5.jpg" group-title="MyTV",龙祥时代
-https://smt.1678520.xyz/163189/76e7d8326be4c1bb
+https://smt.1678520.xyz/163189/6963a2247128286b
 #EXTINF:-1 tvg-id="ettvmovie" tvg-name="东森电影 ETTV Movie" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a2151e2716d5_9LKH.jpg" group-title="MyTV",东森电影
-https://smt.1678520.xyz/163189/a2a1ea789e237e18
+https://smt.1678520.xyz/163189/a2c09ea65fb10aa2
 #EXTINF:-1 tvg-id="ettvdrama" tvg-name="东森戏剧 ETTV Drama" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5a07aa9f60889_OvMr.png" group-title="MyTV",东森戏剧
-https://smt.1678520.xyz/163189/2824421ea53c4891
+https://smt.1678520.xyz/163189/f60cd3f14b06dabc
 #EXTINF:-1 tvg-id="ettvwestern" tvg-name="东森洋片 ETTV Western" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/687359d5b4f76_uR3E.jpg" group-title="MyTV",东森洋片
-https://smt.1678520.xyz/163189/c0e7a31a1ec220fd
+https://smt.1678520.xyz/163189/cd69d6ff4e8217c7
+
+#EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰资讯.png" group-title="MyTV",凤凰资讯
+https://smt2.1678520.xyz/smt3.2.1.php?id=phoenixinfo_hd
+#EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰中文.png" group-title="MyTV",凤凰中文
+https://smt2.1678520.xyz/smt3.2.1.php?id=phoenixtv_hd
+#EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/凤凰香港.png" group-title="MyTV",凤凰香港
+https://smt2.1678520.xyz/smt3.2.1.php?id=hkphoenix_twn
+#EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",翡翠台
+https://smt2.1678520.xyz/smt3.2.1.php?id=jade_twn
+#EXTINF:-1 tvg-name="TVB Jade HD" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/翡翠.png" group-title="MyTV",华丽翡翠台
+https://smt2.1678520.xyz/smt3.2.1.php?id=Tvbjade
+#EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB星河.png" group-title="MyTV",TVB星河
+https://smt2.1678520.xyz/smt3.2.1.php?id=Xinhe
+#EXTINF:-1 tvg-name="明珠台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB明珠.png" group-title="MyTV",明珠台
+https://smt2.1678520.xyz/smt3.2.1.php?id=pearl_twn
+#EXTINF:-1 tvg-name="TVB Plus" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/TVB+.png" group-title="MyTV",TVB Plus
+https://smt2.1678520.xyz/smt3.2.1.php?id=j2_twn
+#EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/无线新闻.png" group-title="MyTV",无线新闻台
+https://smt2.1678520.xyz/smt3.2.1.php?id=inews_twn
+#EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/娱乐新闻.png" group-title="MyTV",TVB娱乐新闻台
+https://smt2.1678520.xyz/smt3.2.1.php?id=Tvbentertainment
+#EXTINF:-1 tvg-name="ViuTV" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="MyTV",ViuTV
+https://smt2.1678520.xyz/smt3.2.1.php?id=viu1_twn
+#EXTINF:-1 tvg-name="ViuTVsix" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/VIUTV.png" group-title="MyTV",ViuTVsix
+https://smt2.1678520.xyz/smt3.2.1.php?id=viusix_twn
+#EXTINF:-1 tvg-name="HOY78" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/HOYTV.png" group-title="MyTV",HOY资讯台
+https://smt2.1678520.xyz/smt3.2.1.php?id=hoycaijing_twn
+#EXTINF:-1 tvg-name="千禧經典台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/千禧经典.png" group-title="MyTV",千禧经典台
+https://smt2.1678520.xyz/smt3.2.1.php?id=Tvbclassic
+#EXTINF:-1 tvg-name="美亚电影台" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/美亚电影台.png" group-title="MyTV",美亚电影台
+https://smt2.1678520.xyz/smt3.2.1.php?id=meiyamovie_twn
+#EXTINF:-1 tvg-name="天映马来西亚" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映.png" group-title="MyTV",天映频道
+https://smt2.1678520.xyz/smt3.2.1.php?id=Celestial
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/天映经典.png" group-title="MyTV",天映经典
+https://smt2.1678520.xyz/smt3.2.1.php?id=Celestial2
+#EXTINF:-1 tvg-name="八度空间" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/%E5%85%AB%E5%BA%A6%E7%A9%BA%E9%96%93.png" group-title="MyTV",八度空间
+https://smt2.1678520.xyz/smt3.2.1.php?id=TV8
+#EXTINF:-1 tvg-name="AOD" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/AOD.png" group-title="MyTV",Astro AOD
+https://smt2.1678520.xyz/smt3.2.1.php?id=Aodhd
+#EXTINF:-1 tvg-name="AEC" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/AEC.png" group-title="MyTV",Astro AEC
+https://smt2.1678520.xyz/smt3.2.1.php?id=AEC
+#EXTINF:-1 tvg-name="QJ" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/%E5%85%A8%E4%BD%B3.png" group-title="MyTV",Astro QJ
+https://php.jdshipin.com:2096/smt.php?id=Quanjia
+#EXTINF:-1 tvg-name="HUA HEE DAI" tvg-logo="https://gitee.com/hxfkof/itv/raw/master/logo/%E6%AC%A2%E5%96%9C%E5%8F%B0.png" group-title="MyTV",Astro欢喜台
+https://smt2.1678520.xyz/smt3.2.1.php?id=Huahee
+#EXTINF:-1 tvg-name="iQIYI" tvg-logo="https://gcore.jsdelivr.net/gh/taksssss/tv/icon/爱奇艺.png" group-title="MyTV",爱奇艺
+https://smt2.1678520.xyz/smt3.2.1.php?id=Qiyi
+#EXTINF:-1 tvg-id="videolandmovie" tvg-name="纬来电影台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d2140bdff_RV5n.jpg" group-title="MyTV",纬来电影台
+https://smt2.1678520.xyz/smt3.2.1.php?id=videolandmovie
+#EXTINF:-1 tvg-id="videolandsport" tvg-name="纬来体育台" tvg-logo="http://tpshen.com:16310/uploadfiles/livelogo/5ef4d26b4e5ea_41OD.png" group-title="MyTV",纬来体育台
+https://smt2.1678520.xyz/smt3.2.1.php?id=videolandsport
