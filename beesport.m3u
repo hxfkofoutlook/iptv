@@ -148,8 +148,6 @@ http://127.0.0.1/bee.php?id=ITV-2
 http://127.0.0.1/bee.php?id=ITV-3
 #EXTINF:-1 tvg-id="ITV 4" tvg-name="ITV 4" tvg-logo="https://epg.yang-1989.eu.org/logo/ITV-4.png" group-title="BeeSport",ITV 4
 http://127.0.0.1/bee.php?id=ITV-4
-#EXTINF:-1 tvg-id="ABC" tvg-name="ABC" tvg-logo="https://epg.yang-1989.eu.org/logo/ABC-Channel.png" group-title="BeeSport",ABC
-http://127.0.0.1/bee.php?id=ABC
 #EXTINF:-1 tvg-id="BBC News" tvg-name="BBC News" tvg-logo="https://center.urlix.co/storage/images/uN6eIk65I2im0d4ojxIloksV9wyxbVshhM8Num6J.jpg" group-title="BeeSport",BBC News
 http://127.0.0.1/bee.php?id=BBC-News
 #EXTINF:-1 tvg-id="BBC One" tvg-name="BBC One" tvg-logo="https://center.urlix.co/storage/images/dMcVmNAd6ayvAw11IJi3LnMrftYrkM5VGoY3roDR.webp" group-title="BeeSport",BBC One
